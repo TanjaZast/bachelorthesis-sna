@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Maik John Worthington"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maik John Worthington",
+      "timestamp_ms": 1443451190518,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maik John Worthington",
+      "timestamp_ms": 1403910192177,
+      "content": "https://m.facebook.com/RegioTVSchwaben/photos/a.792258864152881.1073741837.188232894555484/792258870819547/?type=1&source=49&refid=17\nW\u00c3\u00a4re nett von euch wenn ihr auf den link geht und unser bild liked\nDa gibts geile sachen zu gewinnen \nDanke :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maik John Worthington",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maikjohnworthington_kcuheyjcng",
+  "magic_words": [
+    
+  ]
+}

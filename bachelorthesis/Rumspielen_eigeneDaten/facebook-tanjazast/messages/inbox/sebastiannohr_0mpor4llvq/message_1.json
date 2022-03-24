@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Nohr"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Nohr",
+      "timestamp_ms": 1395425230463,
+      "content": "Dachte das ich dich gesehen hab :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395425168693,
+      "content": "Haha warim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Nohr",
+      "timestamp_ms": 1395414531184,
+      "content": "Ok schade :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395414453715,
+      "content": "Hahaha ne das kann nicht sein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Nohr",
+      "timestamp_ms": 1395414358214,
+      "content": "Hey ;) \nKann des sein das du gestern im \u00c3\u00b6 warst ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sebastian Nohr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sebastiannohr_0mpor4llvq",
+  "magic_words": [
+    
+  ]
+}

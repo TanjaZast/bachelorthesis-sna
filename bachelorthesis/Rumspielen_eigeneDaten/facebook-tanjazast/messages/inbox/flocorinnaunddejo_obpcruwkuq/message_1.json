@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Flo Schwarz"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Corinna Corinic"
+    },
+    {
+      "name": "Dejo Jovo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Flo Schwarz",
+      "timestamp_ms": 1460390503144,
+      "content": "Musst es erst herunterladen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460389152703,
+      "content": "Kann es nicht \u00c3\u00b6ffnen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Corinna Corinic",
+      "timestamp_ms": 1460387305735,
+      "content": "Dankesch\u00c3\u00b6n\u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dejo Jovo",
+      "timestamp_ms": 1460386122494,
+      "content": "Cool super wollte dich schon fragen ob wir eine Dropbox machen \u00f3\u00be\u00ae\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Schwarz",
+      "timestamp_ms": 1460385823974,
+      "content": "Hallo ihr Lieben :) anbei ein paar bearbeitete Bilder - den Rest bekommt ihr dann sicherlich \u00c3\u00bcber silke und Andi :)\nhttps://dl.dropboxusercontent.com/u/73940209/Bearbeitet.zip",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Flo, Corinna und Dejo",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/flocorinnaunddejo_obpcruwkuq",
+  "magic_words": [
+    
+  ]
+}

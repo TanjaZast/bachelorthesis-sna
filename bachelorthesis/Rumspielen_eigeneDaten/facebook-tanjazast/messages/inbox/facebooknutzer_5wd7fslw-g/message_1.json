@@ -1,0 +1,101 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1418856714197,
+      "content": "Ich schau morgen nochmal dr\u00c3\u00bcber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418846528803,
+      "content": "Danke dir gell ist Mega Mega nett!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418846514116,
+      "content": "Ich meinte diese 500\u00c3\u00a00 also die oberste Zahl wie soll man das interpretieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1418846116829,
+      "content": "ich habe das obere K ausgerechnet, um etwas auf der linken seite der gleichung stehen zu haben. hab's noch nicht \u00c3\u00bcberpr\u00c3\u00bcft, ob es auch ohne geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418844555738,
+      "content": "Was meinst du mit dem oberen K ist das relevant f\u00c3\u00bcr die Aufgabe ich komme auch Ohne dem auf das Ergebnis :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418844522793,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebooknutzer_5wd7fslw-g/photos/10818981_901691259871725_2047588208_n_901691259871725.jpg",
+          "creation_timestamp": 1418844521
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1418839796829,
+      "content": "komisch? evtl. irgendwo ein tippfehler?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418839759334,
+      "content": "Hmm hab es aber auch so aber was anders raus \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418839726612,
+      "content": "Vielen dank du bist der beste \u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1418839702221,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418835572010,
+      "content": "Hey Dave egal wie oft ich die 5 bei der Klausur rechne kommt 31,was raus kannst du mir bitte deine L\u00c3\u00b6sung schicken das w\u00c3\u00bcrde mir enorm helfen \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_5wd7fslw-g",
+  "magic_words": [
+    
+  ]
+}

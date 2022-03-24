@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Stefan \u00c4\u0090uri\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan \u00c4\u0090uri\u00c4\u0087",
+      "timestamp_ms": 1488975389071,
+      "content": "Sre\u00c4\u0087an 8 mart :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan \u00c4\u0090uri\u00c4\u0087",
+      "timestamp_ms": 1456865191170,
+      "content": "Gdje si mrka, sta ima? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan \u00c4\u0090uri\u00c4\u0087",
+      "timestamp_ms": 1455445832602,
+      "content": "Tanja srecno valentinovo :-) ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan \u00c4\u0090uri\u00c4\u0087",
+      "timestamp_ms": 1455393182964,
+      "content": "Cao Tanja ja sam Mackov sin :D Stefan",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefan \u00c4\u0090uri\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefanduric_sdvhgfptdw",
+  "magic_words": [
+    
+  ]
+}

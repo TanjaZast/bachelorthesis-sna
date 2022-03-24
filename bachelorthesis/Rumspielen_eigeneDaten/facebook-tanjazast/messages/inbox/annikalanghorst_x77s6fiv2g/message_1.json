@@ -1,0 +1,271 @@
+{
+  "participants": [
+    {
+      "name": "Annika Langhorst"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403531020545,
+      "content": "Okay bis Mittwoch Danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1403530892801,
+      "content": "Viele gr\u00c3\u00bc\u00c3\u009fe und bis mittwoch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1403530883076,
+      "content": "Ich hoffe dir geht es gut :) ich wollte dir nur kurz bescheid geben dass ich nach dem abiball nicht mehr mit ins theatro kommen werde - damit du planen kannst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1403530830577,
+      "content": "Hey tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794995350,
+      "content": "Ja genau ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794991547,
+      "content": "Perfekt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794977721,
+      "content": "Der ihr ernst :D das ist ne 1/4 Seite oder? Ja ich sag dann meinen Papa er soll es sp\u00c3\u00a4testens morgen machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794920950,
+      "content": "25\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794893406,
+      "content": "Wie viel hat rewe donaustetten gesponsert? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794878932,
+      "content": "Ne ich hab nichts mit erbach zu tun ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794825106,
+      "content": "Hast du eigtl Petrini Erbach und B\u00c3\u00a4ckerei Seemann an Land gezogen?\nVon denen fehlt die Anzeige noch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794796216,
+      "content": "\u00c3\u009cberweisen ist nicht ganz so eilig - aber wir br\u00c3\u00a4uchten die Anzeige noch schnell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794746920,
+      "content": "Ich h\u00c3\u00a4tte noch nen Sponsor bis wann muss es \u00c3\u00bcberwiesen sein,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794726789,
+      "content": "Sehr gut wie viel haben die genommen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398794696311,
+      "content": "Ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794679984,
+      "content": "Hat sich mein rewe jetzt gemeldet? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398281049614,
+      "content": "Ja oder sie schicken es erst ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398280937589,
+      "content": "Da stand schon eine Mail Adresse drauf auf dem Formular - eigtl nur\n\nIch h\u00c3\u00b6re mal meine Mailbox an vlt haben die da draufgesprochen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398280882141,
+      "content": "Die meinten die schicken das direkt zu. Stand da ne email Adresse oder ne normale Adresse dran? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398280722032,
+      "content": "Sorry ...\n\nWie gro\u00c3\u009f ist die Anzeige denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1398280702828,
+      "content": "Hey :)\nVon denen wei\u00c3\u009f ich noch gar nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398280625379,
+      "content": "Die wollen ja auch sponsern und kannst du mir sagen wie viel die gegeben haben? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398280619684,
+      "content": "Die wollen ja auch sponsern und kannst du mir sagen wie viel die gegeben haben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398280569402,
+      "content": "Hast du schon das Formular vom rewe in donaustetten bekommen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1397558388787,
+      "content": "Okay \nSehr gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397558185198,
+      "content": "Habs denice geschickt :* dir schick ich dann noch Sponsoren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1397557553699,
+      "content": "Meine Adresse ist\nannika_langhorst@gmx.de",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1397557532154,
+      "content": "Hey :)\nBei mir ist nix angekommen  soweit ich das \u00c3\u009cberblicke...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397552791639,
+      "content": "Hast du meine Mail bekommen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1397293372218,
+      "content": "Macht doch nichts \nDanke dir :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397293350860,
+      "content": "Jap:) aber erst Montag schaffs sonst nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1397293053720,
+      "content": "Hey :)\nStimmt das dass du den Sport Bericht schreibst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385813703091,
+      "content": "Okay sehr gut ich denke das klappt dann schon sie hat es zumindest in unsere kurssprecher Gruppe geschrieben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1385758487182,
+      "content": "Ja \nAn Kirsten und Jelena habe ich schon besprochen \nMit Bettina spreche ich morgen nochmal genauer weil Sie ja auch im Abizeitungs Team ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385757291878,
+      "content": "Hast du die anderen auch gefragt? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Langhorst",
+      "timestamp_ms": 1385751619899,
+      "content": "Hi :)\n\nAm Dienstag in der gro\u00c3\u009fen Pause machen wir Stufentreffen und stimmen \u00c3\u00bcber das Logo ab \nIst das ok? \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Annika Langhorst",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annikalanghorst_x77s6fiv2g",
+  "magic_words": [
+    
+  ]
+}

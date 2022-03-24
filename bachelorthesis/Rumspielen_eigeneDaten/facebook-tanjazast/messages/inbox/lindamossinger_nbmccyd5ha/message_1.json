@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Linda M\u00c3\u00b6ssinger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linda M\u00c3\u00b6ssinger",
+      "timestamp_ms": 1603186337518,
+      "content": "Das kann ich dir nicht sagen, m\u00c3\u00bcsstest du am besten mal auf der Website schauen :) falls du es da nicht findest frag ich die Lehrerin mal!\nJa, aber halt mit festem Partner ohne wechseln \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1603186245023,
+      "content": "Was w\u00c3\u00bcrde der Kurs kosten? :) und der wird auch trotz der aktuellen lage stattfinden k\u00c3\u00b6nnen \u00f0\u009f\u00a4\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Linda M\u00c3\u00b6ssinger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lindamossinger_nbmccyd5ha",
+  "magic_words": [
+    
+  ]
+}

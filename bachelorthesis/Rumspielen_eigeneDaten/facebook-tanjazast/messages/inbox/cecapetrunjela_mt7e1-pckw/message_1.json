@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Ceca Petrunjela"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310583252882,
+      "content": ":* kiss kiss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ceca Petrunjela",
+      "timestamp_ms": 1310583241507,
+      "content": "cmok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310583233329,
+      "content": "i ja tek da se oped vidimo :* hocu i tii <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ceca Petrunjela",
+      "timestamp_ms": 1310583218278,
+      "content": "pozdravi sve kod kuce....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ceca Petrunjela",
+      "timestamp_ms": 1310583204648,
+      "content": "jos malkice, znaci, bas se radujem..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310583186231,
+      "content": "u augustu :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ceca Petrunjela",
+      "timestamp_ms": 1310583171153,
+      "content": "tanjiceee, kad dolaziteeee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1284707235000,
+      "content": "bilo nam prelepo i mnogo smo se kupali....\n\npozdravicu mamu i sve.......\ni ja tebe\n\nvolim te punooo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ceca Petrunjela",
+      "timestamp_ms": 1282508878000,
+      "content": "\u00c4\u0086ao, du\u00c5\u00a1o...Kako je na moru? Lepo se iskupajte  i pozdravi seku, mamu i tatu...cmok cmok",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ceca Petrunjela",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cecapetrunjela_mt7e1-pckw",
+  "magic_words": [
+    
+  ]
+}

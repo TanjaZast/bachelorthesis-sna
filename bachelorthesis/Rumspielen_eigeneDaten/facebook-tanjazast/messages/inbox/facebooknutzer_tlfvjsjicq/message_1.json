@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371060031611,
+      "content": "Ja genau 16 Uhr ich schreib hier noch rein wo genau damit wir alle an einem Haufen sind und speichert euch beide die Nummer ein ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371059851224,
+      "content": "Bis morgen am Rathaus um 16uhr 'ne?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371059809256,
+      "content": "Klar ich s\u00c3\u00a4he ich Bescheid! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371055745219,
+      "content": "Oh Mist Nadine ist nicht mit Drin sagst du der Bescheid? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371055720751,
+      "content": "So ihr lieben morgen geht es los ich gebe euch allen mal am besten meine Handy Nummer also falls was sein sollte ihr k\u00c3\u00b6nnt jeder zeit schreiben, anrufen was auch immer okay? :) tretet dem Chat nicht aus denn hier schreibe ich immer alle Nachrichten die wichtig werden. Meine Nummer: 015164810786 :* Bis bald ach und ihr zwei habt euch doch f\u00c3\u00bcr Donnerstag und Freitag gemeldet. K\u00c3\u00b6nnt ihr trotzdem ein paar Stunden am Samstag bzw Sonntag kommen? Und wenn ihr Leute kennt die helfen wollen immer her damit :* (ich geb euch noch Bescheid wann genau und wo wir uns morgen treffen ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_tlfvjsjicq",
+  "magic_words": [
+    
+  ]
+}

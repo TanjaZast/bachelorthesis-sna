@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Thorsten Pelger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396382279127,
+      "content": "Jaa ;) jetzt muss ich manuel voll \u00c3\u00bcberzeugen auch wenn er krank ist :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Thorsten Pelger",
+      "timestamp_ms": 1396381281867,
+      "content": "Achso cool :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396381268408,
+      "content": "Weil wir Bilder machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Thorsten Pelger",
+      "timestamp_ms": 1396381248765,
+      "content": "Klar warum?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396380958889,
+      "content": "Kommst du morgen Wirtschaft? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Thorsten Pelger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/thorstenpelger_5r5hve8odq",
+  "magic_words": [
+    
+  ]
+}

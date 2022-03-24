@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Lisa M\u00c3\u00bcckstein"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352151981449,
+      "content": "11061996",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa M\u00c3\u00bcckstein",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lisamuckstein_gheoqi--sw",
+  "magic_words": [
+    
+  ]
+}

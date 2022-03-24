@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396555115069,
+      "content": "Guten Abend Dennis, ich hei\u00c3\u009fe Tanja Zast und besuche momentan die die 12. Klasse des st. Hildegard Gymnasiums. Gerade suchen wir alle unsere Themen f\u00c3\u00bcr das m\u00c3\u00bcndlich Abi zusammen. Ich m\u00c3\u00b6chte als ein Thema die Entwicklungsstufen des Glaubens vorschlagen und die Sei\u00c3\u009fener Kinderbibel mit einbeziehen. Ich habe Ihren Namen unter einem Bild gesehen und wollte Sie fragen ob Sie breit w\u00c3\u00a4ren mir Fragen diesbez\u00c3\u00bcglich zu beantworten falls ich welche h\u00c3\u00a4tte (falls Sie Zeit haben und sich \u00c3\u00bcberhaupt erinnern k\u00c3\u00b6nnen). Vielen Dank im voraus",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_yqzxojdpza",
+  "magic_words": [
+    
+  ]
+}

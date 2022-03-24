@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Franziska Gnann"
+    },
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Benedikt V\u00c3\u00b6lker"
+    },
+    {
+      "name": "Maximilian V\u00c3\u00b6lker"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Emilia Sch\u00c3\u00bctz"
+    },
+    {
+      "name": "Maximilian Karlifa"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Eva Ohmberger"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1368483738763,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1367870173191,
+      "content": "nat\u00c3\u00bcrlich ist das ok :)\nich leg das einfach aus und ihr gebt es mir dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367869307505,
+      "content": "Oh mist ich hab das jetzt erst voll sp\u00c3\u00a4t gesehen :/ reicht es wenn ich es ihr am Mittwoch gebe sonst m\u00c3\u00bcsste ich jetzt noch zur bank fahren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1367860357530,
+      "content": " (y) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1367859626062,
+      "content": "Eva Ohmberger hat einen Teilnehmer hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1367858103683,
+      "content": "Hey ihr Lieben :)\nAm Freitag ist ja Lenas 18ner und wir haben uns jetzt \u00c3\u00bcberlegt, dass wir alle ihr ein Beauty-Fotoshooting schenken. Das wird dann bei Picslocation [http://www.picslocation.de/gutscheinshop.php] in Ulm gemacht. Kosten w\u00c3\u00bcrde das ganze 169\u00e2\u0082\u00ac\nDie Kirsten kauft morgen den Gutschein, also m\u00c3\u00bcssen alle ihr dann 12\u00e2\u0082\u00ac geben. Es w\u00c3\u00a4r toll wenn die, die Kirsten morgen schon sehen ihr dann gleich das Geld  mitbringen k\u00c3\u00b6nnen.\nIch hoffe das passt alles so, bis Freitag dann :)",
+      "share": {
+        "link": "http://www.picslocation.de/gutscheinshop.php"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Franziska, Betti, Benedikt und 7 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/franziskabettibenediktund7weiterepersonen_uj3za1fokw",
+  "magic_words": [
+    
+  ]
+}

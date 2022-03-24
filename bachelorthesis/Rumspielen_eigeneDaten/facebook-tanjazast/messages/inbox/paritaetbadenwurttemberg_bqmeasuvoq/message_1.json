@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Paritaet Baden-W\u00c3\u00bcrttemberg"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paritaet Baden-W\u00c3\u00bcrttemberg",
+      "timestamp_ms": 1557993470790,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Paritaet Baden-W\u00c3\u00bcrttemberg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/paritaetbadenwurttemberg_bqmeasuvoq",
+  "magic_words": [
+    
+  ]
+}

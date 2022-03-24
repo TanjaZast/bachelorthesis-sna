@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Nicole Stich"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicole Stich",
+      "timestamp_ms": 1419521758173,
+      "content": "Gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419503688177,
+      "content": "Achso aber jetzt hat ja alles geklappt vielen Dank \u00f0\u009f\u0098\u0087\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Stich",
+      "timestamp_ms": 1419499613242,
+      "content": "Oh je \u00f3\u00be\u008c\u00b4 ich glaube sie hat da geschlafen den ganzen Nachmittag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419441575500,
+      "content": "Jetzt meldet sie sich wieder nicht \u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Stich",
+      "timestamp_ms": 1419437151279,
+      "content": "Solang es noch alles geklappt hat :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419430128365,
+      "content": "Doch ich hab schon so die Panik bekommen \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Stich",
+      "timestamp_ms": 1419426734574,
+      "content": "Nichts zu danken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419426715692,
+      "content": "Danke Danke Danke \u00f3\u00be\u008c\u00b5 wirklich vielen Dank",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Stich",
+      "timestamp_ms": 1419420539059,
+      "content": "Ja klar ich richte ihr aus, dass sie sich dringend bei dir melden soll :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419420378750,
+      "content": "Hey kannst du bitte Verena kontaktieren? \u00f3\u00be\u00b0\u00a6 ist mega dringend bald ist Bescherung und die meldet sich nicht und meine Schwester erwartet das Fotishooting und die meldet sich nicht ich bin voll verzweifelt",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nicole Stich",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicolestich_7q9dvhv7jg",
+  "magic_words": [
+    
+  ]
+}

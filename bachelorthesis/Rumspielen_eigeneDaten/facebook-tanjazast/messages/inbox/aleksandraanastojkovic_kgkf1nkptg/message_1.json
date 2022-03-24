@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Aleksandra Ana Stojkovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1552942855701,
+      "content": "Du und Aleksandra Ana Stojkovic feiert eure 12-j\u00c3\u00a4hrige Freundschaft auf Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1504427233529,
+      "content": "Pitaj Jasminu, ne javlja se na telefon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1504427216679,
+      "content": "Lutkoo, gde se nalazimo? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827591324,
+      "content": "hahaha stvarno :) pa delujje mi starije hah pa zato me je i nasao verovatno video na slikama :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422827562839,
+      "content": "Hahahah on mi je prijatelj na face znam ga \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827526972,
+      "content": "hvala ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827524125,
+      "content": "gde me nadju sve budale",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827519397,
+      "content": "o Boze",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827515932,
+      "content": "Upisan je kao Fa Bi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422827506154,
+      "content": "Boze kako si mi ti slatka",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422827485015,
+      "content": "\u00ef\u00b8\u008fkako se zove?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827468407,
+      "content": "Oh mein gott bist du ne s\u00c3\u00bcsse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827463249,
+      "content": "sta znaci ovo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827460680,
+      "content": "ne znam kako me je nasao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandra Ana Stojkovic",
+      "timestamp_ms": 1422827451327,
+      "content": "Tajci pise mi neki iz ulma rekla bih da je neki turcin ili arapin",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Aleksandra Ana Stojkovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/aleksandraanastojkovic_kgkf1nkptg",
+  "magic_words": [
+    
+  ]
+}

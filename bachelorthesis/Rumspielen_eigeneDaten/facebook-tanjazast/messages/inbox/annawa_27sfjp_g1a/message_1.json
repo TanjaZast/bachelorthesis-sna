@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Anna Wa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797614326,
+      "content": "ja auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797466311,
+      "content": "ja & bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797453626,
+      "content": "und sonst alles klar?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797414015,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797389875,
+      "content": "oha wie geil!! :D danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797271293,
+      "content": "ich geh am 26 nach gran canaria :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797264148,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797262860,
+      "content": "oha :) viel spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797203599,
+      "content": "dann ist ja gut :D ich flieg heute mittag alleine nach kroatien und dann noch ganz bissle nach serbien :D und dann 2 wochen oder so kp... :D schau ma mal.. bei dir?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797149182,
+      "content": "was geht so in den ferien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797143279,
+      "content": "auch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797128980,
+      "content": ":D gut und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797112992,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797111825,
+      "content": "wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312797103902,
+      "content": "hey :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1312797093715,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anna Wa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annawa_27sfjp_g1a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Simon Schneider"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Simon Schneider",
+      "timestamp_ms": 1445338050021,
+      "content": "Danke Tanja .. Aber ich bleibe doch bei Emre und Adis die Zeit \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445243385534,
+      "content": "Simon du Zuverl\u00c3\u00a4ssigkeit im Person \u00f0\u009f\u0098\u0087 du hast es vergessen - stimmts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Schneider",
+      "timestamp_ms": 1445129325939,
+      "content": "Okay h\u00c3\u00b6rt sich ja ganz gut an .. Ich lese es mir morgen nochmal durch weil schlafe schon fast und dann schreiben wir nochmal \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445129215141,
+      "content": "Ist hier wie in einer professionellen Agentur \u00f3\u00be\u008d\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445129181286,
+      "content": "Kaution habe ich schon gezahlt dann \u00c3\u00bcberweist Tobi das mir. W\u00c3\u00a4ren 12 qm und 300 pro Monat warm. Ist ein m\u00c3\u00a4del und 2 Jungs aber alle Mega lieb da musst du dir keinen Kopf machen. Die helfen gerne und reden viel. Felix studiert die ester studiert und arbeitet und Martin arbeitet momentan nur. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445129127770,
+      "photos": [
+        {
+          "uri": "messages/inbox/simonschneider__bj36yhbpq/photos/12167984_1077698152271034_65240022_n_1077698152271034.jpg",
+          "creation_timestamp": 1445129126
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.247.9",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445129126140,
+      "photos": [
+        {
+          "uri": "messages/inbox/simonschneider__bj36yhbpq/photos/12167756_1077698122271037_734474939_n_1077698122271037.jpg",
+          "creation_timestamp": 1445129122
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.247.9",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Schneider",
+      "timestamp_ms": 1445128736172,
+      "content": "Sowohl als auch w\u00c3\u00a4re ganz cool \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445120695721,
+      "content": "Infos",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445120686309,
+      "content": "Willst es dir mal anschauen oder willst ein paar Ingos haben \u00f3\u00be\u008d\u0083\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Schneider",
+      "timestamp_ms": 1445117464677,
+      "content": "Hey Tanja.\n\u00c3\u0084m ja sind aktuell haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445019780097,
+      "content": "* auf ein richtig cooles Zimmer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445019753652,
+      "content": "Hey Simon. Habe geh\u00c3\u00b6rt du h\u00c3\u00a4ttest vielleicht Interesse im November ein richtig cooles Zimmer \u00f3\u00be\u008d\u0083\nSind meine Informationen aktuell? \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Simon Schneider",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonschneider__bj36yhbpq",
+  "magic_words": [
+    
+  ]
+}

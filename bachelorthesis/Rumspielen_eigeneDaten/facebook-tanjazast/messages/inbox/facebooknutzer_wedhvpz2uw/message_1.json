@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1428253148460,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1416044354623,
+      "content": "Hei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1414935214080,
+      "content": "Auch gut :* wie alt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414933312024,
+      "content": "Gut dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1414933124920,
+      "content": "Wie gehts so h\u00c3\u00bcbsche <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414932504808,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1414932488771,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1414876150470,
+      "content": "Hey\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_wedhvpz2uw",
+  "magic_words": [
+    
+  ]
+}

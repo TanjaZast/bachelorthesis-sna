@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Matej Eror"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matej Eror",
+      "timestamp_ms": 1630175399122,
+      "content": "Ja radim do 3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1630175376011,
+      "content": "Do kada ti radi\u00c5\u00a1? Razmi\u00c5\u00a1ljali smo \u00c4\u008dak ostati jo\u00c5\u00a1 jednu no\u00c4\u0087 pa onda u utorak dalje za Srbiju ali nije sigurno. Hvala \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matej Eror",
+      "timestamp_ms": 1630175015152,
+      "content": "Recu im da dolazite",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matej Eror",
+      "timestamp_ms": 1630175007819,
+      "content": "Helena ide u zagreb a ja sam na poslu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matej Eror",
+      "timestamp_ms": 1630174996721,
+      "content": "Bit ce mama i tata",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matej Eror",
+      "timestamp_ms": 1630174991120,
+      "content": "Bog tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1630174050302,
+      "content": "Bog matej \u00e2\u0098\u00ba\u00ef\u00b8\u008f jel u ponedeljak ima nekoga kod ku\u00c4\u0087e? Ja i Mathis prolazimo kroz brod biciklima pa bi smo kratko svratili da se pozdravimo. Oko pola 9/9 ujutru \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Matej Eror",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/matejeror_sxxyrs0gfw",
+  "magic_words": [
+    
+  ]
+}

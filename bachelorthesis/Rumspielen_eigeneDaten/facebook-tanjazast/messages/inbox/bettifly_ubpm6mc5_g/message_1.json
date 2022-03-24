@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1397290787180,
+      "content": "ok ja montagvormittag w\u00c3\u00a4r noch optimal :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397290745475,
+      "content": "Ja aber schaffs nicht vor Montag hab ich schon zu Ann Kathrin gesagt :* und Lisas kommt auch erst Montag :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1397290698469,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1397290696922,
+      "content": "schreibst du sport vo\u00c3\u009fberg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1371454797612,
+      "content": "ne du solltest ihr gelich helfen, weil die noch diese woche ne klausur hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371413844756,
+      "content": "Okay gut ;) nur zur Vorbesprechung gell? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1371407367634,
+      "content": "oben vor den computern und dann sucht ihr euch irgendein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371407336530,
+      "content": "Ja hab ich auch :) in welchem Raum nochmal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1371407247937,
+      "content": "he du, ich wei\u00c3\u009f nicht wie vile bei dir morgen aus\u00c3\u00a4llt aber denkst du bitte an die nachhilfestunde? dankesch\u00c3\u00b6n ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Betti Fly",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/bettifly_ubpm6mc5_g",
+  "magic_words": [
+    
+  ]
+}

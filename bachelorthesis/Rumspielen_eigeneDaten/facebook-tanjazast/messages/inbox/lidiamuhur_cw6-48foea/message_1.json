@@ -1,0 +1,1974 @@
+{
+  "participants": [
+    {
+      "name": "Lidia Muhur"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451385980626,
+      "content": "Lidia hat deinen Anruf verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430689241952,
+      "content": "lidia es tut mir so unendlich leid was hier alles passiert ist :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430686735317,
+      "content": "? erde an Lidia :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430680222852,
+      "content": "hat simon schon was geschrieben :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430680212713,
+      "content": "handy leer und ladeger\u00c3\u00a4t kaputt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430680197671,
+      "content": "nein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1430680186323,
+      "content": "Schon mit adis geredet ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1430680179224,
+      "content": "Warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430679772547,
+      "content": "nur noch hier erreichbar :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399486790675,
+      "content": "12 :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399476997961,
+      "content": "wie liefs ? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412625687,
+      "content": "Kenn ich sogar ;* hat was gebracht f\u00c3\u00bcr heute",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399321366920,
+      "content": "ist sogar auf englisch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399321355853,
+      "content": "http://blog.petflow.com/this-is-a-video-everyone-needs-to-see-for-the-first-time-in-my-life-im-speechless/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399321352421,
+      "content": "hahaha hier hab ich ein gutes Video",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399320726980,
+      "content": "Das ist ein guter Plan :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399320720191,
+      "content": ":) ja schon hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399320601884,
+      "content": "fernsehen und lernen hahaha funtkionierts ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399320583421,
+      "content": "ich gib ihm noch ne Chance es bis freitag zu schaffen und wenn ers nicht hinkriegt dann schick ichs ein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399320359767,
+      "content": "Ehm tv schauen und englisch anschauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399320349708,
+      "content": "Tuts jetzt auch :D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399320150076,
+      "content": "chillen du ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399320136551,
+      "content": "ich hab mir auch schon \u00c3\u00bcberlegt mein Handy einfach einzuschicken...aber das dauert dann ein Monat oder so -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399320103261,
+      "content": "er wei\u00c3\u009f auch nicht so wirklich was los ist deshalb hat ers jetzt nem anderen freund gegeben damit er sichs mal anschaut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399318890886,
+      "content": ":) was machst so? Was ist mit deinem Handy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399318651029,
+      "content": "naja leben geht weiter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399318642156,
+      "content": "stimmt :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399316772111,
+      "content": "Ja aber die war echt cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399308087492,
+      "content": "ach komm....Betty hats weit geschafft :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399300723027,
+      "content": "Sch\u00c3\u00b6n f\u00c3\u00bcr dich -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399292095949,
+      "content": "hahaha ich will trotzdem das steffi gewinnt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399236599761,
+      "content": "Joa komische Welt :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399236494579,
+      "content": "ich versteh nicht warum ivana weiter ist... da h\u00c3\u00a4tte ich lieber betti weiter gelassen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399236062049,
+      "content": "Alter -.- ich kanns nicht glauben mit betti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399236001378,
+      "content": "wuhuuuuuuuuuuuuuuuuu ! :D go steffi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399235160938,
+      "content": "Denke ich auch :* ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399235087172,
+      "content": "hm es kommt nur noch eine weiter und Nathalie ist es bestimmt nicht....entweder betti oder steffi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399234779664,
+      "content": "Doch kann so sein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399234659610,
+      "content": "f\u00c3\u00bcr steffi :*\nich hoff soooo sehr dass sie weiter kommt aber wahrscheinlich nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399231541826,
+      "content": ":D hahah ne :* ehm eigentlich betti *-* du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399231338854,
+      "content": "f\u00c3\u00bcr wen bist du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399231329648,
+      "content": "hahah wer wei\u00c3\u009f? kochen :D\nhahaha ich glaub dass macht so ziemlich jedes M\u00c3\u00a4dchen gerade :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399231270687,
+      "content": "Auch :* :D was sonst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399231084845,
+      "content": "(y) :*\ngntm anschauen du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399229821174,
+      "content": "Was geht so? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399229813401,
+      "content": ":) okay machen wir :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399229406672,
+      "content": "ja k\u00c3\u00b6nnte wir auch :*\nich besprech dass mal mit meinen Eltern und wir reden dann am freitag nochmal \u00c3\u00bcber genaueres :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399228386070,
+      "content": "Ja okay ist noch die \u00c3\u009cberlegung im Raum zusammen zu feiern? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399224811632,
+      "content": "hahah i know :D\nsteht noch nicht fest aber wenn ichs genau wei\u00c3\u009f sag ich dir bescheid ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399217005482,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399217002380,
+      "content": ":) du bist mir so ein Held. Wie machst du es jetzt eigentlich mit deinem Geburtstag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399216675275,
+      "content": "4 stunden sp\u00c3\u00a4ter :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399201516877,
+      "content": ":) gesehen? :* hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399200105422,
+      "content": "hahaha jaaaa :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399185292772,
+      "content": "Wir sollen unser ganzes Outfit und so mitbringen :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399142603963,
+      "content": "9 :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399142018457,
+      "content": "wann haben wir morgen Training ? ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399124443893,
+      "content": ":) hahah hammer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399121807361,
+      "content": "hahaha gut ich hab n\u00c3\u00a4mlich keine lust :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399120916189,
+      "content": "Und die sind nicht gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399120908224,
+      "content": "Ich kann nicht :D hab schon gesagt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399120602247,
+      "content": "oh :/ \nschei\u00c3\u009fe tim hat mich gefragt ob ich mit dir zum spiel kommen mag :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399113638578,
+      "content": "Nein :/ schlechter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399110586817,
+      "content": "okay :) geht's ihr nicht besser ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399106997966,
+      "content": "Kein Training heute! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399061954762,
+      "content": "Ja ist ja auch echt anstrengend :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399058915471,
+      "content": "hahah jajaja :D\naber ich bin auch so eine die dann so hunger bekommt wenn man die ganze nacht feiert und trinkt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399057841953,
+      "content": "Das war nur mit Paul das eine mal :D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399057407747,
+      "content": "hahaha hm deine abende enden immer mit \" und dann sind wir D\u00c3\u00b6ner essen gegangen und/oder Burger King\" :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399052961316,
+      "content": "Neeeein! :D stimmt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399051863766,
+      "content": "haha hast du immer :D kauf dir was :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399051710471,
+      "content": "Boah ich hab auch so krass hunger -.- :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399051447780,
+      "content": "oh das kann ja lange dauern :D\nchillen millen...hahah ja ich ess grade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399049400564,
+      "content": "Nee :/ bin gerade Schuhe suchen du? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399049185063,
+      "content": "und hast du jetzt ne Besch\u00c3\u00a4ftigung f\u00c3\u00bcr den abend gefunden ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399036995630,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399036994488,
+      "content": "Ach quatsch! :&",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399036446950,
+      "content": "hahaha ja in letzter zeit ist grad alles schei\u00c3\u009fe !!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399033783657,
+      "content": "Oh Schei\u00c3\u009fe man -.- du hast auch kein Gl\u00c3\u00bcck :* :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399033725418,
+      "content": "yes :* keine Ahnung er hatte es fast aber jetzt geht's anscheinend nicht mehr an -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399033485479,
+      "content": "Klar du? :* ehm was ist mit deinem Handy? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399033439626,
+      "content": "kommst du heute tanzen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398960670277,
+      "content": "h\u00c3\u00a4 was meinst du ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398947635952,
+      "content": "Hahaha schau den an dann mich dann hast es :D ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398944256714,
+      "content": "er schreibt mir wann ich kommen soll...der war gestern feiern also dauerts wahrscheinlich noch bisschen :D\nach was glaub ich net ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398944077211,
+      "content": "Haha ja nichts und das w\u00c3\u00a4re es :D wann holst es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398939223951,
+      "content": "ja ich muss nachher noch mein Handy holen und dann leg ich mich hin :) \naber wenn ihn keiner dazwischen redet...kann er vllt selbst \u00c3\u00bcberlegen was er will",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398938873246,
+      "content": "Okay das ist das wichtigste kannst ja heute den ganzen tag schlafen und so :) :* der wird eh nicht entscheiden kennst den doch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398938797164,
+      "content": "ja ich sag das den anderen auch mal dass sie sich nicht mehr einmischen sollen und nils entscheiden was er macht :) \nmach dir dar\u00c3\u00bcber aber kein kopf :*\nja mir ist immmernoch bisschen \u00c3\u00bcbel aber schon besser wie gestern :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398938510160,
+      "content": "Wie geht es dir? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398938503047,
+      "content": "Ja das Gef\u00c3\u00bchl hab ich auch :D die sollen den einfach lassen mich stresst das n\u00c3\u00a4mlich gerade schon richtig arg :D :* aber ja egal kann man nichts machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398938381186,
+      "content": "danke :*\nja Philipp und die anderen dr\u00c3\u00a4ngen ihn die ganze zeit dazu und ich kann mir auch gut vorstellen dass nils das nur sagt weil er nicht will dass sie ihn die ganze zeit damit nerven \nich find dass ist ne Sache zwischen euch und da sollen sich einfach nicht so viele einmischen....ich hab das gef\u00c3\u00bchl jeder will seinen Senf dazu geben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398933320243,
+      "content": "Ja klar ich sag niemandem was ;) ja lidia klingelt es bei dir? :D ich will auch keine Beziehung man und das nervt auch das seine Kumpels den die ganze zeit verkuppeln wollen :) :* ne ein Kumpel hat mich heim gefahren. Da l\u00c3\u00a4uft auch gar nichts man! Okay mach mal :* :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398933103005,
+      "content": "ja auf jeden fall ! <3 \nja gegen ende wars beschissen aber ansonsten fand ich den abend auch gut :) \nvielleicht k\u00c3\u00b6nnen wir das ende ja i,wie geheim halten hab keine lust dass mein Jahrgang davon erf\u00c3\u00a4hrt :D\nbist du mit den bus gefahren oder wie bist du heim gekommen?\ni.wie ist das von nils seite komisch weil er die ganze zeit sagt dass er keine Beziehung will und dass mit dir nichts l\u00c3\u00a4uft\nhm ne Freundin von mir sina versucht mal bisschen mehr rauszukriegen weil er mir wahrscheinlich nichts erz\u00c3\u00a4hlen wird weil ich ja mit dir befreundet bin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398926595816,
+      "content": "Kein Problem lidia ich glaube du h\u00c3\u00a4ttest genau das gleiche f\u00c3\u00bcr mich getan :* ;) vergessen wir das ende vom abend der war etwas Schei\u00c3\u009fe aber sonst wars doch lustig :D ne ist doch egal dann halt bisschen mehr trinken. Passiert hakt :* ja bin nach hin und her gut heim gekommen. Was hast du eigentlich den ganzen abend wegen nils gesagt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398920776199,
+      "content": "oh Gott Tanja es tut mir so unendllich leid !!!!! <3\nich glaub ich h\u00c3\u00a4tte mir nicht soviel ausgeben d\u00c3\u00bcrfen :D\ndanke f\u00c3\u00bcrs nach hause bringen ich hoffe du bist selbst noch gut nach hause gekommen :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398878962539,
+      "content": "Perfekt jap :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398878939300,
+      "content": "also wir sind so gegen halb 9 dort :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398871514692,
+      "content": "fahrt ihr mit dem Auto?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398871431903,
+      "content": "ja mach das :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398870918382,
+      "content": "Halb 9 aber ich sag maxi wir sollen schon um 8 gehen ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398870870195,
+      "content": "kennst du wahrscheinlich nicht aber sina Jil Helena und Amelie \nund den rest treffen wir dort :*\nwann kommst du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398870790763,
+      "content": "Ja m\u00c3\u00bcssen wir ;) :* wer alles?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398870741241,
+      "content": "was ? oha h\u00c3\u00a4tte ich nicht gedacht \nalso wir treffen uns schon um halb 8 am hbf...aber du kannst auch mit max nach kommen wenn du magst :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398850226660,
+      "content": "Okay perfekt Bitte Regel das :* der hat 8 :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398847250867,
+      "content": "ich frag mal die anderen wann die gehen dann schreib ich dir wieder :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398847235259,
+      "content": "hahahha ja e war ja ein jahr in Amerika ich glaub der macht das schon \n\nhm wei\u00c3\u009f nicht ich muss heut abend babysitten aber ich frag meine schwester ob sie das f\u00c3\u00bcr mich machen kann ansonsten muss ich halt nachkommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398806471016,
+      "content": "20.30 ist das zu sp\u00c3\u00a4t? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398806461895,
+      "content": "Der ist morgen dran aber ist von sich \u00c3\u00bcberzeugt :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398801086642,
+      "content": "wann willst du morgen aufs starkbierfest `?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398801074222,
+      "content": "yes ! :* hahaha ja der Jonathan \nwas hat nils ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398794530459,
+      "content": "Du bist immerhin fertig *-* :* ich beneide dich! Nur einer hatte 15 bis jetzt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398786987037,
+      "content": ":D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398786978690,
+      "content": "ja hoffe ich f\u00c3\u00bcr dich auch :* \nwei\u00c3\u009f ich auch nicht genau anscheinend konnte sie keinen zusammenh\u00c3\u00a4nge schlie\u00c3\u009fen und so \nis mir jetzt auch egal :",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398779919639,
+      "content": "Warum haben die der einen gegeben? :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398779902675,
+      "content": "Ja das ist auch Schei\u00c3\u009fe von euren Lehrern. Ich hoffe unsere machen das gescheit :* :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398779532003,
+      "content": "ne Freundin von mir \nvon wem? so ein kack ist das...die f\u00c3\u00bchren dass dieses jahr neu ein und bewerten so streng",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398779368065,
+      "content": "Schei\u00c3\u009fe -.- waaaas wer hat einen? :o ja hab schon mitbekommen wie Schei\u00c3\u009fe es immer war",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398779324611,
+      "content": "es haben so wenige 2 stellig \nes gab sogar eine der hat man 1 punkt gegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398779302060,
+      "content": "7 punkte -.- \nmein Thema war auch schon so beschissen..ging um Politik um Amerika's Grenzenkontrolle und was du \u00c3\u00a4ndern w\u00c3\u00bcrdest \nich hoff einfach nicht dass dadurch meine englisch note ruiniert wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398779124161,
+      "content": "Warum was war? :o :* was hat sie dir gegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398779058587,
+      "content": "das war so schei\u00c3\u009fe! ich hasse meine Lehrerin -.-\nnaja habs jetzt zum gl\u00c3\u00bcck hinter mir <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398769177244,
+      "content": "Sagst du mir bitte gleich wie bei dir die Pr\u00c3\u00bcfung war? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398760592521,
+      "content": "hahahha mal schauen :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398760532539,
+      "content": ":D hahah aber nicht schlauer werden :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398758157391,
+      "content": "iiiiggggiiiiiittttt !!! \nmenschen k\u00c3\u00b6nnen sich \u00c3\u00a4ndern hahaha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398718331975,
+      "content": ":* und voll nett und teilweise schlau schreibt er",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398718310503,
+      "content": "Wir schreiben gerade schon voll viel :D der will lisa mit manu verkuppeln",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398714566966,
+      "content": "ja mach das :) \nhahaha ist wirklich so :* \nso dann kann ich ja jetzt mal beginnen dich mit nilsi zusammen zu bringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398708577773,
+      "content": "Okay perfekt ja genau lidia wei\u00c3\u009f alles :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398708566776,
+      "content": "Ich nehm auch noch maxi mit :D hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398707523652,
+      "content": "Hahah Tanja ich wei\u00c3\u009f alles :D dann kommst du mit uns..ihr seht auch ja dort auch :*\nAber paul nimmt noch ein Kumpel mit und ne Freundin geht auch mit ihm..also w\u00c3\u00a4rs doch kein date :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398706922978,
+      "content": "Ja dann treffen wir uns :* :) sonst ist das ein komisches Date und ja.. :D :* warum erz\u00c3\u00a4hlt der dir eigentlich alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398706766665,
+      "content": "Hahaha ja der wahrscheinlich auch. Ja klar das lass ich mir nicht entgehen ! :D ich geh schon mit meinen M\u00c3\u00a4dels aber du kannst gerne mit :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398693164999,
+      "content": ":D hahah manu! Gehst du? :* lass zusammen ich will nicht ganz alleine mit dem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398693024742,
+      "content": "f\u00c3\u00bcr die kommunikationspr\u00c3\u00bcfung hat die uns heute noch bl\u00c3\u00a4tter ausgeteilt die wir k\u00c3\u00b6nnen m\u00c3\u00bcssen -.-\nhahaha :D mit paar kumpels..Philipp Robin und die ganzen anderen glaub ich :) \noh jaaaa...ich bin gespannt hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398692923024,
+      "content": "Hahah was der alles erz\u00c3\u00a4hlt. Mit wem gehst nilis? :D hahah das kann ja was werden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398692900294,
+      "content": "Was lernst :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398692821040,
+      "content": "Paul hat mir heut erz\u00c3\u00a4hlt dass ihr zusammen aufs strakbierfest geht :)\nund nilsi kommt auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398692798826,
+      "content": "hahahaha ich lag nachts auch wach und denk an mein Handy :D :D :D\nleeeeeeeernnnnnneeeenn !! -.- bei dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398690290056,
+      "content": "Was geht sonst so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398690283947,
+      "content": ":) ich w\u00c3\u00a4re schon l\u00c3\u00a4ngst kollabiert :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398689839368,
+      "content": "Morgen um 11.45 :) \njaa ich halts echt nicht mehr aus :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398689766653,
+      "content": "Oha auch chillig. Wann bist dran? ;) hoffen wir es mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398689680212,
+      "content": "hatte nur 2 stunden englisch..Vorbereitung auf die Kommunikationspr\u00c3\u00bcfung :) \nja keine Ahnung.. er hat mir geschrieben dass ich am dienstag oder mittwoch kommen soll also glaub ich dass er es bis dahin geschafft hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398689584371,
+      "content": "Wie war dein Schultag? :* was ist mit dem Handy jetzt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398689438115,
+      "content": "hahaha :D oh na dann hab ich dir doch gesagt dass man f\u00c3\u00bcr gk nie was lernen muss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398689325415,
+      "content": "Hab gestern lernen wollen bin aber eingeschlafen :o aber kam eh nichts gelerntes dran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398689236319,
+      "content": "wie lief Gemeinschaftskunde ? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398535421252,
+      "content": "? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398535419344,
+      "content": "Sp\u00c3\u00a4ter dann Buddha lounge",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535354081,
+      "content": "ich glaub n\u00c3\u00a4mlich der hat ein auge auf dich geworfen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535333751,
+      "content": "hahaha ist wahrscheinlich entspannter wie mit paul",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535322867,
+      "content": "wann triffst du dich mit Paul ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398535273008,
+      "content": "Und uns sp\u00c3\u00a4ter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398535268288,
+      "content": "Nein chilliger abend mit dir ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535228627,
+      "content": "ein date also ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535215398,
+      "content": "reichle ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398535186121,
+      "content": "Mit paul sp\u00c3\u00a4ter Bier trinken gehen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535050476,
+      "content": "was willst du machen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398535042513,
+      "content": "hahaha wenn du die freunde dann mal kennst wirst du's verstehen \ndenen macht sowas spa\u00c3\u009f...machen sie mit mir auch immer in der schule also denkt dir nichts dabei :D\nhahahaha oh ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398534910391,
+      "content": "Okay geil wird sicher gemein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398534901290,
+      "content": "Lass heute abend schon treffen ;) warum ziehen die den auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398534878307,
+      "content": "ich erz\u00c3\u00a4hls dir morgen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398534862221,
+      "content": "hahahaha sorry ;D\nalso nilsi wird grad von seinen freunden i.wie verarscht und die ziehen grad so bisschen auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398531446310,
+      "content": "Wer ist die :D okay hahah oh man lidia Schock mich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398531418971,
+      "content": "die habens nur ne Freundin von mir erz\u00c3\u00a4hlt aber gleich wieder gesagt dass es nicht stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398531338190,
+      "content": "Von wem :D krass was denken die Leute bald von mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398531302137,
+      "content": "jaa sie hat mir grad geschrieben \naber sie wurde nur verarscht....also kein stress :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398531210033,
+      "content": "Hahaha dein ernst :D alter wen? Was geht bei dem? :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398531169302,
+      "content": "ich will wissen wenn ihr zusammen seid !!!\nihr habt ne Freundin von mir verarscht und die hat mir dann gleich geschrieben und gefragt ob ihr zusammen seid hahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398531080103,
+      "content": "Hahahah was bin ich :D hahahah nicht das ich w\u00c3\u00bcsste",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398530915279,
+      "content": "Tanja Tanja Tanja ich dachte du w\u00c3\u00bcrdest mir sowas erz\u00c3\u00a4hlen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398530730010,
+      "content": "du bist mit nils zusammen ?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398016424064,
+      "content": "Ja wie viel kostet das? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398015184020,
+      "content": "kommst du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398014313053,
+      "content": "h\u00c3\u00a4 ich dachte du gehst ins Kino oder theatro ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398013929350,
+      "content": "Wie viel kostet eintritt? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398013754824,
+      "content": "Patrick hat dich doch hinzugef\u00c3\u00bcgt oder nicht ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398010800145,
+      "content": ":* wann beginnt es und wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1398009587229,
+      "content": "ein freund von mir hat heute abend sturmfrei deshalb schmei\u00c3\u009ft der ne osterparty :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397992654395,
+      "content": "Auf welche osterparty? :* und wann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397992124175,
+      "content": "achso okay :) ich geh auf ne osterparty und wollt eigl fragen ob du mitkommen willst aber dann hat sichs erledigt :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397991550386,
+      "content": ":* ich geh vllt ins Kino aber theatro w\u00c3\u00a4re auch ne Option du? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397979708825,
+      "content": "Tanja ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397926015667,
+      "content": "hei was machst du morgen abend ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397844980355,
+      "content": "Danke! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397824379661,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397824373552,
+      "content": "Das w\u00c3\u00a4r Training",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397824369126,
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397815448019,
+      "content": "Kannst du mir hier die wichtigsten Sachen schreiben die ihr in der whatsapp gruppe ausmacht? <3 \nW\u00c3\u00a4re echt super sweet von dir !! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769820034,
+      "content": "Okay gerne ;* viel Spa\u00c3\u009f heute",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397760113095,
+      "content": "hahah erz\u00c3\u00a4hl ich dir mal beim tanzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397760100259,
+      "content": "okay :) was war gestern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397758563367,
+      "content": ":(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397758561022,
+      "content": "Wahrscheinlich nicht nach gestern hab ich heute lieber nen gem\u00c3\u00bctlichen Abend :* war schon krass :D oh was ist passiert? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1397757933580,
+      "content": "hei :* mein Handy ist kaputt deshalb bin ich die n\u00c3\u00a4chste zeit nur \u00c3\u00bcber fb zu erreichen ahahaha\nwie siehts bei dir aus....gehst du heut ins Myers ? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349467386947,
+      "content": "Ja ich wei\u00c3\u009f mir geht es genau so!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1349467341422,
+      "content": "ja schon :/ deshalb ist das ja soo schwer ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349467313291,
+      "content": "Ja schon.. Aber jana ist glaub schon besser als oli ;)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1349466710061,
+      "content": "aber ich will nicht anf\u00c3\u00a4nger ahhh ich wei\u00c3\u009f nicht :D ;/ hmm ich geb dir aufjedenfall bescheid wenn ich es wei\u00c3\u009f :* aber ich find das nicht alle von rd fortgeschrittene sind ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349466617153,
+      "content": "Rd fortgeschritten und so krass... Und oli das w\u00c3\u00a4re dann seine erste Gruppe also ich denk dann mal eher gechillt er hat ja nicht so viel Erfahrung... ;) ich mach wenn du das machst :* ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1349466526904,
+      "content": "ich wei\u00c3\u009f es noch nicht ich will nicht von darina co. getrennt werden deshalb muss ich mich noch entscheiden und au\u00c3\u009ferdem was sind wir dann f\u00c3\u00bcr ne gruppe (resplendencer) und was w\u00c3\u00a4re dann die gruppe von oli ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349465781705,
+      "content": "<3<3<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349465769161,
+      "content": "Was sagst du zu der sms von Jana ?? ;) wie willst du es machen?? ;))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347045207273,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347045202370,
+      "content": "ja.. aber du gehst auch ohne mich ab ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1347045170286,
+      "content": "oh schade :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347045116222,
+      "content": "sorry -.- <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347045110772,
+      "content": "bin noch im urlaub ;) komm erst um 3 heim und hab viel zu tun ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1347045079915,
+      "content": "morgen mahatma ? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346181310319,
+      "content": "Missin you too Darling <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1346181188929,
+      "content": "missin' you <3 !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341601397496,
+      "content": ":) ich glaub auch net aber kannst ja mal schauen :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1341600930938,
+      "content": "Heii :* nee glaub nicht das des der ist aber ich frag noch ne Freundin aber glaub eher nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341596502345,
+      "content": "Heei S\u00c3\u00bc\u00c3\u009fe :* der hei\u00c3\u009ft raoul lopez :) schau den mal an ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334496921578,
+      "content": "auf was hast du gefastet? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496391017,
+      "content": "essen....ich bin jetzt fertig mit fasten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334496371997,
+      "content": "ehm chatten und so :) du?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496237555,
+      "content": "hahaha :P und was machst du ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334496210074,
+      "content": "achso :) ja genau :P haare shaken ist cool <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496170835,
+      "content": "ach eqal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496164714,
+      "content": "als du vorne standest .....die hinteren m\u00c3\u00bcssen irgendiwe nach hinten und die vorneren m\u00c3\u00bcssen runter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334496108642,
+      "content": ":) wann hab ich das gesagt? :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496082938,
+      "content": "ich und haare shaken ?? hmmmm :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334496067655,
+      "content": "das hast du heute gesagt :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334496047967,
+      "content": "dann mach das :* :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1334495598619,
+      "content": "tanja <3 hahaha ich will aber meine haare shaken :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326387760475,
+      "content": "Ja nico...??? Weil ich nur die kenne aber iwie hat die mir nicht geantwortet :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326385850927,
+      "content": "Aber wem ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326373871193,
+      "content": "Gestern abend :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326369735902,
+      "content": "wenn hast du denn geschrieben ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326314866804,
+      "content": "Ja ich hab ihr geschrieben aber die antwortet noch nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326314139804,
+      "content": "Keine ahnung frag jassi und nico weil ich kann dir das nicht sagen! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326313596976,
+      "content": "Ich will ja ab jetzt kommen.. Naja aber saskia hat gesagt das ihr ja f\u00c3\u00bcr den auftritt uebt soll ich dann erst n\u00c3\u00a4chstes mal kommen?? Weil ich st\u00c3\u00b6re ja dann nur :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326313529360,
+      "content": "Wenn nicht 017625265750 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326313415977,
+      "content": "Jaaa <3 aber um 16.20 uhr :) wenn was ist schreib mir eine sms :) hast du noch meine nummer ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326302826021,
+      "content": "Ist morgen normal training?? :) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326038555997,
+      "content": "Ja aber bei mir kam nicht mal da so ne benachrichtigung \u00c3\u00bcber einen poste und so.. Ich habs dann erst jetzt gesehen?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1326031745077,
+      "content": "Ja aber wenn du mal in die gruppe schauen w\u00c3\u00bcrdest dann h\u00c3\u00a4ttest du es auch gewusst das training war daf\u00c3\u00bcr ist die gruppe ja da .",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326030963212,
+      "content": "Heeei :) ehm wie es war training?? Es ist doch nur donnerstags und ab und zu mal samstags?? Aber heute dachte ich ist sonntag :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1323516116685,
+      "content": "Okay :** 015789227304 simst du mir dann gleich?? <3 wie wars?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1323515205655,
+      "content": "Ah okay <3\nGib mir deine handynummer ......dann kannst du auch sms schreiben wie lange du immer brauchst am donnerstag :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1323469532637,
+      "content": "Ich sollte dir ja schreiben ob ich komme... ;D also so wie es aussieht kann mich niemand fahren und so weit ich aus dem fahrplan gelesen hab gibts keinen bus aber das ist voll gut wegen donnerstag.. Ich komm dann vorbei.. :) aber samstags kann ich dann schon wieder normal.. Weil da kommt schon ein bus :* ;D also hab dich lieb <333 tanjalein ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321620937036,
+      "content": "Okay :) ich mach mir da nichts draus!! Weil ich geh auf ne M\u00c3\u00a4dchen schule und bin dagegen imun :P <3 danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1321619403854,
+      "content": "jaa schon <3 aber ganz ehrlich nico soll dich mal nicht soo anbitchen !!! lass dir das nicht gefallen !\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321557639282,
+      "content": "Ist echt voll doof mit schule und so :( <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1321557391836,
+      "content": "Okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321557371829,
+      "content": "Hab :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1321556952745,
+      "content": "Gut <3 !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321556851466,
+      "content": "Okay <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1321555398000,
+      "content": "Hey <3 schreib mal was in die Gruppe nicojassi wann du kannst und soo :) \nLove you :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1318600348614,
+      "content": "Bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1318600338587,
+      "content": "Cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318600323292,
+      "content": "Jap tun wir <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1318599814841,
+      "content": "Sehen wir uns heute <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580711182,
+      "content": "bb <3 viel spa\u00c3\u009f :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580690996,
+      "content": "Ja sehr praktisch \nAlso ich muss gehen bb <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580588720,
+      "content": "auch cool :D nah bei der stadt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580574290,
+      "content": "Ulm Stadtmitte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580555585,
+      "content": "nee donaustetten :D du?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580539425,
+      "content": "Oha cool wohnst Du in wiblingen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580499808,
+      "content": "wiblingen gymi :D jap hab ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580478590,
+      "content": "Hast Du gewechselt ? Von wo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580443708,
+      "content": "nee :D was glaubst denn duu!!?? aber es ist net mal soo schlimm .D bin ja erst ein jahr dort :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580398989,
+      "content": "Reine M\u00c3\u00a4dchenschule .....bist Du freiwillig dort :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580364014,
+      "content": "st. hildegard :D ja meins werd ich eig schon auch \u00c3\u00bcberleben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580316887,
+      "content": "Meine geht glaub ich noch ich bin auch in der 9 welche Schule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580213460,
+      "content": "9: du?? wie eird deins denn so?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580163768,
+      "content": "Mach das welche Klasse bist Du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580073307,
+      "content": "ja man ich bin voll am arsch :P :D haha ich fang schon mal an zu lachen xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310580043423,
+      "content": "Bald gibts Zeugnisse fuuuuuuck :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310580010849,
+      "content": "ja auch voll  gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310579992231,
+      "content": "Gut und dir ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310579973619,
+      "content": "wie gehts? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310579968348,
+      "content": "okay cool :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310579939189,
+      "content": "Nur soo ich auch \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310579889958,
+      "content": "jap klar doch :D why?? und du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1310579870086,
+      "content": "Hey kommst du am Freitag dancing :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lidia Muhur",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lidiamuhur_cw6-48foea",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378759178132,
+      "content": "Hab beides gemacht sollen wir es morgen zusammen abgeben? :* wann und wo dann? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378756134573,
+      "content": "das passt so super! :)\noder einfach in ne klarsichth\u00c3\u00bclle :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378756071304,
+      "content": ":* ja es g\u00c3\u00a4be eigentlich noch viel mehr :o kein Problem :* soll ich es in nen Schnellhefter tun? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378756008443,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378756007249,
+      "content": "auf alle f\u00c3\u00a4lle DANKE!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378756000928,
+      "content": "ziemlich lang, aber eig gut .. halt sehr anstrengend, aber das muss es ja sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378755857524,
+      "content": "Okay warte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378755692600,
+      "content": "ja, kannst dus eventuell ausdrucken, unser drucker ist leer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378755682267,
+      "content": "Wie fandest dus? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378755666446,
+      "content": "Ich vertraue dir da :* hast unten unsere Namen hingeschrieben? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378755195638,
+      "content": "so hier ist unser referat fertig \u00c3\u00bcberarbeitet :)\ndu kannst es ja nochmal schnell \u00c3\u00bcberfliegen :)",
+      "files": [
+        {
+          "uri": "messages/inbox/lenamarieundkirsten_mbt_wd5cig/files/Petersdom_796385903783961.doc",
+          "creation_timestamp": 1429298924
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378754618902,
+      "content": "ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378754571839,
+      "content": "Nein glaub nicht au\u00c3\u009fer vielleicht sieht das ja gut aus keine Ahnung :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378754327035,
+      "content": "sollen da auch bilder rein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378752322262,
+      "content": "Nen Guten :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378752303881,
+      "content": "Kein Stress :* :) Bitte nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378752237723,
+      "content": "ich muss schnell zu essen uns machs dann fertig :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378752082047,
+      "content": "ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378752059569,
+      "content": "Ne ich der steht immer noch auf dem H\u00c3\u00bcgel sorry :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378751918930,
+      "content": "Stand also der alte der neue wurde doch runter gesetzt dachte ich :*? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378751818569,
+      "content": "steht der peterdom auf dem vatikanischen h\u00c3\u00bcgel?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378751670166,
+      "content": "wer ist petri? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378750384710,
+      "content": "haha, das w\u00c3\u00a4r doch auch was :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378749572409,
+      "content": "Ich hab kein Problem damit :* :) von mir aus k\u00c3\u00b6nnen wir es in 10 Wochen abgeben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378749498428,
+      "content": "oh mist, ich mach das gleich noch :D\ngib mir ne stunde ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378749471086,
+      "content": "Na wie sieht es aus? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378670168909,
+      "content": "Keine Ahnung ich denke bis Dienstag ist das aber schon fertig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378670154455,
+      "content": "Also du hast es jetzt auch :* warum gesperrt? :o ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378669051652,
+      "content": "Dir Brauch ich dir auch nicht zu geben, weil mein Account gesperrt wurde...\nIch geb dir die von meiner mom: ines.paetzmann@web.de\n\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac\n\nDas reicht dich bis Dienstag oder Mittwoch, oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378663885539,
+      "content": "Lena deine email Adresse hab ich aber nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378663871579,
+      "content": "Soooo M\u00c3\u00a4dels bin fertig ist aber schon noch schlecht :* :( macht das beste daraus ich hab mich bem\u00c3\u00bcht einiges rein zu bringen :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378655928340,
+      "content": "Kein Problem :* ich bin jetzt aber kurz gassi d.h vllt kann ich es euch erst um 8 schicken aber das geht ja oder? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378653764375,
+      "content": "HAMMER TANJA, danke !!!!!! \u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378650425572,
+      "content": "Ok gut :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378650412411,
+      "content": "(y) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378650183624,
+      "content": "Ich schicks dann sobald ich heute fertig bin dann haben wir ja noch nen ganzen tag f\u00c3\u00bcr Verbesserungen und so :* <3 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378648262542,
+      "content": "wirklich? :) ok, dann machen wirs so :) DANKE !!!!! <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378648213668,
+      "content": "Also machen wirs so ich schreib bis heute abend dann das alles fertig und schicke es euch und ihr korrigiert und versch\u00c3\u00b6nert es macht Bilder dazu und druckt es aus dann ist es fair und jeder hat was gemacht ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378648032368,
+      "content": "ne, ich denke wir m\u00c3\u00bcssen keine quellen angeben ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378648020682,
+      "content": "tanja du bist ein schatz!!\nja schicks uns doch mal, sollen wirs einfach bei dem, was du jetzt hast belassen? \noder fehlt noch was wichtiges? \n\n<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378646642307,
+      "content": "Also ich hab ne Seite aufm Computer schon getippt soll ich es dir schicken oder eben einer von euch und soll ich noch was machen oder so? :) (Quellen m\u00c3\u00bcssen wir nicht angeben oder? )",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378641605069,
+      "content": "Weshalb das gebaut wurde und so v:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378641592003,
+      "content": "Also ich w\u00c3\u00bcrde sagen eine macht Geschichte eine andere was das eigentlich ist oder was es da zu sehen gibt und ne andere was wei\u00c3\u009f ich also vielleicht warum das so bleibt ist oder wie das mit Rom in Verbindung steht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378641023195,
+      "content": "stimmt :)\nund wie machen wirs jetzt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378640743591,
+      "content": "5-10 Minuten um maximal 2 Seiten dachte ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378640704828,
+      "content": "keine ahnung .. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378640544015,
+      "content": "Muss ja eh nicht lange sein? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378640537750,
+      "content": "Also ich hab bisschen angefangen :) durchlesen in Wikipedia ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378640501034,
+      "content": "ah stimmt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378640453769,
+      "content": "Petersdom oder? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378640448348,
+      "content": "mhm ... ich muss mal schauen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378639861264,
+      "content": "Was ist denn unser Thema ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378639855913,
+      "content": "Am Dienstag ????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378638921382,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378638919206,
+      "content": "soooo meine s\u00c3\u00bc\u00c3\u009fen, ... wir haben noch nichts f\u00c3\u00bcr dieses referat!! und am dienstag m\u00c3\u00bcssen wirs abgeben ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lena-Marie und Kirsten",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lenamarieundkirsten_mbt_wd5cig",
+  "magic_words": [
+    
+  ]
+}

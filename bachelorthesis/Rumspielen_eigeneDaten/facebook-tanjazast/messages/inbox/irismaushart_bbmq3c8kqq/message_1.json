@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Iris Maushart"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Iris Maushart",
+      "timestamp_ms": 1457684338572,
+      "content": "danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Iris Maushart",
+      "timestamp_ms": 1457684335686,
+      "content": "oh schaut das gut aus ...muss ich unbedingt ausprobieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457682708412,
+      "content": "Ist es die gleiche Pizza?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457634353716,
+      "content": "Der Link zu der Pizza \u00f3\u00be\u008c\u00ad\u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457634344304,
+      "content": "http://www.boomshalalaa.com/low-carb-zucchini-pizza/",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Iris Maushart",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/irismaushart_bbmq3c8kqq",
+  "magic_words": [
+    
+  ]
+}

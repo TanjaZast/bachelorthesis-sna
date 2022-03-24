@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Chris H\u00c3\u00b6gg"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437131816329,
+      "content": "Vielen vielen Dank! Bis sp\u00c3\u00a4ter dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris H\u00c3\u00b6gg",
+      "timestamp_ms": 1437074784024,
+      "content": "Passt wir k\u00c3\u00b6nnen Sie mitnehmen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437074200847,
+      "content": "Ja genau,\n es stellt sich dann eben die Frage ob ich morgen fr\u00c3\u00bch zum Bahnhof nach Laupheim mit dem Auto fahre oder von meiner Mama hingefahren werde. Hin kommen wir dann gemeinsam mit der Filiale. W\u00c3\u00bcrde also nur um den R\u00c3\u00bcckweg nach Ulm gehen. Stimmt, dem k\u00c3\u00b6nnte ich auch schnell schreiben. \n\nVielen Dank Herr H\u00c3\u00b6gg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris H\u00c3\u00b6gg",
+      "timestamp_ms": 1437073878147,
+      "content": "Aber Herr Arslan kann Sie auch mitnehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris H\u00c3\u00b6gg",
+      "timestamp_ms": 1437073862571,
+      "content": "Ich habe der Kollegin geschrieben aber noch keine Antwort bekommen... Kommen sie selber hin? Es ging ja nur zum dir R\u00c3\u00bcckfahrt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437070505861,
+      "content": "Guten Abend Herr H\u00c3\u00b6gg, \n\nKann ich morgen bei Ihnen mitfahren? \n\nLiebe Gr\u00c3\u00bc\u00c3\u009fe und einen sch\u00c3\u00b6nen Abend \n\nTanja",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chris H\u00c3\u00b6gg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chrishogg_edc2sqnfsa",
+  "magic_words": [
+    
+  ]
+}

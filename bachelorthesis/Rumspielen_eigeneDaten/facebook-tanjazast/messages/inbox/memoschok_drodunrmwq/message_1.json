@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Memosch Ok"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Memosch Ok",
+      "timestamp_ms": 1430651692781,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Memosch Ok",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/memoschok_drodunrmwq",
+  "magic_words": [
+    
+  ]
+}

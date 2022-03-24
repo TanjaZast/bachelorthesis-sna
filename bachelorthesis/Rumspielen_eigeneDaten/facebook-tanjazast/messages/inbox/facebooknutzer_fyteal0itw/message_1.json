@@ -1,0 +1,250 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1442059362182,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1441891036103,
+      "content": "Haha okey \u00e2\u0098\u00ba kann auf facebook nur wenige bilder von dir sehen war mir deshalb nicht sicher, aber bist echt bildh\u00c3\u00bcbsch wollte ich dir sagen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1441890819106,
+      "content": "Ja das k\u00c3\u00b6nnte sein \u00f3\u00be\u008d\u0095\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1441889932187,
+      "content": "Tanjalein\u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1441867729101,
+      "content": "Wie soll dieses h\u00c3\u00bcbsche da denn Hei\u00c3\u009fen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1441845274670,
+      "content": "Kann es sein das du die h\u00c3\u00bcbsche aus instagram bist? \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419603935306,
+      "content": "hey \u00e2\u0098\u00ba\u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419598907684,
+      "content": "ich auch :) wir m\u00c3\u00bcssen mal zusammen eine shisha rauchen :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419590523634,
+      "content": "18 du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419546594928,
+      "content": "wie alt bist du ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419546589643,
+      "content": "kein thema :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419543597682,
+      "content": "Sorry. \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419543593801,
+      "content": "Aaaaah :) jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419543339719,
+      "content": "am Rathaus ist es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419543330706,
+      "content": "nein \u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419543310148,
+      "content": "Bei der St Hildegard in ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419543291973,
+      "content": "kennst du Rose ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419542685796,
+      "content": "Geil \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419542681075,
+      "content": "Welche :)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419542647637,
+      "content": "ich hab eine shisha bar :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419542642584,
+      "content": ":)*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419542640223,
+      "content": "s\u00c3\u00bc\u00c3\u009f :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419542591881,
+      "content": "Was arbeitest du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419542587980,
+      "content": ":) nen lagotto romagnolo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419540971363,
+      "content": "was hast du f\u00c3\u00bcr einen hund ? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419540964808,
+      "content": "ich bin grad arbeiten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419540671058,
+      "content": "War gassi du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419539752469,
+      "content": "ja klar :) was treibst du so ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419539503326,
+      "content": "Ja bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419537220601,
+      "content": "alles klar ? :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419537189209,
+      "content": "Hey?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419537010255,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1414519290084,
+      "content": "hey :) alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_fyteal0itw",
+  "magic_words": [
+    
+  ]
+}

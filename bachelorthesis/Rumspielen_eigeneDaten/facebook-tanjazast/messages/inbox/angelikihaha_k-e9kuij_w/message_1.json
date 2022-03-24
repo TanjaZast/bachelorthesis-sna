@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Angeliki HaHa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angeliki HaHa",
+      "timestamp_ms": 1386856617943,
+      "content": "Wieso das des? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386855463425,
+      "content": "Angi du musst einen Kuchen f\u00c3\u00bcr morgen machen :*! Danke dir und falls du keine zeit hast kauf einen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Angeliki HaHa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/angelikihaha_k-e9kuij_w",
+  "magic_words": [
+    
+  ]
+}

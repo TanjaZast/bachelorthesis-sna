@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Anita Glater"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anita Glater",
+      "timestamp_ms": 1349505849664,
+      "content": "Hallo. ohne auf diese nachricht zu antworten, setze ein Herz an deine Pinnwand. Ohne Kommentar, nur ein Herz. Sende dann diese Nachricht an alle deine Freunde, nur an Frauen. Setze dann ein Herz an die Pinnwand von der du die Nachricht erhalten hast. Wenn jemand fragt warum du so viele Herzen auf deiner PW hast beantworte diese Frage nicht, dies ist nur fuer Frauen bestimmt, denn es ist die Woche fuer die Suche nach der Heilung fuer Brustkrebs.Eine kleine Geste der weiblichen Solidarit\u00c3\u00a4t.Danke\n\nPS: ein Herz machst Du indem Du < und 3 dr\u00c3\u00bcckst.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anita Glater",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anitaglater_aq2yzaam3g",
+  "magic_words": [
+    
+  ]
+}

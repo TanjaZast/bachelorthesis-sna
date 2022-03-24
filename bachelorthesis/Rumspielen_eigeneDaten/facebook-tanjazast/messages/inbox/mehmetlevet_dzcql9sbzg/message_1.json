@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Mehmet Levet"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mehmet Levet",
+      "timestamp_ms": 1414948631881,
+      "content": "Hey wie gehts \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mehmet Levet",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mehmetlevet_dzcql9sbzg",
+  "magic_words": [
+    
+  ]
+}

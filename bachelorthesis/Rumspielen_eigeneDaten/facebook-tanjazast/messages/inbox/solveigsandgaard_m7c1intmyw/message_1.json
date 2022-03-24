@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Solveig Sandgaard"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Solveig Sandgaard",
+      "timestamp_ms": 1344894463475,
+      "content": "ja find ich auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344894251691,
+      "content": "Die doofen :D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Solveig Sandgaard",
+      "timestamp_ms": 1344894018669,
+      "content": "ja.. :D die kinder nebenan wollten shlafen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893889804,
+      "content": ":) oh nein wie gemein ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Solveig Sandgaard",
+      "timestamp_ms": 1344893806419,
+      "content": "wir durften nicht mehr durchs fenster reden :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893688431,
+      "content": ":) auch haha ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Solveig Sandgaard",
+      "timestamp_ms": 1344893297433,
+      "content": "sehr gut :) und euch? :*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893264752,
+      "content": "wie gehts euch da dr\u00c3\u00bcben? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Solveig Sandgaard",
+      "timestamp_ms": 1344893224392,
+      "content": "na :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893016509,
+      "content": "heei :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Solveig Sandgaard",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/solveigsandgaard_m7c1intmyw",
+  "magic_words": [
+    
+  ]
+}

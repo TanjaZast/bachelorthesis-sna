@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Andreas Zauner"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1418300268322,
+      "content": "Passt schon 20 ist ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418300131928,
+      "content": "Und wie ist das bei einem gemeinsamen Fotoshooting :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1418300040702,
+      "content": "Also wenn ich ne Unterschrift bekomme nur 5 \u00e2\u0082\u00ac je Bild was sie will oder ohne Unterschrift 20 f\u00c3\u00bcrs Shooting und 5 je foto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418299232776,
+      "content": "Ich w\u00c3\u00bcrde das gerne ihr und ihrem Freund zu Weihnachten schenken ihr Freund ist 19 und sie selbst wird im August 18 aber das w\u00c3\u00a4re ja kein Ding :) also wie viel w\u00c3\u00bcrde mich der Spa\u00c3\u009f das kosten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1418285712277,
+      "content": "So mit Unterschrift w\u00c3\u00a4ren es 5 \u00e2\u0082\u00ac pro Foto dass man will ... Ohne Unterschrift geht's nur bei 18 j\u00c3\u00a4hrigen dann kostet des Shooting selbst 20 und je Foto 5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1418285369682,
+      "content": "Aso ok dann m\u00c3\u00bcsste ich ne Unterschrift von den ellis bekommen des w\u00c3\u00a4re des :D wann ist sie 18?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418285274619,
+      "content": "Okay wie viel :)\n\nHmm w\u00c3\u00a4re leider nur bei mir der Fall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1418284135498,
+      "content": "Huhu du hast mir auf meiner Seite geschrieben wegs fotoshooting :) also ihr m\u00c3\u00bcsstet beide 18 sein und es w\u00c3\u00a4re nicht kostenlos",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1397319109888,
+      "content": "Supi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397318983647,
+      "content": "Ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1397154672482,
+      "content": "Wenn de 18 bist k\u00c3\u00b6mmer ja machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397147954284,
+      "content": "Was w\u00c3\u00a4re cool? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1397146498459,
+      "content": "Ja w\u00c3\u00a4re doch cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397143983053,
+      "content": "Lust ja aber 18 werde ich erst im Juni :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1397137260711,
+      "content": "Hmm du kennst mich nicht ich wollte fragen ob du 18 bist und Lust auf n fotoshootong h\u00c3\u00a4ttest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397130166203,
+      "content": "Sorry wenn ich dumm frage aber wer bist du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Zauner",
+      "timestamp_ms": 1397124009122,
+      "content": "Huhu Tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Andreas Zauner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/andreaszauner_n3vhafa9ka",
+  "magic_words": [
+    
+  ]
+}

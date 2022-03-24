@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Valentina Giuca"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335895160128,
+      "content": "Heeei du :* :** ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Valentina Giuca",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/valentinagiuca_jxjrpcnmka",
+  "magic_words": [
+    
+  ]
+}

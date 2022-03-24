@@ -1,0 +1,267 @@
+{
+  "participants": [
+    {
+      "name": "Jana Sch\u00c3\u00b6ne"
+    },
+    {
+      "name": "Hendrik Tobner"
+    },
+    {
+      "name": "Anthony-Lee Burnett"
+    },
+    {
+      "name": "Marco K\u00c3\u00bcbler"
+    },
+    {
+      "name": "Timo Hetzlowitch"
+    },
+    {
+      "name": "Hendrik Z\u00c3\u00a4nker"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Chrissi Hilpert"
+    },
+    {
+      "name": "Thackerie Earwicket"
+    },
+    {
+      "name": "Samuel Black Smoker"
+    },
+    {
+      "name": "Tobias Baitz"
+    },
+    {
+      "name": "Little Emy"
+    },
+    {
+      "name": "Fabian Kiefer"
+    },
+    {
+      "name": "Ulmer Poetik"
+    },
+    {
+      "name": "Laura Laura"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Sara Tekin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ali Aydin",
+      "timestamp_ms": 1405449597121,
+      "content": "Ali Aydin hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ali Aydin"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saliha Spahic Gonzalez",
+      "timestamp_ms": 1405198434788,
+      "content": "Saliha Spahic Gonzalez hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Saliha Spahic Gonzalez"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Schneider",
+      "timestamp_ms": 1405164200091,
+      "content": "Tanja Schneider hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Schneider"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1405113827105,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Krissi Noskov",
+      "timestamp_ms": 1405111487478,
+      "content": "Krissi Noskov hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Krissi Noskov"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jenny Gl\u00c3\u00a4\u00c3\u009fer",
+      "timestamp_ms": 1405083582693,
+      "content": "Jenny Gl\u00c3\u00a4\u00c3\u009fer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jenny Gl\u00c3\u00a4\u00c3\u009fer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1405080662179,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Klaudia Ania",
+      "timestamp_ms": 1405079376056,
+      "content": "Klaudia Ania hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Klaudia Ania"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kim Mosby",
+      "timestamp_ms": 1405079260634,
+      "content": "Kim Mosby hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kim Mosby"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1405078738448,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samuel Pfisterer",
+      "timestamp_ms": 1405078705032,
+      "content": "Samuel Pfisterer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Samuel Pfisterer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Barko",
+      "timestamp_ms": 1405078513569,
+      "content": "Dominik Barko hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Dominik Barko"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1405078344881,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kat Rin",
+      "timestamp_ms": 1405078334332,
+      "content": "Kat Rin hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kat Rin"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lukas Higher",
+      "timestamp_ms": 1405078279678,
+      "content": "Lukas Higher hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lukas Higher"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcus H\u00c3\u00a4ussler",
+      "timestamp_ms": 1405078248475,
+      "content": "Marcus H\u00c3\u00a4ussler hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marcus H\u00c3\u00a4ussler"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rrahman Kryeziu",
+      "timestamp_ms": 1405078243374,
+      "content": "Rrahman Kryeziu hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rrahman Kryeziu"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Little Emy",
+      "timestamp_ms": 1405078208840,
+      "content": "Eine tolle Art, ein neues iPad zu gewinnen ... \r\n http://t.co/G6hWA2EKmU",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jana, Hendrik, Anthony-Lee und 13 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/janahendrikanthonyleeund13weiterepersonen_av5vo9_taq",
+  "magic_words": [
+    
+  ]
+}

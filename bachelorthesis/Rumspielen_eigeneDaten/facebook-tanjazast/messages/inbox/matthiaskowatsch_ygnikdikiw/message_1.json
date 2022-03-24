@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Matthias Kowatsch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matthias Kowatsch",
+      "timestamp_ms": 1559709842015,
+      "content": "Matthias winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthias Kowatsch",
+      "timestamp_ms": 1559683117277,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Matthias Kowatsch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/matthiaskowatsch_ygnikdikiw",
+  "magic_words": [
+    
+  ]
+}

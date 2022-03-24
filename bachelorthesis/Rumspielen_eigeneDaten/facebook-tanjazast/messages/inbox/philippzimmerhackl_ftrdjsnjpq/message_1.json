@@ -1,0 +1,320 @@
+{
+  "participants": [
+    {
+      "name": "Philipp Zimmerhackl"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573571237686,
+      "content": "Oh das ist aber lieb von euch \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573571213625,
+      "content": "Mache ich :) \nVielen vielen Dank! Wir werden dich dann am Sonntag auch erw\u00c3\u00a4hnen dass du sehr gut kooperiert hast \u00f0\u009f\u0098\u0082\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573571090402,
+      "content": "Hast du mir ihre Nummer? Dann Regel ich das. Oder du gibst ihr meine: 0178/4550858",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573571051794,
+      "content": "Ich fahr Freitag nach Stuttgart, hab aber nen Ersatzschl\u00c3\u00bcssel. Den kann ich ja der Caro geben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573571016182,
+      "content": "Brauchst du den Schl\u00c3\u00bcssel am Samstag nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573571009431,
+      "content": "Ja, Caro kommt auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573570996940,
+      "content": "Kommt die Caro auch? Die arbeitet ja in Ehingen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573570947802,
+      "content": "Ich glaube da kommen alle aus Stuttgart oder Erbach. Sind ja nur die Brautjungfern, Trauzeugin + Mona und ich.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573570826931,
+      "content": "Kommt denn jemand aus Ehingen dazu?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573570657979,
+      "content": "Ahhh stimmt da hat sie was gesagt. Super Idee!!!\nDann Versteck ich ihn am Haus oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573570625661,
+      "content": "Ne, sie f\u00c3\u00a4hrt zu Mona zum Pl\u00c3\u00a4tzchen backen und wir fangen sie ab \u00f0\u009f\u0098\u0082 also ein Teil der Gruppe. Der andere dekoriert die Wohnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1573570576772,
+      "content": "Hey, wei\u00c3\u009f Sarah denn dass sie daheim bleiben muss?\nKennst du jemand in Ehingen dem ich ihn geben kann? Ansonsten verstecke ich ihn am Haus \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573570442902,
+      "content": "Huhu :) \nDer Sonntag r\u00c3\u00bcckt immer n\u00c3\u00a4her!!!! Wie k\u00c3\u00b6nnen wir es am besten mit dem Schl\u00c3\u00bcssel l\u00c3\u00b6sen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1572373954365,
+      "content": "Ja am besten ohne mich planen, aber sonst helfe ich nat\u00c3\u00bcrlich wo es geht. Schl\u00c3\u00bcssel ist gar kein Thema",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1572369306728,
+      "content": "Also k\u00c3\u00b6nnen/ sollten wir ohne dich planen? :) w\u00c3\u00bcrdest du uns ggf. euren Schl\u00c3\u00bcssel zur Verf\u00c3\u00bcgung stellen oder ist es dir lieber wenn wir es bei mir machen? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1572369226908,
+      "content": "Noch nix gebucht, werd aber das we weg sein, so wie es aussieht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1572368407996,
+      "content": "Huhu :) wei\u00c3\u009ft du schon mehr wegen dem snowboarden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1570968958298,
+      "content": "Auch ne gute Alternative. Dann da auf jeden Fall viel Spa\u00c3\u009f!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570885162336,
+      "content": "Leider nicht. Bin in Schottland bis Dienstag aber Mona wei\u00c3\u009f Bescheid. Und wegen Trainingslager bin ich eh bei allem dabei und flexibel solange es nicht zu teuer ist. \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1570871640436,
+      "content": "Denke das w\u00c3\u00a4re Freitag bis Sonntag. Aber k\u00c3\u00b6nnen wir ja heut Abend nochmal quatschen oder? Du kommst doch auch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570871573082,
+      "content": "Ich frag mal die M\u00c3\u00a4dels aber denke kaum dass wir niemanden finden. \u00e2\u0098\u00ba\u00ef\u00b8\u008f also kannst gerne In die Berge",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570871390142,
+      "content": "Hmmm eigentlich schon. Sonst lenken Mona oder ich sie ab. Sind ja genug M\u00c3\u00a4dels dabei. W\u00c3\u00a4rst dann Samstag und Sonntag weg? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1570871259451,
+      "content": "Das Ding ist, dass ich noch ein WE mit dem Kumpel zum snowboarden geplant hatte (Ende Nov.) der k\u00c3\u00b6nnte jetzt aber eher doch an dem besagten...kriegen wir das trotzdem hin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570871161360,
+      "content": "Bis 13 Uhr besch\u00c3\u00a4ftigen w\u00c3\u00a4re mega cool \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb und normal ist das dann leider schon ein Frauending aber du k\u00c3\u00b6nntest ja trainieren gehen oder so \u00f0\u009f\u0098\u0085 aber zu essen bekommst auf jeden Fall auch was ab.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1570788341377,
+      "content": "Hey, in wiefern soll ich mir den Tag f\u00c3\u00bcr mich freihalten? Bin ich da dabei? \u00f0\u009f\u0098\u00ac \nWei\u00c3\u009f ehrlich gesagt gar nicht wie so ne Baby-Party abl\u00c3\u00a4uft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570183267070,
+      "content": "Und bitte melden falls Sarah noch w\u00c3\u00bcnsche \u00c3\u00a4u\u00c3\u009fert \u00f0\u009f\u008e\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1570183216170,
+      "content": "Also, 17.11 ist die Party. Bitte den Tag f\u00c3\u00bcr Sarah und dich freihalten. Wir melden uns dann nochmals bei dir aber du kannst dir gerne schon was \u00c3\u00bcberlegen als Ablenkung \u00f0\u009f\u0098\u0082\u00e2\u0098\u009d\u00f0\u009f\u008f\u00bc danke dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568368272166,
+      "content": "Klaro, mach ich!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568365490125,
+      "content": "Perfekt, danke \u00f0\u009f\u0099\u0082\nFalls Sie noch etwas erw\u00c3\u00a4hnt (beil\u00c3\u00a4ufig oder wie auch immer) magst du mir dann bitte alles schreiben dann kann ich es den M\u00c3\u00a4dels weiterleiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568355682932,
+      "content": "Also Strampler in der kleinsten Gr\u00c3\u00b6\u00c3\u009fe sind auf jeden Fall hoch im Kurs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568354629002,
+      "content": "Werden wir nicht \u00f0\u009f\u0098\u0085\u00f0\u009f\u00a4\u00aa aber brauchen Inspiration \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568354253144,
+      "content": "Guten Morgen, ne Liste haben wir nicht. Bitte st\u00c3\u00bcrzt euch auch nicht in Unkosten. Ein paar Windeln und ein Strampler reichen doch ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568353533185,
+      "content": "Guten Morgen :) \nHabt ihr ne Liste mit Sachen die ihr f\u00c3\u00bcrs Baby braucht oder die Sarah braucht? \u00f0\u009f\u00a4\u0094 \nDanke dir f\u00c3\u00bcr alles \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568294888201,
+      "content": "Haja klar, Lockvogel sein ist meine Lieblingsbesch\u00c3\u00a4ftigung ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568282920237,
+      "content": "Wir brauchen dich halt wom\u00c3\u00b6glich als Lockvogel \u00f0\u009f\u0098\u0085 w\u00c3\u00a4re das okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568276680794,
+      "content": "Also mit mir hat sie keinen gemeinsamen Termin \u00f0\u009f\u0098\u0081\nDenke gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568271915496,
+      "content": "Wie sieht bei Sarah der 16.11 oder 17.11 aus? \u00f0\u009f\u00a4\u0094\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568092734724,
+      "content": "Ja klar, macht das! \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568092716511,
+      "content": "Aaaah perfekt! Vielen vielen Dank! \u00e2\u0098\u00ba\u00ef\u00b8\u008f wir kommen dann sicher noch auf dich zur\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568092637585,
+      "content": "Da w\u00c3\u00bcrde sie sich sicher sehr freuen, ich kann dir gern mal die Nummer ihrer Trauzeugin schicken: 0163/3321088.\nIch denke die w\u00c3\u00bcsste Bescheid...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568090767271,
+      "content": "Hmmm, danke f\u00c3\u00bcr deine Antwort. Hast du ne Idee wie wir das herausfinden? Weil Mona und ich w\u00c3\u00bcrden mega gerne eine baby-Party f\u00c3\u00bcr sie schmei\u00c3\u009fen im November so mit allem was dazugeh\u00c3\u00b6rt. Wollten halt dich und ihre Brautjungfern einweihen aber m\u00c3\u00bcssten halt wissen ob die was planen \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Zimmerhackl",
+      "timestamp_ms": 1568044029728,
+      "content": "Hey Tanja, da bin ich voll \u00c3\u00bcberfragt \u00f0\u009f\u0098\u00ac keine Ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568018146012,
+      "content": "Hallo Philipp \u00e2\u0098\u00ba\u00ef\u00b8\u008f\nSag mal, wei\u00c3\u009ft du zuf\u00c3\u00a4llig ob die M\u00c3\u00a4dels von Sarah eine Babyparty f\u00c3\u00bcr sie machen wollten? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Philipp Zimmerhackl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/philippzimmerhackl_ftrdjsnjpq",
+  "magic_words": [
+    
+  ]
+}

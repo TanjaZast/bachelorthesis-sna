@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Steve Urlaub"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1505032269401,
+      "content": "Kennst mich noch \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1505032260942,
+      "content": "Hello :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1458977389781,
+      "content": "Hey Tanja kennst mich noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1380874745705,
+      "content": "Schreibst mir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1380873887060,
+      "content": "Ich mein ein neues Handy :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1380873868800,
+      "content": "Welche? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1380873696777,
+      "content": "Schreib mir mal in Whats App hab ne neue Nummer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Urlaub",
+      "timestamp_ms": 1377122903593,
+      "content": "Hab eine neue nummer :)) \n015221792669",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steve Urlaub",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/steveurlaub_zmcov7eklg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1493888884933,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ez_ldimx6w",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1287169528000,
+      "content": "hi m\u00c3\u00a4dels man hatte sich \u00c3\u00bcberlegt, das die frauen mal was bei facebook machen sollten. und letztes jahr hat jede die farbe ihres bhs bei facebook gepostet und alle jungs wunderten sich warum alle m\u00c3\u00a4dels einfach nur eine farbe als status hatten. dieses jahr wollen wir posten wohin jeder seine handtasche nach dem nachhause kommen legt. z.b \"i like it on the floor\" \"i like it on the desk\" etc. postet einfach den ort wo ihr eure tasche gerne hinlegt wenn ihr nach hause kommt die bhs habens sogar in die nachrichten geschafft weil die m\u00c3\u00a4nnliche welt ziemlich verwirrt war schickt diese nachricht an alle WEIBLICHEN freunde bei facebook und postet euren lieblingshandtaschen ort auf verwirrte m\u00c3\u00a4nner ;D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_-tnycsmtca",
+  "magic_words": [
+    
+  ]
+}

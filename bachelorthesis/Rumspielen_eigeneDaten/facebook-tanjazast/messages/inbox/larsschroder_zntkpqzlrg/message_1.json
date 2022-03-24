@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Lars Schr\u00c3\u00b6der"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343760138933,
+      "content": ":) stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343759990683,
+      "content": "  Ka",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343759809917,
+      "content": ":) wer schon nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343759683078,
+      "content": "Hahahh ich will auch shopprn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343757811123,
+      "content": "Ja ich auch :) aber ich versuche fast nichts zu essen um alles f\u00c3\u00bcrs shoppen auszugeben :P :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343757703138,
+      "content": "400 glaube ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343757592655,
+      "content": ":) kp mal schauen *:P du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343757375734,
+      "content": ":) und nimmst du viel Geld mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343757236947,
+      "content": "Ja weiss ich dann auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343757086273,
+      "content": "Ja nur das du weisst wer ich bin :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343757060184,
+      "content": ":) ja mir geht's gut :P hab ich mir fast schon gedacht ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lars Schr\u00c3\u00b6der",
+      "timestamp_ms": 1343756928495,
+      "content": "Hey na wie gehts dir ich fahr auch mit nach England",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lars Schr\u00c3\u00b6der",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/larsschroder_zntkpqzlrg",
+  "magic_words": [
+    
+  ]
+}

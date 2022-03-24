@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Noni Winona Chan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309106677659,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Noni Winona Chan",
+      "timestamp_ms": 1309106668271,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309106617562,
+      "content": "passt schon :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Noni Winona Chan",
+      "timestamp_ms": 1309106605662,
+      "content": "sorry! :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309106464328,
+      "content": "oh ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Noni Winona Chan",
+      "timestamp_ms": 1309106435815,
+      "content": "nein! :DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309106376153,
+      "content": "hey :) hast du schon mal ne powerpoint gemacht?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Noni Winona Chan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/noniwinonachan_tvjspgzluq",
+  "magic_words": [
+    
+  ]
+}

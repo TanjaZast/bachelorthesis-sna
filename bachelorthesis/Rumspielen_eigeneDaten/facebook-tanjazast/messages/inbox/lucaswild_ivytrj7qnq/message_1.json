@@ -1,0 +1,3846 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Wild"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428062540451,
+      "content": "Wo warst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428062536906,
+      "content": "So viele Leute \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428062532150,
+      "content": "War so viel los !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428062526553,
+      "content": "Aber was waren das auch f\u00c3\u00bcr spasten die betrunken fahren m\u00c3\u00bcssen ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428062511027,
+      "content": "Ja richtig krass",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428062036192,
+      "content": "Warum so lustig \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428062029058,
+      "content": "Alter das mit dem Unfall heut morgen ist ja richtig schlimm \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428061868606,
+      "content": "So witzig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428061866310,
+      "content": "Hammer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428061587030,
+      "content": "\u00f3\u00be\u008c\u00b5 wie war es gestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428061488180,
+      "content": "Ja so bin ich \u00f3\u00be\u008d\u0083\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428060924612,
+      "content": "\u00f3\u00be\u008c\u00b5 \u00ef\u00b8\u008fhahaha mega sehr aufmerksam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428060748443,
+      "content": "Der alten Zeiten willen hahah\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428060726397,
+      "content": "Ja klar \u00f3\u00be\u008c\u00b5 war nur verwundert dass du auf FB geschrieben hast \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428060110508,
+      "content": "Ja und bei dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428058992949,
+      "content": "Hey \u00f3\u00be\u008c\u00b5 alles okay bei dir? \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1428049204713,
+      "content": "Hey \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418421919954,
+      "content": "017684746640",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418421846211,
+      "content": "Hahaha gib Nummer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418421677483,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418421672554,
+      "content": "Schicks mir in whatsapp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418421630582,
+      "content": "Ich kann hier keine Videos schicken \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418421534029,
+      "content": "Schick mal eins haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418421509726,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418421497733,
+      "content": "Chillen und du :) ah und dubsmash Videos drehen fb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418420874258,
+      "content": "Was machst du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418420807359,
+      "content": "Haha Achso ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418420155603,
+      "content": "Freizeitgestaltung:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418419980595,
+      "content": ":) Hahahaha und als was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419909486,
+      "content": "K\u00c3\u00b6nnte man dich buchen, w\u00c3\u00bcrde ich es auf jeden Fall machen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419422354,
+      "content": "Also gut dann wissen wir es beide nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418419392429,
+      "content": "Ja nein eben nicht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419325314,
+      "content": "Du musst dass doch wissen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419318103,
+      "content": "ja ich wei\u00c3\u009f es nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418419269325,
+      "content": ":) hahahaah wollte ich dich ja fragen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419173116,
+      "content": "Um ausgebucht zu sein muss man dich ja buchen k\u00c3\u00b6nnen verstehst\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418419154021,
+      "content": "ja du hast doch das mit ausgebucht verstanden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418419004402,
+      "content": "Genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418419001972,
+      "content": ":) hahaha was meinst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418418874378,
+      "content": "Hahaha kann man dich den Buchen?\u00f3\u00be\u008d\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418418840099,
+      "content": "Hahaha ich habe gelesen: Mich wunderts eh dass du noch nicht l\u00c3\u00a4ngst ausgebucht bist \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418418600795,
+      "content": "Nat\u00c3\u00bcrlich:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418418597766,
+      "content": "Was ist das f\u00c3\u00bcr ne frage",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418418585676,
+      "content": "Willst es wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418418583470,
+      "content": ":) hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418418372354,
+      "content": "Was diesmal schon wieder haha?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418418360534,
+      "content": "Klingt interessant;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418417780113,
+      "content": "Davor hab ich noch was viel besseres gelesen hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418417767528,
+      "content": "Also hip Hop mehr lady style :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418417760145,
+      "content": ":) so von meiner Gruppe aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418417206991,
+      "content": "Was tanzt ihr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418417199566,
+      "content": "Was war das jetzt f\u00c3\u00bcr ein Auftritt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418417180198,
+      "content": "Du bist so ne Kandidatin:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418417014039,
+      "content": "Schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418417011220,
+      "content": "HHahaha \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416818879,
+      "content": "also mit dem lesen hast du's nicht so gell:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416798872,
+      "content": "Okay sorry \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 dann du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416678674,
+      "content": "ICH, nicht du:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416647982,
+      "content": "Spinnst du ich bin immer bis 3 wach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416640657,
+      "content": ":) warum sollte ich denn \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416589931,
+      "content": "Mich wunderts eh dass ich noch nicht l\u00c3\u00a4ngst eingepennt bin:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416564358,
+      "content": "Hahah \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416535388,
+      "content": "Nur nicht heute!:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416528739,
+      "content": "F\u00c3\u00bcr dich nehm ich mir immer zeit:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416498025,
+      "content": "Ja wann bitte \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416483371,
+      "content": "Ja gut:D k\u00c3\u00b6nnen dieses Wochenende gerne was machen, da habe ich nichts dagegen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416455635,
+      "content": "Warum nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418416434124,
+      "content": "Willst die Brosch\u00c3\u00bcre echt haben?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416405056,
+      "content": "Sag mal :)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418416131739,
+      "content": "Also wo soll Ich hin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418415654618,
+      "content": "Sagt mir nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418415166018,
+      "content": "Muhur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418414806525,
+      "content": "Lidia ?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418414786079,
+      "content": "Nein tanzen :) also mit Lidia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418414761550,
+      "content": "Cheerleading oder was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418414754281,
+      "content": "Siehst du echt\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418414706212,
+      "content": "Klar so sehr ich aus \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418413317282,
+      "content": "bisch du da Model oda?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418413201252,
+      "content": ":) ratiopharm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418413189335,
+      "content": "Hahaha nein so was er nicht Gemeint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418413175593,
+      "content": "Meinte Eig wo du dein Auftritt hast:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418413159201,
+      "content": "Du gehst aber ran:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418413146808,
+      "content": "Kp sag du :) aber man muss mim Auto hinkommen k\u00c3\u00b6nnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418413121604,
+      "content": "Wo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418413009149,
+      "content": "K\u00c3\u00b6nnte in 45 Minuten bis ner Stunde da sein hab zuerst nen Auftritt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418412970468,
+      "content": "Hol sie dir halt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418412955236,
+      "content": "Ist klar \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 gib zuerst die Brosch\u00c3\u00bcre",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418412932481,
+      "content": "Bin der Wolf der Spa\u00c3\u009fkasse haha\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418410815382,
+      "content": "Jajaja s\u00c3\u00bcchtig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418405299706,
+      "content": "Yes:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418404502326,
+      "content": ":) hahaha big love",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418404373221,
+      "content": "Liebs myers echt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418404123432,
+      "content": "Hahahahah \u00f3\u00be\u008c\u00b4 immer gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418402994496,
+      "content": "Beschde Laden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418402683743,
+      "content": "Ja wo sonst \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418402299702,
+      "content": "Myers nat\u00c3\u00bcrlich:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418401311449,
+      "content": "Wo warst denn :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418401058318,
+      "content": "So eskaliert und heute arbeiten \u00f3\u00be\u008c\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418401037968,
+      "content": "Wir hatten Weihnachtsfeier :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418401025960,
+      "content": "Ja haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418400949534,
+      "content": "Musste lernen warst du etwa \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418399262007,
+      "content": "Ja richtig:D wieso warst gestern nicht weg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418397557125,
+      "content": ":) hahaha den f\u00c3\u00a4hrst du dahin also wo bist gerade in welchem Bereich halt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418392003785,
+      "content": "Ja denn stell ich mir dann an meinen Arbeitsplatz haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418389252485,
+      "content": "Wei\u00c3\u009f nicht soll ich dir den besorgen?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418389005332,
+      "content": "?*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418389004367,
+      "content": "Wo steht der(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418388997875,
+      "content": "Alter haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418388996106,
+      "content": "Besser sich strohdumm f\u00c3\u00bchlen als es zu sein:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418388479574,
+      "content": "Das ist ein Schreibtisch \u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418388472877,
+      "photos": [
+        {
+          "uri": "messages/inbox/lucaswild_ivytrj7qnq/photos/10859802_898637206843797_1298949506_n_898637206843797.jpg",
+          "creation_timestamp": 1418388471
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418386734864,
+      "content": "Glaubst auch nur du :) ich f\u00c3\u00bchle mich strohdumm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418384678097,
+      "content": "Wahrscheinlich nicht so gut wie du:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418384640716,
+      "content": ":) ja dringend!! Kennst dich mit bwl aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418384530013,
+      "content": "m\u00c3\u00bcss mer halt bis dahin was machen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418383668706,
+      "content": "Ja ich br\u00c3\u00a4uchte es halt bis Montag :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418382599752,
+      "content": "Ja Eig echt behindert und sinnlos von uns haha\nSoll ich sie dir n\u00c3\u00a4chstes mal mitbringen?;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418382542960,
+      "content": "Oha \u00f3\u00be\u008c\u00af und das in unbeschr\u00c3\u00a4nkter H\u00c3\u00b6he? Okay danke bist der beste \u00f3\u00be\u00ae\u009f danke f\u00c3\u00bcr die M\u00c3\u00bche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418382393016,
+      "content": "Also sprich wenn jemand mal richtig muckt und gewinnt, k\u00c3\u00b6nnen wir hier alles dicht machen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418382361374,
+      "content": "Mit den gesamten Mitteln aller Sparkassen Deutschlands, Landesbanken und Landesbausparkassen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418382310123,
+      "content": "Hahah ja:D hab hier sogar extra ne ganz tolle Brosch\u00c3\u00bcre f\u00c3\u00bcr dich rausgekramt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418380060750,
+      "content": "Geht das etwas genauer? Mit welchem Geld",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418378358294,
+      "content": "S-Finanzgruppe haftet im Kollektiv in unbeschr\u00c3\u00a4nkter H\u00c3\u00b6he",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418376201036,
+      "content": "Ja wer haftet und was f\u00c3\u00bcr ein Verm\u00c3\u00b6gen haftet da mit?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418350977248,
+      "content": "Haftung inwiefern ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418316309746,
+      "content": "Wie ist eigentlich die Haftung bei Sparkassen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418316301414,
+      "content": "Hahahahaha \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418315852890,
+      "content": "Hahah lebst noch?\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418311064304,
+      "content": "Eh rot",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418311062578,
+      "content": "Oha du Charmeur \u00f3\u00be\u008c\u00afich werde ganz tot",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418308820755,
+      "content": "Bei dir mein ich's auch so;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418306839149,
+      "content": "Gesagt ist das eine.. \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418301452152,
+      "content": "Nein:D ich habe gesagt du bist h\u00c3\u00bcbsch und schlau:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418301202876,
+      "content": "Hahahaha du aber gemeint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418300693391,
+      "content": "Das hast jetzt du gesagt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418250089879,
+      "content": "Das ist jetzt eine L\u00c3\u00bcge \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418249750805,
+      "content": "Du siehst schon so schlau und sexy aus:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418249643774,
+      "content": "Hahaha warum hast du dir das schon gedacht \u00f3\u00be\u008c\u00af\u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418249439604,
+      "content": "Aber die F\u00c3\u00a4cher sind schon eher au\u00c3\u009fergew\u00c3\u00b6hnlich\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418249418372,
+      "content": "Also dass du gut in der Schule bist habe ich mir schon gedacht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418249343698,
+      "content": "Hahaha \u00f3\u00be\u008c\u00b8 \nDenkt man eigentlich nicht gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418249290416,
+      "content": "Uff:D du krasses Ding du\u00f3\u00be\u008c\u00b1\nDa z\u00c3\u00a4hlst du glaub echt eher zu den Ausnahmen, kein Wunder dass du was mit Mathe studieren willst:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418249134810,
+      "content": "Nein?! Ich war in Mathe echt die beste meine schlechteste Note waren glaub 13 \u00f0\u009f\u0098\u0087\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418229817984,
+      "content": "Achso war das nicht ironisch gemeint haha?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418227053792,
+      "content": "Naja findest? Bei uns waren alle schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418216322198,
+      "content": "die Standardf\u00c3\u00a4cher halt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418216116419,
+      "content": ":) nur in Mathe und Physik war ich immer sehr gut \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418213760316,
+      "content": "Ja arg viel schlechter sicher nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418213340523,
+      "content": ":) hahaha sch\u00c3\u00b6n w\u00c3\u00a4re es \u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7 ein Traum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418194072913,
+      "content": "Du bist so eine die am Ende ne 1 schreibt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418165684103,
+      "content": "Aber nur mal eine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418165674328,
+      "content": "Ja \u00f3\u00be\u008c\u00b9\u00f3\u00be\u00b0\u00a6 Hahaah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418160209997,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418158337951,
+      "content": "\u00f0\u009f\u0098\u0087hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418158303931,
+      "content": "Was ist am Montag? Pr\u00c3\u00bcfung ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418158266254,
+      "content": "Ja zur Abwechslung bin selbst \u00c3\u00bcberrascht aber ich schaffe das nicht alles bis Montag \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418151647941,
+      "content": "warst mal bissle produktiv?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418151630101,
+      "content": "was hast du heute gemacht?;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418150921890,
+      "content": ":) Machs nicht so mysteri\u00c3\u00b6s",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418147160018,
+      "content": "Vielleicht, vielleicht nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418147035563,
+      "content": "Selten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418147032751,
+      "content": ":) hahaha also ob du dich Seiten lobst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418146789008,
+      "content": "Ich lob mich selten selbst, aber ja so bin ich:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418145536105,
+      "content": ":) ist ja herzzerrei\u00c3\u009fend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418134698185,
+      "content": "Au\u00c3\u009ferdem hab ich mir ja vorgenommen nett zu sein:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418134675196,
+      "content": "Nach langem abw\u00c3\u00a4gen des F\u00c3\u00bcr und Wider kam ich zu dem Entschluss: Ja:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418134415422,
+      "content": "Hahahah du opferst dich f\u00c3\u00bcr mich? \u00f0\u009f\u0098\u0087\u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418126409397,
+      "content": "Am liebsten w\u00c3\u00bcrde ich grad so viel essen um selber dick zu werden und dich damit zu erl\u00c3\u00b6sen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418124723576,
+      "content": "Findest du etwa nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418123127651,
+      "content": "Du \u00c3\u0084rmste:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418118433886,
+      "content": "Ich bin verzweifelt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418118429684,
+      "content": "Ja siehst mal wie schlimm diese Krankheit ist\u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418112820067,
+      "content": "Du bist mir so eine\u00f3\u00be\u008c\u00b1\nbei ca. 500 Millionen Fettleibigen (Quelle Bild\u00f3\u00be\u008c\u00b4) gehen dir die M\u00c3\u00a4nner aus:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418077233202,
+      "content": ":) oh ja bald gehen Sie mir aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418077009699,
+      "content": "dann hast aber n ordentlichen M\u00c3\u00a4nnerverschlei\u00c3\u009f:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418076836836,
+      "content": "Ich teile doch nicht sondern esse ihn mit auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418076630755,
+      "content": "Bei 50% fettanteil wird's mit essen teilen schwer\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418076589405,
+      "content": "Er sollte: mindestens 50% Fettanteil haben klein faul sein und meine gr\u00c3\u00b6\u00c3\u009fte Leidenschaft mit mir Teilen: Essen!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418076460202,
+      "content": "Ich kann die online Dating Annonce  schon f\u00c3\u00b6rmlich sehen:D\n100kg pure Leidenschaft auf der Suche nach ihrem Seelenverwandten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418076184454,
+      "content": "Findest du das nicht attraktiv",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418075649976,
+      "content": "Hahaha beides :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418075555345,
+      "content": "Bei dir oder bei den Jungs?\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418075478803,
+      "content": "Unter 100 Kilo geht leider nichts bei mir :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418074954278,
+      "content": "wieso? Stehst du auf Fettis oder?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418074544780,
+      "content": "Leider \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418074262277,
+      "content": "Wohl wahr\u00f3\u00be\u008d\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418073508582,
+      "content": ":) aber ihr M\u00c3\u00a4nner setzt da nicht an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418072751222,
+      "content": "Ja kommt mir bekannt vor:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418071572468,
+      "content": "Ich hab immer Hunger \u00f3\u00be\u008c\u00af\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418071564890,
+      "content": ";)Hahahah danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418063705819,
+      "content": "Ja endlich;) hatte so Hunger..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418063696919,
+      "content": "Dumm sein ist einfach scheisse\u00f3\u00be\u008c\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418059501806,
+      "content": "Hast Feierabend :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418059495099,
+      "content": "Ja zum lernen \u00f3\u00be\u008c\u00b9aber ich bin so unproduktiv und kapiere so viel nicht jajaja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418058762715,
+      "content": "Bist jetzt die Woche \u00c3\u00bcber wieder in Ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418052406511,
+      "content": "Nein bin da Gerade fahre nach ulm :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418050830479,
+      "content": "Heim im Sinne von nach Karlsruhe?\nArbeiten halt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418048721352,
+      "content": "Du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418048719425,
+      "content": "Hab recht Vorlesung und danach nen Bankendialog und Fahre um halb 10 heim \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418039001031,
+      "content": "was machst du dann heute sch\u00c3\u00b6nes?;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418037909055,
+      "content": "Hahaha doch ich hab immer alles im Griff! \u00f3\u00be\u008c\u00a8\u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418036020001,
+      "content": "Du blickst es halt mal wieder nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418035193415,
+      "content": "Aber das ist alles Mega kompliziert wei\u00c3\u009f selber nicht wann ich was hab und wann nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1418028889529,
+      "content": "Assi:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417992846440,
+      "content": ":) nicht wirklich kompliziert \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417992586479,
+      "content": "Ja ist doch so:D\nHast morgen wieder frei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417992450739,
+      "content": "Hahahah jaja schon klar :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417992005814,
+      "content": "Solche V\u00c3\u00b6gel:D\nDie Sch\u00c3\u00b6neberger hat sich aber gut gehalten f\u00c3\u00bcr ihr Alter:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417991897322,
+      "content": "Hahaha hab's gesehen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417991462150,
+      "content": "die Spastis haben jetzt den Joke mit der icebucketchallenge gebracht haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417990853367,
+      "content": "Experte ist das perfekte Wort daf\u00c3\u00bcr \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417989998616,
+      "content": "Bei den Experten von RTL:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417989970269,
+      "content": "Wo L\u00c3\u00a4uft der \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417989699117,
+      "content": "Ich guck gerade diesen Mega spannenden Jahresr\u00c3\u00bcckblick haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417989496040,
+      "content": "Oh doch auf snapchat Bilder verschicken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417989473817,
+      "content": "Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417989469250,
+      "content": "Hmmmmm nichts!\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417989403227,
+      "content": "Was machst du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417988929902,
+      "content": "Hahahah Wortwitz \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417988426491,
+      "content": "bin halt ein ganz wilder lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417988155174,
+      "content": "Ja wenn ich deinen Namen h\u00c3\u00b6re ist das das einzig positive \u00f3\u00be\u008d\u0096\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417987833545,
+      "content": "Kennst mich doch, ich \u00c3\u00bcbertreibe gerne:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417987784964,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f h\u00c3\u00a4tte es jetzt etwas runtergeschraubt aber passt schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417987444589,
+      "content": "Ich probier's halt, klappt mal mehr mal weniger\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417987382636,
+      "content": "Soso kannst du schon selbstst\u00c3\u00a4ndig denken? \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417987142357,
+      "content": "Dachte dass muss nicht noch extra erw\u00c3\u00a4hnt werden:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417986372015,
+      "content": "Sagst du erst jetzt? \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417986129946,
+      "content": "Ja bist wirklich nicht von schlechten Eltern:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417985902561,
+      "content": "Hahahah yes Yes ich bin so gut!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417985369098,
+      "content": "dass du mit deinem Bild von mir v\u00c3\u00b6llig richtig liegst\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417985147932,
+      "content": "Dann muss ich dir jetzt leider mitteilen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417984887193,
+      "content": "Nicht immer \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417984620317,
+      "content": "sch\u00c3\u00a4tzt du mich etwa so ein, dass ich immer \u00c3\u00bcbertreibe ?;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417984547968,
+      "content": "Hast gestern wieder \u00c3\u00bcbertrieben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417984539503,
+      "content": "Bin eine wilde Katze Alter \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4jedes Wochenende so was von am Start",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417984272014,
+      "content": "Du altes partygirl:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417983901031,
+      "content": "Ich bin eingepennt \u00f3\u00be\u008c\u00b4bei meiner Freundin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417983885927,
+      "content": "Uuuh ganz spannende Geschichte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417983256110,
+      "content": "Was hast du Jetzt eigentlich gestern gemacht?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417983239142,
+      "content": "Ich werd's wohl \u00c3\u00bcberleben:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417982725735,
+      "content": "Ob es schlimm ist? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417982402167,
+      "content": "Das wird mich noch auf ewig verfolgen\u00f3\u00be\u008c\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417982304242,
+      "content": "Gut das ich wenigstens vorhin gesagt hab: egal was du sagst ein mal mehr \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417981244273,
+      "content": "was erwartest du auch wenn sich zwei dumme unterhalten?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417980623135,
+      "content": "HHHA NICHT \u00f3\u00be\u008c\u00b4 du checkst mein Prinzip nicht \u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417980113468,
+      "content": "Warum sorgen?:D also nach deiner letzten Nachricht ist die positive Seite doch stark angewachsen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979424413,
+      "content": "\u00f3\u00be\u008c\u00b4 zwei Dumme ein Gedanke \nIch w\u00c3\u00bcrde mir Sorgen machen liebes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979403195,
+      "content": "Mister ich wei\u00c3\u009f und kann alles besser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417979392858,
+      "content": "Ah gleicher Gedanke:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417979388119,
+      "content": "Super gut aussehend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979382837,
+      "content": "Topmodell \u00c3\u00bcberhaupt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979367966,
+      "content": "Super schlau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979362633,
+      "content": "Mister Mega lustig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979346242,
+      "content": "Achso okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417979164281,
+      "content": "Richtiger sparwitz:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417979154851,
+      "content": "Ja hahah:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979131728,
+      "content": "Checkst hahahaah? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f. Man \u00ef\u00b8\u008fbin ich lustig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417979115316,
+      "content": "Nene wenn du dir weiterhin locken machst kannst du dir das so was von abschneiden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978966883,
+      "content": "Halb so wild, wenn ich erstmal meine Nasenhaare einsetze verf\u00c3\u00a4llst du mir eh v\u00c3\u00b6llig:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417978870641,
+      "content": "Und die Rechte Liste wird l\u00c3\u00a4nger und l\u00c3\u00a4nger wie wollen sie dagegen vorgehen? \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978677165,
+      "content": "Ja bissle gefailt haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417978587511,
+      "content": ",,kurze Haare sind du'' und direkt danach sch\u00c3\u00b6n bl\u00c3\u00b6d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417978553344,
+      "content": "Das war aber ein Freud'scher Verschreiber \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978289563,
+      "content": "\u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978282373,
+      "content": "W\u00c3\u00a4ren* schon bl\u00c3\u00b6d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978264857,
+      "content": "Ja kurze Haare sind du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417978228813,
+      "content": "\u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417978225433,
+      "content": "Mach doch keine locken rein dann machst se nie kaputt bekommst spliss und musst se k\u00c3\u00bcrzen. Wei\u00c3\u009ft du, dann w\u00c3\u00a4re die Arbeit f\u00c3\u00bcr NICHTS gewesen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978013028,
+      "content": "Bin auch echt stolz auf meine Arbeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417978001660,
+      "content": "Ja vor allem honoriert auch niemand den Aufwand den ich mit denen habe, Duschen, Sp\u00c3\u00bclung rein machen, f\u00c3\u00b6hnen, locken rein machen, Haarspray ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417977920791,
+      "content": "Oha wie unaufmerksam die Menschen heutzutage sind!? Ist das denn sonst niemandem aufgefallen?! \u00f3\u00be\u00b0\u00a6 ich meine so was sch\u00c3\u00b6nes \u00c3\u00bcbersieht man doch nicht einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417977852289,
+      "content": "Ja danke dass es dir aufgefallen ist:) z\u00c3\u00bcchte die schon Mehrere Monate",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417977816704,
+      "content": "Verdammt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417977816626,
+      "content": "Ich finde deine nasenhaare soooo wundervoll! \u00f3\u00be\u008c\u00b4 \n(Da wir beim Komplimente machen sind)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417977798491,
+      "content": "Egal was du sagst du einmal mehr \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417977778571,
+      "content": "du hast aber die viel sch\u00c3\u00b6nere\u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417977733814,
+      "content": "Nein du hast ne sch\u00c3\u00b6ne Schrift \u00f3\u00be\u008c\u00a7!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417977680219,
+      "content": "ja hast echt ne sch\u00c3\u00b6ne Schrift:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417975866170,
+      "content": "Jajaja denkst du echt ich ruiniere diese wundervolle handgeschriebene Liste durch streichen? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417975138723,
+      "content": "Dann kannst die negative Seite gleich streichen hehe:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417973979368,
+      "content": "Puh bin ja gleich viel erleichterter \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417973631098,
+      "content": "dann bin ich jetzt vorerst erstmal nett:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417972957221,
+      "content": "Hahaha ja FAST gleich viele aber solltest dich noch etwas ranhalten \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417972872424,
+      "content": "wenigstens hab ich genauso viele positive wie negative Eigenschaften\u00f3\u00be\u00ad\u009e\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417972111367,
+      "photos": [
+        {
+          "uri": "messages/inbox/lucaswild_ivytrj7qnq/photos/10841135_895868867120631_286236972_n_895868867120631.jpg",
+          "creation_timestamp": 1417972110
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417972103724,
+      "content": "Ja aber nicht bei allen... Warte deine bearbeite ich gerade noch \u00f3\u00be\u00ae\u009f:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417971398411,
+      "content": "vermutlich:D\nF\u00c3\u00bchrst du so ein Notizbuch wo du gute und schlechte Eigenschaften von M\u00c3\u00a4nnerbekanntschaften reinschreibst?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417971185901,
+      "content": "Ne jetzt ernsthaft ist doch gleich viel besser wenn du lieb und s\u00c3\u00bc\u00c3\u009f zu mir bist sonst bekommst direkt schlechte Charakter Eigenschaften zugeschrieben \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417971114979,
+      "content": "Ist das eine rhetorische Frage \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417970972086,
+      "content": "Bin manchmal gar nicht so \u00c3\u00bcbel gell:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417970729581,
+      "content": "Wow seit wann sagst du so s\u00c3\u00bc\u00c3\u009fe Sachen \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417969888898,
+      "content": "So eine h\u00c3\u00bcbsche kann man gar nicht \u00c3\u00bcbersehen\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417968546431,
+      "content": "Nein w\u00c3\u00a4re es nicht wie viele Leute immer in Clubs rumspringen \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417968526733,
+      "content": "Ja hab ich \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f so einer also",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417967902667,
+      "content": "Ja da hast recht:D \nDas w\u00c3\u00a4r mir ja wohl aufgefallen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417963151286,
+      "content": "Du hast ja nichts gesagt selber schuld \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f und woher wei\u00c3\u009ft du das ich nicht war?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417960340148,
+      "content": "Du ja leider nicht\u00f3\u00be\u008c\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417960329957,
+      "content": "Oh Sorry gar nicht mehr gesehen..\nWar noch spontan im Theatro haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417900741217,
+      "content": "Wei\u00c3\u009f nicht bei dir ;)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417899299424,
+      "content": "was geht heute?;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417896070313,
+      "content": "Gemeinheit \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417893651127,
+      "content": "war schon immer ein schlechter fussballer\u00f3\u00be\u008c\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417885709640,
+      "content": "Hahahaha Oha zwangsweise? Jetzt hast dir ein Eigentor geschossen \u00f3\u00be\u00ae\u009f\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417885656831,
+      "content": "Ja warum nicht? H\u00c3\u00a4tten uns dann schon irgendwie zwangsweise kennengelernt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417885560710,
+      "content": "Ernsthaft? Ich wollte dich noch fragen aber dachte mir: ne was der dann von mir denken muss ich frage Leute die ich nicht mal wirklich kenne ob die mit mir ins myers wollen \u00f3\u00be\u00b0\u00a6 warum sagst du nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417885469913,
+      "content": "Warum hast nicht gesagt dass du gehst..?\nMeine Gays von Freunde wollten nur n chilligen Abend machen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417884680891,
+      "content": "Hahahaah gell \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\nEhm war im myers und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417882949984,
+      "content": "Was hast gestern so gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417882940389,
+      "content": "ganz die hilflose:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417880956725,
+      "content": ":) nein ich bin ein schwaches M\u00c3\u00a4dchen  und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417875642833,
+      "content": "Gegen ne 77 J\u00c3\u00a4hrige wirst es ja wohl noch alleine schaffen?\u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417874884729,
+      "content": "Hahahaha etwa nicht \u00f3\u00be\u008c\u00b9 dann besch\u00c3\u00bctze ich mich halt selber!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417863103032,
+      "content": "Ein wahrer Samariter\u00f3\u00be\u008c\u00b8\u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417827420765,
+      "content": "Ach echt jetzt!? Das ist ja zu g\u00c3\u00bctig \u00f3\u00be\u00ae\u009f\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417821547268,
+      "content": "Das steht ja sowieso au\u00c3\u009fer Frage:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417818413899,
+      "content": "Hahaha mich besch\u00c3\u00bctzen!!!\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417817667166,
+      "content": "Klar, p\u00c3\u00b6beln ist meine Leidenschaft :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417807604197,
+      "content": "Hahah du h\u00c3\u00a4ttest die bestimmt fertig gemacht \u00f3\u00be\u00ae\u009f\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417802865126,
+      "content": "Die alte scheint ja echt auf Krawall geb\u00c3\u00bcrstet zu sein:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417798895430,
+      "content": "Ne verw\u00c3\u00b6hnte G\u00c3\u00b6re und so Zeug. H\u00c3\u00a4tte kein Held Blabla",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417797686424,
+      "content": "Was hat die zu dir gesagt?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417792713564,
+      "content": "Hahaha die ist 77 \u00f3\u00be\u008c\u00b5als ob ich so was mache?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417781544517,
+      "content": "h\u00c3\u00a4ttest sie halt zu Boden gewrestelt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417781282385,
+      "content": "Ja echt so gestern Abend ist die Situation zwischen uns eskaliert ich wusste nicht, dass Omis so gemein sein k\u00c3\u00b6nnen \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417780979599,
+      "content": "Ja wird zeit dass du wieder zur\u00c3\u00bcck kommst:D die Omi hatte dich jetzt wieder lange genug\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417731886251,
+      "content": "Hahahah nein nein haben Apps zudem auch noch getestet \u00f3\u00be\u00ae\u009f\u00f3\u00be\u008c\u00b4 Mega lustig aber morgen geht es heim \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417717628265,
+      "content": "Hahaha ja das kommt mir bekannt vor:D bei der Arbeit sind 9gag und Youtube zum gl\u00c3\u00bcck gesperrt\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417701803961,
+      "content": "Bwl und bwl Bank und Mathe aber hab nicht alles geschafft hab zu coole Videos gefunden \u00f3\u00be\u00ae\u009f\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417642716703,
+      "content": "ohje was musst lernen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417642684197,
+      "content": "Nein nicht so fr\u00c3\u00bch \u00f3\u00be\u00ae\u009f viel Sp\u00c3\u00a4ter und nein ich geh hier nicht weg ich war im Fitness und lege Meine zweite Nachtschicht lernen ein \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417642414098,
+      "content": "Und du als Feierbiest genau anders herum:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417642379762,
+      "content": "Seht ihr euch \u00c3\u00bcberhaupt mal?:D die geht doch bestimmt um 18 Uhr ins Bett und steht um 5 morgens auf\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417642329617,
+      "content": "Hab ich aber nicht verdient dein Benehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417642317742,
+      "content": "Hallo die ist 77 die schl\u00c3\u00a4ft \u00f3\u00be\u008c\u00b4!! War heute eh den ganzen Tag weg bin erst vorhin heimgekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417642257996,
+      "content": "Hehe\u00f3\u00be\u008c\u00ab\nWas macht deine Mitbewohnerin so? Immer noch aufm\u00c3\u00bcpfig?\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417641379811,
+      "content": "Nicht zu mir das ist der Punkt \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417640926430,
+      "content": "Mit dem Unterschied dass es bei mir stimmt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417639855107,
+      "content": "Hahahaha sagen se alle \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417636430145,
+      "content": "Eigentlich bin ich ein ganz ein lieber\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417614016196,
+      "content": "Nein? \u00f3\u00be\u008c\u00b4 du Bist schlimmer also hab ich dir sogar noch geschmeichelt \u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417612789548,
+      "content": "ganz sch\u00c3\u00b6n frech\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417606644768,
+      "content": "Sei mal kein M\u00c3\u00a4dchen? \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417606044622,
+      "content": "Toll jetzt steh ich ja auch gar nicht unter Druck oder so \u00f3\u00be\u008c\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417601490985,
+      "content": "Okay zeig was du drauf hast \u00f3\u00be\u00ae\u009f\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417601197029,
+      "content": "Ja geil sowas macht Spa\u00c3\u009f:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417600813300,
+      "content": "Beginnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417600809480,
+      "content": "Mit mir legt man sich nicht an s\u00c3\u00bc\u00c3\u009fer \u00f3\u00be\u008c\u00b5 m\u00c3\u00b6ge der Krieg begonnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417600556430,
+      "content": "Jetzt geht's aber los du\u00f3\u00be\u008c\u00af\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417600304933,
+      "content": "Deine Charaktereigenschaften kommentiere ich lieber nicht \u00f3\u00be\u00b0\u00ae\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417599852976,
+      "content": "Bitte nichts zu danken:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417599710866,
+      "content": "HahHaha okay danke \u00f3\u00be\u008d\u0083 das ist viel zu nett und Mega geschmeichelt ich finde es toll das du so ein perfektes Bild von mir hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417599409144,
+      "content": "Ich w\u00c3\u00bcrde sagen eine freiberufliche T\u00c3\u00a4nzerin:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417599386024,
+      "content": "Nein das stimmt nicht ganz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417599304012,
+      "content": "L\u00c3\u00a4uft bei dir B\u00c3\u00b6rse M\u00c3\u00b6rse \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417599276020,
+      "content": "Also bin ich in deinen Augen eine faule Partymaus die hauptberuflich Stripperin ist und zudem Analphabetin \u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417599099582,
+      "content": "Dann sollte ich jetzt aufh\u00c3\u00b6ren, will ja nicht dass du traurig wirst:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417598572962,
+      "content": "Alles falsch \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f aber wirklich alles und das mit Myers ist nicht mehr lustig \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417598308992,
+      "content": "Stimmt doch alles?\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417598291840,
+      "content": "Nein:D\n- macht nichts au\u00c3\u009fer feiern\n- schiebt gerne alles bis zum Schluss auf \n- T\u00c3\u00a4nzerin im Myers und wahrscheinlich auch Karlsruhe\n- verschreibt sich fast nie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417597939787,
+      "content": "Nein w\u00c3\u00a4re nur nett \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4ja du hast auch voll das falsche von mir!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417597820779,
+      "content": "Das w\u00c3\u00a4r ja jetzt langweilig wenn ich hier auspacke und dir alles erz\u00c3\u00a4hle:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417597562846,
+      "content": "Jaja inwiefern \u00f3\u00be\u008c\u00b4 erz\u00c3\u00a4hl mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417597293846,
+      "content": "Du hast ein v\u00c3\u00b6llig falsches Bild von mir\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417596924882,
+      "content": "\u00f3\u00be\u008c\u00b9 jetzt wirst aber gemein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417596819783,
+      "content": "In Karlsruhe gibt's ja sicher auch Clubs:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417595468372,
+      "content": "Hahahah nein das mache ich nicht mehr \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417595048012,
+      "content": "Dass du deinem Job nicht mehr undercover nachgehen kannst?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417593500136,
+      "content": "Ja klar was sonst \u00f3\u00be\u008c\u00b4 nur das beste vom besten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417593476777,
+      "content": "Hahahaha das mit Myers regt mich aber jetzt richtig auf \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417592277097,
+      "content": "Richtiger Traummann haha\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417558675691,
+      "content": "Hahaha hast ja die perfekten Charaktereigenschaften \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417558481653,
+      "content": "Na vielen Dank haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417558476013,
+      "content": "soso Spanner bin ich also auch noch\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417558286927,
+      "content": "Hahaha voll \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4du Spanner",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417558096774,
+      "content": "Ich h\u00c3\u00a4tte doch bei den trovatos als Detektiv einsteigen sollen\u00f3\u00be\u008c\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417557980472,
+      "content": "Bingo \u00f3\u00be\u008c\u00b4 hat ja auch geklappt \u00e2\u009c\u008c\u00ef\u00b8\u008f\u00f3\u00be\u00ae\u009f man wie aufmerksam bist du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417557801481,
+      "content": "Daher auch der neue Haarschnitt:D du wolltest nur unerkannt bleiben:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417556849900,
+      "content": "Ich kann auch nichts mehr schreiben \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\nOha \u00f3\u00be\u00b0\u00a6 das war jetzt gemein und man hat mich nicht erkannt au\u00c3\u009fer jetzt du \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417556281340,
+      "content": "Karriere im Myers an der Tanzstange\u00f3\u00be\u008c\u00b4\nJa wir schreiben auch immer zu lange Nachrichten, da muss man sich erst immer wieder einlesen um es wieder zu checken\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417554996137,
+      "content": "Ja meiner ist \u00c3\u00a4hnlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417554984431,
+      "content": "Ja das meinte ich auch so aber dann hab ich nochmal nachgedacht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417554970491,
+      "content": "Man muss Priorit\u00c3\u00a4ten setzen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417554184144,
+      "content": "Hast geschrieben ich tu kaum was au\u00c3\u009fer feiern haha\u00f3\u00be\u008c\u00b4\nJa klar sch\u00c3\u00b6n w\u00c3\u00a4r's haha\u00f3\u00be\u008c\u00b4 der Alltag besteht halt aus aufstehen, arbeiten,essen,bissle tv und schlafen:D\nWar eher so gemeint das man fr\u00c3\u00bcher halt jeden Tag zeit gehabt hat und jetzt ist man froh wenn man es schafft 2 Tage am we was zu machen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417553833211,
+      "content": "Du tust ja mal mega vielbesch\u00c3\u00a4ftigt Mister ich bin so busy \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417553734019,
+      "content": "Wie habe ich mich verschrieben? \nDoch klar bei mir geht da in der praxisphase jeden Abend noch was \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417553692652,
+      "content": "Hahaha was hei\u00c3\u009ft schon wieder \u00f3\u00be\u008c\u00a8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417553561179,
+      "content": "Vllt ab und zu noch am we:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417553545199,
+      "content": "Privatleben existiert neben dem arbeiten einfach nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417553531589,
+      "content": "Ja ich wei\u00c3\u009f schon, hast dich nur oben schon wieder verschrieben gehabt haha\u00f3\u00be\u008c\u00a9\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417552330332,
+      "content": "Bin ich nicht \u00f3\u00be\u008c\u00b9 okay ich mache Referate und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417552314112,
+      "content": "Ja kann ich mir denken und dann bei dem Wetter \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417552299760,
+      "content": "Stimmt nicht ich bin jeden Tag im Fitness also Dienstag bis Donnerstag und fr\u00c3\u00bcher Montag bis Freitag \u00f3\u00be\u008c\u00b4 hab sonst keine Freunde \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417544970949,
+      "content": "Ja da kriegst die Krise ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417544965074,
+      "content": "Du altes partygirl haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417544952430,
+      "content": "Soso du machst also kaum was au\u00c3\u009fer feiern?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417544939766,
+      "content": "Ja aber ich find auch das ist logischer als das was man in der Schule macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417543389351,
+      "content": "Heim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417543387344,
+      "content": "Okay das sind echt dumme Arbeitszeiten verl\u00c3\u00a4sst das Haus es ist dunkel und kommst Nachts Heil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417543355014,
+      "content": ":) aber damit kann man was anfangen \u00f3\u00be\u008d\u0095\u00e2\u009c\u008c\u00ef\u00b8\u008f \nJa schon also es geht noch ist halt so wie kurz vorm abi vom Stress her und das jeden Tag au\u00c3\u009fer ich :) ich tu kaum was au\u00c3\u009fer feiern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417535954529,
+      "content": "Ja eben so klingts auch haha\u00f3\u00be\u008c\u00b1\nFindest du's jetzt viel schwerer als in der Schule?\nSchon w\u00c3\u00a4r's haha, noch ne Stunde ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417535100159,
+      "content": "Ja wima ist 60% Mathe oder mehr und auch richtig krank \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f\nAber hast recht unser Mathe in der Schule ist zum Vergleich ein Klacks gewesen. Und Feierabend?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417533857414,
+      "content": "Ich find es gibt bei Mathe schon auch noch unterschiede, aber hab da kp war nur spekuliert haha:F\nWima klingt voll kompliziert:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417533804057,
+      "content": "Ja aber wima doch mehr als Bei der Bank oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417531505416,
+      "content": "Dann musst deine Karriere \u00c3\u00bcberdenken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417531483681,
+      "content": "\u00f3\u00be\u008c\u00b4 Bank besteht zu 50% Minimum aus Mathe wiwi nur 40 oder 30",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417531234848,
+      "content": "Nicht schlecht:D w\u00c3\u00a4r mir viel zu viel Mathe haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417530427311,
+      "content": "Ja Wirtschaftswissenschaften und Wirtschaftsmathe \u00f3\u00be\u00ae\u0097 sehr sehr gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417529031895,
+      "content": "Sind das schon die Studieng\u00c3\u00a4nge Wirtschaftswissenschaften oder Wirtschaftsinformatik ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417525186136,
+      "content": "Hahaha wiwi in ulm oder wima :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417525171974,
+      "content": "Hahaha Oha jetzt hat dein vielleicht alles zerst\u00c3\u00b6rt \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417524701679,
+      "content": "Geil haha\u00f3\u00be\u00ae\u0097 Was h\u00c3\u00a4ttest du dann gemacht wenn's nicht geklappt h\u00c3\u00a4tte?\nVielleicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417523681157,
+      "content": "Nein ich hab das nur just for fun gemacht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f \n\nHahah ist das ein Kompliment? \u00f3\u00be\u008d\u0081 uh danke!?\n\nJa willkommen im Klub hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417523166692,
+      "content": "Achso also deine Schuld haha:D\nJa das kann ich mir gut vorstellen dass die dich gut fanden:D\nKommt mir bekannt vor haha;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417522271932,
+      "content": ":) ja ich hab mich im Juni f\u00c3\u00bcr 2014 beworben \u00f3\u00be\u008c\u00b4 bzw Mai und hatte im Juli das Gespr\u00c3\u00a4ch und ich glaube die fanden mich dann gut \u00f3\u00be\u008c\u00b1 ich mache immer alles auf den letzten Dr\u00c3\u00bccker",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417520834809,
+      "content": "Das ist ja Total behindert!\nBist du nachger\u00c3\u00bcckt oder sagen die immer erst so sp\u00c3\u00a4t zu ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417514178596,
+      "content": "Ehm hatte keine andere M\u00c3\u00b6glichkeit weil ich einen Monat vor Studienbeginn mitbekommen habe, dass ich den Platz bekommen habe :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417514144758,
+      "content": "HAha total gesponnen \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417513603442,
+      "content": "Die Oma wei\u00c3\u009f halt wie Business l\u00c3\u00a4uft haha:D\nWie kommt man Eig dazu bei ner Oma zu wohnen?\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417467119239,
+      "content": "Die will jetzt das ich jeden Monat zahle und das auch wenn ich nicht da bin und die Miete um 100 Euro erh\u00c3\u00b6hen \u00f3\u00be\u008c\u00b4\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417466130600,
+      "content": "Das ist eine wirklich interessante Kombi haha\u00f3\u00be\u008c\u00b1\nWieso was macht die haha?\nJa genau\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417460674554,
+      "content": "Ja bist dann auch immer wo anders also mal Pkb Vkb usw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417460652328,
+      "content": "Bis jetzt bei ner 77 j\u00c3\u00a4hrigen Oma aber ich muss mir was Neues suchen die spinnt bisschen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008d\u0095 aber das wird Mega schwer was zu finden \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417459910733,
+      "content": "Wohnst du dort dann in ner WG?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417459891531,
+      "content": "Haha ne schon immer verschiedenes, kommt halt drauf an wo ich bin:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417459720652,
+      "content": "Uuuh und t\u00c3\u00a4glich das gleiche? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f \nJa genau und am Freitag Mittag komme ich immer hierher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417457989525,
+      "content": "Wohnst du da dann unter der Woche?\nDer normale Wahnsinn, das ein oder andere Konto er\u00c3\u00b6ffnet, OBV Vertr\u00c3\u00a4ge und sowas:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417455906194,
+      "content": "Wie wars in der Bank",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417455899743,
+      "content": "Naja ist nicht so die Stadt in die ich mich verlieben k\u00c3\u00b6nnte \u00f3\u00be\u008c\u00b4\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417455584578,
+      "content": "Ja hab auch schon geh\u00c3\u00b6rt dass es da nicht unbedingt so sexy lexy ist:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417452512681,
+      "content": "Hahaha h\u00c3\u00a4tte ich jetzt nicht gedacht \u00f3\u00be\u008c\u00b4 nein erst morgen ich mag die Stadt Null ich bin um jeden Tag froh an dem ich nicht dort sein muss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417449867850,
+      "content": "Karriere ja, gefeuert werden nein:D\nF\u00c3\u00a4hrst du heute schon nach Karlsruhe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417446254612,
+      "content": "Hahaha hast das etwa vor \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417443654962,
+      "content": "Ja w\u00c3\u00a4r f\u00c3\u00bcr die eigene Karriere nicht unbedingt die beste Idee:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417443068413,
+      "content": ":) du w\u00c3\u00bcrdest sicher direkt fliegen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417442673148,
+      "content": "Sollte man echt mal machen, anders raffen die es scheinbar ja nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417440578953,
+      "content": "Hahahahaah sag das denen mal ins Gesicht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417438842793,
+      "content": "Ja die Zeiten sind halt vorbei, aber das Checken die vollpfosten halt nicht:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417438019587,
+      "content": "Das sind so Kunden die erwarten zwar Mega viel von der Bank wollen aber nicht mal einen Euro daf\u00c3\u00bcr zahlen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417437585447,
+      "content": "Ja bei uns erst recht, die rasten schon wegen scala aus haha:D\nHahaha Achso so hast du das gemeint gehabt, ja also das w\u00c3\u00bcrde mich halt am meisten reizen und interessieren. Aber dazu Wechsel zu aufjedenfall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417436461092,
+      "content": "Aber es ist verst\u00c3\u00a4ndlich \u00f3\u00be\u008c\u00b8 weder noch keins von deinem richtig ich dachte du wolltest auch was in die Richtung machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417436436871,
+      "content": "Hahahaha was die bei uns dann f\u00c3\u00bcr nen Aufstand machen und sich aufregen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417435558283,
+      "content": "Wenn du wir sagst meinst du dann deine Bank oder deine Familie ?:D\nF\u00c3\u00bcr die Banken eigentlich das einzig richtige, aber kannst den Kunden gegen\u00c3\u00bcber eigentlich nicht bringen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417435331757,
+      "content": "Hahahah als Privatmann brauchst da garnicht anfangen zu spekulieren und im vierstelligen Bereich zu investieren \u00f3\u00be\u008c\u00b4 deshalb gehen wir wenn wohin wo es sich lohnt und man nen sch\u00c3\u00b6nen Batzen Geld setzt\u00f3\u00be\u00ae\u009f\nJa echt so wie schei\u00c3\u009fe ist das bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417435047678,
+      "content": "Ja kann auch kein Schwein vorhersagen ob ne Aktie sicher hoch oder runter geht weil das einfach von so viel abh\u00c3\u00a4ngt\nGeld unterm Kopfkissen wie 1820 haha\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417434973243,
+      "content": "Hahahah ich lege da lieber daheim bald an ist sogar besser \u00e2\u009c\u008c\u00ef\u00b8\u008f\nDann mach es musst da nur auf dich h\u00c3\u00b6ren \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417434932998,
+      "content": "Also schau: wie war das bei bis jetzt jeden aktiencrash? so mega viele haben \u00c3\u00bcber Nacht alles verloren aber manche haben dann genau im richtigen Moment richtig gesetzt und investiert und sind da reich draus geworden \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417434737510,
+      "content": "Gut:D ja das mit den negativzinsen ist echt Ehrenlos haha\u00f3\u00be\u008c\u00b4\nJa irgendwie sagt jeder was anderes, aber ich investier jetzt einfach hab ein gutes Gef\u00c3\u00bchl dabei\u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417434540220,
+      "content": "Ich wei\u00c3\u009f was tiefkurswerte sind. \u00f3\u00be\u008c\u00b4 da wage ich nicht zu spekulieren genauso mit den Zinsen hat man auch gesagt tiefer kann es nicht mehr gehen die Kunden sollen sich keine Sorgen machen und jetzt \u00c3\u00bcberlegen einige Banken schon einen negativzins einzuf\u00c3\u00bchren. Also es ist nie verkehrt aber wie sich der Goldwert entwickelt musst dann Profis spekulieren lassen \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417434277039,
+      "content": "Die frage ist halt ob die wieder steigen ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417434266302,
+      "content": "Ja nicht deswegen, bin sehr Risikobereit haha, aber gold hat momentan tiefwertkurse, also Schn\u00c3\u00a4ppchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417432410528,
+      "content": "Hmmmm also unsere Professoren meinten das in Gold zu investieren niemals verkehrt w\u00c3\u00a4re weil da der Wert nicht rapide Fallen wird wie bei Investmentfonds oder anderen Wertpapieren und f\u00c3\u00bcr Risikoscheue Menschen w\u00c3\u00a4re das schon besser :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417432003305,
+      "content": "Ja ich auch unbedingt;)\nBrauch n\u00c3\u00a4mlich kurz ein Rat..\nW\u00c3\u00bcrdest du jetzt dann in Gold investieren wenn es unter 1000 USD f\u00c3\u00a4llt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417431471744,
+      "content": "Dann ist er nicht dein Vorbild \u00f3\u00be\u008c\u00b8\nJoa mehr oder weniger ich hab viel \u00c3\u00bcber Wertpapiere und AGs gelernt wei\u00c3\u009f wie es theoretisch aussehen sollte aber ich w\u00c3\u00bcrde gerne was in den Bereich machen \u00f3\u00be\u008c\u00b4 du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417430986069,
+      "content": "Nein das Ist gar nicht meine Welt:D\nKennst du dich mit Aktien aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417430194032,
+      "content": "Hahahaah \u00f3\u00be\u008c\u00b4 hast du dann auch als Zahnarzt begonnen? \u00f3\u00be\u00ae\u009f l\u00c3\u00a4uft bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417429348489,
+      "content": "Hahah klassischer B\u00c3\u00a4nker halt\u00f3\u00be\u008c\u00b4\nJordan belfort ist mein Vorbild haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417426783551,
+      "content": "Nein wei\u00c3\u009ft du wie ich geschaut hab?? \u00f3\u00be\u008d\u0081 ich dachte mir nur so: der ist doch nicht normal kein Wunder ist der bei der Bank um so was zu machen?! \u00f3\u00be\u008c\u00b4 nein habe ich nicht mal \u00f3\u00be\u00b0\u00a6 das war dann mittlerweile zwei Tage her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417388438408,
+      "content": "So geil musste voll loslachen haha\u00f3\u00be\u008c\u00b4 glaub du hast immer noch einen im Tee haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417387879634,
+      "content": "Hahaha wie lustig ich mich einfach verlesen haben \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417387817627,
+      "content": "Ansonsten h\u00c3\u00a4tte ich schon zu viele Jahre verschwendet\u00f3\u00be\u008c\u00a1\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417387781171,
+      "content": "stehe*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417387744263,
+      "content": "Also dass ich auf Frauen stehen bin ich mir eigentlich relativ sicher:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417386515338,
+      "content": "Hahahahaah wei\u00c3\u009f ich ja nicht auf was f\u00c3\u00bcr nen Typ Frau bzw Mann du stehst? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417386385296,
+      "content": "Hahah hab's gemerkt\u00f3\u00be\u008c\u00b4\nIst auch besser so dass das nicht der Fall ist, weil die sexy Filialdirektorin ist in Wirklichkeit ein alter, dicker Direktor:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417385944837,
+      "content": "Achso ja gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417385875878,
+      "content": "Hahahaah Shit sorry \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 war unkonzentriert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417385761935,
+      "content": "Bei der Spa\u00c3\u009fkasse haha;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417385753673,
+      "content": "Hahah sch\u00c3\u00b6n w\u00c3\u00a4r's:D les doch gescheit, hab Direktion geschrieben haha\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417385517284,
+      "content": "Welche Bank?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417385513061,
+      "content": "Du bist IN der filialdirektorin \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417385120639,
+      "content": "wie geil\u00f3\u00be\u008c\u00a1 und dann musst du nicht in die Bank?\nBin zurzeit in der Filialdirektion in Blaustein, die ist da direkt beim Hbf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417384678998,
+      "content": "In welcher Filiale bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417384673592,
+      "content": "Ja mal keine Vorlesungen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417384615262,
+      "content": "Wie jetzt du hast morgen frei?\u00f3\u00be\u008c\u00af\nIch muss nach Blaustein, d.h. um 7 Uhr aufstehen ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417384530830,
+      "content": "Wann musst du raus bzw wohin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417384491522,
+      "content": "Nirgends :) erst am Dienstag da fahre ich dann nach Karlsruhe also zur Uni",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417384324837,
+      "content": "musst du morgen zur Uni oder in die Bank?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417384292313,
+      "content": "Wei\u00c3\u009f nicht, irgendwie ein geiles volk haha\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417382986389,
+      "content": "Hahah warum ausgerechnet die \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417382430203,
+      "content": "Ich find die Zwerge so lustig:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417382413476,
+      "content": "Ja endlich, am 10. Dezember oder so glaub ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417380412264,
+      "content": "Ich auch aber schon viel zu oft gesehen bald kommt ja auch der Hobbit 3 raus gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417379733329,
+      "content": "Ja ich find die Filme Hammer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417377723435,
+      "content": ":) hahahaah Highlight des Tages? \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417374282928,
+      "content": "Heute kommt der Hobbit hehe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417374256873,
+      "content": "Hahaha stimmt\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417367301784,
+      "content": "Braucht man beides zum Leben \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417367266525,
+      "content": "Beides nach dem Motto: je mehr desto besser \u00f3\u00be\u008c\u00b4\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417367144470,
+      "content": "Eben:D stimmt echt, beides ver\u00c3\u00a4ndert z.B Menschen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417366951492,
+      "content": "Hahah bitte muss auch sein wir m\u00c3\u00bcssen nur mit Geld umgehen k\u00c3\u00b6nnen mehr nicht \u00f3\u00be\u008c\u00a8\u00f3\u00be\u008c\u00b1 und Alkohol hat viel mit Geld gemeinsam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417366573507,
+      "content": "Ich w\u00c3\u00bcrde das auch noch machen wenn ich der Nachfolger von J\u00c3\u00bcrgen Fitschen oder so w\u00c3\u00a4re haha:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417366399950,
+      "content": "Ich bin aber noch Studentin also darf ich das \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417366307344,
+      "content": "Nice\u00f3\u00be\u008c\u00b8 dann haben wir dem Ruf der B\u00c3\u00a4nker ja mal wieder alle Ehre gemacht und uns ordentlich einen neigedichtet:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417365233184,
+      "content": "Ha ha kann mich dir da nur anschlie\u00c3\u009fen wir beide also Banker \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417365057065,
+      "content": "Ich arbeite bei der Bank:D\nIst eigentlich voll geil, aber die Arbeitszeiten sind halt madig:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417364063765,
+      "content": "Was machst du \u00c3\u00bcberhaupt das du so jammerst \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417363807902,
+      "content": "Man lernts echt erst zu sch\u00c3\u00a4tzen wenn's vorbei ist:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417361121666,
+      "content": "Ja die alten Schulzeiten... Wie sch\u00c3\u00b6n die doch waren!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417360700495,
+      "content": "Haha die alten Schulzeiten waren noch geil da ging sowas:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417358796686,
+      "content": "Hahaha du vielleicht \u00f3\u00be\u008c\u00b4 \nMusst mehr trainieren auch unter der Woche dann passt alles wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417357954207,
+      "content": "Ja die Zeiten sind vorbei haha:D\nMittlerweile ist man immer schon nach einmal weggehen ne halbe Woche au\u00c3\u009fer Gefecht gesetzt\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417353375795,
+      "content": "Hahaha bist halt doch nicht so fit und Jung wie die gedacht hast \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417350894702,
+      "content": "Ja ging mir nicht anders:D Freitag war einfach mal wieder eine Eskapade zu viel des Guten:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417343627645,
+      "content": "Hahaha \u00f3\u00be\u008c\u00b4 nein bin mega fr\u00c3\u00bch schlafen gegangen ich bin mega fertig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417342671238,
+      "content": "Nein zum Gl\u00c3\u00bcck muss ich das nicht:D \nWarst gestern weg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417338020403,
+      "content": "Oh Shit das sollte ich auch mal machen :D das sieht schon langsam nicht mehr sch\u00c3\u00b6n aus \u00f3\u00be\u008c\u00b4 egal musst ja nicht produktiv sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417303400442,
+      "content": "Du warst ja richtig produktiv:D\nBei mir war's eher ein klassischer Katertag:D das einzig produktive was ich gemacht habe war mein Auto gesaugt und durch die Waschstrasse Gefahren, sonst nur Fu\u00c3\u009fball geguckt:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417300421937,
+      "content": "Ehm uh also irgendwann heim angekommen gelernt geschlafen nur gegessen die ganze Zeit \u00f3\u00be\u008c\u00b4 dann shoppen Weihnachtsmarkt und nen Adventskalender gemacht. Bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417294326282,
+      "content": "was ging heute?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417294182536,
+      "content": "Bin jetzt empfindlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417294170376,
+      "content": "Haha waren aber zu lange das war dann unpraktisch und h\u00c3\u00a4sslich \u00f3\u00be\u008c\u00b5 anderes Thema?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417293927905,
+      "content": "Also lange Haare haben halt schon Mega was:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417293488909,
+      "content": "Wei\u00c3\u009f nicht \u00f3\u00be\u008c\u00b4manchmal nicht und manchmal sagen welche das es Mega schei\u00c3\u009fe aussieht und ich jetzt h\u00c3\u00a4sslich bin dann schon \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417293134107,
+      "content": "Und bereust du's oder nicht ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417292236590,
+      "content": "Weil ich mal was anderes probieren wollte und schauen wollte ob es mir steht und es war einfach mega spontan \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417292212445,
+      "content": "Bei mir geht es mittlerweile \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417292039751,
+      "content": "Ja bin noch bissle benebelt haha:D\nWieso hast die so viel k\u00c3\u00bcrzer gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417291300784,
+      "content": "Hahah das war auch Ironie \u00f3\u00be\u008c\u00b1 aber sehr aufmerksam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417290575990,
+      "content": "Find schon, die sind ja viel viel k\u00c3\u00bcrzer wie auf deinem Bild",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417289405991,
+      "content": "Findest \u00f3\u00be\u008c\u00b4 mir ist es nicht aufgefallen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417289265855,
+      "content": "War ja kaum zu \u00c3\u00bcbersehen:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417289051569,
+      "content": "Ja ist dir das aufgefallen \u00f3\u00be\u008d\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417289040171,
+      "content": "Ein normaler Name halt? Aber danke \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417288000277,
+      "content": "Hab ich das noch richtig in Erinnerung dass du jetzt kurze Haare hast?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417287974634,
+      "content": "Oh das ist aber ein sch\u00c3\u00b6ner Name:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417286267909,
+      "content": "Hallo Lucas freut mich ich hei\u00c3\u009fe Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417286250146,
+      "content": "Oha Unversch\u00c3\u00a4mtheit \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417281258466,
+      "content": "Hab ich mal wieder den assi raush\u00c3\u00a4ngen lassen\u00f3\u00be\u008c\u00a6\u00f3\u00be\u008c\u00b4\nAlso dann jetzt, ich bin der Lucas:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417281184254,
+      "content": "Nein was h\u00c3\u00a4ttest du das gemacht haben sollen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417276624002,
+      "content": "Hab ich mich nicht vorgestellt?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417275957823,
+      "content": "Hahahaha doch irgendwann wenn du ihn gesagt h\u00c3\u00a4ttest schon \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417275672409,
+      "content": "H\u00c3\u00a4ttest also nicht mehr gewusst wie ich hei\u00c3\u009fe?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417275032449,
+      "content": "Hahah ich nie \u00f3\u00be\u008c\u00b5!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417272250683,
+      "content": "Also Namen kann ich mir schon noch merken:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417263742968,
+      "content": "Hahahah \u00f3\u00be\u008c\u00b4das du noch w\u00c3\u00bcsstest wie ich hei\u00c3\u009fe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417262672757,
+      "content": "Hatte wohl gut einen im Tee, Das ist die einzig m\u00c3\u00b6gliche Erkl\u00c3\u00a4rung:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417260746694,
+      "content": "Ja seh's auch gerade haha\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417259874928,
+      "content": "Oh Hallo :) du hast mir geschrieben gehabt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417229881386,
+      "content": "Du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417229881015,
+      "content": "War im Subway",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417229092856,
+      "content": "Wo bist du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417229076567,
+      "content": "Auf wen wartet ihr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417228992821,
+      "content": "Myers",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417228991627,
+      "content": "Flo wartet hier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Wild",
+      "timestamp_ms": 1417228868785,
+      "content": "wo bist du??",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lucas Wild",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lucaswild_ivytrj7qnq",
+  "magic_words": [
+    
+  ]
+}

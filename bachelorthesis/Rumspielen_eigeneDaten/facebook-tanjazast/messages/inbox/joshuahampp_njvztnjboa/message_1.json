@@ -1,0 +1,367 @@
+{
+  "participants": [
+    {
+      "name": "Joshua Hampp"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1602218468216,
+      "content": "Jetzt kommt erst mal der Winter \u00f0\u009f\u0098\u0080 Ich h\u00c3\u00a4tte eher gedacht, dass du keine Zeit wegem Studium hast. Das ist doch ein sch\u00c3\u00b6ner Anlass \u00f0\u009f\u0091\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602192678169,
+      "content": "Aaaah das sieht mega gut aus. Ich muss mich damit echt befassen. :( hab gerade mit der Hochzeit meiner Schwester echt viel zu tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601368908620,
+      "content": "mit neuen laufr\u00c3\u00a4dern k\u00c3\u00b6nnte man nochmal 400g sparen bzw mehr aredynamik reinbringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601368884487,
+      "content": "daf\u00c3\u00bcr etwas schwer mit 8,2kg und liegt auch am laufradsatz (dt swiss gut, aber das sind die \"einsteiger\" laufr\u00c3\u00a4der)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601368847282,
+      "content": "hat 12-fach, also berg geeignet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601368812570,
+      "content": "gibts in deiner gr\u00c3\u00b6\u00c3\u009fe, elektr. schaltung, scheibenbremse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601368806471,
+      "content": "https://www.bikesportworld.de/Fahrraeder/Rennraeder/Rennraeder/BMC-Teammachine-SLR02-Disc-ONE-Force-AXS-HRD-Farbe-Gunmetal-Orange-2020.html?utm_source=googlebase&utm_medium=mc&utm_campaign=gshopping&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-3HFZn7YnpYEMlBtpZEK9b5gAsn3CjrnFVIbWk5WGGqN_G6J43YHxEaArqnEALw_wcB",
+      "share": {
+        "link": "https://www.bikesportworld.de/Fahrraeder/Rennraeder/Rennraeder/BMC-Teammachine-SLR02-Disc-ONE-Force-AXS-HRD-Farbe-Gunmetal-Orange-2020.html"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601157056796,
+      "content": "Ihr seid beide auch gerne eingeladen (wenn euch die Loipen hier reichen)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601157004361,
+      "content": "Sehr gerne\u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601149634532,
+      "content": "Machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601149631735,
+      "content": "Das macht so viel Spa\u00c3\u009f! K\u00c3\u00b6nnten das auch im Winter mal zu 3 oder 4 mache?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601149558475,
+      "content": "Skating macht viel mehr Spa\u00c3\u009f! :) Sabrina und ich haben beides probiert aber sie skating sind wir h\u00c3\u00a4ngen geblieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601148336639,
+      "content": "Ka, ich hab es ja noch nicht gemacht\u00f0\u009f\u0098\u0082 was empfiehlt du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601148277894,
+      "content": "Aber Langlaufen ist mega \u00f0\u009f\u00a4\u00a9 habe ich im Winter hoffentlich auf oft vor! Skating  dann oder klassisch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601147415486,
+      "content": "Langlauf will ich dieses Jahr mal probieren, vor der T\u00c3\u00bcre gibt's eine Loipe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601147349646,
+      "content": "Nicht beim rennrad fahren\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601147316622,
+      "content": "Magst du keinen Schnee? \u00f0\u009f\u0098\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601147309386,
+      "content": "Leider nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601135498716,
+      "content": "hast du schon etwas f\u00c3\u00bcr dich gefunden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1601135492573,
+      "content": "ich konnte bisher widerstehen \u00f0\u009f\u0098\u0085jetzt f\u00c3\u00a4ngts hier schon an zu schneien\u00f0\u009f\u0098\u0092",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601129368374,
+      "content": "Danke f\u00c3\u00bcr den link noch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601129342068,
+      "content": "Na, hast dein Rad schon bestellt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599562180815,
+      "content": "https://www.linkradquadrat.de/sonderangebote/?p=2&o=2&n=12&f=232%7C27%7C26",
+      "share": {
+        "link": "https://www.linkradquadrat.de/sonderangebote/?p=2&o=2&n=12&f=232%7C27%7C26"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599562177530,
+      "content": "vlt ist da etwas dabei f\u00c3\u00bcr dich:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599043490327,
+      "content": "anfang des Jahres gabs g\u00c3\u00bcnstigere Angebote\u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599043450656,
+      "content": "ich hab bis jetzt erst ein carbon rennrad (und das halt von rose). ich bin da aber eher nach preis-leistung gegangen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599043425552,
+      "content": "die beiden sind ja in etwa vergleichbar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599043411265,
+      "content": "bei rose habe ich vom service besseres geh\u00c3\u00b6rt als von canyon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1599042768864,
+      "content": "Vielen vielen Dank dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1599042757701,
+      "content": "Wie findest du die Rose bikes? \u00f0\u009f\u00a4\u0094 ich bin da echt im Zwiespalt weil ich so viel verschiedenes Feedback bekomme \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599026773411,
+      "content": "https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-2661674",
+      "share": {
+        "link": "https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-2661674"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599026772126,
+      "content": "und ich glaube wirklichen Unterschied zu dem hier merkt man nicht (ist halt 300g leichter)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599026749917,
+      "content": "aber wirklich g\u00c3\u00bcnstig ist es nicht\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599026745017,
+      "content": "https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-di2-ausstellungsrad-grosse-50cm-2694651?product_shape=UD-Carbon%2FAurora&article_size=50cm",
+      "share": {
+        "link": "https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-di2-ausstellungsrad-grosse-50cm-2694651"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1599026740508,
+      "content": "das w\u00c3\u00a4re im Prinzip, das was ich auch habe:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1598870330373,
+      "content": "Puh gute Frage \u00f0\u009f\u0098\u0082 und das aktuelle ich 52 aber gro\u00c3\u009f. 50 w\u00c3\u00a4re glaub perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598850869366,
+      "content": "Welche Gr\u00c3\u00b6\u00c3\u009fe hast du in der Regel? 48?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773673608,
+      "content": "elektrische hab ich da auch, aber so viel besser finde ichs ehrlich gesagt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773616361,
+      "content": "aber war auch nicht ganz g\u00c3\u00bcnstig \u00f0\u009f\u0098\u0092",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773604663,
+      "content": "bei meinem neuen hab ich halt gemerkt, dass es schon deutlich Areodynamischer ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773587106,
+      "content": "aktuelle haben alle Scheibe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773582064,
+      "content": "ohne Scheibenbremsen sind es meistens Modelle von 2018",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1598773516009,
+      "content": "Hast du noch Tipps auf was man achten solle?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1598773506297,
+      "content": "Also auf jeden Fall muss der Rahmen ja klein sein \u00f0\u009f\u0098\u0082\nUnd ich tendiere voll du Scheibenbremsen, Sabrina hat mich \u00c3\u00bcberzeugt beim P\u00c3\u00a4sse runter fahren. Elektrische Schaltung w\u00c3\u00a4re nice to hava aber kein muss und halt ne gute \u00c3\u009cbersetzung. Aber Marke vom Rahmen ist mir eig schon egal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773328666,
+      "content": "Was f\u00c3\u00bcr Anforderungen hast du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598773322084,
+      "content": "ja\u00f0\u009f\u0098\u0085 Ich schau gerade nach einem Winterrad bzw. einem Trainings-Rennrad f\u00c3\u00bcr n\u00c3\u00a4chstes Jahr. Wenn ich was f\u00c3\u00bcr dich seh, sag ich dir bescheid.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1598772926793,
+      "content": "Hallo Joshi :) \nTats\u00c3\u00a4chlich ja! Ist dir das wirklich noch im Kopf geblieben? \u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Hampp",
+      "timestamp_ms": 1598770182369,
+      "content": "Hi Tanja, suchst du noch nach einem Rennrad? Gr\u00c3\u00bc\u00c3\u009fe Joshua",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Joshua Hampp",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joshuahampp_njvztnjboa",
+  "magic_words": [
+    
+  ]
+}

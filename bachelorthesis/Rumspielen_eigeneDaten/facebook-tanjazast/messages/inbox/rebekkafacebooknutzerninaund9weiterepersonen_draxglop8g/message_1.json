@@ -1,0 +1,357 @@
+{
+  "participants": [
+    {
+      "name": "Rebekka Huels"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Nina Ansch\u00c3\u00bctz"
+    },
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Chiara Notaro"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Julia Bartl"
+    },
+    {
+      "name": "Franziskaha Hawaii"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325595986489,
+      "content": "Okay;) danke:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1325538660304,
+      "content": "ich habs so in meinem kalender stehen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325537818755,
+      "content": "Ist das jetzt sicher am 2. Februar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1325532730214,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1325532335229,
+      "content": "2 februar ist noch ein monat, also mal kein stress! ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1325451616825,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325444746023,
+      "content": "Hanna Kramer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Hanna Kramer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1325444646868,
+      "content": "Mara Fink hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mara Fink"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325444605838,
+      "content": "Ja so gehts mir au :// ich check mathe NULL!! :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325444532789,
+      "content": "und des au no dann wird zu viel :P\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325444526227,
+      "content": "ok dann hoff ich des mla :D weil ich muss noch meien gfs machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325444477072,
+      "content": "Will ich auch wissen! --.--",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Liska",
+      "timestamp_ms": 1325444459062,
+      "content": "ich dacht bis zum 2. feb ... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325444422597,
+      "content": "also wann m\u00c3\u00bcssen wir des ding jetzt nochmla abgeben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1325443923039,
+      "content": "oke noch ne woche perfekt :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325443822729,
+      "content": "Bis zum 8. Glaub..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325443806608,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1325443445259,
+      "content": "wichtigere frage --> bis wann haben wir ferien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325443407883,
+      "content": "Sorry mara :D aber ich hab noxch NICHTS gemacht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325443304403,
+      "content": "Hmm kp...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1325443295659,
+      "content": "LEUTE!!!! stresst mich bitte nicht :DD\nich hab noch kein bock auf den schei\u00c3\u009f..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325443186192,
+      "content": "Eva hat doch gesagt am 2. Februar??!! Also wird es so sein :D gut also muss ich mich da nicht angesprochen f\u00c3\u00bchlen danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325442981123,
+      "content": "Ja stimmt :D  bist du dir sicher? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1325441029180,
+      "content": "Hoppla hab ich net mitbekommen :D\r\nAlso die soll iwann im februar abgegeben werden...ok ^^ aber des geht jetzt eig nur die was an die sich dazu verpflichtet haben des schriftlich auszuarbeiten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325440053383,
+      "content": "Alle...es geht um die gwg abgabe :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1325439943528,
+      "content": "Hei leute um was geht's hier eig und betrifft des nur ein paar oder alle? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325439589669,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325435538083,
+      "content": "Wann is jetzt der endg\u00c3\u00bcltige termin? Weiss das jmd?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325435368215,
+      "content": "Und was ist mit denen die den Vortrag machen?? Also das m\u00c3\u00bcndliche dings da?? :D was m\u00c3\u00bcssen die machen?? Auch was abgeben?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1325429586610,
+      "content": "wir m\u00c3\u00bcssen die referate am 2. februar abgeben -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325424168657,
+      "content": "Spinnt die?? Ja ne die hat ja gar nichts mehr gesagt also hat se pech gehabt.. :D denkt die wir haben den ganzen Monat sonst nichts mehr zu tun?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325424065049,
+      "content": "Nee tanja im januar;/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1325424051548,
+      "content": "Nein im januar :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325423772434,
+      "content": "Leute mach euch da mal keinen stress?? Das werden wir fr\u00c3\u00bchestens iwann im M\u00c3\u00a4rz oder april abgeben m\u00c3\u00bcssen!!?? Weil das ja statt der ka im 2. Halbjahr ist also m\u00c3\u00bcsst ihr glaub echt noch nicht anfangen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325423648178,
+      "content": "Ja ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1325423629329,
+      "content": "Ja :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325423574271,
+      "content": "Ehm um was geht es eig gerade?? Die rederate oder was?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1325422807008,
+      "content": "Kenn ich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325422632414,
+      "content": "des problem is ich kann gar nicht anfangen weil ich nicht wei\u00c3\u009f \u00c3\u00bcber was alles ich des machen muss :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1325422603351,
+      "content": "Wisst ihr wann genau man des jetzt abgeben muss? Hat irgendjemand auch noch nicht angefangen? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1325419319749,
+      "content": "So hallo Klasse ;D\nich w\u00c3\u00bcnsch euch allein noch en gutes sch\u00c3\u00b6nes Jahr (:\n\nudn ich h\u00c3\u00a4tte da ne frage hat jmd die email adresse von frau hirner? :P\nalso falls jmd fehlt einfach hinzuf\u00c3\u00bcgen :P\nlg Hanna",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Rebekka, Facebook-Nutzer, Nina und 9 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/rebekkafacebooknutzerninaund9weiterepersonen_draxglop8g",
+  "magic_words": [
+    
+  ]
+}

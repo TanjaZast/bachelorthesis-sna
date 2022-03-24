@@ -1,0 +1,402 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Nina Ansch\u00c3\u00bctz"
+    },
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Julz Ge"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Linnea Pauline"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Anika von Kuntzsch"
+    },
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Franziskaha Hawaii"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363090359,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420283095483,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315421190306,
+      "content": "quatsch wir h\u00c3\u00a4tten euch gerne dabei:))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1315419275056,
+      "content": "gebt halt an ;DD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315402776291,
+      "content": "yess <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315402613718,
+      "content": "jaaa, aber bei uns gehts schon dieses;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315402498255,
+      "content": "-.- dann geht s glaub ich nicht. n\u00c3\u00a4chstes jahr dann halt ... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315402449986,
+      "content": "ich hab keine ahnung :o ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315402330654,
+      "content": "shit okay ... weil da h\u00c3\u00a4tte ich ja auch noch einen gehabt. wei\u00c3\u009ft du ob man ausweis abgeben muss? oder bekommt man da n b\u00c3\u00a4ndchen o stempel ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315402213769,
+      "content": "ne, wenn dann sch\u00c3\u00bclerausweis und der gilt nich../: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315402155649,
+      "content": "mhm ja leider! -.- kennst du jemand der auswei\u00c3\u009fe hat ;D ?\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315402012251,
+      "content": "ja ;** und der rest ist nich 16, die kommen nich rein, oder? /: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315401937060,
+      "content": "sehr toll <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315401724834,
+      "content": "ouhja:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315401334535,
+      "content": "okay ;D ja meine 2 auch. wenn nicht gehn wir ? (;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315401261124,
+      "content": "ich mit 2 freundinnen ist aber auch nich soo ganz sicher, weil die seehr spontane menschen sind:D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315401209198,
+      "content": "sehr gut. hei\u00c3\u009fen wilma & johnny ... also warscheinlich ... & du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315401139535,
+      "content": "ich mich auch & jaaa ich bin wrsl auch da:) mit wem gehst? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315400992415,
+      "content": "ich freu mich ;* ich hab s vor ja! du auch ?\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315400744190,
+      "content": "geht klar:*  seid ihr am samstag auch im mahatma zu school\u00c2\u00b4s in party? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315400289860,
+      "content": "geht mir \u00c3\u00a4hnlich! meldet euch, wenn ihr das macht! ;D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315400116148,
+      "content": "ich hab soo kb auf schule, das versaut mein ganzes leben._. lasst uns einfach jeden tag so machen wie am sch\u00c3\u00bclersturm ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1315400056549,
+      "content": "okay gut (:  dann mach ich`s auch nicht!  jaa, ist echrt so!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315399968473,
+      "content": "n\u00c3\u00b6! nicht mal wenn ich w\u00c3\u00bcsste wies heisst:D  lass mich raten , es geht bestimmt wieder um diskriminierung irgendwelcher leute? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1315399873538,
+      "content": "jaa (:   ehm, ich hab keine ahnung (:!     kaufst du es?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315399830700,
+      "content": "dann sind wir uns einig:) wie heisst das buch nochmal? \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1315399736940,
+      "content": "jaa  die frau hat ein schaden!   ja, ich les es auch nicht!\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315399672300,
+      "content": "omg die spinnt doch -.- ich les es nicht! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1315399344617,
+      "content": ";D   wir m\u00c3\u00bcssen in deutsch iregend ein buch lesen!  das hat die uns als hausaufgabe \u00c3\u00bcber die ferien gegeben!\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315387990755,
+      "content": "ich wei\u00c3\u009f aber jetzt um was es geht !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315378177344,
+      "content": "Du bist ja besser informiert als ich und ich bin nichmehr in eurer klasse!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1315346801529,
+      "content": "was lesen?:D \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julz Ge",
+      "timestamp_ms": 1315337932826,
+      "content": "ja ich m\u00c3\u00b6cht dann bitte auch wissen ob se ausgerastet ist & so :DD\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1315326678943,
+      "content": "ich habs gelesen (ich wei\u00c3\u009f ich hab keine hobbys :DD ) aber ich finds auch schei\u00c3\u009fe von der und bin hannas meinung dass wir einfach alle sagen das wirs nicht gelesen haben :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1315325259931,
+      "content": "Guten tag ;D aber ich w\u00c3\u00bcrd s genauso machen ;D ich m\u00c3\u00b6chte bitte dann bericht wenn die frau ausrastet! ;D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315325076661,
+      "content": "sin mehrere dabei die nich mehr in unsrer klasse sind;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315324274030,
+      "content": "Warum bin ich auch dabei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315313756113,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1315311297766,
+      "content": "jaa ich bin auch daf\u00c3\u00bcr dass wirs alle ned lesen und dass die die meinen sie m\u00c3\u00bcssten das lesen auch sagen sie h\u00c3\u00a4ttens ned.. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315311176763,
+      "content": "ich les es auch nicht:) ich hab hobbys:) und danke:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1315311022627,
+      "content": "ja, ich bin auch echt voll daf\u00c3\u00bcr.... ich hab\u00c2\u00b4s bis jetzt auch noch weder gekauft, noch gelesen und hab\u00c2\u00b4s ehrlich gesagt auch nicht vor....ich find Hanna`s Idee klasse!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1315310711176,
+      "content": "jaa also ich habs auch wie nina weder daheim noch gelesen :D was glaubt die frau eigentlich dass wir in den sommerferien was f\u00c3\u00bcr die schule machen..aber ich w\u00c3\u00bcrd dann schon sagen dass wenn sie uns dann fr\u00c3\u00a4gt ob wirs gelesen haben wir ALLE sagen dass wirs nicht gelesen haben :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1315310520161,
+      "content": "sansibar oder der letzte grund....oder so \u00c3\u00a4hnlich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1315310471376,
+      "content": "ich hab`s weder gekauft noch gelesen!  & werd`s auch nicht tun!   ich bin ja nicht verr\u00c3\u00bcckt ;D! ich hab was besseres zu tun ;D ich weis nicht mal wie es hei\u00c3\u009ft ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315310454630,
+      "content": "wie hei\u00c3\u009ft das buch nochmal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1315310401864,
+      "content": "hei leute :) erst mal wenn ich jemand vergessen hab tuts mir leid :D\nwollt fragen ob ihr das buch f\u00c3\u00bcr deutsch schon gekauft habt und ob ihrs schon gelesen habt? \nich finds ehrlich gesagt schei\u00c3\u009fe von der frau dass die des uns \u00c3\u00bcber die ferien lesen l\u00c3\u00a4sst...sollen wirs vielleicht alle nicht lesen? also zumindest nicht in den ferien...was meint ihr? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Nina, Maike und 15 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/facebooknutzerninamaikeund15weiterepersonen_-jl9gumulg",
+  "magic_words": [
+    
+  ]
+}

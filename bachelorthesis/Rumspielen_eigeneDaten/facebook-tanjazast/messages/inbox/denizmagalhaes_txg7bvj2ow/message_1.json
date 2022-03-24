@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Deniz Magalhaes"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deniz Magalhaes",
+      "timestamp_ms": 1460886289975,
+      "content": "Heyyy ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Deniz Magalhaes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/denizmagalhaes_txg7bvj2ow",
+  "magic_words": [
+    
+  ]
+}

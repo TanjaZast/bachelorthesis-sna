@@ -1,0 +1,165 @@
+{
+  "participants": [
+    {
+      "name": "Vivien Botzenhart"
+    },
+    {
+      "name": "Lea Triebel"
+    },
+    {
+      "name": "Elli Hueske"
+    },
+    {
+      "name": "Talisa Maiser"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Theresa Rottler"
+    },
+    {
+      "name": "Fabian Endisch"
+    },
+    {
+      "name": "Emily Lieber"
+    },
+    {
+      "name": "Tom Wind"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Thomas Kehr"
+    },
+    {
+      "name": "Rene Hecht"
+    },
+    {
+      "name": "Nadja Toma"
+    },
+    {
+      "name": "Tati Reich"
+    },
+    {
+      "name": "Stefan Aul"
+    },
+    {
+      "name": "Emely Mannes"
+    },
+    {
+      "name": "Celine Burkl"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Emilie St\u00c3\u00bctzle"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Irem Delgin"
+    },
+    {
+      "name": "Mario Toma"
+    },
+    {
+      "name": "Melike Erg\u00c3\u00bcno"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emilie St\u00c3\u00bctzle",
+      "timestamp_ms": 1332006203737,
+      "content": "H\u00c3\u00a4:D?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Burkl",
+      "timestamp_ms": 1332000526286,
+      "content": ";) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emely Mannes",
+      "timestamp_ms": 1332000509732,
+      "content": "ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1332000502151,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patricia Knttl",
+      "timestamp_ms": 1332000489803,
+      "content": "Patricia Knttl hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Patricia Knttl"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Burkl",
+      "timestamp_ms": 1332000489300,
+      "content": "Haahah okei viel spas beim schicken ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emely Mannes",
+      "timestamp_ms": 1332000462953,
+      "content": "mir egal ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Burkl",
+      "timestamp_ms": 1332000407276,
+      "content": "Emme es funktioniert eh nicht das nur fake :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emely Mannes",
+      "timestamp_ms": 1332000360005,
+      "content": "\n\n\nLiebe Facebook-Nutzer, dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert.. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, dass er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen\n\n.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Emely Mannes"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vivien, Lea, Elli und 21 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/vivienleaelliund21weiterepersonen_fe2mh-igqa",
+  "magic_words": [
+    
+  ]
+}

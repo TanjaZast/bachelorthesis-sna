@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Carmelo Carmelo Ca Shakur"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406464926589,
+      "content": "Was treibste",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406464915497,
+      "content": "Freut mich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406463990673,
+      "content": "Ich Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406463976219,
+      "content": "Ich bin carmelo freut mich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406463945336,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406463944741,
+      "content": "Bei mir auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406463914855,
+      "content": "Ja bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406462213123,
+      "content": "Na alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406461316069,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carmelo Carmelo Ca Shakur",
+      "timestamp_ms": 1406460243167,
+      "content": "Hallo hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carmelo Carmelo Ca Shakur",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carmelocarmelocashakur_jkzchvcnig",
+  "magic_words": [
+    
+  ]
+}

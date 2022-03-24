@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Frank Buendgens"
+    },
+    {
+      "name": "Bianca Sommer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Erinna Mich Dran"
+    },
+    {
+      "name": "Marina Faulmaus"
+    },
+    {
+      "name": "Beccy Ri"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Daniela Anderer"
+    },
+    {
+      "name": "Lisa Anderer"
+    },
+    {
+      "name": "Lara Hau\u00c3\u009fer"
+    },
+    {
+      "name": "Leandra Lang"
+    },
+    {
+      "name": "Lina Krahl"
+    },
+    {
+      "name": "Leah Beneke"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa Anderer",
+      "timestamp_ms": 1290852666000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniela Anderer",
+      "timestamp_ms": 1290851734000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Frank, Bianca, Facebook-Nutzer und 10 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/frankbiancafacebooknutzerund10weiterepersonen_sohbb1tkog",
+  "magic_words": [
+    
+  ]
+}

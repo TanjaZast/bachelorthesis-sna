@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Messenger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1559803200583,
+      "content": "Messenger hat einen Anhang gesendet.",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Messenger",
+      "timestamp_ms": 1559803199945,
+      "content": "Willkommen beim neuen Messenger! \u00f0\u009f\u0091\u008b Wir haben unser Messaging-Erlebnis vereinfacht und in drei Bereiche unterteilt\u00c2\u00a0\u00e2\u0080\u0093 \u00e2\u0080\u009eChats\u00e2\u0080\u009c, \u00e2\u0080\u009ePersonen\u00e2\u0080\u009c und \u00e2\u0080\u009eEntdecken\u00e2\u0080\u009c. Au\u00c3\u009ferdem gibt es neue unterhaltsame M\u00c3\u00b6glichkeiten, um deine Unterhaltungen zu personalisieren. Tippe unten und erfahre, was es Neues gibt \u00f0\u009f\u0091\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Messenger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "archived_threads/messenger_u-_i6dc9zw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Lena Glunk"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1399915936561,
+      "content": "Perfekt!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1399912914782,
+      "content": "ihr k\u00c3\u00b6nnt alle mit heim fahren, so ca gegen halb 4 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1399900286534,
+      "content": "Ich w\u00c3\u00bcrd dann auf jeden Fall auch mit heim fahren wenns geht ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399899251467,
+      "content": "Perfekt. :) ja wann w\u00c3\u00bcrdest heim fahren ich habe voll vergessen das wir unsere mama zum essen eingeladen haben und ich wenn du fr\u00c3\u00bcher gehst fragen wollte ob ich mit kann :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1399899169702,
+      "content": "Supi Charlotte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1399899037481,
+      "content": "Super perfekt Danke! und wann w\u00c3\u00bcrdest du nach hause fahren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1399898075773,
+      "content": "Hey ihr 4! Also ich kann morgen ja fahren und damit ihr alle startklar seit hier mein Plan: mein Opa meinte wir brauchen nach Bonlanden schon ne dreiviertel Stunde, darum bin ich um 7:45 bei Hanna in Einsingen. Danach gehts zu Nina (bin da so ca. 5 vor 8) und danach nach Donaustetten und G\u00c3\u00b6gglingen (zwischen 5 und 10 nach 8)... ich hoffe das passt so, ist denk ich aber auch knapp genug bemessen, falls wir in den morgentlichen Berufsverkehr kommen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lena, Hanna, Nina und Charlotte",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lenahannaninaundcharlotte_uryxgbxblq",
+  "magic_words": [
+    
+  ]
+}

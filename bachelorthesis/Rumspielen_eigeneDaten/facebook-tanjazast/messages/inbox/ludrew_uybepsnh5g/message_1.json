@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Lu Drew"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1472848976933,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lu Drew",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ludrew_uybepsnh5g",
+  "magic_words": [
+    
+  ]
+}

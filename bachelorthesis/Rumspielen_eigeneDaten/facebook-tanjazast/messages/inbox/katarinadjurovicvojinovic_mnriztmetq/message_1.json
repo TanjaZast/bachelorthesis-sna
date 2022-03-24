@@ -1,0 +1,348 @@
+{
+  "participants": [
+    {
+      "name": "Katarina Djurovic Vojinovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1548533906441,
+      "content": "Du und Katarina Djurovic Vojinovic feiert eure 8-j\u00c3\u00a4hrige Freundschaft auf Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1451685785327,
+      "content": "Hvalaa :-* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451685516480,
+      "content": "Hvala i tebi \u00f0\u009f\u0092\u0095\u00f0\u009f\u00a6\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1451684130233,
+      "content": "Seko, srecna Nova, sve najlepsee :-* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397083949945,
+      "content": "Ne evo sad ali :* laku noc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1397083632008,
+      "content": "Ne spawas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1396681456349,
+      "content": "Dobro jutro lepotice",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393353521836,
+      "content": "\u00c5\u00a0ta radi Likii?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393353506801,
+      "content": "Imam besplatno neku promociju. :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393353434620,
+      "content": "Odakle ti Internet? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393353286549,
+      "content": "Ni\u00c5\u00a1ta , evo ku\u00c4\u0087i, malo odmaram i tako  ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393353225377,
+      "content": "Ucim :/ :) ti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393353196521,
+      "content": "\u00c5\u00a0ta radi\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393353175274,
+      "content": "\u00c4\u0086ao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393353094056,
+      "content": "Cao :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1393352286666,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1391718110386,
+      "content": "nemam pojma ni ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391717992432,
+      "content": "Da tacno tako :) joj sto to radis ; d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1391717925307,
+      "content": "pa nym, videcemo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391717905525,
+      "content": "Promeniti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391717900239,
+      "content": "Ko da ce se promenito",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1391717856384,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1391717855630,
+      "content": "xaxa.. nista, pa eto.. da probamo jos 1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391717829115,
+      "content": "Kaco sta je stobom :D ma sto to",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1391717804259,
+      "content": "axa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391717791441,
+      "content": "Nisi valjda oped sa stefanom zajedno -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390759227729,
+      "content": "pozdravi sve i ljubimo vas sve",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390759216152,
+      "content": "ako :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390759112669,
+      "content": "Lisa gleda televisor gore kod nje a mama dole. Ma svi uzivaju a ja ucim :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390758429349,
+      "content": "sta radi tetka, lisa?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390758421361,
+      "content": "da.. :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390758373681,
+      "content": "Pa sada je sa tatom pred televisorom. Pametno da si ga se resila! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390758226786,
+      "content": "jel sa opom?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390758221375,
+      "content": "kako je deda?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390758212973,
+      "content": "pa eto.. :-) ja tako xtela. pozdravljaju i oni tebe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390758199274,
+      "content": "Sad smo svi oped slobodne znaci jasmina lisa ti i ja ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390758165090,
+      "content": ":* pa lepo pozdravi sve :) joj pa sto to?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757851949,
+      "content": "pa nismo vise zajedno :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757842317,
+      "content": "eto dobro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757832648,
+      "content": "eto skitamo kod komsinice Rose",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390757802907,
+      "content": "Kako si?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390757796341,
+      "content": "Odkad te stefan pusta? :o evo ucim dobro smo sta radis ti? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757740203,
+      "content": "kako ste?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757737116,
+      "content": "sta radis?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757729755,
+      "content": "ewo mene :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390757684324,
+      "content": "Kaco odkad ti na facu? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katarina Djurovic Vojinovic",
+      "timestamp_ms": 1390757658654,
+      "content": ":-*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Katarina Djurovic Vojinovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/katarinadjurovicvojinovic_mnriztmetq",
+  "magic_words": [
+    
+  ]
+}

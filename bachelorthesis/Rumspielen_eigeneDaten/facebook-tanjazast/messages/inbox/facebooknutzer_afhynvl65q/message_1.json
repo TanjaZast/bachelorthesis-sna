@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357852660623,
+      "content": "Haha kommt :D :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357851507427,
+      "content": "? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357771983560,
+      "content": "Wo bleibt der post ? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357342873344,
+      "content": "Ja Maus :-*!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357342806759,
+      "content": "Boah man kann Jungs nur noch eine rein schlagen ganz ehrlich!! -.- wegen dem darfst dich aber nicht zu Tode Hunger okay!! :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357342588197,
+      "content": "Keine ahnung .. Wegen  so einem dummen jungen konnte nichts mehr essen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357340232729,
+      "content": "Wow krass aber warum denn?? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357340191868,
+      "content": "7 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357340177601,
+      "content": "Sicher?? :o wie viele Kilo hast du denn abgenommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357340133843,
+      "content": "Nein !! :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357339970065,
+      "content": "S\u00c3\u00bc\u00c3\u009fe muss man sich sorgen machen weil alles schreiben wie du abgenommen hast und so? :/ :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1355492256494,
+      "content": "Bitte bitte :* hattest die op schon!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1355492214817,
+      "content": "Och bist du s\u00c3\u00bc\u00c3\u009f :)) danke :* \n\nJa schon :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1355492182524,
+      "content": "Okay dann w\u00c3\u00bcnsche ich dir eine gute Besserung und werde ganz schnell wieder gesund!! :* :/ tut es arg weh?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1355433328872,
+      "content": "Wei\u00c3\u009f nicht .. :/ ist einfach so gekommen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1355433185828,
+      "content": "Oh Nein :(!! Wie hast den das geschafft?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1355432287956,
+      "content": "Mandel entz\u00c3\u00bcndet m\u00c3\u00bcssen morgen raus :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1355426410799,
+      "content": "S\u00c3\u00bc\u00c3\u009fe was hast du?? :/ :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351090722533,
+      "content": "Also was hast da f\u00c3\u00bcr eine?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351086610107,
+      "content": "Hey :)) ja :D also nur in whatsapp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351025541850,
+      "content": "Heei ;) :* neue Nummer oder so?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_afhynvl65q",
+  "magic_words": [
+    
+  ]
+}

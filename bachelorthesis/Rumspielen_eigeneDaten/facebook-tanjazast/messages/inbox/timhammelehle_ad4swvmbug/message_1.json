@@ -1,0 +1,1036 @@
+{
+  "participants": [
+    {
+      "name": "Tim Hammelehle"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1500561375310,
+      "content": "Sorry wollte net anrufen \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1500561341730,
+      "content": "Du hast einen Anruf von Tim verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1500555003124,
+      "content": "Hey alles klar bei dir? Ewig nix mehr geh\u00c3\u00b6rt \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1396646770171,
+      "content": "Sorry das ich dir nicht auf whats App schreibe aber das hackt gerade :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395850067409,
+      "content": "meine Nummer ist 017662855273 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395850011823,
+      "content": "K\u00c3\u00b6nnen wir ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395849225458,
+      "content": "\u00c3\u0084h gute Frage ;)\nSollen wir auf whats App schreiben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395849127558,
+      "content": "Ja wer nicht? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395845711902,
+      "content": "Hast du whats App?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395831910839,
+      "content": "H\u00c3\u00b6rt sich fast nach mein rag an hab aber nur bis um 12 schule ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395830630643,
+      "content": "Schule bis 5:dann Training bis 8 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395812086913,
+      "content": "Ging schon war halt kalt aber hat nicht geregnet :) \nWas machst du heute noch so, au\u00c3\u009fer schule? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395787940374,
+      "content": "H\u00c3\u00a4 wie ist das Wetter gewesen? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395726821047,
+      "content": "*ich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395726807068,
+      "content": "Och glaub mein Sportlehrer m\u00c3\u00b6chte uns umbringen, wir haben bei den Wetter im Stadion Sport :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395702323311,
+      "content": "Haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395702089980,
+      "content": "Die arme :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395701768799,
+      "content": "Das speeddating war das beste ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395700840247,
+      "content": "Klar ;)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395697230868,
+      "content": "Schaust du auch Circus halligalli? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395697131939,
+      "content": "Haha okay ich auch nicht haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395696869876,
+      "content": "Kp ; D hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395694915450,
+      "content": "Ich glaub so gegen 4 :)\nHab ich dir eigentlich tsch\u00c3\u00bcss gesagt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395694816826,
+      "content": "Um kurz vor 5 du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395694399331,
+      "content": "Wann bist du aus den theatro gegangen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395694264285,
+      "content": "Haha ja das mach ich auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395694223695,
+      "content": "Hahah du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395694220492,
+      "content": "Saufen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395694062943,
+      "content": "Was machst du au\u00c3\u009fer tanzen und joggen so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395693947774,
+      "content": "(y) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395693498837,
+      "content": "Klar ;) immer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395692703017,
+      "content": "Schaust du auch gerne WM? \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395691979314,
+      "content": "Okay :)\nIch freu mich schon voll auf die wm :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395691771720,
+      "content": "Ehm ich schau es schon an aber hab kein Liebling team Oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395691751608,
+      "content": "Naja :) ja kann sein.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395685196798,
+      "content": "Bist du Fu\u00c3\u009fball fan? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684896544,
+      "content": "Die meint, das ich viel zu faul bin und alles au\u00c3\u009fer schule mache:)\nNein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684843065,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684840670,
+      "content": "Ist doch so,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684720346,
+      "content": "Das mein leben nur aus schule besteht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684678721,
+      "content": "Was sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684674784,
+      "content": "H\u00c3\u00a4 warum :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684591523,
+      "content": "Wenn du das mener Mutter sagen w\u00c3\u00bcrdest w\u00c3\u00bcrde sie dich einliefern lassen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684554741,
+      "content": "Haha klar ist reli mein Lieblings fach :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684509904,
+      "content": "Dein Leben besteht auch nur aus schule :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684475464,
+      "content": "Im ernst Religion?  :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684447342,
+      "content": "Das freut mich :D\nUnd morgen hab ich die schrulle schon wieder und mein Lieblings fach reli <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684384343,
+      "content": "Also mein tag war so hammer chillig einfach :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395684222146,
+      "content": "Ich h\u00c3\u00a4tte heute in deutsch eskalieren k\u00c3\u00b6nnen, weil meine Lehrerin meint das wir doch jetzt faust lesen sollen und wir ganz normalen Unterricht machen :'(\nDas hei\u00c3\u009ft bei der wenn du quetscht dann meckert die so rum und du bekommst so 4 punkte m\u00c3\u00bcndlich  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395684029103,
+      "content": "Guuut Also erz\u00c3\u00a4hl was :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395683917893,
+      "content": "Haha kein Problem :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395683851047,
+      "content": "Ja :) sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395683620402,
+      "content": "Ach echt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395683429662,
+      "content": "Langweilig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395682347745,
+      "content": "Das selbe ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395681467377,
+      "content": "Nichts bei dir? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395680562304,
+      "content": "Was geht heute noch so bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395679558673,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395679555735,
+      "content": "Hahah mach das!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395675807304,
+      "content": "Haha ich schei\u00c3\u009f sowas von auf die Arbeiten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395675596303,
+      "content": "Ich diesem Freitag Geschichte dann n\u00c3\u00a4chsten mittag bio dann zwei Wochen Pause dann psycho und Gemeinschaftskunde und noch Musik :D egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395669625722,
+      "content": "Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395669619230,
+      "content": "Erst alles n\u00c3\u00a4chste Woche. Da Montag Kunst Dienstag reli und Donnerstag Geschichte :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395666361502,
+      "content": "Hahah tja Pech wann schreibst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395640789739,
+      "content": "Haha hast du es gut! :)\nIch hab gleich in der 1. Stunde noch ein Fach wo ich ne Arbeit schreibe :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395618463202,
+      "content": "Von der 5. Bis 6. Stunde hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395617749136,
+      "content": "Wie lange hast du morgen schule? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395617716418,
+      "content": "Haha ja schon dumm :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395616341114,
+      "content": "Naja nicht schlau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395616289196,
+      "content": "Hahahaha oh man! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395615167391,
+      "content": "Hahaha ach ist das nicht so :D\nSorry h\u00c3\u00a4tte ja sein k\u00c3\u00b6nnen das ihr sp\u00c3\u00a4ter als wir beginnen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395615045667,
+      "content": "Hahah Nein wei\u00c3\u009ft nur du hast morgen schule und nur du schreibst nicht weitere Klausuren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395614491802,
+      "content": "Das glaub ich dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395614425549,
+      "content": "Hast du morgen auch Schule?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395614381144,
+      "content": "ABER JETZT bin ich richtig kaputt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395614317326,
+      "content": "Sch\u00c3\u00b6n :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395614235489,
+      "content": "Hammer ;) echt richtig geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395605616904,
+      "content": "Wie wars auf der h\u00c3\u00bctte? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395604954196,
+      "content": "Ja ich schaus sp\u00c3\u00a4ter an ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395579817216,
+      "content": "Bezeichnen und so. Und stellt dann fest das seine Videos das selbe machen :)\nDann Familien im Brennpunkt wo er sagt das man im ersten Moment nat\u00c3\u00bcrlich an den Holocaust denkt und das das kleine hobby von Hitler eher eine humanit\u00c3\u00a4re intervention ist dann regt er sich \u00c3\u00bcber die Leute auf die das alles als real sehen und dann kommt noch DSDS und das Jungelcamp drann.\nIst echt voll witzig:)\nIch hoffe ich konnte dir ein klein Einblick verschaffen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395579414952,
+      "content": "Als erstes regt er sich \u00c3\u00bcber explosiv das Magazin auf. Die bezeichnet er als Bild in Video form und deren Bericht Erstattung \u00c3\u00bcber die ganescom wo sie die zocker als unhygienisch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395574361348,
+      "content": "Okay :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395558400291,
+      "content": "Okay \nIch schreibst dir nach mein Fu\u00c3\u009fballspiel okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395536314099,
+      "content": "Genauer Bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395529122721,
+      "content": "Der regt sich dieses mal \u00c3\u00bcber Sendungen von rtl auf wie z.b Familie in Brennpunkt wo zu er sagt \". Hitlers hobby, ist dagegen eine humanit\u00c3\u00a4re intervention\" ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395526514980,
+      "content": "Und was laberst der da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395515690800,
+      "content": "Kennst du juliensblog?\nDas ist das 2. Video wo er dich \u00c3\u00bcber rtl aufregt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395514199383,
+      "content": "Sorry schaus mir morgen an hab kaum Internet :D ehm um was geht es kurz zusammengefasst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395511469489,
+      "content": "http://m.youtube.com/watch?v=dmX_idiAuy4&list=PLA9189491258EF07E\nKennst du das schon?\nRichtig geil :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395506379179,
+      "content": "Haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395503871646,
+      "content": "Fl\u00c3\u00bcssig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395487614899,
+      "content": "Chillig :)\nBei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395487275011,
+      "content": "Wie wars? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395482613880,
+      "content": "Ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395457741652,
+      "content": "Ehm schlafen jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395457733413,
+      "content": "Hahaha Achso! :) sag gr\u00c3\u00bc\u00c3\u009fe! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395448262414,
+      "content": "Der ist auch da :)\nWas machst du so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395448221788,
+      "content": "Haha okay ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395446873649,
+      "content": "Klar kenn ich max! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395446830255,
+      "content": "Warte ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395446789508,
+      "content": "Egal ich glaub du kennst den von sehen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395446297922,
+      "content": "Wer ist das ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395437270381,
+      "content": "Kennst Max sch\u00c3\u00b6mige?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395436693232,
+      "content": "Hahahha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395428254402,
+      "content": "Danke :)\nIch bin jetzt schon brutal m\u00c3\u00bcde ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395425160421,
+      "content": ";) danke dir auch heute abend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395405610172,
+      "content": "Ah chillig \nViel Spa\u00c3\u009f :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395405302064,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395405298837,
+      "content": "Ja sind auf ner abi H\u00c3\u00bctte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395404573752,
+      "content": "Was machst du am Wochenende so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395401934805,
+      "content": "Okay kein Ding :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395401864527,
+      "content": "Ja klar! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395401855228,
+      "content": "Glaub eher nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395400156158,
+      "content": "Kommst du heute Abend?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395396560268,
+      "content": "Schreibt ihr auch noch arbeiten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395395282231,
+      "content": "Hahaha okay hast trotzdem mehr gemacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395392784185,
+      "content": "Omg also f\u00c3\u00bcr Mathe hab ich 4 Wochen vorher angefangen und dann halt so jeden 3 tag so 3 stunden und f\u00c3\u00bcr Englisch und Wirtschaft so 3 Wochen vorher und so 2 stunden jeden 2. Tag und f\u00c3\u00bcr deutsch nichts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395392635699,
+      "content": "Hahah  ich hab drei Wochen \u00c3\u00bcber 12 Stunden am Tag durch gelernt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395390097960,
+      "content": "Haha ich glaube ich hab allein f\u00c3\u00bcrs Abi mehr gelernt alles f\u00c3\u00bcr alle arbeiten davor zusammen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395385922597,
+      "content": "HHah :) ist klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395381063017,
+      "content": "Fu\u00c3\u009fball spielen und alles was dazu geh\u00c3\u00b6rt \nUnd sonst nat\u00c3\u00bcrlich auch ganz viel lernen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395362649436,
+      "content": "Du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395362641660,
+      "content": "Hmmm also tanzen und joggen eigentlich immer :) und wenn ich nichts davon mache dann lernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395359246796,
+      "content": "Was machst du in deiner Freizeit so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395359001877,
+      "content": "Garnicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395358744332,
+      "content": "Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395358737986,
+      "content": "Oooooh einiges :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395356116962,
+      "content": "Was hast du heute so gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395355027686,
+      "content": "Haha jetzt hat mein leben kein Sinn mehre \u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395354838266,
+      "content": "Hahah korb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395350258521,
+      "content": "B\u00c3\u00b6fingen nicht so weit weg von Doreen :)\nIch hab sie gefragt ob sie kommen will aber sie hat nicht geantwortet ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395349893650,
+      "content": "In donaustetten du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395349888245,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395335371802,
+      "content": "Wo wohnst du eigentlich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395332445931,
+      "content": "Kennst du Doreen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395331884499,
+      "content": "Hahaja toll:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395325814189,
+      "content": "Wenn du wei\u00c3\u009ft ob du kommst sag bescheid \u00f3\u00be\u008c\u00b0\nKannst auch ne Freundin mitbringen, wenn du dich dadurch wohler f\u00c3\u00bchlst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395310481054,
+      "content": "Gute Frage :)\nIch glaube aber eher nicht :(\nSind aber alle voll korrekt und du kennst ja mich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395309970131,
+      "content": "Kenn ich das jemanden :'D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395290907846,
+      "content": "Ja halt nur so paar Freunde so zu 10 da meine Geschwister da sind und meine Eltern am Samstag kommen aber wenn du willst bist du herzlich willkommen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395290717019,
+      "content": "Was hei\u00c3\u009ft nicht so gro\u00c3\u009f ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395290691219,
+      "content": "Yap am Freitag halt nicht so gro\u00c3\u009f aber geht schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395290608071,
+      "content": "Homeparty? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395288167146,
+      "content": "Kommt du morgen vorbei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Hammelehle",
+      "timestamp_ms": 1395286086003,
+      "content": "Hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tim Hammelehle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timhammelehle_ad4swvmbug",
+  "magic_words": [
+    
+  ]
+}

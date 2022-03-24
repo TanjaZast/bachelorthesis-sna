@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Halil Hajtic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Halil Hajtic",
+      "timestamp_ms": 1434034629131,
+      "content": "Wie alt bist geworden:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034369546,
+      "content": "Danke Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Halil Hajtic",
+      "timestamp_ms": 1434012314076,
+      "content": "Alles Gute zum Geburtstag:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Halil Hajtic",
+      "timestamp_ms": 1422964416313,
+      "content": "Cao sta ima",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Halil Hajtic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/halilhajtic_i7moygrvuw",
+  "magic_words": [
+    
+  ]
+}

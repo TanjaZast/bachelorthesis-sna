@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Lea Ludwar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lea Ludwar",
+      "timestamp_ms": 1292595691000,
+      "content": "achso ,okeei . wollts nru wissen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1292581275000,
+      "content": "weil ich mich nicht mehr wohl gef\u00c3\u00bchlt habe und weil meine eltern das wollten!! in der st hildegerd k\u00c3\u00bcmmert man sich viel mehr um einen!!!! Warum???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Ludwar",
+      "timestamp_ms": 1292263469000,
+      "content": "heei,warum hast du eig schule gewechselt ?! du",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lea Ludwar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lealudwar_q3gr31-ilg",
+  "magic_words": [
+    
+  ]
+}

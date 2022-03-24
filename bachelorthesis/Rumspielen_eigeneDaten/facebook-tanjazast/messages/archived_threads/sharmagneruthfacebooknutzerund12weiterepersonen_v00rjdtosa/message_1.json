@@ -1,0 +1,417 @@
+{
+  "participants": [
+    {
+      "name": "Sharmagne Rupp"
+    },
+    {
+      "name": "Ruth Pele"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Franziska Gnann"
+    },
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Selina Scho"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Sophie Witte"
+    },
+    {
+      "name": "Elena Steiger"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "De Ni Ce"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414965846382,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1414962631810,
+      "content": "Lea Span hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lea Span"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1414866004161,
+      "content": "Franziskaha Hawaii hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Franziskaha Hawaii"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404473804692,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Scho",
+      "timestamp_ms": 1404471874657,
+      "content": "ups habs erst jetzt gesehn, ich will auch mitschenken! geht das noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1404445902192,
+      "content": "Okay ja mir egal ihr sagt einfach wie ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404423699138,
+      "content": "Ist f\u00c3\u00bcr jeden nen euro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1404418112998,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1404417730163,
+      "content": "\"gef\u00c3\u00a4llt mir\" ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "De Ni Ce",
+      "timestamp_ms": 1404417552372,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1404417502449,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404411162539,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann-Kathrin Kohn",
+      "timestamp_ms": 1404411066244,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404411052650,
+      "photos": [
+        {
+          "uri": "messages/archived_threads/sharmagneruthfacebooknutzerund12weiterepersonen_v00rjdtosa/photos/10536489_737620412968993_810991611_n_737620412968993.jpg",
+          "creation_timestamp": 1404411052
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruth Pele",
+      "timestamp_ms": 1404410442976,
+      "content": "Als ob jmd nicht mitschenkt !?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404404454754,
+      "content": "Wei\u00c3\u009f ich leider nicht sorry :/ aber mach wie du willst beides ist ok ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1404402548083,
+      "content": "Wenn ich von Deutschland \u00c3\u00bcberweis doch nicht oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404374747220,
+      "content": "Ich glau  das bel\u00c3\u00a4uft sich auf 5 \u00e2\u0082\u00ac und da zahlst mehr f\u00c3\u00bcrs \u00c3\u00bcberweisen... aber wenn du das machen willst gern ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1404372690789,
+      "content": "Wenn ihr mir zam rechnet wie viel ich f\u00c3\u00bcr alle meine Lehrer zahlen muss \u00c3\u00bcberweis ichs einem und dann k\u00c3\u00b6nnt ihrs verteilen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404372486984,
+      "content": "An simone ich glaub bei dir lohnt sich das nicht da du ja nen jahr weg bist und dann das dannavhw mitm geld zu machen ist bl\u00c3\u00b6d :/ au\u00c3\u009fer du fr\u00c3\u00a4gst framzi obs sies dir auslegt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Gnann",
+      "timestamp_ms": 1404371744005,
+      "content": "Ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1404370307395,
+      "content": "Ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1404370038808,
+      "content": "Ich w\u00c3\u00bcrd auch mitschenken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann-Kathrin Kohn",
+      "timestamp_ms": 1404358751062,
+      "content": "Ich auch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1404350915307,
+      "content": "Ich auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1404350242462,
+      "content": "Ich w\u00c3\u00bcrd schon mitschenken aber bin nicht da deswegen kp.... Schenkt ihr allen Lehrern was oder wie ist des?  ;)\nUnd danke denen die des alles gemanaget haben ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1404340955622,
+      "content": "Icj schenk mit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404339709796,
+      "content": "Ja jetzt reichts auch wieder..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1404339667648,
+      "content": "Hab ich dich angesprochen Tanja? ;D ich meinte nur dass viele gerade im Stress sind aber trotzdem manche sich engagieren und andere nicht und das ist schon seit 2 Jahren so und damit hab ich nicht dich gemeint sondern allgemein welche. Also f\u00c3\u00bchl dich doch nciht gleich immer angegriffen! ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404338664138,
+      "content": "Chicks, alles cool \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404338648258,
+      "content": "Ja Nina stimmt ich nach so wenig f\u00c3\u00bcr die Stufe stimmt hab ja zwei Jahre lang nie was gemacht und ich k\u00c3\u00bcmmere mich nicht um weitere Geschenke gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1404338590787,
+      "content": "Also wir wollen hier jetzt keine Diskussionen aber ich glaube franzi hat auch andere Probleme und genug Stress genauso wie ich. also ist jeder gleich betroffen und manche machen halt was und manche nicht ist immer so aber egal ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404338494021,
+      "content": "Und manchem haben einfach sonstige Probleme und sind st\u00c3\u00a4ndig unterwegs.! Echt so Lisa! Danke franzi \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404338458408,
+      "content": "Kein problem ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404338439390,
+      "content": "Danke Franzi!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404338434614,
+      "content": "Manche m\u00c3\u00bcssen halt arbeiten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404338258594,
+      "content": "Genau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1404338239820,
+      "content": "Da sich ja keiner etwas \u00c3\u00bcberlegt hat hat franzi das jetzt beschlossen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404338223996,
+      "content": "Ah okay :) cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404338157014,
+      "content": "Nen selbstmachtes elektron kuscheltier/kissen; karte; ein einsteinbier und das kursforo von uns",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404338057513,
+      "content": "Ich auch :) Was schenken wir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "De Ni Ce",
+      "timestamp_ms": 1404337197531,
+      "content": "Ich w\u00c3\u00bcrde auch mitmachen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1404336646703,
+      "content": "K\u00c3\u00b6nnen sich bitte auch die melden die nciht mitschenken?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404336076082,
+      "content": "Ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1404336073715,
+      "content": "Ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404336060228,
+      "content": "Ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1404335802064,
+      "content": "Also wer schenkt jetzt bei mundis geschenk alles mit? Das Geld wurden wir am Freitag einsammeln.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sharmagne, Ruth, Facebook-Nutzer und 12 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/sharmagneruthfacebooknutzerund12weiterepersonen_v00rjdtosa",
+  "magic_words": [
+    
+  ]
+}

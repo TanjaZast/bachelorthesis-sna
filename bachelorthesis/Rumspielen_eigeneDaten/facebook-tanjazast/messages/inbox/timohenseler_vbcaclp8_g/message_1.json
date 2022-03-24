@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Timo Henseler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Timo Henseler",
+      "timestamp_ms": 1424631674377,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo Henseler",
+      "timestamp_ms": 1423769544281,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Timo Henseler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timohenseler_vbcaclp8_g",
+  "magic_words": [
+    
+  ]
+}

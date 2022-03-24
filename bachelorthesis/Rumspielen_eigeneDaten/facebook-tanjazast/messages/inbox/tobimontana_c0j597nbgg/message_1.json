@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Tobi Montana"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568572499183,
+      "content": "D\u00c3\u00bcrfte ich vielleicht bei dir nach der Arbeit bitte mit nach donaustetten fahren \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568572443829,
+      "content": "Hast du morgen Fr\u00c3\u00bchschicht? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1568572436777,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1504337549090,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobi Montana",
+      "timestamp_ms": 1503941031144,
+      "content": "Hey ich bins Tobi von EvoBus wollte fragen ob du mich morgen fr\u00c3\u00bch vllt mitnehmen kannst \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tobi Montana",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tobimontana_c0j597nbgg",
+  "magic_words": [
+    
+  ]
+}

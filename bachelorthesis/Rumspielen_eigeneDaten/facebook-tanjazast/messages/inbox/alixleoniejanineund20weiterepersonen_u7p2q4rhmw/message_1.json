@@ -1,0 +1,112 @@
+{
+  "participants": [
+    {
+      "name": "Alix Sgn"
+    },
+    {
+      "name": "Leonie Carolina"
+    },
+    {
+      "name": "Janine Haaga"
+    },
+    {
+      "name": "Muha Dk"
+    },
+    {
+      "name": "Mona Pro-Kimani"
+    },
+    {
+      "name": "Dennis Didsch\u00c3\u00a4i"
+    },
+    {
+      "name": "Hendrik Biddy"
+    },
+    {
+      "name": "Daniel Kropp"
+    },
+    {
+      "name": "Hanna Magdalena"
+    },
+    {
+      "name": "Lisa Nichts Weiter"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Fabian M\u00c3\u00b6bius"
+    },
+    {
+      "name": "Monika Stachel"
+    },
+    {
+      "name": "Marie Dienstmann"
+    },
+    {
+      "name": "Anika Porcelina"
+    },
+    {
+      "name": "Carmen Veronika"
+    },
+    {
+      "name": "Bj\u00c3\u00b6rn Hausser"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Larissa Weiss"
+    },
+    {
+      "name": "Daniel Freduardo Aubrey Redl"
+    },
+    {
+      "name": "Helen Rosa"
+    },
+    {
+      "name": "Theresa Rottler"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Klark Kent"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kathrin J\u00c3\u00a4ger",
+      "timestamp_ms": 1505130512232,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1419162865990,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Didsch\u00c3\u00a4i",
+      "timestamp_ms": 1310328985877,
+      "content": "ich hab ne neue Handy Nr. 0177 9093836",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alix, Leonie, Janine und 20 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/alixleoniejanineund20weiterepersonen_u7p2q4rhmw",
+  "magic_words": [
+    
+  ]
+}

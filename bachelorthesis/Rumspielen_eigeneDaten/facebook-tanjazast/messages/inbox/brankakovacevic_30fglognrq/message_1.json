@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Branka Kova\u00c4\u008devi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Branka Kova\u00c4\u008devi\u00c4\u0087",
+      "timestamp_ms": 1436131410414,
+      "content": "O ba\u00c5\u00a1 ti hvala du\u00c5\u00a1ice \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098 bilo je lepo \u00c5\u00a1teta \u00c5\u00a1to nisi do\u00c5\u00a1la veliki poljubac za tebe \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436127310312,
+      "content": "Posto Tamara nema FaceBook mora ovako: \n\n\u00c5\u00bdelim joj od srca sve najbolje i najlep\u00c5\u00a1e i da joj se sve \u00c5\u00beelje ostvare. Sa 18 godina se dosta menja, reci joj da pazi na sebe, da u\u00c5\u00beiva i da ostane taka divna cura! \u00c4\u008cula sam da je bila super fe\u00c5\u00a1ta, bas me raduje. \nVelika pusa \u00f3\u00be\u008c\u00ac\u00f3\u00be\u0094\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Branka Kova\u00c4\u008devi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/brankakovacevic_30fglognrq",
+  "magic_words": [
+    
+  ]
+}

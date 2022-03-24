@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Thomas M\u00c3\u00bcnch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thomas M\u00c3\u00bcnch",
+      "timestamp_ms": 1583098424763,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Thomas M\u00c3\u00bcnch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/thomasmunch_2dnzmiozjw",
+  "magic_words": [
+    
+  ]
+}

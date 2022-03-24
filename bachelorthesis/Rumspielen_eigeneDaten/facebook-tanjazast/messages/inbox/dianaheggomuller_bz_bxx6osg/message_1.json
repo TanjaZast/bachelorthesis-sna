@@ -1,0 +1,635 @@
+{
+  "participants": [
+    {
+      "name": "Diana Heggom\u00c3\u00bcller"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493318288130,
+      "content": "Ja werd schnell wieder gesund \u00f0\u009f\u0098\u009a\u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493318279208,
+      "content": "Echt? Das ist ja super!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493312552143,
+      "content": "Juhu Sonntag steht und hoffentlich werde ich gesund \u00f0\u009f\u0098\u008a\u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493312531345,
+      "content": "Es ist ganz mein Handy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493308004550,
+      "content": "das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493308002353,
+      "content": "Du schaffst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493307999752,
+      "content": "Oh nein du arme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493307995147,
+      "content": "Ja Sonntag w\u00c3\u00a4re ich dabei \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301966313,
+      "content": "hasse es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301962202,
+      "content": "hab jetzt Informatik :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301928918,
+      "content": "kannst du da dann? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493301912153,
+      "content": "Was machst du gerade noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493301908022,
+      "content": "Du bist lieb und ich an dich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493301885977,
+      "content": "Oh Sonntag w\u00c3\u00a4re echt besser \u00f0\u009f\u0099\u0088\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301879726,
+      "content": "naja k\u00c3\u00b6nnte besser sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301831908,
+      "content": "ich glaube an dich <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301810222,
+      "content": "sogar besser eigentlich oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301798403,
+      "content": "kannst da trotzdem? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493301791225,
+      "content": "STARKBIERFESt ist am Sonntag erst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300765194,
+      "content": "Ja zum Gl\u00c3\u00bcck \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300759298,
+      "content": "Wow voll flei\u00c3\u009fig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300750223,
+      "content": "Ist nur wegen der bl\u00c3\u00b6den Arbeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300738971,
+      "content": "Ja das mach ich aufjedenfall \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300498374,
+      "content": "bist ja bald durch f\u00c3\u00bcr heuet <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300484626,
+      "content": "ja weil ich jeden tab bis 11 was gemacht habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300476524,
+      "content": "sagst halt bescheid <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300468647,
+      "content": "ihm und wegen starkbierfest w\u00c3\u00bcrde ich mich super freuen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300454848,
+      "content": "ich mich auch :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300402986,
+      "content": "Joa ganz gut.. leider noch nicht ganz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300389552,
+      "content": "Besser als zu stressig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300383205,
+      "content": "Das freut mich zu h\u00c3\u00b6ren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300375689,
+      "content": "War aber jetzt auch echt spontan \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493300366443,
+      "content": "Oh schade, h\u00c3\u00a4tte mich voll gefreut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300307082,
+      "content": "wie ist deiner? Rewe \u00c3\u00bcberlebt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300296766,
+      "content": "hab nur ewig pause",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300293254,
+      "content": "mein tag ist super",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300289415,
+      "content": "das klingt aber echt super das Angebot aber bin auch etwas krank -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300248519,
+      "content": "sonst gerne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493300245864,
+      "content": "hab morgen um 8 VL :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493296587122,
+      "content": "Du k\u00c3\u00b6nntest zu mir kommen zum gntm anschauen und dann fahr ich ins Myers",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493294660641,
+      "content": "\u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493294657427,
+      "content": "Kurze Frage, hast du Lust heute ins Myers zu gehen? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493293035235,
+      "content": "Ich hab noch Vorlesung bis 17:15 Rechnungswesen, das ist voll langweilig \nIch bin so froh wenn es vorbei ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493293003499,
+      "content": "Wie ist dein Tag bis jetzt? Kommst du voran? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493292984529,
+      "content": "Ist das diesen Samstag? Ich muss mal wieder arbeiten von 11-19 Uhr und dann bin ich bei Daniel weil seine Gro\u00c3\u009feltern vorbeikommen. Ich w\u00c3\u00bcrde dir Bescheid geben wenn das in Ordnung ist? \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233083221,
+      "content": "was machst du noch so? wie war es beim Sport?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233071799,
+      "content": "muss dann noch Lineare Algebra machen und dann aber ins Bett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233059016,
+      "content": "mache gerade Finanzierung aber komme nicht mehr weiter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233045741,
+      "content": "gehst du am Samstag Abend aufs Starkbieres? bzw hast du lust mir mir da hinzugehen? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233024493,
+      "content": "oh man das klingt nicht so gut aber immerhin ist er jetzt vorbei :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493231342702,
+      "content": "Und dann war ich im Training und dann hab ich mich mit den M\u00c3\u00a4dels getroffen und dann nochmal Vorlesung bis 19 Uhr \nUnd bei dir? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493231301394,
+      "content": "Englisch am Morgen bringt es einfach gar nicht \u00f0\u009f\u0099\u0084 der Professor macht einfach nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493231270906,
+      "content": "Ich hatte heute wieder meinen bl\u00c3\u00b6den Tag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493231259965,
+      "content": "Oh sorry ich hab deine Nachricht erst jetzt gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493203192923,
+      "content": "naaaa, wie ist dein tag? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493189241167,
+      "content": "Oki machs gut \u00f0\u009f\u0098\u009a\u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493183287711,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493183286289,
+      "content": "ich melde mich dann in der uni bei dir. muss jetzt los",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493183274085,
+      "content": "mache ich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493149081027,
+      "content": "Ja war ganz okay, werde nachher nochmal was machen \u00f0\u009f\u0099\u0088 na immerhin das wird schon Maus \u00f0\u009f\u0092\u0095 viel Spa\u00c3\u009f bei Jonas, sag ihm Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148238718,
+      "content": "wird schon <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148234119,
+      "content": "und? wie lief es? bin jetzt bei Jonas und kam heute okay voran :* muss morgen aber noch einiges machen -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493131334073,
+      "content": "Danke dir auch \u00f0\u009f\u0098\u009a bist du gut voran gekommen? \nIch war nur in der Vorlesung und im Training und werde jetzt noch die Sachen machen die ich aufgeschoben habe \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493131267601,
+      "content": "Echt? Du schaffst das ohne Wecker? Ich w\u00c3\u00bcrde so verschlafen \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493100153746,
+      "content": "Dir nen sch\u00c3\u00b6nen tag :* ich geh jetzt info machen und schreibe dir nat\u00c3\u00bcrlich wenn was aufregendes passieren sollte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493100129029,
+      "content": "Guten Morgen :* bin schon in der uni. Zum Gl\u00c3\u00bcck bin ich einfach so um hab 7 aufgewacht hab ja keinen Wecker :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493068854693,
+      "content": "W\u00c3\u00bcnsch ich dir auch \u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493068845190,
+      "content": "Aber das freut mich total mit Analysis und mit Informatik wird das sicher auch noch \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493068820428,
+      "content": "Oh je das ist aber echt soo lange, du arme... ich w\u00c3\u00bcnsche dir ganz viel Kraft f\u00c3\u00bcr die Zeit und du kannst das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493068774921,
+      "content": "Danke das ist lieb \u00f0\u009f\u0098\u009a hab immernoch Muskelkater von Sonntag \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493068754965,
+      "content": "Ich hoffe es.. ich muss aber jetzt echt zusammen rei\u00c3\u009fen. Weil ich am Wochenende wegen Arbeit und Daniel auch kaum etwas mache",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493068243371,
+      "content": "gute nacht <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493068240054,
+      "content": "naja mein uni start war nicht soooo gut.... kapiere in Informatik schonmal nichts :D aber habe bis vorhin Analysis gemacht und fast ganz fertig geworden und werde dann morgen schauen Informatik mir jemanden zur Seite zu holen aber eine Aufgabe habe ich schonmal.... wird halt jetzt echt nervig mit jeden tag bis 18 Uhr und dienstags bis Donnerstag von 8 Uhr morgens durchgehend plus 3 Vorleistungen um die Pr\u00c3\u00bcfung \u00c3\u00bcberhaupt mitschreiben zu d\u00c3\u00bcrfen... naja wird schon :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493068110385,
+      "content": "uuuh morgen ist also training dran <3 dann hoffe ich schonmal, dass es gut l\u00c3\u00a4uft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493068077908,
+      "content": "oh man das verstehe ich vollkommen mit der fehlenden Motivation aber da du sonst immer so super flei\u00c3\u009fig bist, wird das bestimmt nicht zuuuu schlimm sein oder? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493066552948,
+      "content": "Sonst ist alles soweit gut Maus? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493066529464,
+      "content": "Musst mir dann erz\u00c3\u00a4hlen wie du das machst. Ich hoffe es klappt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493066514337,
+      "content": "Mir geht's soweit ganz gut. Hatte mir f\u00c3\u00bcr heute echt vorgenommen ein paar Sachen f\u00c3\u00bcr die Hochschule zu machen aber hatte einfach keine Motivation. Dann muss ich das morgen nach dem Training machen \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493066473755,
+      "content": "ich warte 10 Tage wenn es sein muss, mein handy aber komplett geht und nichts fehlt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493066441614,
+      "content": "Das wird schon, das schaffst geht auch vorbei. Ist halt mega \u00c3\u00a4rgerlich \u00f0\u009f\u0098\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493064440540,
+      "content": "wie geht es dir? wie war dein Tag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493064424578,
+      "content": "ja richtig dumm :( wenn es wieder an darf, dass erz\u00c3\u00a4hle ich dir wie aber bin jetzt erstmal 72h ohne handy wobei 2 davon habe ich bis jetzt \u00c3\u00bcberlebt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493056858467,
+      "content": "Hey Maus\u00f0\u009f\u0098\u009a ich w\u00c3\u00bcnsch dir einen guten Start in die Woche \u00f0\u009f\u0092\u0095 du hast dich echt fertig angeh\u00c3\u00b6rt...ruh dich auch bitte ein bisschen aus. Und \u00c3\u00bcbernehm dich nicht gleich wieder\nDas war die Nachricht \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493056701060,
+      "content": "Hast du es in Reis getan?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493056694484,
+      "content": "Schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1493056683475,
+      "content": "Oh je das auch noch...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493053050491,
+      "content": "mein handy ist ins Klo gefallen.... was hattest du mir geschrieben? :( heute l\u00c3\u00a4uft alles schief",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diana Heggom\u00c3\u00bcller",
+      "timestamp_ms": 1479041621948,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Diana Heggom\u00c3\u00bcller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dianaheggomuller_bz_bxx6osg",
+  "magic_words": [
+    
+  ]
+}

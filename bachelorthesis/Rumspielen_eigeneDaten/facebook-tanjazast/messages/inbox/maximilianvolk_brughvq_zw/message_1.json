@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Maximilian V\u00c3\u00b6lk"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maximilian V\u00c3\u00b6lk",
+      "timestamp_ms": 1423225619227,
+      "content": "hey :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maximilian V\u00c3\u00b6lk",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maximilianvolk_brughvq_zw",
+  "magic_words": [
+    
+  ]
+}

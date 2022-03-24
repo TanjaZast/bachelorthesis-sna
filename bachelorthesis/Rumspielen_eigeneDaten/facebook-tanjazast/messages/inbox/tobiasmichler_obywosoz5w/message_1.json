@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Tobias Michler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tobias Michler",
+      "timestamp_ms": 1392510403724,
+      "content": "Isch ja bl\u00c3\u00b6d \nNa dann gute nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1392510237872,
+      "content": "Nichts geh ja jetzt schlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Michler",
+      "timestamp_ms": 1392510020677,
+      "content": "Ja gut :) \nWas schaust du dann an?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1392509984865,
+      "content": "Nei ;) hahahaha! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Michler",
+      "timestamp_ms": 1392509888425,
+      "content": "Eigentlich nix \nKommt gerade irgendwas gutes im tv?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1392509842135,
+      "content": "Tv schauen bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Michler",
+      "timestamp_ms": 1392509784086,
+      "content": "Servus \nWas geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1392509745752,
+      "content": "Ja hallo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Michler",
+      "timestamp_ms": 1392509681705,
+      "content": "Tanjaaaaaa ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tobias Michler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tobiasmichler_obywosoz5w",
+  "magic_words": [
+    
+  ]
+}

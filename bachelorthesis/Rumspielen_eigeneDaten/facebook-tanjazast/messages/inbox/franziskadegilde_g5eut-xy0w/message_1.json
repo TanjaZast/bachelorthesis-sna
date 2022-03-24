@@ -1,0 +1,194 @@
+{
+  "participants": [
+    {
+      "name": "Franziska de Gilde"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404250100687,
+      "content": "Ja klar :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404246001059,
+      "content": "Hat's geklappt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404223113601,
+      "content": "Ok gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404222982043,
+      "content": "Ja klar :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404222726027,
+      "content": "Ich hab's ihrer Mutter jetzt  vorbeigebracht aber die is noch in Urlaub. Wei\u00c3\u009ft du des?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404207806717,
+      "content": "Perfekt :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404207473483,
+      "content": "Ok dann bring ich des davor vorbei!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404206818672,
+      "content": "So gegen 17 Uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404204702879,
+      "content": "Perfekt!\nJa mach ich! Wann bist du da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404203432129,
+      "content": "Ich fahre heute eh nach grimmelfingen um das Geld von Charlotte abzuholen kannst du deins auch iwie hinbringen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404200680046,
+      "content": "Hast du Lisa gefragt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404110920604,
+      "content": "Oh ehm die hat Lisa ich frag sie :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404110384791,
+      "content": "Kannst du mir die trotzdem geben oder wo steht die?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404079012221,
+      "content": "Die aus der Stufe meinte ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404070444703,
+      "content": "Oh Gott ja ich schau mal ob ich des hinbekomm. Schreibst du mir noch deine Bankverbindung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069251967,
+      "content": "Kannst du es \u00c3\u00bcberweisen morgen oder so? ;) ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404041575292,
+      "content": "Hey Tanja. Kann ich noch ne Karte f\u00c3\u00bcrs theatro bestellen? Und wie kann ich die bezahlen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319643294073,
+      "content": "okaY bis dann.. Warum fragst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1319641140780,
+      "content": "Ok \nEgal ;)\nDanke\nBis morgen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319641106203,
+      "content": "nee glaub net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1319641069551,
+      "content": "Hey weist du ob wir des participio schon hatten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1306860588000,
+      "content": "Klar :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1306851336246,
+      "content": "Ja klar\n\nHast du auch aldi?\n015789287013",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1306851336000,
+      "content": "Ja klar\n\nHast du auch aldi?\n015789287013",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1306850108000,
+      "content": "Willst du mir mal deine HandyNummer geben bitte?? :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Franziska de Gilde",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/franziskadegilde_g5eut-xy0w",
+  "magic_words": [
+    
+  ]
+}

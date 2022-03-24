@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Felix Mayerhofer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felix Mayerhofer",
+      "timestamp_ms": 1422387579794,
+      "content": "klaro :) woher kenst man sich eig nochmal :D ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422379368878,
+      "content": "Ja bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Mayerhofer",
+      "timestamp_ms": 1422377248646,
+      "content": "alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422376817503,
+      "content": "Hey\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Mayerhofer",
+      "timestamp_ms": 1422359273265,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Felix Mayerhofer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/felixmayerhofer_eoust2nd-g",
+  "magic_words": [
+    
+  ]
+}

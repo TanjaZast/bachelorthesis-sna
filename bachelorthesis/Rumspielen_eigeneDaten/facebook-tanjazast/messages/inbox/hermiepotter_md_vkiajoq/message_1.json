@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Hermie Potter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1326310553646,
+      "content": "Hey nico :) ehm ich wollte mal fragen ob ich nachm auftritt also n\u00c3\u00a4chste woche ab da dann IMMER wenn ich noch darf kommen d\u00c3\u00bcrfte und k\u00c3\u00b6nnte weil jetzt hab ich wieder immer zeit und so.. Und eig wollte ich morgen kommen aber ich hab gelesen dass ihr schon voll im proben seid und so was.. Also w\u00c3\u00a4re halt nett wenn du sehr schnell bescheid sagst :) auch wenn ich nicht darf sollte ich halt wissen danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1323922017974,
+      "content": "Ja versuchs halt wies f\u00c3\u00bcr dich am besten ist. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1323900616200,
+      "content": "Also dann vllt samstag oder N\u00c3\u00a4chsten donnerstag wenn ich vorbei schauen darf und dann komm ich aber immer :) also ich geb zumindest mein bestes ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1323900559904,
+      "content": "Ehm habt ihr nicht euer training um 15 minuten verschieben wollen?? (: weil ich hab immer bis 16:15 schule und bis ins 10dance brauche ich locker 15 bis 20 minuten -.- und ich komm dann wenns mir wieder besser geht weil mir zur zeit voll oft \u00c3\u00bcbel ist.. Nicht sauer sein okay? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320928273999,
+      "content": "Ooooooh jaaa -.- danke eig eher verbesserungen und so aber danke :) bis denne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1320924235363,
+      "content": "ja danke :'( .. dir auch viel spa\u00c3\u009f beim lernen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320923651316,
+      "content": "Okay gut :) ich hab auch schule bis hab 5 und ja muss noch voll viel lernen und so machen :) cool :* viel Spa\u00c3\u009f dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1320921718788,
+      "content": "heey, heute ist kein tanzen. weil ich muss bis 8te arbeiten :((",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320395183852,
+      "content": "Ja weil ich dann ne halbe stunde zu sp\u00c3\u00a4t gekommen w\u00c3\u00a4re weil ich den bus nemme bekommen h\u00c3\u00a4tte & noch nicht mal was gegessen hatte :O okay cool freut mich :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1320392384466,
+      "content": "sie hat dich nich mehr gehen lassen= :O... jaaa klar. :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320359705596,
+      "content": "Duuu ich hab das iwie gar nicht hin bekommen ins training zu gehen -.- ich hab voll die zeit vergessen und meine mutter hat mich dann nicht mehr gehen lassen.. Kann ich aber vllt n\u00c3\u00a4chste woche kommen?? Also am donnerstag?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319996081652,
+      "content": "(: ja mit anschauen meine ich nat\u00c3\u00bcrlich mitmachen!! ;D ist ja klar..!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1319995962684,
+      "content": "machst mit, nicht schaust an! :P :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319995884812,
+      "content": "Okay (: ich komm dann diesen donnerstag und schaus mir mal an ;D danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hermie Potter",
+      "timestamp_ms": 1319995117326,
+      "content": "Donnerstag, 16.15 - 17.30. Competraining :P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hermie Potter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hermiepotter_md_vkiajoq",
+  "magic_words": [
+    
+  ]
+}

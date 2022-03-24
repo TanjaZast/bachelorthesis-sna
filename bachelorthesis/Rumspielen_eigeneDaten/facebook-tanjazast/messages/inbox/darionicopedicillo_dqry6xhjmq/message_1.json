@@ -1,0 +1,286 @@
+{
+  "participants": [
+    {
+      "name": "Dario Nico Pedicillo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442581579209,
+      "content": "Kann dich nicht erreichen :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1442568012671,
+      "content": "0174 244 77 83 bin ab 14 Uhr im Salon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442567986372,
+      "content": "Okay die Nummer bitte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1442566920857,
+      "content": "Kannst du mich anrufen dann machen wir was aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1442566910973,
+      "content": "Ja gerne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1442566904008,
+      "content": "Ciao Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442560454569,
+      "content": "?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442501837170,
+      "content": "Hey Dario. Meine Mama br\u00c3\u00a4uchte einen Termin bei dir. Die will unbedingt nur zu dir weil ich erz\u00c3\u00a4hlt habe wie gut du bist \u00f3\u00be\u008c\u00b5 wann w\u00c3\u00a4re da etwas frei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437813212298,
+      "content": "\u00f0\u009f\u0098\u009e sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437813210556,
+      "content": "Komme 10 Minuten zu sp\u00c3\u00a4t :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908774931,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908772234,
+      "content": "Perfekt Danke und freue mich schon! \n\nGr\u00c3\u00bc\u00c3\u009fe und noch einen sch\u00c3\u00b6nen Urlaub!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1436908633795,
+      "content": "Ja genau rufst im Salon an und machst einen aus....;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908436003,
+      "content": "Perfekt wei\u00c3\u009ft deine Termine aber nicht zuf\u00c3\u00a4llig auswendig oder kann ich einen \u00c3\u00bcber Giuseppe machen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1436894048581,
+      "content": "Hey ciao ja gerne bin ab dem 20.7 wieder im Salon...\u00f0\u009f\u0098\u0089 liebe Gr\u00c3\u00bc\u00c3\u009fe aus bella italia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436894003388,
+      "content": "Dario mein lieber \u00e2\u0098\u00ba\u00ef\u00b8\u008f\n\nIch brauche mal wieder einen sch\u00c3\u00b6nen Friseurtermin \u00f3\u00be\u008c\u00b1 wann bist du wieder im Lande und hast Abends Zeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424213213286,
+      "content": "Ich freu mich schon \u00f3\u00be\u00ae\u009f mal schauen was du sch\u00c3\u00b6nes aus meinen Haaren zaubern wirst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1424213144253,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1424211393642,
+      "content": "Salzstadel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1424211378940,
+      "content": "Ein Parkhaus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1424211370228,
+      "content": "Im sslzstadel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424209868688,
+      "content": "Wei\u00c3\u009f nicht... Wollte mich noch einmal vergewissern und wo kann ich parken? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1424206928092,
+      "content": "Ja klar WiSo soll er nicht mehr stehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424206890762,
+      "content": "Steht der Termin morgen noch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423559053613,
+      "content": "Bin heut im Salon...;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423555514235,
+      "content": "Ja...;-) genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423554181159,
+      "content": "Okay mach ich schnell aber ich muss dann auch schnell weiter arbeiten \u00e2\u0098\u00ba\u00ef\u00b8\u008f die Nummer die auf dem Bild steht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423554134702,
+      "content": "Hey ciao gute. Morgen...;-) kannst du mich im Salon anrufen... Ab 10bin ich drin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423498081690,
+      "content": "Hab schon wieder Bilder wie ich es gerne h\u00c3\u00a4tte also konkreter plan ist vorhanden \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423498021261,
+      "content": "Ich kann am 18.02 ab 18 Uhr \nAm 25.02 ab 18 Uhr \nAm 27.02 ab 15 Uhr \nDann erst wieder am 07.03 ab 115 Uhr. W\u00c3\u00a4re einer dieser Tage okay f\u00c3\u00bcr dich? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423486738216,
+      "content": "Wann willst vorbei kommen...? ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423432047511,
+      "content": "Ja klar....;-) bin von Montag bis Samstag im Salon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423429291937,
+      "content": "Okay kannst du auch samstags? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423428784343,
+      "content": "Ruf am besten im Salon an und frag nach mir....;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423428770892,
+      "content": "Ich arbeite jetzt hier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Nico Pedicillo",
+      "timestamp_ms": 1423428764361,
+      "content": "Ciao ja klar gerne...;-)",
+      "photos": [
+        {
+          "uri": "messages/inbox/darionicopedicillo_dqry6xhjmq/photos/10966777_880298728680493_1656887099_n_880298728680493.jpg",
+          "creation_timestamp": 1423428763
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423420694988,
+      "content": "Hey Dario :) \nIch w\u00c3\u00a4re dann dieses Monat bereit was mit meiner Haarfarbe zu machen. Wir hatten ja von aufhellen gesprochen, Ombre oder so was in der Art gesprochen. Wann h\u00c3\u00a4ttest du Zeit und in welchem Salon arbeitest du jetzt? :) ganz liebe Gr\u00c3\u00bc\u00c3\u009fe \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dario Nico Pedicillo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/darionicopedicillo_dqry6xhjmq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "participants": [
+    {
+      "name": "Kristin Gingele"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345673876131,
+      "content": "ich muss off bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345673838402,
+      "content": "ja :D wie war schule heute :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345673817996,
+      "content": "hoffentlich :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345673801441,
+      "content": "des machst du schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345673231391,
+      "content": ":) hat ja nichts zu sagen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345590315130,
+      "content": "Schaffst du schon du hast ja jetz noch Belobigung :) :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589992090,
+      "content": "hab ivh auch`?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589971212,
+      "content": "Oha :) ich h\u00c3\u00a4tte voll Angst bald Abi :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589927754,
+      "content": ":) jaa :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589893031,
+      "content": "Haha und n\u00c3\u00a4chstes Jahr kommtst du in die 11 oder ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589850825,
+      "content": "doooch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589554676,
+      "content": "Oha ich w\u00c3\u00bcrde es gar nicht blicken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589518427,
+      "content": "jaa ;) klar die k\u00c3\u00b6nnen kein wort deutsch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589408884,
+      "content": "Oha *_* :)) auf englisch oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589359388,
+      "content": "jaa :) wir machen nichts und labern \u00c3\u00bcber fb suchen sachen im internet und erfinden sachen die wir dann verkaufen wollen und machen werbung und so was ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589212244,
+      "content": "Echt cool ;) besser wie Schule hier ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345589167787,
+      "content": "nichts :P wir labern und machen projekte und schreiben und so zeugs ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345589028243,
+      "content": "Was lernst du da :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588994446,
+      "content": ":) stunden ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345588590009,
+      "content": "Was Schule ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588571539,
+      "content": "oooh :)  hatte schule dann meer und dann film  auf englisch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345588446696,
+      "content": "Hahaa :)) was hast du heut gemacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588415581,
+      "content": "jaaaa ;) ich wei\u00c3\u009f :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345588278738,
+      "content": "Cool! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588237964,
+      "content": "jaa ;) und alles mal sehen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345588212386,
+      "content": "Shoppen oder :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588177580,
+      "content": "geeeeeil *-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345588052103,
+      "content": "Wie ist es da so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345588016947,
+      "content": "jaa 2 mal ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345587998036,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345587995762,
+      "content": ":/ warst du auch in London ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345587935348,
+      "content": ";) nur noch bis donnerstag -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345587342171,
+      "content": "Oha und bis wann? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345587274768,
+      "content": "2 1/2 wochen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345587009301,
+      "content": "Achso ;) wie lang bist du schon in England :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345586888945,
+      "content": ":) nein wir hatten keins ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345586221818,
+      "content": "haha :Dund wie war des da so beim casting muss man da allein so vortanzen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585955244,
+      "content": ":) also wenn alle forgeschritten sein wollen ja :P sonst nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585908005,
+      "content": "w\u00c3\u00bcrdest du lieber mit dene eine ganze gruppe bleiben? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585844184,
+      "content": ":) keine ahnung das reden wir noch nach den ferien also wie es weiter gehen soll mit uns allen  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585782584,
+      "content": "gut :)bist du jetz bei fortgeschritenen von deiner gruppe eig.? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585603962,
+      "content": ":) ja schon :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585429374,
+      "content": "ja :) haha hat sich des mit dir und verena wieder verbessert? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585352818,
+      "content": ":) ich auch nicht :P da kommt man iwann schon voll rein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585264815,
+      "content": "doch ich find die richtig gut!danke aber ich wusste gar niht was ich machen soll :) so bewegen undso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585192971,
+      "content": "ich find die jetzt nicht sooo aber deins auch!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585148230,
+      "content": "JAAA!!!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585100599,
+      "content": "haha im ernst jetzt??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585084754,
+      "content": "voll h\u00c3\u00bcbsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345585079787,
+      "content": "ja \u00c3\u00bcbelst! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345585061467,
+      "content": "findest du? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345584897823,
+      "content": ":D du hast voll die sch\u00c3\u00b6nen cindy clich bilder :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584864864,
+      "content": ":) geeeil ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345584835143,
+      "content": "oha voll sch\u00c3\u00b6n :D wie ist es so? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584681018,
+      "content": ":) in england ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345584542850,
+      "content": "echt? wo :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584508805,
+      "content": "bin schon :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345584446428,
+      "content": "musik h\u00c3\u00b6ren und fb halt :D gehst du in urlaub :D ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584425472,
+      "content": "chillen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584421551,
+      "content": ";) sitzen und chileen du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345584237840,
+      "content": "auch :) was machst du so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345584200069,
+      "content": "gut und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345583701597,
+      "content": "wie gehts? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345583673838,
+      "content": "heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1345583631895,
+      "content": "hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336760769730,
+      "content": "okay S\u00c3\u00bc\u00c3\u009f!! :) viele dank ja iwie finden das alle aber soll er denken was er will :D naja also bis dann :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336759957930,
+      "content": "ich muss jetz off freu mich schon auf sonntag haha schreibs mir dann einfach :D :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336759498017,
+      "content": ":D okay ich sehe uns schon bei candys mitfahren.ich finde des voll hart was pascal zu dir sagt voll mies :/ vorallem ich finde du tanzt gut! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336759404229,
+      "content": "Ehm ich sag dir das noch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336759041882,
+      "content": "haha und in welchen muss ich :P  ich wei\u00c3\u009f gar nicht wie der hei\u00c3\u009ft :D ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336758957618,
+      "content": "Nur 2 :P achso.. Naja ist doch cool :P welchen habt ihr gemacht?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336758794306,
+      "content": ":D ja verena hats gemacht :) aber wir waren auch insgesamt nicht so viele hat sie auch gesagt also ein paar die ich nicht kannte und dann halt noch wir pascal tobias nadine ;* haha wie kommen wir dann am sonntag in den richtigen bus da sind doch dann sicher total viele oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336758610434,
+      "content": "Jap aber in nem anderen bus aber kommen auch mit :) ihm gehts gut!! :* hat verena gemacht?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336757817463,
+      "content": "oh gott hast du nen hund wie s\u00c3\u00bc\u00c3\u009f! ich habe nen kater wie geht es ihm jetz? is er krank war cool wir hatten ne einfachn tanz und es hat spa\u00c3\u009f gemacht! ;) kommen candys auch mit schon oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336757688888,
+      "content": "Weil ich den bus nemme bekommen hab :) mein hund ist in die donau gesprungen und bis ich ihn gebadet hab und beim tierarzt war hab ich den bus um 5 nemme bekommen :O egal :) wie wars??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336757268398,
+      "content": "des w\u00c3\u00a4r voll lieb ;* wir sind schon voll aufgeregt.haha :D warum warst du heute nicht da? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336757224364,
+      "content": "Ja ich glaube schon :) ich sags morgen noch mal wenn ich dann training hab :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1336756613698,
+      "content": "hey :D also wir treffen uns am sonntag morgen um 6:00 uhr vor ten dance oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334482400186,
+      "content": "Bitte bitte :) ja bis dann :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334482049197,
+      "content": "und danke das du des jana sagst und unsdes alles erkl\u00c3\u00a4rth hast ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334482024717,
+      "content": "achso xD :) ich geh jetz off bb bis freitag wird bestimt voll lustig ;) bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334481947417,
+      "content": "Kp wer kevin ist aber ne eher nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334481864653,
+      "content": "kommen pascal kevin und rico eig. auch mit xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334481770100,
+      "content": "ich bin 13 und katrin 14 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334481739064,
+      "content": "Jaa :) wie alt bist du und katrin? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334481630076,
+      "content": "achso xD das wird bestimmt cool ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334481521027,
+      "content": "Ehm halt drink das mit dem haare shaken wo wir am freitag getanzt haben :) und halt noch miss fatty den sexy tanz da und dann noch ai se eu te pego den refrain .. :) und noch 2 die wir aber noch nicht gelernt haben :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334481463781,
+      "content": "hey du gehst auch auf st. hildegard ;) welche klasse gehst du ich geh 8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334481345545,
+      "content": "wir feuern euch an xD ;) was tantz ihr da ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334481312190,
+      "content": "Ja ich weiss :) ja ich war auch noch nie iwo auf ner compe zu m zuschauen und jetzt tanze ich da auch noch :O voll strange :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480974415,
+      "content": "weil katrin kann auch mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480954624,
+      "content": "das is bestimmt voll cooles alter ;) wir freuen uns grad vool sooo geil ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480829444,
+      "content": "In 2 monaten 16 und dort sind ja die meisten 14 oder 13 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480758820,
+      "content": "ups xD echt ;) wie alt bist du ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480715184,
+      "content": "Ich glaube mal so um 7 kp :) ne wir sind ne gruppe f\u00c3\u00bcr sich! Resplendance.com oder so.. Naja zu den candys kann ich gar nicht :P da bin ich zu alt daf\u00c3\u00bcr :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480494088,
+      "content": "wann kommt man da von dem auftritt eig. sp\u00c3\u00a4testens zur\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480340155,
+      "content": "du bist dann schon bei den candys oder ihr seid alle voll gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480305198,
+      "content": "Ehm naja 2 mal die woche compe und dann freitag kurs :) aber compe erst seit 2 Monaten oder so :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480203362,
+      "content": "achso ja ;) dankesch\u00c3\u00b6n trainierst du eig. oft xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480196322,
+      "content": "Katrin :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480167692,
+      "content": "Okay :) ehm karin meinte ich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480131234,
+      "content": "Kristin Gingele (aber ich bin noch nicht angemeldet)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480085044,
+      "content": "ja also mein name",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334480079048,
+      "content": "wer ist katharina xD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334480060770,
+      "content": "Dann schreib mal deinen vor- und nachnamen und dann sag ich der heute beim training bescheid das du mitkommst und Katharina vllt auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334479899888,
+      "content": "nein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334479881162,
+      "content": "Okay kennst du jana?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334477575838,
+      "content": "ah cool danke ;) also des kostet ja nichts oder? also ich komm mit!! freu mich schon voll ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334429103434,
+      "content": "Okay :) ehm das ist am 13.mai also am sonntag (muttertag) in Hockenheim ich glaube das ist da iwo bei mannheim bin mir aber nicht sicher :) okay voll cool.. Naja ja wir fahren mim bus alle zsm him und auch wieder zur\u00c3\u00bcck und unsere gruppe hat dann da einen wettkampf :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kristin Gingele",
+      "timestamp_ms": 1334426532471,
+      "content": "hey kannst du mir die daten geben f\u00c3\u00bcr den auftritt vom hiphop wo du uns gefragt hast ob wir lust haben mitzukommen? also f\u00c3\u00a4hrt man da zusammenhinn oder wie xD thx ;) also ich d\u00c3\u00bcrfte und h\u00c3\u00a4tte auch bock ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kristin Gingele",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kristingingele_7ta7z0tpcg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Tim Scheffold"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1429791053274,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1429791051116,
+      "content": "Einfach kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1429791044394,
+      "content": "Lass uns jetzt heute Abend was trinken gehen ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1429791033499,
+      "content": "Hey wie geht's dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1419614990591,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1419613221262,
+      "content": "Hey machmer heute was jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1419157967208,
+      "content": "tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1419157933948,
+      "content": "also gehmer heute was trinken ok in ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1419157926152,
+      "content": "hi jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418844417052,
+      "content": "gehmer was trinken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418706295311,
+      "content": "Also wann machmer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418674062437,
+      "content": "Haha Sry vertan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418673599868,
+      "content": "Nein wann wo zeig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418673458570,
+      "content": "Bist du im Henrys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418673312364,
+      "content": ":) was bin ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418673069209,
+      "content": "Haha bist du des",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418671224404,
+      "content": "Hmm ich hab halt recht wenig Zeit \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418669937624,
+      "content": "Lass uns einfach kennenlernen was trinkrn gehtn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418669873187,
+      "content": "Okay Hmm ich bin gerade etwas \u00c3\u00bcberfordert und wei\u00c3\u009f nicht recht was ich sagen soll \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418669239522,
+      "content": "Sry wusste echt ned was ich schreiben soll vllt hast du ja Lust was trinken zu gehen einfach kennenlernen hast Lust einfach was trinken zu gehen bekomm ich ne Chance",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Scheffold",
+      "timestamp_ms": 1418669225846,
+      "content": "Hey wir kennen uns iwo her schon immal gesehen  Sry das ich des so mach aber du gef\u00c3\u00a4llst mir echt \u00c3\u00bcbelst  ich hei\u00c3\u009f Tim komme aus Neu Ulm  und w\u00c3\u00bcrde mich freuen wenn wir uns kennenlernen k\u00c3\u00b6nnen ich geh 5 mal die Woche ins Fitnessstudio und Spiel neben her noch Profim\u00c3\u00a4sig Tennis und arbeite bei Audi ich w\u00c3\u00bcrde alles geben um mit dir mal ein Date zu haben was meinst Sry das ich das so doof mache echt aber ich find dich echt Hammer h\u00c3\u00a4ttest du Lust heute was essen zu gehen oder so bin echt kein Fake hier whats App. 017632261771",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tim Scheffold",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timscheffold_lsglunvjja",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Evelyn Branickaja"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503040467,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503037660,
+      "content": "16",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342559418667,
+      "content": "16 :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337425344783,
+      "content": "s\u00c3\u00bc\u00c3\u009fe w\u00c3\u00bcrdest du bitte noch mal die beantragte markierung annehmen :) ?? :* <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336997940832,
+      "content": "s\u00c3\u00bc\u00c3\u009fe danke :) :* ehm dasa wo ich mich drauf markiert hab hast du da so ne zustellnung eig bekommen?? :D \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1336942676550,
+      "content": "Klaar:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336940410964,
+      "content": "s\u00c3\u00bc\u00c3\u009fe kannst eine paar sch\u00c3\u00b6ne bilder hoch laden? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Evelyn Branickaja",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/evelynbranickaja_jyqnd9rgbw",
+  "magic_words": [
+    
+  ]
+}

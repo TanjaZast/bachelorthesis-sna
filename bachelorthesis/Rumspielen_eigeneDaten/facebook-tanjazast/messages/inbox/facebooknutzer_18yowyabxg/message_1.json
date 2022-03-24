@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330103369335,
+      "content": "japp :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330103302084,
+      "content": "Ja okay :) seh mer ja dann noch :* bis n\u00c3\u00a4chste woche dann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330103136239,
+      "content": "danke :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330103132772,
+      "content": "ich denke, wir werden dann das training mit verena erst mal lassen und samstag morgen training machen\nist aber noch nicht sicher aber das macht glaub am meisten sinn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330103071305,
+      "content": "Okay :) naja aber dann werdet mal schnell gesund und so.. Das training wird dann voll fehlen... Wie ist das dann eig auch noch mit sonntags training?? :* gute besserung dir ! :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330102911528,
+      "content": "ja aber ich mach kein training mehr wenn ich krank bin, weil ich mich einfach nicht auskuriere dann..\nund ich hab keine lust mehr krank zu sein\nne verena hat ihre candys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330102841678,
+      "content": "Okay oh ihr armen... Ich bin auch krank ;) naja macht morgen nicht mal verena?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330102736872,
+      "content": "jana darf noch kein sport machen\nund ich bin auch krank ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330102691348,
+      "content": "Heei :) warum ist eig dieses wochenende kein training?? :O ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_18yowyabxg",
+  "magic_words": [
+    
+  ]
+}

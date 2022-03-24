@@ -1,0 +1,164 @@
+{
+  "participants": [
+    {
+      "name": "Jamie Evans"
+    },
+    {
+      "name": "Anna Wa"
+    },
+    {
+      "name": "Bianca Feimer"
+    },
+    {
+      "name": "Jen Belikov"
+    },
+    {
+      "name": "Melanie Mayer"
+    },
+    {
+      "name": "Sara Pinto"
+    },
+    {
+      "name": "Velvet de Malik"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Nathalie Hones"
+    },
+    {
+      "name": "Lisa-Marie Welz"
+    },
+    {
+      "name": "Emine Y\u00c3\u00bcksel"
+    },
+    {
+      "name": "Karo Grajczak"
+    },
+    {
+      "name": "Larry Lou"
+    },
+    {
+      "name": "Anastasia Krupke"
+    },
+    {
+      "name": "Felix Louis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenny Nettesheim",
+      "timestamp_ms": 1331664176932,
+      "content": "Jenny Nettesheim hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jenny Nettesheim"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1330259889312,
+      "content": "Alisa Braun hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alisa Braun"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vicky Br\u00c3\u00b6ckel",
+      "timestamp_ms": 1330257287028,
+      "content": "Vicky Br\u00c3\u00b6ckel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Vicky Br\u00c3\u00b6ckel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erinna Mich Dran",
+      "timestamp_ms": 1330255116790,
+      "content": "Erinna Mich Dran hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Erinna Mich Dran"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jenny Nichts",
+      "timestamp_ms": 1330254095651,
+      "content": "Jenny Nichts hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jenny Nichts"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1330254019652,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1330253973839,
+      "content": "schon gemacht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Laura Tuchtenhagen",
+      "timestamp_ms": 1330253781941,
+      "content": "Laura Tuchtenhagen hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Laura Tuchtenhagen"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bianca Feimer",
+      "timestamp_ms": 1330253720680,
+      "content": "Klar kann ich <3  macht du auch f\u00c3\u00bcr mich ? :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa-Marie Welz",
+      "timestamp_ms": 1330248723228,
+      "content": "hey :) k\u00c3\u00b6nntest du bitte f\u00c3\u00bcr mich voten? dankesch\u00c3\u00b6n <3 man kann t\u00c3\u00a4glich abstimmen :)    http://www.facebook.com/EFDeutschland?v=app_159968587455079&app_data=vote_entry_id%3D3398297%26wlbb%3D1             ",
+      "share": {
+        "link": "https://www.facebook.com/EFDeutschland/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jamie, Anna, Bianca und 11 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/jamieannabiancaund11weiterepersonen_x5ry72kesg",
+  "magic_words": [
+    
+  ]
+}

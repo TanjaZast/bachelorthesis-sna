@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Hund"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418839700798,
+      "content": "Okay :) Danke gibst mir dann bescheid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Hund",
+      "timestamp_ms": 1418838610294,
+      "content": "Muss das nochmal rechnen \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Hund",
+      "timestamp_ms": 1418838596860,
+      "content": "Nein das hat bestimmt was mit auf und abzinsung zu tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418832256808,
+      "content": "Hast du deinen Fehler schon gefunden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418832245254,
+      "content": "Hey ich hab das gleiche wie du raus \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Hund",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonashund_3e3qc7pgrw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tobias Schaible"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tobias Schaible",
+      "timestamp_ms": 1498473362673,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tobias Schaible",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tobiasschaible_gj5mygavgw",
+  "magic_words": [
+    
+  ]
+}

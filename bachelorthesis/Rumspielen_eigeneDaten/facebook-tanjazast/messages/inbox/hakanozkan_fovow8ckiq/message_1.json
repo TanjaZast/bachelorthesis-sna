@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Hakan \u00c3\u0096zkan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hakan \u00c3\u0096zkan",
+      "timestamp_ms": 1432675691160,
+      "content": "H\u00c3\u00bcbsch \u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hakan \u00c3\u0096zkan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hakanozkan_fovow8ckiq",
+  "magic_words": [
+    
+  ]
+}

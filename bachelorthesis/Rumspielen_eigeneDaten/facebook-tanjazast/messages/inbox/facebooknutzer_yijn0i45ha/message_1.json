@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1426682971537,
+      "content": "Hey \u00f3\u00be\u008c\u00b5 wie geht's? \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_yijn0i45ha",
+  "magic_words": [
+    
+  ]
+}

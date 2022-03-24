@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Axel D. Caldas"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1455830081718,
+      "content": "Wie gehts dir Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1452015763381,
+      "content": "hey tanja woher kennen wir uns nochmal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1441315845638,
+      "content": "Wo Wohnst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1441315839596,
+      "content": "Okay warum ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1441315800011,
+      "content": "Das Studium :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1441313210684,
+      "content": "Was findest du nicht so gut \u00f0\u009f\u0098\u0089?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1441313119640,
+      "content": "Was ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1441313026218,
+      "content": "Finde es nicht so gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1441308142550,
+      "content": "Nur Interesse halber ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1437724224078,
+      "content": "Super wie gef\u00c3\u00a4llt es dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437723812811,
+      "content": "Warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437723810700,
+      "content": "Dual :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Axel D. Caldas",
+      "timestamp_ms": 1437723606391,
+      "content": "Hey machst du ein duales Studium oder arbeitest du Vollzeit ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Axel D. Caldas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/axeldcaldas_-vjfn-lyow",
+  "magic_words": [
+    
+  ]
+}

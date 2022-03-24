@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ann-Kathrin Kohn",
+      "timestamp_ms": 1457970800894,
+      "content": "okay hab ich jetzt von vielen geh\u00c3\u00b6rt. dass alle meinten ich sei sturz betrunken gewesen...aber von zwei oder drei Mischungen kann das kaum kommen...\ndanke. mir gehts eigentlich wieder gut, ich hab eben ein komisches gef\u00c3\u00bchl...auch gestern wars wieder gut, deswegen von zu viel Alk w\u00c3\u00a4r es mir gestern sicher schei\u00c3\u009fe gegangen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457970475316,
+      "content": "Ne sorry hab leider nichts gesehen vielleicht hat ja Selina was gemerkt die hatte ja mit dir gesprochen aber du hast etwas abwesend gewirkt das stimmt allerdings \u00f3\u00be\u008d\u0080 gute Besserung dir dann auf jeden Fall!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann-Kathrin Kohn",
+      "timestamp_ms": 1373540912864,
+      "content": "Hey:) also meine handynummer 017630325382",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ann-Kathrin Kohn",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annkathrinkohn_ufton1ux3g",
+  "magic_words": [
+    
+  ]
+}

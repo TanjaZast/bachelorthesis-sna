@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Anne Bleher"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne Bleher",
+      "timestamp_ms": 1452437447254,
+      "content": "Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1452437422350,
+      "content": "Anne alles alles liebe und gute nachtr\u00c3\u00a4glich! \u00e2\u0098\u00ba\u00ef\u00b8\u008f ich hoffe du hast gestern sch\u00c3\u00b6n gefeiert",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anne Bleher",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annebleher_r14cuwix6g",
+  "magic_words": [
+    
+  ]
+}

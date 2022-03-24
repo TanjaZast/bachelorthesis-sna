@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Halit Bizz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Halit Bizz",
+      "timestamp_ms": 1406060506933,
+      "content": "Heey...\u00f3\u00be\u008c\u00b0\nIch bin Rapper und brauch deine Unterst\u00c3\u00bctzung, wenn dir meine Musik gef\u00c3\u00a4llt, dann \nLade alle deine Freunde ein  Jonny Bizz, mit gef\u00c3\u00a4llt mir zu markieren...Danke\n\nUnter diesem Link kommst du auf die Seite \n\nhttps://m.facebook.com/profile.php?id=576671322449930\n\nLIKEN &TEILEN",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Halit Bizz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/halitbizz_ui7gxdwbba",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Schwer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505674153034,
+      "content": "Naja, wollte maximal 1:45 brauchen und habe 1:45:20h gebraucht. Aber war eh ziemlich krank letzte Woche also ist es okay \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505674100910,
+      "content": "Sehr gut! Ja, dann ist das ein realistisches Ziel.\u00e2\u0098\u00ba\u00ef\u00b8\u008f musstest ja auch viel deinem Vater helfen, da hat man automatisch weniger Zeit zum trainieren.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schwer",
+      "timestamp_ms": 1505673950101,
+      "content": "Danke dir! Die Gl\u00c3\u00bcckw\u00c3\u00bcnsche kann ich nat\u00c3\u00bcrlich nur zur\u00c3\u00bcck geben ;)\nJa ich bin mega zufrieden. Hab echt sehr wenig trainiert, von daher war das Ziel mein Ziel \u00f0\u009f\u0098\u0085 Wie lief es bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505673783450,
+      "content": "Gl\u00c3\u00bcckwunsch! \u00e2\u0098\u00ba\u00ef\u00b8\u008f wusste garnicht, dass du so ein L\u00c3\u00a4ufer bist. Bist du zufrieden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schwer",
+      "timestamp_ms": 1505672855033,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Schwer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonasschwer_rcdkswqgka",
+  "magic_words": [
+    
+  ]
+}

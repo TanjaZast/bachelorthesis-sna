@@ -1,0 +1,2035 @@
+{
+  "participants": [
+    {
+      "name": "Fabio Barone"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1472946264457,
+      "content": "Hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1453934361764,
+      "content": "Hi du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1452035993637,
+      "content": "Hey. Lange her!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1444338816642,
+      "content": "Na du h\u00c3\u00bcbsche...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1442176103004,
+      "content": "Abend. Alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1440971935648,
+      "content": "Hey du alles klar?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1439075063418,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438526777720,
+      "content": "Hi tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438296698199,
+      "content": "Hey... Auch online?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438277790094,
+      "content": "Aber sonst bei dir alles klar? Geht es dir gut?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438234773604,
+      "content": "Gerne tanja... ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438234451462,
+      "content": "Oha danke. Das ist ja mal ein Mega Kompliment ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438116973421,
+      "content": "nix zu danken.. hab dich ja ewig nicht gesehen und als ich das bild gesehen habe war ich megabeeindruckt von dir...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438116947845,
+      "content": "Hihi vielen vielen Dank Fabio! Sehr lieb von dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1438107245722,
+      "content": "Liebe Tanja kompliment... du siehst auf deinem aktuellen profilbild echt sehr gut aus. lg fabio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401823141281,
+      "content": "Kannst mal bei vistaprint.de schauen was die da kosten.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401823110815,
+      "content": "Oh okay :) gibt es ne Internet Seite auf der man das billig drucken kann? Und ne app oder so zum Designen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401823030189,
+      "content": "Eventwerkstatt existiert ja nicht mehr... Heisst ja jetzt rio... Weiss nicht wer da nun die drucksachen macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822977751,
+      "content": "Wer macht das dann jetzt f\u00c3\u00bcr die Eventwerkstatt? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822886420,
+      "content": "Wie gesagt ich habe da keine zeit mehr . Sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822847641,
+      "content": "Machst du noch Eintrittskarten oder so. Also ich br\u00c3\u00a4uchte unbedingt jemanden der so was macht und wie viel verlangst du? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822757898,
+      "content": "Entwerfen tu ich garnix mehr weil ich f\u00c3\u00bcr sowas keine zeit mehr habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822732538,
+      "content": "Und vorwiegend f\u00c3\u00bcr gr\u00c3\u00b6ssere firmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822718326,
+      "content": "Messebau  werbemittel und so sachen... Also eher grossauftr\u00c3\u00a4ge ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822717784,
+      "content": "Entwirfst du eigentlich noch so Eintrittskarten? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822682778,
+      "content": "Und was machst sonst? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822675749,
+      "content": "Oh shit ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822416479,
+      "content": "Ja nebenher... Da verdient man ja eh kein geld :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822239679,
+      "content": "Hoffentlich!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822233975,
+      "content": ":/ okay klingt stressig. Machst du noch das zeug mit den Flyer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401822162611,
+      "content": "Ja bei mir passt es. Hab seit einigen wochen \u00c3\u00bcblen stress weil ich viel arbeit habe. Aber das legt sich schon bald wieder :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822111698,
+      "content": "Ja klar ist alles okay bei mir bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401225809005,
+      "content": "Sonst alles ok bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401225791995,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401225763359,
+      "content": "Nein als ob",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401222395928,
+      "content": "Bitte. Biat voll h\u00c3\u00bcbsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401222352120,
+      "content": "Danke hihi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1401220159373,
+      "content": "Ui... H\u00c3\u00bcbsches foto ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398103409936,
+      "content": "Mir gehts nicht ganz so gut. Aber da kann ich nix gegen machen. Wird schon wieder werden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398103369948,
+      "content": "Warum nur passt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398087269626,
+      "content": "Ach ja .. Passt schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398087230748,
+      "content": "Ja klar bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398081502732,
+      "content": "Wie gehts dir den so? Alles klar soweit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398081475975,
+      "content": "Haha Danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398079067120,
+      "content": "Du bist ja lieb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398075176175,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398075172484,
+      "content": "Nichts zu danken dann muss ich auch danken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398075131158,
+      "content": "Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398075106098,
+      "content": "Dir auch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1398040162780,
+      "content": "Na frohe ostern :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388804545125,
+      "content": "hast du eigtl whatsapp?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388804335946,
+      "content": "\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388804330668,
+      "content": "ich lieg nur so dA...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388804309905,
+      "content": "was hindert dich am schlafen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388804299409,
+      "content": "Schreiben du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388804291526,
+      "content": "Geht mir auch so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388803914598,
+      "content": "ich kann mal wiedet net schlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388803899995,
+      "content": "na was machst sch\u00c3\u00b6nes?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388803880009,
+      "content": "Hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388803523498,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361990881931_1954831463_n_126361987548598.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388797706564,
+      "content": "heys\u00c3\u00bcsse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388711793543,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362047548592_307032461_n_126362044215259.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388711787804,
+      "content": "haha okay. solltest lieber ins bett gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388711768481,
+      "content": "Ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388710014625,
+      "content": "ah ok ... um diese uhrzeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388709993909,
+      "content": "Ich habe einige M\u00c3\u00b6bel f\u00c3\u00bcr mein zimmer aufgebaut und alles umgestellt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388709749569,
+      "content": "was haszt den machen m\u00c3\u00bcssen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388709739242,
+      "content": "achso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388709725506,
+      "content": "Doch bestimmt hatte aber noch einiges zu tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388709717393,
+      "content": "Okay ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388708881700,
+      "content": "was machst du den noch wach? kannst du auch nicht schlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388708858803,
+      "content": "*g",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388708853898,
+      "content": "quatschen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388708836152,
+      "content": "H\u00c3\u00a4 wie meinst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388708825063,
+      "content": "ludt bissl zu qutschen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388707699618,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362127548584_1211061758_n_126362124215251.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388612328849,
+      "content": "was machst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388612322881,
+      "content": "danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388612311626,
+      "content": "Danke dir auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388610980766,
+      "content": "gutes neues s\u00c3\u00bcsse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388449489584,
+      "content": "hi hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388404168026,
+      "content": "nicht wirklich :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388403699624,
+      "content": "Ja bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388395826275,
+      "content": "na fit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388395779920,
+      "content": "Morgen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1388395650850,
+      "content": "guten morgen :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387739606892,
+      "content": "hi du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387679729779,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387656375918,
+      "content": "Genau! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641652435,
+      "content": "bisr halt noch jung :-p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387641635075,
+      "content": "Nein haha! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641477837,
+      "content": "kennst nicht das es einfacv so kommt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641464446,
+      "content": "war halt so... sowas l\u00c3\u00a4sst sich vlaub nicht erkl\u00c3\u00a4ren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387641432595,
+      "content": "Hahah warum das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641322901,
+      "content": "hatte halt lust auf sex heut morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641314379,
+      "content": "aber gut..\nwill mal net so sein..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387641305838,
+      "content": "na na na..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387640402026,
+      "content": "Sag jetzt Punkt Ausrufezeichen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387632218859,
+      "content": "lieber nicht :-) \naber du bist ganz sch\u00c3\u00b6n neugierig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387632140411,
+      "content": "Okay Hahha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387631980868,
+      "content": "\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa\u00f3\u00be\u008c\u00aa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387631978035,
+      "content": "hmm n\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387631955405,
+      "content": "Sag jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387624127208,
+      "content": "und noch im halbschlaf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387624110728,
+      "content": "heute nacht als ich heim bin war ich nicht ganz n\u00c3\u00bcchtern uns heute morgen noch total verpennt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387624080823,
+      "content": "jetzt ist alles zu sp\u00c3\u00a4t :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387624072132,
+      "content": "neeee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387624058000,
+      "content": ";) ja sag mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387622284610,
+      "content": "egal. war wohl noch etwas verschlafen als ich geantwortet hab. \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387622102931,
+      "content": "H\u00c3\u00a4 was meinst du? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387617333844,
+      "content": "oder was meinst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387617243391,
+      "content": "gestern jetzt morgen :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387617230715,
+      "content": "immer und \u00c3\u00bcberall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387617225011,
+      "content": ";-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387617148032,
+      "content": "Achso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387617033454,
+      "content": "im leben reicht mir rdas erste von den begriffen ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387616998163,
+      "content": "na eigtl ist es doch klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387616982853,
+      "content": ";-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387616962166,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387616935337,
+      "content": "Also dann sag jetzt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387590947316,
+      "content": "bin nun daheim. falls noch liest dann schreib einfach ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387589306967,
+      "content": ":-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387588317374,
+      "content": "na?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387584897194,
+      "content": "Schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387584786155,
+      "content": "halt es aus ....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387584099299,
+      "content": "Jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387584042822,
+      "content": "kann dir das nach feierabend sagen ;-)\nvielleicht... \nh\u00c3\u00a4llst noch ca 1 std aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580766047,
+      "content": "Sag! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387580577314,
+      "content": "wenn du w\u00c3\u00bcsstest ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580521384,
+      "content": ";) was sonst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387580507764,
+      "content": "sonst... ach ... hmmm :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387580490556,
+      "content": "verwirr mich nicht...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579390201,
+      "content": "Das war bereits meine Argumentation :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387579250834,
+      "content": "eben was? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387578936496,
+      "content": "Weil eben :) haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387578832562,
+      "content": "warum???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387566391627,
+      "content": "Was ist nur los haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387294009736,
+      "content": "vor allem das erste... aufs zweite verzicht ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387293990695,
+      "content": "Hahaha genau :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387293950844,
+      "content": "sex drugs and rock n roll ... viel interessanter haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387293928905,
+      "content": ":) ja es geht also eigentlich ist es schon auch voll cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387293850782,
+      "content": "gibt sicher viel wichtigere themen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387293823279,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362047548592_307032461_n_126362044215259.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387293820546,
+      "content": "haha :) so wie du es sagstcals obs eher langweilig ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387293794223,
+      "content": "Ja es geht h\u00c3\u00a4lt sich schon in Grenzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387228478962,
+      "content": "ist das was interessantes \u00f3\u00be\u008c\u00b3\u00f3\u00be\u008c\u00b3\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387228447526,
+      "content": "Heute war es \u00c3\u00bcber Japans alte und am Freitag \u00c3\u00bcber Ulla hahn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387225691645,
+      "content": "\u00c3\u00bcber was handelt dein referat?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387225577849,
+      "content": "hui... ich langweilenmich grad :-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387225501228,
+      "content": ":) einfach anderes Referat haha du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387225454315,
+      "content": "und was macst grad???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387225446800,
+      "content": "zur normalen tageszeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387225434576,
+      "content": "Sonst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387225431847,
+      "content": ":) ja wann sind",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387200679522,
+      "content": "so so.. macht man sowas um diese zeit??? :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387197629679,
+      "content": ":) ich musste noch ein Referat vorbereiten :) Hahha ist doch normal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387174799715,
+      "content": "guten morgen. hab vorhin geschlafen als du geschrieben hast. aber was machst um kurz vor 2 wach? *grins",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387155436165,
+      "content": "Ja jetzt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1387072233614,
+      "content": "jetzt? in theatro...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387072211567,
+      "content": "Nein nein du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386982912217,
+      "content": "bist noch unterwegs??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386982461406,
+      "content": "Kein Ding Danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386952189691,
+      "content": "sorry s\u00c3\u00bcsse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386952174066,
+      "content": "Hmmm schade die br\u00c3\u00a4uchte es fr\u00c3\u00bcher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386951996893,
+      "content": "danke. ja k\u00c3\u00b6nnt ich machen... aber hab um ehrlich zu sein nicht viel zeit. also erst n\u00c3\u00a4chste woche dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386951278786,
+      "content": "Ne Freundin hat mich gefragt ob ich einen Flyer entwerfen k\u00c3\u00b6nnte aber ich bin da echt schlecht drin und dann musste ich an dich denken denn du machst das ja richtig gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386950868856,
+      "content": "vielleicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386950835872,
+      "content": "K\u00c3\u00b6nntest du mir einen Riesen gefallen tun? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386947747563,
+      "content": "Hahahah gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386936520410,
+      "content": "ist aber schon ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386932747331,
+      "content": ":) sehr schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386891103286,
+      "content": "ups... \naber hat niemand zeit momentan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386890553432,
+      "content": "H\u00c3\u00a4 was, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386887264210,
+      "content": "aber hat niemand zur momentan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386887248222,
+      "content": "Hahah okay gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885979373,
+      "content": "etc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885912385,
+      "content": "spass haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885907788,
+      "content": "dates haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885876073,
+      "content": ";-) oder weggehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386885871620,
+      "content": "Okay okay \u00c3\u00bcberzeugt! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885858317,
+      "content": "statt langweilen lieber arbeiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386885836292,
+      "content": ":) hahah langweilen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885621496,
+      "content": "bisschen? warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885613317,
+      "content": "naja was soll man sonst machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386885609236,
+      "content": "Bisschen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885581439,
+      "content": "warum. so schlimm ists nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386885564928,
+      "content": ":) oh schlecht hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386885044580,
+      "content": "nur so. ich muss leider arbeiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386885007483,
+      "content": "Wei\u00c3\u009f ich nicht warum, :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386884646340,
+      "content": "aber packst du schon... \ngehst am we weg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386884621962,
+      "content": "Ja schon bisschen hahah :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386881705799,
+      "content": "wie l\u00c3\u00a4uft das abi? stress?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386881394332,
+      "content": "Genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880898787,
+      "content": "achsoooo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386880822029,
+      "content": "Ich musste nur Staub wischen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880560874,
+      "content": "zimmer nun aufger\u00c3\u00a4umt?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880552018,
+      "content": "und was machst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880446094,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386880417957,
+      "content": "Hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880383087,
+      "content": "hab ja sonst mein ersatzfinger haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880269876,
+      "content": "finger ist ja noch dran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386880257889,
+      "content": "Hahah okay gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386880226536,
+      "content": "ich \u00c3\u00bcberlebs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386880214146,
+      "content": "Oh man nicht gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386878907439,
+      "content": "fuck glas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386878824995,
+      "content": "an mein schreibtisch geschnitten. da ist ne ecke kaputt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386878765335,
+      "content": "Wie hast das geschafft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386878731665,
+      "content": "hab mich heute geschnitten... jetzt gehts langsam wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386878712219,
+      "content": "Warum das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386878700904,
+      "content": "hm ja geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386878692761,
+      "content": "Joa bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386878658258,
+      "content": "na alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386878648722,
+      "content": "Hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386875583268,
+      "content": "hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386842452151,
+      "content": "noooooooo :-) beide ... \noder was bist du dann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386840248742,
+      "content": "Nein hahaha nur du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386801376090,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386801350953,
+      "content": "wir beide....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386801341603,
+      "content": "dooooch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386801329572,
+      "content": "Nein ich nicht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386801303892,
+      "content": "dann bist du auch seltsam? :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386801271801,
+      "content": ":) haha du bist seltsam aber geht mir auch so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386800635711,
+      "content": "wenn ich fern schau konzentrier ich mich zu sehr das ich dann nie einschlafe wenn er an ist...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386800563877,
+      "content": "nix. eher was dann  so l\u00c3\u00a4uft...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386800541712,
+      "content": "ich wei\u00c3\u009f ja nicht was du mit einem Fernseher vor hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386800432259,
+      "content": "kein plan. aber eher kommt man auf dumme ideen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386800411003,
+      "content": ";-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386800386102,
+      "content": "als ob du dann nicht mehr schlafen w\u00c3\u00bcrdest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386799276699,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386799271169,
+      "content": "oder schau schmuddelfilme an :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386799263811,
+      "content": "sonst w\u00c3\u00bcrd ich ja garnemme schlafen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386799246587,
+      "content": "wie schei\u00c3\u009fe ist denn das?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386799152498,
+      "content": "kein tv im zimmer :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386799138005,
+      "content": "haha dann schau nen film oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386798589549,
+      "content": "naja allein im bett und nix zu tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386798564415,
+      "content": "warum langweilig? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386797539125,
+      "content": ":-) ist eher langweilig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386797533270,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386797522743,
+      "content": "nicht schlecht du ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386797320078,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386797318520,
+      "content": "ach ich hab mich scjon ins bett gelegt etwas chilln",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386797304338,
+      "content": "ich putze mein zimmer etwas und du? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386796390733,
+      "content": "mir gehts ganz hut.. und was machst sch\u00c3\u00b6nes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386796338043,
+      "content": "gut und dir? ;) ja ist doch gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386796190494,
+      "content": "na wie gehts so? dachte ich meld mich mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386796165086,
+      "content": "hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1386795936957,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383330038734,
+      "content": "hoffe es hat ihr gefallen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383329985343,
+      "content": "Ja klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383327668046,
+      "content": "freut mich. \nist deine freundin dann noch gekommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383327349813,
+      "content": "Ja viel besser ;) oh man echt jetzt :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383327175203,
+      "content": "huhu. na gehts die besser? schade das nicht da warst. war ne tolle party",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383236996461,
+      "content": "M\u00c3\u00bcssen die eigentlich anstehen? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383236657861,
+      "content": "Danke dir :) bei der n\u00c3\u00a4chsten bin ich wieder dabei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383236562924,
+      "content": "ja passt ich schreibs so rein.  dir gute besserung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383236393986,
+      "content": "Tina Freitag hei\u00c3\u009ft sie :) danke dir 1000 mal ich w\u00c3\u00a4re so gerne gekommen aber geht einfach nicht anders :( sie nimmt ein M\u00c3\u00a4dchen namens kim noch mit wenn das okay ist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383236282463,
+      "content": "hi. wie heisdt sie den? dann \u00c3\u00a4ndere ich den namen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383236030966,
+      "content": "Du also mir geht es seit paar Stunden richtig schlecht und ich bleib heute lieber daheim hab voll die magendarm Grippe und so richtig schlecht :/ meine Begleitung die eigentlich mitgekommen w\u00c3\u00a4re will ich aber nicht den ganzen abend verderben kann sie dann einfach trotzdem auf meinen Namen gehen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383128653343,
+      "content": "(y)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383128641995,
+      "content": "Oha wie geil Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383128628888,
+      "content": "Also dich hab ich auf die G\u00c3\u00a4steliste mit 1 weiteren Person. ihr 2 kommt kostenlos rein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383128596597,
+      "content": "F\u00c3\u00bcr uns auch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383128561483,
+      "content": "abendkasse 14",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383128546549,
+      "content": "Wie viel kostet es eigentlich dann? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383128463701,
+      "content": "an der Kasse reicht eigtl aus. Ich werd eh auch den T\u00c3\u00bcrsteher eine G\u00c3\u00a4steliste geben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383128425042,
+      "content": "Okay und was muss ich dann vorne sagen wenn wir zahlen sollen? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1383119420103,
+      "content": "hallo. \nalso ja, ich setze dich auf die g\u00c3\u00a4steliste ;-) und du kannst noch eine person mitnehmen .\nhoffe du kommst!\nLG",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1383076085518,
+      "content": "Hallo :) du wolltest mir noch sagen wie es wegen Donnerstag aussieht die halloween Party ob ich da auf der G\u00c3\u00a4ste liste w\u00c3\u00a4re ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382564025668,
+      "content": "Ja das ist lieb dann sehen wir uns ;) falls du uns erkennst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382553541913,
+      "content": "ich besuch euch auf jeden fall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382553530879,
+      "content": "Okay sehr gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382553523214,
+      "content": "Also ab 6 Uhr sind wir eigentlich da :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382551150529,
+      "content": "bzw. ich denk mal eh das ich da sein werde  ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382551135548,
+      "content": "\u00c3\u00a4hm freitag...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382550973309,
+      "content": "Okay das w\u00c3\u00a4re lieb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382550965639,
+      "content": "Samstag? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382550670174,
+      "content": "ich sprech das mal ab aber ich denk mal ich kann euch auf die g\u00c3\u00a4steliste setzen ;-) wann geht ihr am samstag in die eventwerkstatt? dann k\u00c3\u00b6nnen wir unsmal kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382550632104,
+      "content": "Ja wenn lisa mitkommt schon auf jeden Fall :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382550513220,
+      "content": "kommst du auf meine halloweenparty danna uch ? also die am 31.10...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382550485081,
+      "content": "bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382550444669,
+      "content": "Sehr gut danke danke :) voll lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382549318354,
+      "content": "hi :-) hab mal das event promotet auf meiner seite von GEIL auf SOUNDS und alle eingeladen ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382476707326,
+      "content": ":) ja wir sind schon gespannt wie das dann l\u00c3\u00a4uft :) ja hoffentlich kommen einige Jungs sonst bringt ne M\u00c3\u00a4dels Party nicht sooooo viel :D aber Feinde hat das Humboldt jetzt schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382472569320,
+      "content": "okay. aufregen bringt da nix ;-) das ist eher deren neid... hallooooo ihr macht ne party mit fat nur m\u00c3\u00a4dels ;-) wer kann das nur toppen !!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382472489116,
+      "content": "Ja klar ist okay :) also l\u00c3\u00a4uft glaub schon. Morgen machen wir ne pormotion Aktion in der hirschstra\u00c3\u009fe :) mal schauen wie es l\u00c3\u00a4uft ;) ja haben sie zum Gl\u00c3\u00bcck! Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Barone",
+      "timestamp_ms": 1382466747850,
+      "content": "Hey, na wie l\u00c3\u00a4uft es mit eurer vorbereitung der Halloween party? Haben die anderen nun ruhe gegeben mit ihrer party ? \nwas ich dir mal vorschlagen wollte... Kann cih f\u00c3\u00bcr unsere halloweenParty 31.10 (R\u00c3\u00bcckseite vom Flyer) mal posten das eure party von GEIL auf SOUNDS unterst\u00c3\u00bctzt wird ;-) dann lade ich auch meine kontakte ein zu eurer party ;-)\nLG\n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Fabio Barone",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fabiobarone_yadkxsbrua",
+  "magic_words": [
+    
+  ]
+}

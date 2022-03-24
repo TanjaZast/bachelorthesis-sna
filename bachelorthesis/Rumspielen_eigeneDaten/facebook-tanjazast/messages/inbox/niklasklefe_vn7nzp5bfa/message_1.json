@@ -1,0 +1,903 @@
+{
+  "participants": [
+    {
+      "name": "Niklas Klefe"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496399691809,
+      "content": "Hab ich jetzt halt nicht aber ist eh zu sp\u00c3\u00a4t \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496351921374,
+      "content": "und so kannst dus nat[rlich selbst testen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496351913867,
+      "content": "aber dein tutor freut sich dr[ber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496351908142,
+      "content": "nicht unbedingt glaub ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496351904329,
+      "content": "sry war den ganzen tag weg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496317336545,
+      "content": "Letzte frage \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496317312527,
+      "content": "Brauche ich eine Test Methode eig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496249371707,
+      "content": "Ich glaub add ist nur so da damit es sch\u00c3\u00b6n konstruiert ist - halt vollst\u00c3\u00a4ndig - und in unserem fall is es halt eine redundante methode",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496249318724,
+      "content": "Wird ja das gleiche machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496249314785,
+      "content": "nKannst zu jederzeit statt add auch append benutzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496249276808,
+      "content": "Ja die is eigentlich \u00c3\u00bcberfl\u00c3\u00bcssig - das is einfach eine methode mit der man einen wert added und in unserem fall soll sie die halt entweder hinten anh\u00c3\u00a4ngen oder vorne anh\u00c3\u00a4ngen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496248190704,
+      "content": "Und eine Frage noch: wof\u00c3\u00bcr brauche ich in der 1 die Methode add? Was macht die genau?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496248162573,
+      "content": "Ja genau :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496248156372,
+      "content": "da hab ich dann auch wieder eine methode zum adden einfach reingetan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496248107285,
+      "content": "und aicollection verlangt eine add methode",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496248099884,
+      "content": "weil die interfaces aistack und aiqueue von aicollection erben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496248084486,
+      "content": "ja muss man sogar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247993947,
+      "content": "Aber hast du add auch noch in queue und Stack?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247983597,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247979976,
+      "content": "passiert \u00c3\u0096D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247973828,
+      "content": "awa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247969096,
+      "content": "okaz super >D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247968580,
+      "content": "Voll dumm von mir \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247966180,
+      "content": "und der soll ja geaddet werden :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247960566,
+      "content": "UPS",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247958239,
+      "content": "Habs schon iOS \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247930616,
+      "content": "wir geben ja in add nen val ein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247924017,
+      "content": "ja append(val) meinte ich nat[rlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247890431,
+      "content": "Neee das zeigt nen Fehler",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247886624,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18816322_1700528019988041_860415492_n_1700528019988041.jpg",
+          "creation_timestamp": 1496247885
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.122.186",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247689139,
+      "content": "oder meinst du append selbst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247678462,
+      "content": "du schreibst einfach append(); rein >D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247654970,
+      "content": "Und wie sieht die bei dir aus? Ich hab da nichts gemacht \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247586213,
+      "content": "ich hab einfach append genommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247558194,
+      "content": "da kannst dir doch aussuchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247544235,
+      "content": "Wie hast du bei der Aufgabe 1 das mit der Methode add gemacht? Wie sieht die bei dir aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496247098450,
+      "content": "ja genau so hab ichs jetzt in etwa geschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496247060352,
+      "content": "Schreibst du das dann so hin. Es bleibt bei allen gleich au\u00c3\u009fer remove all und remove weil in remove all remove aufgerufen wir und bei remove wegen get(n-1) bei der doppelten Verkettung klar ist was n-1 ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246846859,
+      "content": "hm und dann ver'ndert sich das logischerweise wenn remove sich ver'ndert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246835439,
+      "content": "also ich rufe bei remove all die methode remove auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496246822398,
+      "content": "Sicher nicht nur bei remove?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496246817456,
+      "content": "Das hei\u00c3\u009ft er ver\u00c3\u00a4ndert sich nur bei remove und remove all?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246754015,
+      "content": "also nur remove und remove all find ich aber auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246740540,
+      "content": "es kommen ywar neue sachen dayu aber die sind immer egal was man reinwirft gleich lang",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246728320,
+      "content": "die laufyeit ver'ndert sich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246722759,
+      "content": "oh ja stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496246693918,
+      "content": "Der Meinung bin ich auch aber einer von und meint es w\u00c3\u00a4re nur bei Remove",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246103175,
+      "content": "bei ghet und index of bleibt es meiner meinung nach gleich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496246095138,
+      "content": "also ich finde es ver'ndert sich bei prepend, append, remove, remove all,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496241801938,
+      "content": "hab alles andere fertig, da hatte ich noch keine lust drauf haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496241789132,
+      "content": "schau ich mir nachher an, die aufgabe hab ich noch nicht gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496227080102,
+      "content": "Ah und ne frage: welche Laufzeiten \u00c3\u00a4ndern sich bei der doppelten Verkettung bei ailist T? Bei get, Index of und remove und remove all?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496226909984,
+      "content": "Bei Stack hab ich noch Add und size \u00f0\u009f\u0099\u0088 also als Methoden und Print aber das braucht man nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496148799132,
+      "content": "\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496148786082,
+      "content": "was willst du damit sagen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496124397680,
+      "content": "Soll die Klasse interfacen? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496087164584,
+      "content": "pop: den obersten stack wegnehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496087146416,
+      "content": "peek: den obersten stack anschauen\u00c3\u009fabrufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496087135513,
+      "content": "push: einen neuen stack drauflegen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496087127064,
+      "content": "glaube ich zumindest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496087108389,
+      "content": "also die drei methoden sollen folgendes tun:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1496083859831,
+      "content": "ich kanns mir gleich mal anschauen :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496074377022,
+      "content": "Niklas mal ne frage: wie meint der Tobias die Aufgabe 2 auf dem Info Blatt? \u00f0\u009f\u00a4\u0094 magst du mir vielleicht sagen/zeigen wie du es gemacht hast oder wie das zu funktionieren hat?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495028649166,
+      "content": "Ja, kapiert. Aber kannst es mir gerne auch so nochmal erkl\u00c3\u00a4ren \u00f0\u009f\u0099\u0082...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495021895545,
+      "content": "vllt verstehst dus - ansonsten kann ichs dir gerne mal in person erkl\u00c3\u00a4ren :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495021866120,
+      "content": "ehh das is etwas schwierig f\u00c3\u00bcr mich in textform yu erkl\u00c3\u00a4ren, aber ich probiers mal:\nAlso, das Programm geht mit den ersten Koordinaten in die Methode solve.\ndann wird \u00c3\u00bcberpr\u00c3\u00bcft ob das das Zielfeld ist.\nFalls es das nicht ist wird die n\u00c3\u00a4chste Koordinate ausgew\u00c3\u00a4hlt:\nman dreht sich nach rechts und checkt ob da eine wand ist oder man aus dem labyrinth rauslaufen w\u00c3\u00bcrde oder ob man da schon einmal war.\nfalls eines davon der fall ist wird sich eins weiter gedreht(das ist die for-Schleife) solange bis man alle f\u00c3\u00a4lle verneint -also das n\u00c3\u00a4chste feld angesteuert werden kann (falls dies bei allen vier richtungen nicht geht geht das programm soweit zur\u00c3\u00bcck bis es wieder geht-also bis zur letzten abzweigung und dort wird dann der n\u00c3\u00a4chst rechts gelegene zweig gew\u00c3\u00a4hlt.\nnun geht man auf das n\u00c3\u00a4chste feld(das ist der backtracking schritt)-man ruft die methode solve also innerhalb der methode solve in der man sich gerade befindet auf -aber mit den koordinaten vom n\u00c3\u00a4chsten feld\ndiesen aufruf haben wir in einer schleife aufgerufen:\nif(backtracking aufruf==true){return true}\ndas hei\u00c3\u009ft das Programm durchl\u00c3\u00a4uft jetzt all diese oben genannten schritte solange bis einmal true returned wird(es wird also die methode solve immer wieder innerhalb sich selbst aufgerufen\u00c3\u009fman befindet sich also innerhalb ganz vieler aufrufe).\ndies geschieht, wenn die koordinaten dem ziel entsprechen (die erste if-bedingung in der solve methode).\ndadurch gibt die methode in der wir gerade sind true zur\u00c3\u00bcck.\ndadurch geben also nun r\u00c3\u00bcckwirkend nach oben gehend alle die methoden in denen wir uns gerade mit diesem solve-aufruf befinden ebenfalls true zur\u00c3\u00bcck und im endeffekt gibt der erste aufruf von solve true zur\u00c3\u00bcck und unser ganzes programm gibt true zur\u00c3\u00bcck -> ende",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495021405966,
+      "content": "ups warte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495021390111,
+      "content": "ehh das is etwas schwierig f\u00c3\u00bcr mich in textform yu erkl\u00c3\u00a4ren, aber ich probiers mal:\nAlso, das Programm geht mit den ersten Koordinaten in die Methode solve.\ndann wird \u00c3\u00bcberpr\u00c3\u00bcft ob das das Zielfeld ist.\nFalls es das nicht ist wird die n\u00c3\u00a4chste Koordinate ausgew\u00c3\u00a4hlt:\nman dreht sich nach rechts und checkt ob da eine wand ist oder man aus dem labyrinth rauslaufen w\u00c3\u00bcrde oder ob man da schon einmal war.\nfalls all dies verneint wird geht man auf das n\u00c3\u00a4chste feld(das ist der backtracking schritt)-man ruft die methode solve also innerhalb der methode solve in der man sich gerade befindet auf \u00c3\u009f aber mit den koordinaten vom n\u00c3\u00a4chsten feld",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495019903052,
+      "content": "Ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495019631621,
+      "content": "bei der 3?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495019214546,
+      "content": "Kannst du mir vielleicht den back Tracking schritt erkl\u00c3\u00a4ren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495018073222,
+      "content": "also du meinst schon bei der aufgabe 2a oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017800561,
+      "content": "die zuf\u00c3\u00a4llige zahl wird doch von dem vorgeschriebenen code generiert, oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017755068,
+      "content": "Wei\u00c3\u009ft du was falsch sein k\u00c3\u00b6nnte? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017744930,
+      "content": "Ich habe das Gef\u00c3\u00bchl, dass meine zuf\u00c3\u00a4llige Zahl immer zwischen 4 gleichen variiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017722560,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18555159_1683654805008696_976425299_n_1683654805008696.jpg",
+          "creation_timestamp": 1495017721
+        }
+      ],
+      "type": "Generic",
+      "ip": "134.60.149.173",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017712591,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18555291_1683654725008704_1339995743_n_1683654725008704.jpg",
+          "creation_timestamp": 1495017711
+        }
+      ],
+      "type": "Generic",
+      "ip": "134.60.149.173",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017700744,
+      "content": "(y) :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017688787,
+      "content": "Mit m3 hat es gepasst \u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017556447,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18519264_1346322562113396_40021698_o_1346322562113396.jpg",
+          "creation_timestamp": 1495017554
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017455123,
+      "content": "maze*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017447763,
+      "content": "m1 und m2 sind 2 test mazes und m3 generiert ein yuf'lliges 50x50 maye",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017431900,
+      "content": "dannmachts das was ich habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017426326,
+      "content": "und wenn das ngeht dann m2 durch m3 ersetzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017416540,
+      "content": "du musst oben in der main methode viewer.setMaze(m2) und solve(m2) stellen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017364982,
+      "content": "ja das ist das test maze",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017350436,
+      "content": "Mehr passiert bei mir nicht \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495017343508,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18518509_1683651031675740_2095198985_n_1683651031675740.jpg",
+          "creation_timestamp": 1495017342
+        }
+      ],
+      "type": "Generic",
+      "ip": "134.60.149.173",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017290953,
+      "content": "gehts mittlerweile?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017033231,
+      "content": "was geht bei dir nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017020759,
+      "content": "so sieht es aus nach einem durchlauf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495017012386,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18516891_1346313242114328_262340155_o_1346313242114328.jpg",
+          "creation_timestamp": 1495017010
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495016226758,
+      "content": "Also bei mir geht es nicht.... kannst du vielleicht mal ein Foto machen wie es bei dir aussieht wenn du das Programm ausf\u00c3\u00bchrst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495014968689,
+      "content": "Ich schaue es mir jetzt mal an ob ich es verstehe \u00f0\u009f\u0098\u0085 Danke schonmal!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495012555961,
+      "content": "aber so is die einfachere bzw auch richtige art es zu machen - da bin ich gestern aber einfach nicht draufgekommen weil ich zu fixiert war auf meine art",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495012515290,
+      "photos": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/photos/18575496_1346277428784576_210824840_o_1346277428784576.jpg",
+          "creation_timestamp": 1495012513
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495012377115,
+      "content": "das war ein boolean, den hab ich erstellt oben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495012368118,
+      "content": "das war ein versuch, dass die rekursion sobald sie im ziel angekommen ist nur noch true zur\u00c3\u00bcckgibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1495012016246,
+      "content": "Ja w\u00c3\u00a4re echt lieb.. was ist aber bei dir Check Niklas? \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1495011670879,
+      "content": "Hey, ich hab meinen Fehler in meinem code gefunden, wenn dus fertige jetzt haben willst kann ichs dir schicken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485263804849,
+      "content": "Perfekt \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485259207041,
+      "content": "ja, danke :) hab das gro\u00c3\u009fe D genommen sattt das kleine :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485258394643,
+      "content": "m\u00c3\u00b6glich :D schaus mir mal an, ich hab das ganz schnell gemacht gestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485209225936,
+      "content": "glaube ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485209219147,
+      "content": "und das was das Programm am ende ausgibt stimmt auch nicht ganz :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485209088330,
+      "content": "du hast den wert von D und nicht von d genommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485209072843,
+      "content": "bei dir stimmt die Nummer 1 nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485196425989,
+      "content": "Danke, ich schaue es mir sp\u00c3\u00a4ter an! \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485195654284,
+      "files": [
+        {
+          "uri": "messages/inbox/niklasklefe_vn7nzp5bfa/files/Blatt12_1226219810790339.rar",
+          "creation_timestamp": 1485195653
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485190342122,
+      "content": "\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc Danke!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485190337701,
+      "content": "Ja w\u00c3\u00a4re super. Habe zwar schon abgegeben aber wenn was falsch ist bei mir w\u00c3\u00bcrde es gerne noch sicherheitshalber vergleichen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485189870582,
+      "content": "*brauchst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485189865430,
+      "content": "ich bin grade selbst erst heimgekommen und mach info jetzt, danach kann ichs dirschicken wenn dus noch rbaucnst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485189848354,
+      "content": "das hei\u00c3\u009ft a und z sind schon globale variablen, aber keine static variablen und k\u00c3\u00b6nnen deshalb nicht in static methoden gesehen werden :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1485189822226,
+      "content": "also, ich seh gerade, dass int a und int z ja gar nicht static sind, also hast du da recht, die sind in den methoden nicht sichtbar - sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485185376760,
+      "content": "Kannst du mir dein Info schicken von Blatt 12? Sicher dass es so stimmt wie du es mir gesagt hast weil die Aufgabenstellung lautet jeweils und x und y sind global und werden immer angezeigt aber a und z doch nicht?! \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484228487056,
+      "content": "Hast ein Bild? \u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484228485176,
+      "content": "Glaube ich \u00f0\u009f\u0098\u0094 ich habe gehofft ein St\u00c3\u00bcck zu bekommen aber Jule hat nicht mit sich diskutieren lassen \u00f0\u009f\u0098\u00a2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas Klefe",
+      "timestamp_ms": 1484228023026,
+      "content": "Hey macht doch \u00c3\u00bcberhaupt nichts! Ich habs ja garnicht erwartet, aber mega nett von dir und freut mich voll!! :) \u00f0\u009f\u0099\u008a\nUnd ja der kuchen war super :D und vor allem war er pink \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484126198135,
+      "content": "Alles alles gute nachtr\u00c3\u00a4glich!!! Habs voll verpeilt! \u00f0\u009f\u0098\u0090 sorry \nW\u00c3\u00bcnsche dir Gl\u00c3\u00bcck und Gesundheit (hoffentlich hat dein Kuchen geschmeckt von der allerliebsten Jule) \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc\nGr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Niklas Klefe",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/niklasklefe_vn7nzp5bfa",
+  "magic_words": [
+    
+  ]
+}

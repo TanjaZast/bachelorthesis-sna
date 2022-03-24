@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363108819,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420280175824,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1368637255658,
+      "content": "ok danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1368626009090,
+      "content": "halbe stunde ca ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1368625715843,
+      "content": "ok, also morgen in der mittagspause, wie lang dauert das? hab danach noch ne klausur ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1368609084098,
+      "content": "von Frau Walz:\nLiebe Lisa,\nThema fair-trade-school. Wir wollen uns am Do., 16.05.\nin der 7. Stunde  im 3. Stock Besprechungszimmer treffen.\nBitte informiere deine Gruppe u. Tanja Zast, Charlotte und Hanna.\nHabt ihr Kontakt zur Realschule- SMV aufgenommen?\nLiebe Gr\u00c3\u00bc\u00c3\u009fe und danke. Fr. Walz\nZitat von Baumg\u00c3\u00a4rtner Lisa <lisa.baumgaertner96@web.de>:\n\n\n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hanna und Charlotte",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/hannaundcharlotte_xuab3ilrvw",
+  "magic_words": [
+    
+  ]
+}

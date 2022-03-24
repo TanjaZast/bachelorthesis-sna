@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jeanny R. Ba\u00c4\u008da"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeanny R. Ba\u00c4\u008da",
+      "timestamp_ms": 1419420206558,
+      "content": "Nee hab ich nicht sry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419419938997,
+      "content": "Hast du die Nummer von Verena schaupp ich muss die ganz dringend anrufen wegen dem Weihnachtsgeschenk von meiner Schwester ich heule gleich kannst du mir bitte helfen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jeanny R. Ba\u00c4\u008da",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jeannyrbaca_ctcpwcpjkq",
+  "magic_words": [
+    
+  ]
+}

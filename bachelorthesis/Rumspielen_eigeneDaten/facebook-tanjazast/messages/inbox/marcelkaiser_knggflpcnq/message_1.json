@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Marcel Kaiser"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcel Kaiser",
+      "timestamp_ms": 1381226344549,
+      "content": "...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Kaiser",
+      "timestamp_ms": 1381184309673,
+      "content": "K\u00c3\u00b6nntest du mein Profilbild Teilen und es vielen sagen dass sie es auch machen sollen weil du ja in einem anderen Bezirk bzw... Stadt wohnst als ich . W\u00c3\u00a4re echt wichtig f\u00c3\u00bcr meine modelacademie also ich Fang jetzt damit an :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381184113848,
+      "content": "Ja der W\u00c3\u00a4re? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Kaiser",
+      "timestamp_ms": 1381183799110,
+      "content": "Hey Tanja kannst du mir einen gefallen tun ? ... :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marcel Kaiser",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcelkaiser_knggflpcnq",
+  "magic_words": [
+    
+  ]
+}

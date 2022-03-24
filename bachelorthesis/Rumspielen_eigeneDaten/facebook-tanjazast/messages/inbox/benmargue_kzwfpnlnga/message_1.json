@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ben Margue"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Margue",
+      "timestamp_ms": 1454815423721,
+      "content": ".",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296148667000,
+      "content": "Hallo??? :o ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296135506000,
+      "content": "Hey?? :o du schreibst auch nicht mehr zur\u00c3\u00bcck?? :D hdl wei\u00c3\u009ft noch chatroulett??? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ben Margue",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/benmargue_kzwfpnlnga",
+  "magic_words": [
+    
+  ]
+}

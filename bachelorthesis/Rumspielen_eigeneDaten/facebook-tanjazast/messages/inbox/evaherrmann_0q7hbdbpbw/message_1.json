@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1403814889633,
+      "content": "https://www.soscisurvey.de/dienstleistungsqualitaet/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1403814884007,
+      "content": "hey :* meine schwester br\u00c3\u00a4uchte hilfe bei ihrer bachelor-arbeit. w\u00c3\u00a4re lieb wenn du sie unterst\u00c3\u00bctzen w\u00c3\u00bcrdest :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1306515818000,
+      "content": "Ohaaa duu hast aldii <3 cool ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1306513193136,
+      "content": "meine neue handynummer : 015787083779",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1306513191000,
+      "content": "meine neue handynummer : 015787083779",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Eva Herrmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/evaherrmann_0q7hbdbpbw",
+  "magic_words": [
+    
+  ]
+}

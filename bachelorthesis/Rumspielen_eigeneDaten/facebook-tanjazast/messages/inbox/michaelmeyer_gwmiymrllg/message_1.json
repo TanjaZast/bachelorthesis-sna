@@ -1,0 +1,441 @@
+{
+  "participants": [
+    {
+      "name": "Michael Meyer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1515348365451,
+      "content": ":o OMG! Tanja Zast ,ist you ? :o",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406236412641,
+      "content": "Und schreib mir in whats app \u00f3\u00be\u008c\u00bd\u00f3\u00be\u008c\u00bd\u00f3\u00be\u008c\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406236399657,
+      "content": "Ich pack des niemals \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406236363835,
+      "content": "Ich w\u00c3\u00bcrde jetzt kommen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406236219959,
+      "content": "Ich muss erst mal ne Stunde oder so pennen dann melde ich mich in whats app besser schreib da hab bis jetzt gearbeitete woisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406236199740,
+      "content": "Wohin willst \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406236173617,
+      "content": "Ich esse noch \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406236171206,
+      "content": "Dann lass wo anders hin \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406235976618,
+      "content": "1 Uhr h\u00c3\u00b6chstens denk \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406235899933,
+      "content": "Bis wann geht das :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233908463,
+      "content": "\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233903544,
+      "content": "Also bin jetzt in ulm geh heim mich richten kurz beeil dich sonst muss ich dich verkaufen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233581010,
+      "content": "Aber heid noch \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233574152,
+      "content": "Schreib mir in whats app besser 015736773253",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233464178,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406233462997,
+      "content": "Du seggl des geht id die ganze Nacht ja egal wann holst du mich dann ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406233072096,
+      "content": "Ich bin auch noch nicht so weit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406232730319,
+      "content": "Ich bin erst jetzt bei heidenheim\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406232706472,
+      "content": "Warum denn das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406231602888,
+      "content": "Oder i wei\u00c3\u009f noch nicht ob ich gehen kann \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406229735644,
+      "content": "20 Kilometer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406229705791,
+      "content": "Ja okay wie weit ist das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406229256174,
+      "content": "Soll mer nachher nach Biberach auf der sch\u00c3\u00bctzen ?\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406163106100,
+      "content": "Ja schon \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406157707236,
+      "content": ":/ wie langweilig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406151518410,
+      "content": "Ne \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406150774141,
+      "content": "Oh nein :o und niemand da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406150703867,
+      "content": "Jo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406150551551,
+      "content": "Ist dir etwa langweilig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406150438780,
+      "content": "Mh oj \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406150378167,
+      "content": "Bin gerade schon bei nem Kumpel in Ulm :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406150209128,
+      "content": "?\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406149688191,
+      "content": "Soll mer heid in der Club chilla \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406149676746,
+      "content": "Wa tu mer ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406149528365,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406149527021,
+      "content": "Doch doch :\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406149236341,
+      "content": "Darf ich nicht M",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406149180978,
+      "content": "Du schon wieder \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406149159551,
+      "content": "Hiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406068769848,
+      "content": "Erst morgen wird der gef\u00c3\u00bchlt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406068760358,
+      "content": "Haha bin sofort dabei nur mein Tank ist leer \u00f3\u00be\u008d\u0095\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1406067673454,
+      "content": "Also was mach mer \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405896045443,
+      "content": "Okay kein Ding \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405895734871,
+      "content": "Dienstag Mittwoch egal wann sofort!! \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405895723661,
+      "content": "Wie Keiner hat einen? Eigentlich Mega gerne bin immer spontan aber ich bin heute so Mega lange gefahren aus \u00c3\u0096sterreich wieder heim das ist echt Mega anstrengend gewesen ich kann jetzt nicht wieder fahren :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405894926896,
+      "content": "Du musch die jetzt beeilen mit deiner Entscheidung hast doch eh nix zu tun \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405894500252,
+      "content": "N\u00c3\u00a4chstes mal f\u00c3\u00a4hrst du mit und kannst saufa \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405894497876,
+      "content": "Hahahahah keiner hat en Lappen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405893901368,
+      "content": "Ich will auch mal ein Bier trinken \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 wer von euch opfert sich mein Auto zu fahren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893839409,
+      "content": "Also id\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893452278,
+      "content": "Ja gleich in senden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893446228,
+      "content": "Ja Red Bull was du willst \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405893434577,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 haha wo w\u00c3\u00a4re das? Ja ich k\u00c3\u00b6nnte Wasser trinken Yeah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893377143,
+      "content": "Schau ich kenn eine dem sein Vater hat ne disko und wir koennen da hin chillen frei trinken chillen Musik h\u00c3\u00b6ren Shisha rauchen was du willst \u00f3\u00be\u008c\u00b4 niemand da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405893326149,
+      "content": "Hahaha n\u00c3\u00a4mlich \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893280913,
+      "content": "Ne wir koennen was richtig geiles starten \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405893252644,
+      "content": "Hahah willst geholt werden oder was \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 bin Mega fertig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405893196323,
+      "content": "Wa duasch ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405893156471,
+      "content": "Oha :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Meyer",
+      "timestamp_ms": 1405892870299,
+      "content": "He du Bauer \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Michael Meyer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/michaelmeyer_gwmiymrllg",
+  "magic_words": [
+    
+  ]
+}

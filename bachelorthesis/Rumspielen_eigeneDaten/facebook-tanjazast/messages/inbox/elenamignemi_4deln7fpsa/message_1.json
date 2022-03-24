@@ -1,0 +1,2383 @@
+{
+  "participants": [
+    {
+      "name": "Elena Mignemi"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400000627224,
+      "content": "Mach ich heute abend :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1400000159590,
+      "content": "Hey, hab n neues Handy. w\u00c3\u00a4re cool wenn mir ne nachricht schreiben k\u00c3\u00b6nntest bei whatsapp, alle nummern sind weg :D danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382280769051,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1382277694139,
+      "content": "hast du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1382271040521,
+      "content": "und du liest das alles durch. komplett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1382270978143,
+      "files": [
+        {
+          "uri": "messages/inbox/elenamignemi_4deln7fpsa/files/Begriffserklarunge1_1054720701223290.doc",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1375305695056,
+      "content": "Whatsapp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1375297228848,
+      "content": "\u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373225743674,
+      "content": "Achso, danke! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373225618619,
+      "content": "Weil du mitgemacht hast!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373225018513,
+      "content": "Wieso? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373225001824,
+      "content": "Ich bin echt stolz auf dich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220731686,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220694154,
+      "content": "Voll gut :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220676296,
+      "content": "haupt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220660202,
+      "content": "Wo bist du? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220655943,
+      "content": "Ich muss denen beweisen das ichs verdient hab aber ich w\u00c3\u00a4re so oder so zufrieden aber verena meinte sie sieht mich stamm *-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220617388,
+      "content": "ah ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220607986,
+      "content": "Zwischen Hauptt\u00c3\u00a4nzer und stammt\u00c3\u00a4nzer :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220556652,
+      "content": "zwischen welchen entscheidet es sich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220548695,
+      "content": "h\u00c3\u00a4 wie? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220520283,
+      "content": "In keinem ich bin dazwischen das zeigt sich beim ersten Training :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220439102,
+      "content": "in welchem Team bist? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373220418896,
+      "content": ":* was und? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373220397711,
+      "content": "&? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1373146364884,
+      "content": "\u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1369158069811,
+      "content": "Ok :) \nDann um 13.20 bzw 13.30 da wo die Stra\u00c3\u009fenbahn h\u00c3\u00a4lt :) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369158032525,
+      "content": "Okay ja halb 2 m\u00c3\u00bcsste auch gehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1369157930541,
+      "content": "\u00c3\u0084hm mein Bus ist um 13.20 in Ulm? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369157773079,
+      "content": "Ehm wie w\u00c3\u00a4re es so um halb 1 oder wann magst du? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1369156350249,
+      "content": "wann kannst du am freitag? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1368908581952,
+      "content": "ok wie viel Uhr? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368908440039,
+      "content": "Ja freitag :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1368907696159,
+      "content": "oder freitag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1368907519056,
+      "content": "hast mittwoch zeit? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364078764070,
+      "content": "Bin ich!! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1364076606841,
+      "content": "sei froh, dass du nciht mitbist :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1356477101136,
+      "content": "schreib whatsapp :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1356476623232,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356476524422,
+      "content": "Eben!!:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1356476070041,
+      "content": "schei\u00c3\u009f drauf! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356475908945,
+      "content": "Echt so :/ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1356473984031,
+      "content": "ja keine ahnuzng, die ist dumm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1347564215053,
+      "content": "Jaaaa \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563086441,
+      "content": "jaaa <33 nach ewigkeiten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1347562993011,
+      "content": "Auch :)) dann sehen wir uns wieder \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347562941346,
+      "content": "ja klar und du?? :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1347562928982,
+      "content": "Kommst du morgen? \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1346612470597,
+      "content": "Alles klar ! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611987545,
+      "content": "aber wenn ich da bib holebn wir das nach ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1346611943697,
+      "content": "Wollte Dich mal wieder     Sehen \u00e2\u009d\u00a4 egal was machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611872850,
+      "content": "ja ich wei\u00c3\u009f -.- was h\u00c3\u00a4ttest machen wollen? <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1346611773770,
+      "content": "Schade -.- \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611569976,
+      "content": "s\u00c3\u00bc\u00c3\u009fe ich bin leider noch im urlaub <3 -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1346611296437,
+      "content": "Wollen wir morgen was machen? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1341080651396,
+      "content": "nee hab ich nicht :DD\n\u00c3\u00a4hm warum nicht? hast du sie gespeichert an deinem pc? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341079706367,
+      "content": "das geht nicht?! :O\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341079024314,
+      "content": ":) okay mach ich!! Hast du se \u00c3\u00bcberhaupt gesehen!!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1341078744493,
+      "content": "achwas laber nicht :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1341078740465,
+      "content": "okey kein ding, aber bitte vergiss es nicht <3 schicks mir dann einfach als anhang :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341078718086,
+      "content": ":) okay mach ich alter meine bilder sind soo h\u00c3\u00a4sslich geworden!! Aber du ich machs erst in ner halben stunde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1341078618115,
+      "content": "also bei eraffe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1341078600007,
+      "content": "k\u00c3\u00b6nntest du mir n gefallen tuN!?  also bei mir geht das nicht, der nimmt meine e-mail nicht mehr an hahah  kannst du http://www.eraffe.de/ulm-neu-ulm/club/kulturpark-neu-ulm/fotos/anzeigen/kulturpark-change-your-night-present-best-of-ulm-teil-1/6016/1333601/11801644 das hier bitte i.wie bei dir speichern und mir dann schicken \u00c3\u00bcber facebook!? weil ich kann mich nciht mehr anmelden ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340309684140,
+      "content": "okey :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340309657934,
+      "content": "<3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340309655943,
+      "content": "ja ich werde da sein :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340309642136,
+      "content": "Morgen? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340052537291,
+      "content": "Okay bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051991175,
+      "content": "bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340051957368,
+      "content": "Okay :) machen wir <3 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051747036,
+      "content": "wir reden das mal pers\u00c3\u00b6nlich okey? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051739616,
+      "content": "oh tanja <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051736948,
+      "content": "spinnst du jetzt!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340051727471,
+      "content": ":)ja oder ich geh ganz aus der tanzschule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051624513,
+      "content": "das m\u00c3\u00bcsst ihr wissen.,. is euer ding.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340051598458,
+      "content": "Ja aber was soll ich oder wir dann machen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051485834,
+      "content": "beides geht nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051482894,
+      "content": "bei EINER gruppe bleiben.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051457057,
+      "content": "das geht nicht gut, glaub mir ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340051388752,
+      "content": "Eig hab ich nicht vor zu wechseln. Verena meint halt sie will auf 20 und will nadine und mich.. Aber wir machen nur wenn wir bei jana bleiben weil die nummer 1 ist! :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051250041,
+      "content": "weis nicht, einfach so gruppe wechseln und so..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340051238685,
+      "content": "h\u00c3\u00a4? du bist dann bei beiden gruppen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340051200043,
+      "content": "Nein!? Ich bin in meiner gruppe und vor allem bei meisterschaften und bei candys auftritte und aushilfe und so.. Warum antun? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340050935007,
+      "content": "achwas echt? willst du das deiner gruppe antun? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340050911854,
+      "content": "Ja ob ich vllt zu den geh aber ist noch gaaaanz unsicher und das weisst jetzt auch fast nur du ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340050659394,
+      "content": "du so ja cih schau auch noch!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340050615089,
+      "content": "Was warum ich?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340050344644,
+      "content": "H\u00c3\u0084 warum du!? :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340050331402,
+      "content": "Achso :) naja ich schau auch noch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340049203162,
+      "content": "keine ahnung, wolts einfach wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340047035697,
+      "content": "warum? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340045918115,
+      "content": "okey...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340045463289,
+      "content": "ja sieht so aus ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1340045341103,
+      "content": "Is lisa jetzt ganz bei den candys!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338934230980,
+      "content": "Ja ganz sicher :) ja dir auch <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338933979497,
+      "content": "Haha egal jetzt :D \nVllt sieht's morgen fr\u00c3\u00bch ja schon besser aus :D \nGute Nacht <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933915791,
+      "content": "Ja :) also.. Wow dann halt 200 :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338933852063,
+      "content": "Nee mehr :| hab heute extra voll wenig gegessen ..\nHaha egal :) wenn man es nicht sieht, ist's ja egal <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933698196,
+      "content": "Waagen k\u00c3\u00b6nnen auch l\u00c3\u00bcgen und wow wenn dann 100 gramm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338933535561,
+      "content": "Doch, sagt meine Waage :/ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933495978,
+      "content": "Als ob!!?? Laber doch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338933265755,
+      "content": "Glaub ich dir nicht! Meldest dich halt wenn du reden willst <3\n\n\u00c3\u0084hm ja ich hab zugenommen, so viel zu dem Thema :D :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933148970,
+      "content": "Eeeecht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338933099816,
+      "content": "Als ob!? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933011501,
+      "content": "Gibt nichts :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338932642593,
+      "content": "Erz\u00c3\u00a4hl? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338932090319,
+      "content": "Naja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338931520373,
+      "content": "h\u00c3\u00b6rt sich aber nciht so \u00c3\u00bcberzeugend an!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931503799,
+      "content": ":) ja klar also ja eig schon.. Ach keine ahnung :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338931269245,
+      "content": "bei dir alles gut!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338931265792,
+      "content": "haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931238024,
+      "content": ":) okay mach das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338931095465,
+      "content": "ich wieg mich sp\u00c3\u00a4ter mal, hoffen wir es doch :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338931084357,
+      "content": "haha keine ahnung :DD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931060747,
+      "content": "Sah so aus :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338930933111,
+      "content": "danke :))) haha mein hirn hat so spr\u00c3\u00bcche drauf :P \u00c3\u00a4\u00c3\u00a4hmm keine ahnung, warum:!? :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338930875400,
+      "content": "Das ist sch\u00c3\u00b6n!! :) vor allem der spruch :P ehm hast du abgenommen?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338930670062,
+      "content": "schau auf mein profil :D<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338930652586,
+      "content": "Okay :) wo ist es??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338930567901,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338930566327,
+      "content": "schau dir das bild an und sag deine meinung dazu, warte noch 2 minuten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338930354821,
+      "content": ":) sag mal was <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338930161837,
+      "content": "haha ja :DD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338930090980,
+      "content": "Im ernst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338929901234,
+      "content": "haha eher kompliziert :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338928822350,
+      "content": "Okay :) klingt gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338928631786,
+      "content": "ich versuch gerade bilder zu machen :DD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338928573323,
+      "content": "Okay :) was machst so?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338927940243,
+      "content": "kein ding <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338927861893,
+      "content": "sorry das ich net geantwortet hab auf deine sms",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338927802042,
+      "content": "hihih :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338927792314,
+      "content": "aaauch :) hihihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338927747443,
+      "content": "alles wie immer :DD bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338927034419,
+      "content": "sonst?? :9 was gibts so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926726308,
+      "content": "schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926719062,
+      "content": "hihihi <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338926482703,
+      "content": "guuut <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926472821,
+      "content": "aaauch :) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338926374698,
+      "content": "ganz gut und dir? <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926317380,
+      "content": "wie gehts dir?? <33 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338926160271,
+      "content": "okey :)<333",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926137373,
+      "content": "ehm morgen mittag :) <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338926112106,
+      "content": "wann weist dj ob du kommst? <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926094300,
+      "content": ":) stimmt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338925818986,
+      "content": "von 17.45 bis 19.15 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925543372,
+      "content": "hmm vllt :) wann ist der noch mal`??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338925416022,
+      "content": "in den kurs? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925402772,
+      "content": "wohin? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1338925197480,
+      "content": "kommst du morgen? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337623099365,
+      "content": "Freitag :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337622384067,
+      "content": "\u00c3\u00a4hm ich geh dann mal. wir sehen uns mittwoch oder freitag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337622360984,
+      "content": ":) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337622142829,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337622119352,
+      "content": ":) ach komm ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337621971655,
+      "content": "gibt nichts & bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337621930985,
+      "content": "sag was :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337621912503,
+      "content": ":))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337621904641,
+      "content": ":) hihi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337621840910,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337621833429,
+      "content": "<3 okay weiter gehts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337620848087,
+      "content": "hey <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337620442734,
+      "content": "okay heei :) <3\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337618125028,
+      "content": "bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337618114297,
+      "content": "was machst so?? du ich komm in ner halben stunde noch mal on.. bis dann :) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337618057829,
+      "content": "jap <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337618042010,
+      "content": ";) genau sagte elena <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337618023415,
+      "content": "ah. immer positv denken <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337618006570,
+      "content": "keine ahnung <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617916985,
+      "content": "wie meinst? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617896978,
+      "content": "danke :) naja aber mal schauen wie noch alles wird <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617801261,
+      "content": "oh .. gute besserung ! okey <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617782084,
+      "content": "ich bin voll krank geworden :D aber an sonsten gut... <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617698522,
+      "content": "achwas rede doch nicht so. du hast dich \u00c3\u00bcbelst verbessert und da weist du. hat doch auch verena zu dir gesagt, oder nicht? also dir sieht man es richtig an. und das hat gar nichts mit dem zu tun wo  du tanzst. wie schon gesagt, sie ist j\u00c3\u00bcnger pipapo. h\u00c3\u00b6r auf so zu reden tanja. geht schon & dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617613417,
+      "content": "ist eig voll wurst.. :) wahrscheinlich ist lisa einfach besser geworden und hat um einiges mehr drauf und dann bin ich halt die schlechtere vllt find ich was worin ich besser bin.. wie gehts? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617546572,
+      "content": "doch <333 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617389714,
+      "content": "aber das vesteht man nicht.. :) egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617365833,
+      "content": "mh..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617338848,
+      "content": "hat sie mir?? :) NEIn :P also... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617302282,
+      "content": "g\u00c3\u00b6nn ihr doch auch was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617243262,
+      "content": "aber das ist so unfair es geht doch nicht mal darum wen se genommen haben ich will da ja eh net hin sondern das es meine kleine schwester ist!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337617185572,
+      "content": "kopf hoch !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617161661,
+      "content": "naja :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1337616002745,
+      "content": "tanja <3 gehts dir besser? wegen dem tanzen und all dem.? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336170492952,
+      "content": "Weil sie so viele anforderungen hat und voll w\u00c3\u00a4hlerisch ist :P :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1336160282528,
+      "content": "warum das!? :DD <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336160271381,
+      "content": "keine ahnun g:P selber schuld <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1336160236046,
+      "content": "und was ist jetzt mit ihr? :/ guuut <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336160212394,
+      "content": "neee :) oh man aber ich schon zum Gl\u00c3\u00bcck <3!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1336160180778,
+      "content": "noch schuhe gefunden.? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334956405834,
+      "content": "Achso, nee aber das war nur Wahrheit :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334955130323,
+      "content": "Halt das du gerne recht haben willst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334954380740,
+      "content": "wie meinst!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334954324306,
+      "content": "Okay :) du bist sehr eigenwillig :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334954090391,
+      "content": "eben :)) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334954060915,
+      "content": "Ja :) okay hast ja recht!!!!!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334954002041,
+      "content": "kommt auf die personen drauf an :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334953989413,
+      "content": "Naja :) aber nicht zu viel das ist dann auch nicht sooo gut :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334953869868,
+      "content": "Richtig. um so mehr, um so besser :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334953855539,
+      "content": "Eben und das ist gut! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334953382859,
+      "content": "jap.. aber hey training=sport=bewegung ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334953329115,
+      "content": "Oh krass :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334953206218,
+      "content": "haha :D jaa 7 stunden oO",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334953188451,
+      "content": "Okay :D wie du meinst haha oh morgen hast ja lange training :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334952430427,
+      "content": "haha mich nicht :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334952279651,
+      "content": "pkay dann freut es mich :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334952178156,
+      "content": " nicht nur dich ! :OO",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334952168446,
+      "content": ":) oh man aber das regt mich auf :O <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334951886005,
+      "content": "jap :)) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334951873274,
+      "content": "achso :) okay ist ja cool ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334951849017,
+      "content": "wir haben das halt im mix und daraum wollten wir das \u00c3\u00bcben und ja :DD <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1334257131989,
+      "content": "Morgen? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333046668319,
+      "content": "Okay bis dann :) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333046372798,
+      "content": "bis morgen <3 bin wieder um 5 da :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333045999621,
+      "content": ":) jaaa :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333045971444,
+      "content": "echt oder :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333045616186,
+      "content": ":) naja und schlaaafen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333045479455,
+      "content": "okey :)))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333045194137,
+      "content": ":) ja gleich duschen und dann auch :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333045000895,
+      "content": "gntm.. du= :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333044878758,
+      "content": ":) was machst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333044738166,
+      "content": "okey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333044408136,
+      "content": "Nene :) das geht nicht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333041770862,
+      "content": "morgen!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333041761665,
+      "content": "Ja wann denn sonst?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333041385501,
+      "content": "jetzt noch!? :OO",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333041175551,
+      "content": ":) nein muss einkaufen gehen :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333040712476,
+      "content": "dann tus doch ? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333040295911,
+      "content": ":) oh man ich will schlafen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333040085025,
+      "content": "glaub ich dir :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333040064798,
+      "content": "das ist voll assi :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333040019634,
+      "content": "haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333039822704,
+      "content": "ehm gerade mit hausi fertig geworden :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333039680069,
+      "content": "chilln und du? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333039491868,
+      "content": ":) was machst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333038103189,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333038087401,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333034847050,
+      "content": "okay gut :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333032900795,
+      "content": "ich auch <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333032885191,
+      "content": "ja wir kommen morgen :) <3 du?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1333032854629,
+      "content": "morgen? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332451301542,
+      "content": "Mhmh :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332450670661,
+      "content": "jop..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332449005543,
+      "content": "oh man ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332448568909,
+      "content": "jap :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332448530573,
+      "content": "okay?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332448376379,
+      "content": "ja hat se gesagt zumindest :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332448352601,
+      "content": "echt??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332448149136,
+      "content": "erk\u00c3\u00a4ltet..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332448136595,
+      "content": "warum?? :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332447760873,
+      "content": "maria is mal wieder nicht da :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332447512543,
+      "content": "auf jeden fall :) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332447502511,
+      "content": "und du?? :) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332447338693,
+      "content": "jaaa man <3 ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332447326416,
+      "content": "ja aber so was von! :) <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332447305987,
+      "content": "Morgen.? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332179509411,
+      "content": ":) bitte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332179429399,
+      "content": "danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332179325931,
+      "content": "Oh man du tust mir schon leid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332179124550,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332179113642,
+      "content": "oh ja stimmt :P oh naja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332179054925,
+      "content": "eigentlich ja nicht :D pr\u00c3\u00bcfung und so :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332179020602,
+      "content": ":) okay das ist dann schon chillig :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332178749355,
+      "content": "haha lern ich auch nebenbei.. eigentlich :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332178716045,
+      "content": "ehm gfs :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332178284230,
+      "content": "nichts besonderes und du? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332178240319,
+      "content": "was machst du so?<3 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332178055720,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332178031254,
+      "content": "bitte bitte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332177823997,
+      "content": "daaankesch\u00c3\u00b6n <3 ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332177719758,
+      "content": "ja ist es  :) da stimme ich dir zu <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332177677395,
+      "content": "sport ist wichtig :DD :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332177673385,
+      "content": "right :P <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332177636580,
+      "content": "ja okay du kommst ganz sicher :P <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332177612721,
+      "content": "was f\u00c3\u00bcr ne frage :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332177600216,
+      "content": "ja ich glaub schon <3 du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1332177287801,
+      "content": "kommt ihr am freitag? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331467003641,
+      "content": "ja so was passiert immer bei uns ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1331466892895,
+      "content": "Typisch ihr :DD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331466782243,
+      "content": "ja das war voll stressig!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1331466637090,
+      "content": "Oh Leute :DD Jap :)) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331466042639,
+      "content": "okay dann ist ja gut :) ehm wir ham ihn kurz aus den augen lassen und dann war er weg :(und dann ham wir ihn ewig gesucht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1331465931641,
+      "content": "Haha und wo ist der hund jetzt? \nJa kein Ding, hat schon gepasst, tobi und Nicole waren da :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331465846033,
+      "content": "sorry wir haben nen hund gefunden und wussen nicht was wir machen sollen tut mir leid :( aber wir wollten echt kommen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1331465705090,
+      "content": "Ihr seit ja zuverl\u00c3\u00a4ssig!? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316361755735,
+      "content": "Haha ja vllt :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1316347880588,
+      "content": "sorry :P ! aber dann f\u00c3\u00a4hrst du ja jetzt vllt. manchmal mit meinem bus ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316346340734,
+      "content": "Oha wie gemein :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1316341162174,
+      "content": "Ich mag ihn nicht ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316335436278,
+      "content": "Und? Wie ist er?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1316302287294,
+      "content": "Aus meinem Bus !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316282339456,
+      "content": "echt?? :) woher??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1316276640167,
+      "content": "ich kenne deinen freund!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316113693348,
+      "content": "jap :9!11",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1316110829790,
+      "content": "morgen training.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312656340760,
+      "content": "bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1312656252620,
+      "content": "okey bis dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312656216810,
+      "content": "jaja ;) also ich muss leider schon off.... bb :( <3 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1312656192343,
+      "content": "oh gott oh gott :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312656182407,
+      "content": "oh krank :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1312656155300,
+      "content": "jaa genau die :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312656140037,
+      "content": "oh die woche!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1312655932879,
+      "content": "den zeltlager tag :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312655923559,
+      "content": "jaaa welchen genau??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1312655904370,
+      "content": "na.? aufenthalt \u00c3\u00bcberlebt.? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310054954471,
+      "content": "<3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1310054851952,
+      "content": "okey <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310054845839,
+      "content": "vllt <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1310054829147,
+      "content": "kommst du morgen.? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309710841352,
+      "content": "Jap :) eben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1309710768419,
+      "content": "ja weil sie nicht wollte :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309706065173,
+      "content": "Okay ?? :) :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1309704935390,
+      "content": "oh :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309704926112,
+      "content": "die wollte nicht :P :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1309704910523,
+      "content": "ohhh man ich vergess das immer :D und deine sis.?\r\n+",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309704888574,
+      "content": "aua?? ich konnte nicht?? ich darf kein sport achen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1309704736165,
+      "content": "wo warst gestern.? :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308996739672,
+      "content": "ja sorry :( ich nutze noch die zeit bevor ich meine Z\u00c3\u00a4hne gezogen bekomm :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1308995910634,
+      "content": "Alter M\u00c3\u00a4del! Kommst Du \u00c3\u00bcberhaupt mal wieder? -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308995801887,
+      "content": "weil ich ins kino geh ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1308995600265,
+      "content": "Warum? -.-\n\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308995588334,
+      "content": "neee <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1308995580273,
+      "content": "Kommst du heute? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300132895000,
+      "content": "vielleicht :D :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300132772000,
+      "content": "Du musst mir am Freitag genau erz\u00c3\u00a4hlen was passiert ist *-* hdl :))) :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300130656000,
+      "content": "jaaa so war das -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300114312000,
+      "content": "Jap.. -.- leider.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300110504000,
+      "content": "zeiten \u00c3\u00a4ndern sich.. und menschen -.-\n:**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300056093000,
+      "content": "Warum alte allerbeste Freundin?? -.- :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300031856000,
+      "content": "mh.. ja :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300031240000,
+      "content": "achsssooo;D cool :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300031173000,
+      "content": "is meine alte allerbestefreundin !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300031113000,
+      "content": "ja und du?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300026744000,
+      "content": "Achso ;) mochtest du sie? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1300020305000,
+      "content": "Okay Ehm Kp.. *-* sorry ich wollt das hier machen :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1300016678000,
+      "content": "Warum -.- ??\nAchso ok... Nur so ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299971679000,
+      "content": "Aus wiblingen.. -.- wir hatten zusammen spanisch <3 warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Mignemi",
+      "timestamp_ms": 1299961684000,
+      "content": "heeY ;)\nWoher kennst du Laura Walter? \n<3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Elena Mignemi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/elenamignemi_4deln7fpsa",
+  "magic_words": [
+    
+  ]
+}

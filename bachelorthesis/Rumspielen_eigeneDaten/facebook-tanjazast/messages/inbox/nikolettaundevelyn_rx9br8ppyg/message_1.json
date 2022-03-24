@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Nikoletta Sa"
+    },
+    {
+      "name": "Evelyn Branickaja"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354570845290,
+      "content": "Wie das?? :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1354566224128,
+      "content": ":o<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1354566194081,
+      "content": "Nee ddess ist hjaa ddess !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354565093214,
+      "content": "Kannst es nicht wieder hin machen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1354562939567,
+      "content": "Wie gesat ich haatte es schonmal ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354560805681,
+      "content": "Warum das?? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1354560692964,
+      "content": "Echt hhahahahah ja ich hatte mal wgatsapp dann hab ics geloscht allgemein bin ich im mom.nicht erreichbar :/;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354560321600,
+      "content": "Ich dachte du hast das gleich Handy wie ich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1354560260982,
+      "content": "Ich hab kein whAtsapp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikoletta Sa",
+      "timestamp_ms": 1354560163816,
+      "content": "017664611689",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354560145289,
+      "content": "K\u00c3\u00b6nnt ihr beiden mir auch eure  Nummer geben f\u00c3\u00bcr die whats app Gruppe ?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nikoletta und Evelyn",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/nikolettaundevelyn_rx9br8ppyg",
+  "magic_words": [
+    
+  ]
+}

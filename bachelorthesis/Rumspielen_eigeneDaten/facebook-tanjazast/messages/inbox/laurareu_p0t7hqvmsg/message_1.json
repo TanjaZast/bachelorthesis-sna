@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Laura Reu"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laura Reu",
+      "timestamp_ms": 1455905395057,
+      "content": "015736425682\nMeld du dich mal kurz \u00c3\u00bcber wa.. iwie klappt grad was nichz :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Laura Reu",
+      "timestamp_ms": 1455905120912,
+      "content": "Danke :) ich schreib dir kurz :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1455905082147,
+      "content": "\u00c3\u009cbrigens: 015164810786 \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Laura Reu",
+      "timestamp_ms": 1455830561426,
+      "content": "Danke danke tanja! :) <3 bis morgen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1455830456122,
+      "content": "Gerne doch \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1455830446017,
+      "content": "Ab 10 ich bringe es dann einfach mit \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Laura Reu",
+      "timestamp_ms": 1455830089792,
+      "content": "Oh yes! Wie cool! Du bist die beste! \u00e2\u0099\u00a1\u00e2\u0099\u00a1\u00e2\u0099\u00a1 arbeite ab 6.. du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1455829950097,
+      "content": "Morgen gibt es Sushi! Wie arbeitest du? Habe die welches mitgenommen \u00f3\u00be\u008c\u00ad\u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Laura Reu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/laurareu_p0t7hqvmsg",
+  "magic_words": [
+    
+  ]
+}

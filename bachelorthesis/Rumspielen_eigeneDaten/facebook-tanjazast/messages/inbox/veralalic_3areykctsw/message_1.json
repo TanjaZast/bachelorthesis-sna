@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Vera Lali\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vera Lali\u00c4\u0087",
+      "timestamp_ms": 1511113408768,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vera Lali\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/veralalic_3areykctsw",
+  "magic_words": [
+    
+  ]
+}

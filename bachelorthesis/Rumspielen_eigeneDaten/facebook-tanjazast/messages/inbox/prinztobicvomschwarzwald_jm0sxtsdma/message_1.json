@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Prinztobic Vom Schwarzwald"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388866240026,
+      "content": "Hahahaah ja \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388866215943,
+      "content": "Schon besser ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388864667671,
+      "content": "Doch grade sind kumpels gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388864612785,
+      "content": ":) und sonst geht bei dir nichts? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388864026872,
+      "content": "Bitte \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388864004305,
+      "content": "Achso hahah okay danke ,)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388863956650,
+      "content": "Ne fand dein pb h\u00c3\u00bcbsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388863814874,
+      "content": "Kenne wir uns eigentlich? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388863484374,
+      "content": "Ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388863469615,
+      "content": "Langweilig oder? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388863057601,
+      "content": "Bei mir auch nicht viel \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388863010906,
+      "content": "Nicht viel bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388862979101,
+      "content": "Was geht\u00f3\u00be\u00ac\u0096",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388862900172,
+      "content": "Hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Prinztobic Vom Schwarzwald",
+      "timestamp_ms": 1388822090160,
+      "content": "Hi\u00f3\u00be\u00ac\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Prinztobic Vom Schwarzwald",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/prinztobicvomschwarzwald_jm0sxtsdma",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Vanessa Dambach"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vanessa Dambach",
+      "timestamp_ms": 1444811077893,
+      "content": "Ich wei\u00c3\u009f ja nicht was ihr gemacht habt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vanessa Dambach",
+      "timestamp_ms": 1444811048578,
+      "content": "Der stellt halt paar Fragen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vanessa Dambach",
+      "timestamp_ms": 1444811010974,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444808831721,
+      "content": "Vanessa? Bitte w\u00c3\u00a4re so dringend \u00f3\u00be\u008c\u00a3 habe um 12 sie Pr\u00c3\u00bcfung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444765818362,
+      "content": "Hey Vanessa ganz ganz dringend: leider bin ich auch eine der 7 gl\u00c3\u00bccklichen die beim rasch morgen ins m\u00c3\u00bcndliche muss. Kannst du mir bitte sagen was einen da so erwartet? Warst du letztes Jahr die einzige im m\u00c3\u00bcndlichen? Danke danke \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vanessa Dambach",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/vanessadambach_4wky8xyocq",
+  "magic_words": [
+    
+  ]
+}

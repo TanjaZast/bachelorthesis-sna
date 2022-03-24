@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Fabio Dancer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabio Dancer",
+      "timestamp_ms": 1449481737895,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448492221316,
+      "content": "Hey Fabio, bin noch nicht ganz fit aber m\u00c3\u00bcsste langsam echt die Chores Intensiv anschauen \u00f0\u009f\u0099\u008a nur leider finde ich weder f\u00c3\u00bcr Michael Jackson noch f\u00c3\u00bcr die spicegirls das Video in der Gruppe \u00f0\u009f\u0098\u009e kannst du es bitte f\u00c3\u00bcr mich reinstellen oder es mir zukommen lassen? Danke! \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Dancer",
+      "timestamp_ms": 1426595141233,
+      "content": "So geil ich hab so ein lavhflash",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabio Dancer",
+      "timestamp_ms": 1426594709527,
+      "content": "Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426588524703,
+      "content": "Du hast unser Bild ruiniert \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426588502313,
+      "photos": [
+        {
+          "uri": "messages/inbox/fabiodancer_eq_raefsua/photos/11068867_957193810988136_1514446314_n_957193810988136.jpg",
+          "creation_timestamp": 1426588501
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337202430039,
+      "content": "Du und deine versprechen :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Fabio Dancer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fabiodancer_eq_raefsua",
+  "magic_words": [
+    
+  ]
+}

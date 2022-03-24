@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Janka Bee"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Janka Bee",
+      "timestamp_ms": 1526652706372,
+      "content": "Ja der neo ist weg...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1526652666623,
+      "content": "Guten Tag :) gibt es bereits Neuigkeiten? Sch\u00c3\u00b6nes Wochenende schonmal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Janka Bee",
+      "timestamp_ms": 1526463767865,
+      "content": "Hey sorry, ich bin gerade beruflich unterwegs. Eine Interessentin m\u00c3\u00b6chte ihn haben, das kl\u00c3\u00a4rt sich zum ende der Woche. Melde mich dann noch einmal. Lg janka",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1526460623952,
+      "content": "W\u00c3\u00a4re super interessiert. Ist er noch zu haben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Janka Bee",
+      "timestamp_ms": 1526392125073,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1526330544394,
+      "content": "Du hast Janka Bee im Messenger hinzugef\u00c3\u00bcgt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1526330541036,
+      "content": "Hallo janka. W\u00c3\u00a4re der neo in xs f\u00c3\u00bcr 30\u00e2\u0082\u00ac noch zu haben? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Janka Bee",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jankabee_adtqtu2yra",
+  "magic_words": [
+    
+  ]
+}

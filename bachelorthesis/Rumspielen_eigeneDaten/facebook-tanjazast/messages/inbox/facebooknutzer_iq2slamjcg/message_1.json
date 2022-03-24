@@ -1,0 +1,285 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399755617509,
+      "content": "Hahaha schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399497574839,
+      "content": "Asoo lautlos kennsch \u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399496936739,
+      "content": ":) ja leute auf WhatsApp und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399492961284,
+      "content": "Alle ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399492947754,
+      "content": "Sollte lernen aber alle lenken mich ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399492920706,
+      "content": "Ok und was machst du so gerade ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399492689436,
+      "content": "Ja einfach so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399491517889,
+      "content": "Ja warum fr\u00c3\u00a4gst ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399491487854,
+      "content": "Sicher? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399491200142,
+      "content": "Ach nur so rein aus Interesse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399491152478,
+      "content": "Ne warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399486844719,
+      "content": "Ja nix mehr mit ihr zutun oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399486814303,
+      "content": "Vom tanzen und weggehen fr\u00c3\u00bcher :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399466240636,
+      "content": "Aso und von wo kennst's du Tina ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399414209929,
+      "content": "Aber nicht wirklich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399414206053,
+      "content": "Nur so von paar mal sehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399414081756,
+      "content": "Aso ne ich dachte du kennst den",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399414014727,
+      "content": "Soll ich jedem Typen der mir auf fb schreibt meine Nummer geben? :D ne sicher nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413856657,
+      "content": "Ja warum nicht ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399413802238,
+      "content": ":) weil ich die dem nicht gegeben hab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413649177,
+      "content": "Ja was hat des damit zutun wenn ich mit dir in whatsapp schreibe und er des mitbekommt ? Und warum hat der die nicht ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399413576548,
+      "content": "Ja aber tarkan hab ich meine Nummer auch nicht gegeben und nacher ist der pissig wenn er mitbekommt dass du sie hast :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413521598,
+      "content": "Damit wir schreiben k\u00c3\u00b6nnen \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399413490508,
+      "content": "Ja schon warum ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413436861,
+      "content": "Hast du whatsapp ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399413297313,
+      "content": ":) ja okay sorry stimmt hast ja recht! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413130572,
+      "content": "Ne woher den du wurdest mal iwann kurz angesprochen ich frag ihn nicht jeden Tag mit wem der schreibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399413069705,
+      "content": "Ne :) als ob du das nicht wei\u00c3\u009ft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399413016950,
+      "content": "Und was ist drauss geworden schreibt ihr noch ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412931485,
+      "content": "Achso ;) ja hab dem gesagt das ich echt nie zeit hab -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399412878627,
+      "content": "Ja des du angeblich voll die h\u00c3\u00bcbsche nette seist und das er dich mal treffen wollte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412809314,
+      "content": "N\u00c3\u00a4mlich :D?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399412696362,
+      "content": "Aso der hatte mir mal bisschen was von dir erz\u00c3\u00a4hlt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412648717,
+      "content": "Wei\u00c3\u009f nicht mehr :D von Tina glaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399412589733,
+      "content": "Ja woher kennst du den ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412553485,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399412551584,
+      "content": "Anhand der Bilder wahrscheinlich ein guter Freund von tarkan :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399412378486,
+      "content": "Hey kennst mich noch ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_iq2slamjcg",
+  "magic_words": [
+    
+  ]
+}

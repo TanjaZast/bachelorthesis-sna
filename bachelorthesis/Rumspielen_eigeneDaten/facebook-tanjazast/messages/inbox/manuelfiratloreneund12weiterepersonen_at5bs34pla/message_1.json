@@ -1,0 +1,246 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Guter"
+    },
+    {
+      "name": "Firat Da Rica"
+    },
+    {
+      "name": "Lorene Maucher"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Stefan Stanger"
+    },
+    {
+      "name": "Lea Beranek"
+    },
+    {
+      "name": "Jay Ell' Do"
+    },
+    {
+      "name": "Fabian Endisch"
+    },
+    {
+      "name": "Da He"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Ole Drabner"
+    },
+    {
+      "name": "Jakob Drabner"
+    },
+    {
+      "name": "Eren G\u00c3\u00bcney"
+    },
+    {
+      "name": "Rene J. Kralik"
+    },
+    {
+      "name": "Sonja Reuss"
+    },
+    {
+      "name": "Josephine Tha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Robin Graf",
+      "timestamp_ms": 1404570240175,
+      "content": "Robin Graf hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannes Stier",
+      "timestamp_ms": 1404245267362,
+      "content": "Hannes Stier hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Hannes Stier"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404235928811,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1404235908982,
+      "content": "Raphael Schwer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Raphael Schwer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Janosch Gs\u00c3\u00a4lzb\u00c3\u00a4r",
+      "timestamp_ms": 1404231171316,
+      "content": "Janosch Gs\u00c3\u00a4lzb\u00c3\u00a4r hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Janosch Gs\u00c3\u00a4lzb\u00c3\u00a4r"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Thoma",
+      "timestamp_ms": 1404217057982,
+      "content": "Lea Thoma hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lea Thoma"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melissa Caroline Buscher",
+      "timestamp_ms": 1404216220932,
+      "content": "Melissa Caroline Buscher hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Janine Hermann",
+      "timestamp_ms": 1404215924399,
+      "content": "Janine Hermann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Janine Hermann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Schobel",
+      "timestamp_ms": 1404213439991,
+      "content": "Alexander Schobel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404211289132,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404210466148,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Zimprich",
+      "timestamp_ms": 1404209171914,
+      "content": "Martin Zimprich hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Martin Zimprich"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Wagner",
+      "timestamp_ms": 1404207518396,
+      "content": "Jonas Wagner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jonas Wagner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pascal Mak",
+      "timestamp_ms": 1404206968261,
+      "content": "Pascal Mak hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Pascal Mak"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404206448486,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Janine Popp",
+      "timestamp_ms": 1404206162399,
+      "content": "Janine Popp hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Janine Popp"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Schobel",
+      "timestamp_ms": 1404206111511,
+      "content": "Eine verr\u00c3\u00bcckte Art, ein neues iPad zu gewinnen ... http://t.co/uqqs1rnbfU",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Manuel, Firat, Lorene und 12 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/manuelfiratloreneund12weiterepersonen_at5bs34pla",
+  "magic_words": [
+    
+  ]
+}

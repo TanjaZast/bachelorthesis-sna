@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Lena Glunk"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403630086697,
+      "content": ":* jap klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1403626130411,
+      "content": "Ich kann ja Donnerstag oder Freitag zu dir kommen und dir das Geld geben! Passt das? Also f\u00c3\u00bcr 3 B\u00c3\u00a4ndchen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1403624706542,
+      "content": "Danke dir;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403560135664,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403560131900,
+      "content": "ja kann ich iwie schon machen.ich rede mal mit Ahmad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1403542090059,
+      "content": "Hey Tanja! Also ich bin am abistreich nicht da ich brauch aber auf jeden Fall 2 B\u00c3\u00a4ndchen und vllt ein drittes.kann ich dir das Geld dann wann anderst geben und du legst die B\u00c3\u00a4ndchen auf die Seite oder so?;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena Glunk",
+      "timestamp_ms": 1372267854843,
+      "content": "Habs gecheckt?;) aber danke:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372265428376,
+      "content": "Ich hab gerade gelesen was du in die Gruppe geschrieben hast :) ich wei\u00c3\u009f warum soll ich es dir erkl\u00c3\u00a4ren? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lena Glunk",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lenaglunk_4wodn9ubxq",
+  "magic_words": [
+    
+  ]
+}

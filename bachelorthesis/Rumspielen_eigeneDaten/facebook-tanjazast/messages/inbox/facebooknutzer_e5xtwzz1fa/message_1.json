@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404814877520,
+      "content": "Ohne witz mir gef\u00c3\u00a4llt es !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404814401696,
+      "content": "Als ob",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404810867915,
+      "content": "Du hast ein so tolles l\u00c3\u00a4cheln! Wahnsinn\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1404810844924,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362120881918_135461923_n_126362117548585.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_e5xtwzz1fa",
+  "magic_words": [
+    
+  ]
+}

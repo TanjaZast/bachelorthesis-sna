@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Gonzalez Hernandez"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manuel Gonzalez Hernandez",
+      "timestamp_ms": 1551174388375,
+      "content": "Manuel winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Manuel Gonzalez Hernandez",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/manuelgonzalezhernandez_ucuplxldta",
+  "magic_words": [
+    
+  ]
+}

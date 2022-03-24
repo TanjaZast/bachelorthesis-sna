@@ -1,0 +1,250 @@
+{
+  "participants": [
+    {
+      "name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439325874490,
+      "content": "Hey \nIch hab den Schl\u00c3\u00bcssel in Briefkasten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439236860179,
+      "content": "Tanja passt es wenn ich es morgen mach \nMorgen aber zu 100% sicher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439235057083,
+      "content": "Mach ich \u00f0\u009f\u0091\u008d\n\nBis nachher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439235008307,
+      "content": "Klingel einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439234185591,
+      "content": "Ja \nPasst des in einer Stunde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439233922454,
+      "content": "Willst den Schl\u00c3\u00bcssel holen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439232919713,
+      "content": "Bin da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439229024475,
+      "content": "J\u00c3\u00a4hre nett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439216659176,
+      "content": "Ok \nK\u00c3\u00b6nntest du mir dann schreiben Wenn du zuhause bist \nWeil dann komme ich kurz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439216610084,
+      "content": "Ne erst abends bin doch arbeiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439216178974,
+      "content": "Will wenn ja komm ich kurz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1439214085117,
+      "content": "Bist du heute zuhause?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438949527483,
+      "content": "Ne leider nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438947360530,
+      "content": "Hi \nW\u00c3\u00a4rst du um 14 Uhr zuhause ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438891349627,
+      "content": "Ja ok \nIch schreib dir wenn ich komme \nOb du dann daheim bist \u00f0\u009f\u0098\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438891297280,
+      "content": "Ne hol den einfach :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438865841029,
+      "content": "Au\u00c3\u009fer du legst den Schl\u00c3\u00bcssel drau\u00c3\u009fen irgend wo hin dann hol ich den da morgen \n\nZum Beispiel unter eine Tonne \u00f0\u009f\u0098\u0081\u00f0\u009f\u0091\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438855008096,
+      "content": "Wir k\u00c3\u00b6nnen auch eine Uhrzeit ausmachen \nWann es Dir passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438854958917,
+      "content": "\u00f0\u009f\u0098\u008a Hmmm. Ich werfe es dir einfach in den Briefkasten bzw sag meiner Oma Bescheid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438854533515,
+      "content": "Mittags aber wann genau das wei\u00c3\u009f ich noch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438854445145,
+      "content": "Also der Schl\u00c3\u00bcssel ist da.wann willst den holen am Freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438796043013,
+      "content": "Ok \nDann schreib ich dir am Freitag nochma",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438795588395,
+      "content": "Okay Freitag hab ich frei. Das geht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438795504823,
+      "content": "Egal Freitag reicht auch noch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438795133990,
+      "content": "Ich arbeite donnerstags immer ganz lange, bin sicher nicht vor 7 daheim. ich w\u00c3\u00bcrde den meiner Oma geben bzw. meiner Oma sagen wann du vorbei kommst um ihn zu holen \u00f0\u009f\u0098\u008a.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438795065330,
+      "content": "Wenn ja kann ich den dann morgen bei dir holen und danach wieder bringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438795000118,
+      "content": "\u00f0\u009f\u0098\u008a okay mach ich. Hahaha oh J\u00c3\u00bcrgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438794864089,
+      "content": "Ja w\u00c3\u00a4re nett weil ich habe meinen Schl\u00c3\u00bcssel da drin ausversehen eingeschlossen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438794818263,
+      "content": "Ich telefoniere heute mit denen soll ich fragen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438794710029,
+      "content": "Wollte fragen ob du wei\u00c3\u009ft ob dein Vater einen Schl\u00c3\u00bcssel Zuhause gelassen hat f\u00c3\u00bcr die H\u00c3\u00bcte drau\u00c3\u009fen in dem Garten ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438794237625,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438794237346,
+      "content": "Ne ich bin daheim geblieben. Muss arbeiten warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+      "timestamp_ms": 1438790066651,
+      "content": "Hey \n\nBist du und lisa mit in Urlaub ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "J\u00c3\u00bcrgen H\u00c3\u00bcmmer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jurgenhummer_z4dqtdwbgq",
+  "magic_words": [
+    
+  ]
+}

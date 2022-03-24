@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Luca St\u00c3\u00b6hr"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luca St\u00c3\u00b6hr",
+      "timestamp_ms": 1590734683253,
+      "content": "Fr\u00c3\u00bcher in BC jetzt halt privat:)\nOhje was, der war immer so cool \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1590697506077,
+      "content": "Echt? Cool! Wo? :) \nPuuuh vermutlich nie \u00f0\u009f\u0098\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca St\u00c3\u00b6hr",
+      "timestamp_ms": 1590680796901,
+      "content": "Wann gibt es wieder den Einstein Triathlon? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca St\u00c3\u00b6hr",
+      "timestamp_ms": 1590680724893,
+      "content": "Voll gut, mach auch Triathlon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1590679774201,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1590679773594,
+      "content": "Hey Luca, ja bin ich. Warum? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca St\u00c3\u00b6hr",
+      "timestamp_ms": 1590673998757,
+      "content": "Hey Tanja, bist du Triathletin im SSV Ulm? \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Luca St\u00c3\u00b6hr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lucastohr_t-mnqa6ioa",
+  "magic_words": [
+    
+  ]
+}

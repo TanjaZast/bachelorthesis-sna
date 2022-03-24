@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sarah M\u00c3\u00bcnzenrieder"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarah M\u00c3\u00bcnzenrieder",
+      "timestamp_ms": 1319743633519,
+      "content": "Schreib mir sms ich muss off 01773250499 is aldi (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319741956302,
+      "content": "Also wann gehst du morgen?? In welche workshops und bleibst du bis zum fotoshooting?? ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sarah M\u00c3\u00bcnzenrieder",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sarahmunzenrieder_xu1c-lujiw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Kitti Jornjan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kitti Jornjan",
+      "timestamp_ms": 1406842598943,
+      "content": "hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kitti Jornjan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kittijornjan_hdl0bbjs8g",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Vinko Maratovi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465765030591,
+      "content": "Hvala :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vinko Maratovi\u00c4\u0087",
+      "timestamp_ms": 1465677984888,
+      "content": "Sretan roxx sve najbolje :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vinko Maratovi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/vinkomaratovic_h9n7-kkuea",
+  "magic_words": [
+    
+  ]
+}

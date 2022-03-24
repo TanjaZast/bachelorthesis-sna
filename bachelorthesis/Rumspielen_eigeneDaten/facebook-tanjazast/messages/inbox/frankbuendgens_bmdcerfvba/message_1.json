@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Frank Buendgens"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298923141000,
+      "content": "Okay.. Sagst mir bescheid wenn es so weit ist... Wie gehts dir? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1298919920000,
+      "content": "am 26.mai glaub ich ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298899216000,
+      "content": "Und wann ist das? Ich wei\u00c3\u009f :(....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1298891866000,
+      "content": "heyhey \nja haben wir als erstes !!!! sau geil !!! hast echt was verpasst \ndann musst du zum donaubeben kommen !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298836222000,
+      "content": "Und??? Wer hat gestern gewonnen? Ich wollt auch kommen bin dann aber voll fertig gewesen :( hdl und Gru\u00c3\u009f :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1291014714000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1280868130000,
+      "content": "doch doch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280861734000,
+      "content": "bist du in Tu nicht frankybone???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280685450000,
+      "content": "hey, du bist nie gleich on wie ich....:-P\n\nFreusch dich schon auf deine OP und meine Postkarteeee :-P?????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1280665288000,
+      "content": "am freitag^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280602454000,
+      "content": "wann hast du deine OP?????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1280576052000,
+      "content": "coool ^^ ich freu mich ^^ \nokay \nB\u00c3\u00bchlstr.5\n89195 Staig \ndankesch\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6\u00c3\u00b6 n!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280514835000,
+      "content": "und deine Adresse??? ich m\u00c3\u00b6cht dir eine Postkarte schicken....\n\nund viel Gl\u00c3\u00bcck bei deiner op!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1280507116000,
+      "content": "s\u00c3\u00a4\u00c3\u00a4\u00c3\u00a4s \njooo \n0160/93801059",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430073000,
+      "content": "Hey, willst du mir auch mal deine Nummer geben????\n\n:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Frank Buendgens",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/frankbuendgens_bmdcerfvba",
+  "magic_words": [
+    
+  ]
+}

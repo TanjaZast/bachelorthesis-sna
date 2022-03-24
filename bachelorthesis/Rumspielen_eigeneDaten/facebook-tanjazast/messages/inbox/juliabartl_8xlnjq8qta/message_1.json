@@ -1,0 +1,2273 @@
+{
+  "participants": [
+    {
+      "name": "Julia Bartl"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409141865535,
+      "content": "Haha ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409063699189,
+      "content": "Keine Ahnung hat mich bisschen gewundert und wollte nicht direkt fragen und so extrem neugierig Wirken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409063547248,
+      "content": "Wieso fragst du? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409063510984,
+      "content": "Ich glaub schon 2 Jahre mindestens",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409063453587,
+      "content": "Schon lange?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409063447545,
+      "content": "Achso :) ja hast sicher recht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409062584815,
+      "content": "Also dachte ich... Ich hab eigentlich nix mit dem zu tun ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409062558198,
+      "content": "Ja klar das kann gut sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409062482016,
+      "content": "Und da l\u00c3\u00a4uft mit niemand irgendwas? :D\nIch dachte der ist mit der Maren M\u00c3\u00a4nner zusammen, oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409062436531,
+      "content": "Du der Jonas redet da nicht so dr\u00c3\u00bcber aber die eine aufm Bild ist ja seine Freundin wie hei\u00c3\u009ft die eigentlich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409062411119,
+      "content": "Hab keinen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409062032562,
+      "content": "Perfekt :) sind jetzt bisschen mehr als 8 Monate zusammen :* und bei dir so?\nHaha ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409061717417,
+      "content": "Ich arbeite mit Jonas pirkl zusammennehmen bei evobus \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409061697597,
+      "content": "Wie l\u00c3\u00a4uft es mit deinem Freund? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409061421384,
+      "content": "Ja schon :D war 3 Wochen im urlaun , jetzt muss ich erst mal wieder mit meinem Freund chillen haha\nUnd du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409061284987,
+      "content": "Ja jetzt so die zeit. Chillst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409061167602,
+      "content": "Ja echt so! \nWann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409061115631,
+      "content": "Was tust so dann den ganzen Tag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409061105549,
+      "content": "Voll gut :) ja mit 18 \u00c3\u00a4ndert sich eigentlich schon einiges.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1409060964244,
+      "content": "Hey :* \nGut :) ich bin grade die ganze Zeit am Autofahren ;) und in ner woche f\u00c3\u00a4ngt mein fsj an...und wie gehts dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409060594904,
+      "content": "Hey s\u00c3\u00bc\u00c3\u009fe na wie geht es dir mit deinen 18 Jahren? Was tust so? Was machst jetzt als n\u00c3\u00a4chstes? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1402689174480,
+      "content": "Mega, wir fahren nachher los zu den niagaraf\u00c3\u00a4llen *.*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402689084528,
+      "content": "Oh ja ;* wie ist es im Urlaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1402667150100,
+      "content": "Danke :) hast Du sch\u00c3\u00b6n gefeiert? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402664934378,
+      "content": "Danke dir :* oh du s\u00c3\u00bc\u00c3\u009fe wie hammer *-* viel Spa\u00c3\u009f! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1402661762930,
+      "content": "Tanjaaa ich bin grade in Kanada und hab mit der terminverschiebung und allem voll deinen Geburtstag verpennt... \nAber auf jeden Fall alles alles Liebe und Gute nachtr\u00c3\u00a4glich s\u00c3\u00bc\u00c3\u009fe! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382119036110,
+      "content": "Heei :* 015164810786 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1382101840106,
+      "content": "hey du, ich hab n neues handy und keine nummern mehr... welche nummer hast denn? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361788351626,
+      "content": "hahahahaha arme juli!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361770782437,
+      "content": "Haha du wirst halt die ganze zeit von kunden angeschrien und beschimpft... aber sonst ists voll gut!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361741965573,
+      "content": "Voll gut!! ** ich will auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361740374818,
+      "content": "Ja alle leute die bei der swp anrufen weil sie die zeitung nicht gekriegt haben oder weil sie irgend ne info brauchen rufen bei mir an :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361740299460,
+      "content": ":) H\u00c3\u00a4??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361724278461,
+      "content": "Bei der suedwestpresse als callcenteragentin :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361723542027,
+      "content": ";) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361723539942,
+      "content": "Was arbeitest du? ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361722868012,
+      "content": "Bin zwar muede weil ich die letzten 2 tage um 7 beim arbeiten sein musste aber sonst bestens :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361722762865,
+      "content": "Gut und dir? *",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361722633229,
+      "content": "Hey :* \r\nna wie gehts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361719558443,
+      "content": ":* heei ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361465209973,
+      "content": "ja es sind halt viele stunden ausgefallen, wir hatten heute ne ganzt\u00c3\u00a4gige exkursion an die uni & morgen haben wir unser smv seminar :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361399692797,
+      "content": "Ehm was du bei der einen Nachricht gemeint hast? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361381632948,
+      "content": "Was sollt ich dir erklaeren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361311443816,
+      "content": "Okidoki :* :) Oha... Musst mir morgen mal genauer erkl\u00c3\u00a4ren ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361311380975,
+      "content": "Stundenentfall, ausflug an die uni und smv seminar :D\r\nDu ich geh mal ins bett. schlaf schoen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361311329971,
+      "content": "Warum?? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361310175953,
+      "content": "Haha hab die woche so geile stunden... entweder zur 3. oder nach der 4. aus und donnerstag und freitag gar keine schule :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361310095442,
+      "content": "Ja das dachte ich mir eh :) :* Hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361295574398,
+      "content": "Schon laengst ;) :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361285899095,
+      "content": "Und schon aus? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361279350956,
+      "content": "Passt schon :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361275950295,
+      "content": "Ja?? :/ was ist doch so? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361262694873,
+      "content": "Ach tanja <3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361227336427,
+      "content": "Naja sagen wir lieber meistens.... :) sonst komm ich mir doof vor",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361224907086,
+      "content": "Tanja hat immer recht ;) :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361224782434,
+      "content": "Eben!! ;) Tanja hat mal wieder recht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361220855758,
+      "content": "ach stimmt, da war was ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361220273002,
+      "content": "Ja aber ich dachte es gibt 2 Kurse? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361218826321,
+      "content": "Ach so na dann :D\r\nmmh oh ich dachte die haetten auch wirtschaft ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361218674697,
+      "content": "Nein -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361218620580,
+      "content": "Sind eigentlich alex welte und lini baar auch bei dir im kurs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361218557232,
+      "content": "Naja eigentlich war das cool nicht so ernst gemeint? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361217360822,
+      "content": "elis ist voll ok wenn man ihn naeher kennt, mit dem hab ich voll viel zu tun :D mit julian und henri eher weniger, ich hab auch fast nix mit denen zusammen und kenn die nur so vom sehen... ja mein got, du kennt mich doch, als ob ich was mit den \"coolen\" zu tun hab :D\r\naber mir reichen meine jungs vollkommen, die sind alle total lieb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361216960173,
+      "content": "Marcello?? Elis? :/ ;) Hahaha okay... Julian alin und henri? ;) und all die Coolen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361216817398,
+      "content": "Nee ich weiss nur von marci und elis, dass sie es haben, zumindest fallen mir grad nicht mehr ein :D oh und dani glaub ich auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361216737577,
+      "content": "Aaaah ;) nicht schlecht :* hihi... Du kennst ja eh alle die Wirtschaft haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361216688355,
+      "content": "Weil alle 4std wahlfaecher der kategorie zur selben zeit sind ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361216542071,
+      "content": "Jap woher wei\u00c3\u009ft ? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361198255797,
+      "content": "Ja hast du das nicht auch montag 1.-2. stunde?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361194935874,
+      "content": "Ich hab Wirtschaft kein Geschichte!? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361175911127,
+      "content": "Weil ichs nicht weiss :D\r\nich hab grad eva, mara, aenni, isabelle und katja gesehen, WO WARST DU?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361139999570,
+      "content": "Ups sorry :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361139991572,
+      "content": "Warum denkst du? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361139380033,
+      "content": "Nik ohne c :D ganz gut denk ich ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361139340165,
+      "content": "Stimmt... :) wie gehts Nick? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361138868453,
+      "content": "Ja aber dann waer mir noch langweiliger gewesen ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361138812706,
+      "content": "Hahaha okay.. Dann h\u00c3\u00a4tte ich eben nichts gelesen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361132571775,
+      "content": "Weil mir langweilig war und nix zum lesen da war ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361127857172,
+      "content": "Hahaha warum das? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361124090033,
+      "content": "Ist irgendwie nicht so spannend aber ich hab grad nix besseres ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361124043838,
+      "content": "Haha ok ;D\r\nne biografie ueber obama :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361123630835,
+      "content": "Was liest??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361123625214,
+      "content": "Gassi :) haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361109512118,
+      "content": "Lesen :D du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361109439375,
+      "content": "was machst so? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361108448194,
+      "content": "Danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361108194860,
+      "content": "ist so!!! ;) richtig gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361107084555,
+      "content": "Naja... aber danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106657898,
+      "content": "Voll gut man",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361100222769,
+      "content": "Ja :) Aber das ist echt nichts im vergleich zu anderen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361100043094,
+      "content": "Alter?? *-* hast das alles du gemacht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361096353790,
+      "content": "Haha ok mach ich, die seite heisst j-pictured.tumblr.com\r\nist aber echt nix besonderes :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361059578689,
+      "content": "Doch ich hab mal was von der geh\u00c3\u00b6rt gehabt! ;) musst mir dann bescheid geben dann schau ichs mir an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361056060318,
+      "content": "Jetzt mach ichs morgen :D\r\ndie seite kennt eh keiner also ists auch nich schlimm ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361055993073,
+      "content": "Oh und jetzt? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361055969810,
+      "content": "Das hat meine fotos nicht hochgeladen aber dann hab ich gemerkt, dass es an meinem internet lag ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361055916355,
+      "content": "Und was ist da? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361055875118,
+      "content": "so ne bloggerseite & da hab ich eben auch ne seite fuer meine fotos :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361055807784,
+      "content": "Was ist das? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361055297284,
+      "content": "Weil tumblr mich aufregt :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361054872607,
+      "content": "Warum ok?? :/ :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361054654579,
+      "content": "Ganz ok :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361053982312,
+      "content": "Gut und dir? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361050680315,
+      "content": "wie gehts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361050612628,
+      "content": "S\u00c3\u00bc\u00c3\u009fe! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1361050526731,
+      "content": "hey :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360016215103,
+      "content": "Haha du dumme :D :* \r\nklar, mach ich und irgendwie muessen wir uns dann mal im schubart sehen! \r\nbis morgen dann <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360015996200,
+      "content": "Was zwei Wochen das ist Ja ein halbes Leben Juli!!\" :* ;) man wieso lebst du denn dann noch <3 JA FAND Ich auch *-* kannst mir ja morgen schreiben oder so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360015895070,
+      "content": "Weil ich seit 2 wochen nix derartiges getan hab :D\r\ndu ich geh dann mal ins bett, war gut mal wieder mit dir zu schreiben, das muessen wir beibehalten, ok? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360015750595,
+      "content": ":) warum so sicher??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360015688043,
+      "content": "Dass ich nich schwanger werden kann :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360015493101,
+      "content": "Mit was sicher?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360014945544,
+      "content": "Mach ich schon ;) jetzt bin ich je eh grad relativ sicher ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360014283395,
+      "content": "So ein dummes ding auch :D haha pass lieber auf Julia ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360013813118,
+      "content": "Meine handyerinnerung, die jeden abend um 8 sagt, dass ich die pille nehmen muss :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360013389546,
+      "content": "H\u00c3\u00a4 was f\u00c3\u00bcr Wecker bitte?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360013343379,
+      "content": "Ja keine ahnung, hab den wecker ueberhoert oder so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012951165,
+      "content": ";) wie das??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012586566,
+      "content": "schon :D ist mir aber auch schon passiert o.O :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012543354,
+      "content": ":) eben und bisschen dumm auch noch!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012455068,
+      "content": ";D jaja, die pille zu vergessen ist schon bl\u00c3\u00b6d :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012423197,
+      "content": "Ist doch so oder nicht? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012380426,
+      "content": ":DDD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012360701,
+      "content": ":) eben die h\u00c3\u00a4tte dem.jucker sagen.k\u00c3\u00b6nnen das.sie nicht gut im verh\u00c3\u00bcten ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012312097,
+      "content": "mmh das versteh ich :( ist halt schei\u00c3\u009fe, wenn man nen oberstufenkurs hat :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012235903,
+      "content": "Toll echt putzig ich bin so ausgefippt -.- man wie kann Sie nur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012178357,
+      "content": "jaa voll putzig :DD \nmmh shit keine ahnung... ich w\u00c3\u00bcnsch dir nur, dass du nen besseren lehrer kriegst als meine mathelehrerin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012135686,
+      "content": "Frau lamprecht ist ja schwanger die coole!! -.- ich bekomme so eine Krise man! Was soll.ich nur machen ohne die in Mathe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360012072071,
+      "content": "ja also, besser als ich ;) \noh shit, die frau ist echt schei\u00c3\u009fe... \nmeine mathelehrerin ist soo f\u00c3\u00bcrn arsch ey. die h\u00c3\u00a4lfte des kurses hat n unterkurs!! \n\nna also :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360012026248,
+      "content": "Nein?? ;) genau 11 :) :* weil ich in deutsch und Geschichte 9 hab :/ ich bekomm noch so die Krise bei der f\u00c3\u00bcller :/ ;* also genau 2.0 schnitt aber immerhin\n\n ich hab mich sogar verbessert zum.letzten mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011890279,
+      "content": "aah voll schlau :D ich hab voll abgelost dieses jahr :D\n\nund, welchen schnitt hast du? ich tipp, irgendwas mit 12 punkten oder 13 oder so :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011824503,
+      "content": "Weil das so geht :* :) dann bekommst deinen schnitt mit 1, oder 2, also deinen richtigen schnitt eben!! ;) wir haben unsere schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011742299,
+      "content": "h\u00c3\u00a4 warum 17 minus 10,5 /3? :D nee das ist nich gut :/ :D \n\nnope, kriegen sie erst am freitag :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011680119,
+      "content": "Das ist Hammer!! Man das ist 2.0 schnitt!! Du musst rechnen 17 minus deinen schnitt in punkten geteilt durch 3 :) :* habt ihr eure Zeugnisse noch nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011530557,
+      "content": "und das obwohl ich in mathe mit 5 punkten noch zur besseren h\u00c3\u00a4lfte des kurses geh\u00c3\u00b6r :DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011512479,
+      "content": "doch wirklich, dank mathe werdens nur fucking schlechte 10,5 punkte im schnitt :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011484436,
+      "content": "Als ob kann nicht sein!! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011314132,
+      "content": "alter, das ist doch voll gut!! ich bin dieses jahr \u00c3\u00bcbel am abspacken -.- ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011273294,
+      "content": "Naja Wirtschaft eigentlich nicht so.. Meine 11.. Aber ich hab beides mal nicht lernen k\u00c3\u00b6nnen :/ :* wie ist es bei dir so in der Schule von Noten her?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360011188112,
+      "content": "glaub ich nich ;) du bist bestimmt mega gut :* \njaa echt so, in wirtschaft auch, oder? :D \n\nhaha ;D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011082505,
+      "content": "Zu s\u00c3\u00bc\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360011077713,
+      "content": "Franny labert ich bin schon okay aber nicht sooo gut :* hihi so geil und die chillen da alle so... Naja du bist kussis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360010919396,
+      "content": "du streberchen :DD  ;* \nfranny, die meint du bist echt gut! \nmmh ;/ \nhaha ;D das war einfach so w\u00c3\u00a4hrend dem unterricht :DD (so was h\u00c3\u00a4tten wir fr\u00c3\u00bcher auch bringen m\u00c3\u00bcssen)\n\nkein problem, immer wieder gerne :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360010824773,
+      "content": "Und danke f\u00c3\u00bcrs aufmuntern :* ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360010802601,
+      "content": "Haha ich bin nicht gut :D nur Mathe mein ganzer stolz mit 13 punkten ;* wer hat dir das gesagt?? :D oh ja das ist manchmal so wenn man sich echt jeden Tag sieht und so.. Ich kann mir ihre Gesichter echt vorstellen *-* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360010660651,
+      "content": "ach weil wir grad glaub einfach zu viel aufeinander h\u00c3\u00a4ngen und jetzt grad irgendwie alles zu viel wird... \nja echt so, das war so witzig, vor allem wie die alle geschaut haben^^ ;* \n\noh mensch :( ich hab geh\u00c3\u00b6rt, wie gut du in der schule bist, da kannst echt zufrieden sein! und sonst bist du auch voll toll \u00e2\u0099\u00a5 \nshit :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360010535546,
+      "content": "Warum denn gerade nicht so gut? :/ :* haha dAs ist echt lustig... :D ehm keine Ahnung ich bin den ganzen Tag an mir selbst unzufrieden mach mich selbst fertig.. Typen kannst vergessen ich gerate immer an die falschen ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360010397152,
+      "content": "mmh eben, ich hatte auch irgendwie schon davor angst... \nheute hat mich n kumpel in geschichte ausm zimmer getragen, weil wir beide aufs klo mussten und als wir zur\u00c3\u00bcckgekommen sind, meinte mein lehrer nur lachend: du hast dich hier gut eingelebt julia, oder? :D \n\nDanke <3 \njoa grad nich ganz so gut aber ich denk das wird schon wieder... \n\nwieso was ist los: :/ ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360010071862,
+      "content": "Das freut mich echt voll das es dir jetzt so viel besser geht!! :* das ist immer so ein Neuanfang wenn man wechselt!! :* ;) das ist das gute an so was!! Perfekt ich g\u00c3\u00b6nne es dir echt voll... Mit nick auch alles gut? ;) also mir geht es mal gut dann nicht dann wieder schon ganz komisch... ;* :) und blabla ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360009891039,
+      "content": "du bist auch in wirklichkeit hammer h\u00c3\u00bcbsch! \nganz gut, ich bin einfach auch echt froh, gewechselt zu haben (kannst du bestimmt nachvollziehen, du hast ja auch schon die schule gewechselt) & hab da auch echt gute freunde gefunden! hei\u00c3\u009ft nicht, dass ich euch nicht mehr mag oder so aber hier gibts halt viel weniger leute, die mich nicht m\u00c3\u00b6gen. \n\nund dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360009774539,
+      "content": "Okay super :* :) ja das ist nur ein Bild ;) in wirklichkeit ist immer was anderes! Wie geht es dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360009684375,
+      "content": "passt alles :) bei dir? :* \nschau dein profilbild an!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360009593143,
+      "content": "Alles klar bei dir?? :) :* als ob s\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1360009541179,
+      "content": "mmh? ;) sagst grad du :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360009412216,
+      "content": "Na meine h\u00c3\u00bcbsche? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346865559696,
+      "content": "heei :) :* hast du eig geschaut wegen meinem sch\u00c3\u00bclerausweis?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340539559078,
+      "content": ":) oh man ich sitze gerade davor und hab einfach keine lust!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340538601106,
+      "content": "Wie immer halt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340538164799,
+      "content": "Ja :) vllt aber nur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340537709075,
+      "content": "Wollt ich :DD Habs aber nicht gemacht ;) sollt ich vielleicht nachher auf der rueckfahrt machen ;D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340385040440,
+      "content": ":) im ernst?? Lernst du im zug? :O <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340378862921,
+      "content": "Jetzt bin ich drin und kann schoen franz lernen ;D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340378014124,
+      "content": ":) oh man du arme!! <3 aber der kommt schon noch!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340377876483,
+      "content": "Ich auch nicht, bin soo froh, dass das die letzte arbeit ist... \r\nmaan mein scheiss zug ist immer noch nich da und der sollte schon laengst weiterfahren... <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340377719461,
+      "content": "Nein vor allem nicht franz!!! <3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340377185965,
+      "content": "Ich auch nicht, du kannst franz und chemie eh :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340376284046,
+      "content": ":) naja ich hoffe es mal nicht!! <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340375146525,
+      "content": "Dankee, den werd ich haben (: haha wuerd ich doch nie tun ;) <3\r\ndir auch viel spass, ich hoff du bist nicht die ganze zeit am lernen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340374811525,
+      "content": ":) heei du gaaanz viel Spa\u00c3\u009f dir dann mit deinem schatz in M\u00c3\u00bcnchen!! :D und mach nicht un\u00c3\u00bcberlegtes <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1340367026971,
+      "content": "Heey <3\r\nsorry irgendwie verpass ich immer deine anrufe und ich hab weder flat noch guthaben und kann deshalb nicht zurueckrufen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337525306799,
+      "content": "Ja okay stimmt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1337525087593,
+      "content": "echt so aber wir kriegen ja sonst genug auf...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337525065431,
+      "content": "Echt?? :) naja schon nicht schlau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1337523299402,
+      "content": "ich glaub sie hats einfach vergessen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337523280859,
+      "content": "Das kann doch dann auch nicht sein?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1337523059122,
+      "content": "dacht ich mir auch :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337522967737,
+      "content": "Okay :) das ist doch unm\u00c3\u00b6glich ???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1337521945644,
+      "content": "nich ganz aber ziemlich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337521907293,
+      "content": "Sicher?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1337521146863,
+      "content": "hey :* ich glaub gar nix :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337521079482,
+      "content": "Duu :* was haben wir in franz auf?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330211065807,
+      "content": "Aber das sind doch eh nur ein paar!! Vergiss die doch einfach!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330210886403,
+      "content": "ach was, die meisten in der klasse sind von mir doch eh nur genervt & sag nich, dass es nich stimmt, ich wei\u00c3\u009f es selber :'(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330210841118,
+      "content": "Weil wir dich brauchen und auch bei uns haben wollen??!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330210632557,
+      "content": "eben. ich hasse es sooo verdammt, warum muss ich in deutschland leben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330210568903,
+      "content": "Schau doch!! Fucking vater!! :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330210374390,
+      "content": "er schreibt, er will ne beziehung mit mir haben aber er darf ja nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330210339838,
+      "content": "Kann man doch nie wissen!! Es kommt wie es kommt!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330210137073,
+      "content": "mmh aber er will glaub trotzdem keine beziehung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330210117073,
+      "content": "Oha wie S\u00c3\u00bc\u00c3\u009f!! Er wird dich immer lieben!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330210014177,
+      "content": "mmh. er hat grad geschrieben: i still love you.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209975663,
+      "content": "Ja klar und deswegen schreibt er dir auch so wie fr\u00c3\u00bcher immer??!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209922214,
+      "content": "ich wei\u00c3\u009f aber ich glaub f\u00c3\u00bcr ihn ist die sache gelaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209899709,
+      "content": "Denk noch mal \u00c3\u00bcber alles nach! Du kannst doch genau so wenig ohne ihn wie er ohne dich!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209824168,
+      "content": "mmh :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209793511,
+      "content": "Ach komm!!  :* glaub daran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209771393,
+      "content": "weil er der meinung ist, wenn wir uns sehen k\u00c3\u00b6nnten wirs probieren...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209759196,
+      "content": "ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209748450,
+      "content": "Findest du wirklich?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209679367,
+      "content": "ja aber das \u00c3\u00a4ndert nichts...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209649575,
+      "content": "Aber er sieht ja auch wie sehr er dich noch liebt!! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209581054,
+      "content": "mmh... wir schreiben grad eigentlich so, als w\u00c3\u00a4ren wir zusammen aber eigentlich sind wirs doch nicht...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209547830,
+      "content": "Das packst du S\u00c3\u00bc\u00c3\u009fe :)!! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330209254646,
+      "content": "mmh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330209241855,
+      "content": "Ja das ist echt schei\u00c3\u009fe!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208997920,
+      "content": "ja aber gleichzeitig auch traurig, weil ich wei\u00c3\u009f, dass es aus ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208954245,
+      "content": "Oh :( aber es macht dich doch happy!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208891170,
+      "content": "doch, weils mich fertig macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208867892,
+      "content": "Aber das ist doch kein fucking fehler?!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208831244,
+      "content": "ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208810612,
+      "content": "Mit ex meinst du schon jordan?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208746331,
+      "content": "ich liebe ihn immer noch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208684899,
+      "content": "Denkst du du keonntest dich noch mal in ihn verlieben?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208583792,
+      "content": "mmh les den satz noch mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208502987,
+      "content": "Ne sag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208369013,
+      "content": "egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208328959,
+      "content": "H\u00c3\u00a4?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208271557,
+      "content": ":DD \neher: den fucking fehler begehen mit meinem ex zu schreiben...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208193429,
+      "content": "Oder barney :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330208141360,
+      "content": "na klaar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330208047014,
+      "content": "Stimmt ungef\u00c3\u00a4hr?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330207876680,
+      "content": ":DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330207814222,
+      "content": "Ehm gogo- T\u00c3\u00a4nzerin?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330207732001,
+      "content": "oh fuck, ich red grad mit 7 jungs und einem m\u00c3\u00a4dchen, was bin ich dann o.O :DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330207675046,
+      "content": "Ja ich bin voll die schlampe!! :) rede mit 2 jungs :O fuck!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330207227314,
+      "content": "hahaah :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330207189520,
+      "content": "So geil :) ich rede so mit 2 kumpels.. Also wir haben nur geredet und dann kommt einer her: mit wem von den beiden hast jetzt was?? Ich so: ehm?? Mit keinem?? :D er dann so: ja ist ja auch gut :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330205467775,
+      "content": "glaub ich dir :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330205270756,
+      "content": "War voll lustig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330204423327,
+      "content": "aah ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330204414579,
+      "content": "Donaustetten!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330204365248,
+      "content": "wo? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330204358321,
+      "content": "Okay gut :) ich war gerade aufm funkenfeuer :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330195372166,
+      "content": "Passt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330194399951,
+      "content": "Weil ich zu viel mitleid gegeben hab :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330192132330,
+      "content": "Wieso sorry??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330191499363,
+      "content": "Heei :) sorry wegs gestern ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330123805056,
+      "content": "schon ok tanja!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330123758564,
+      "content": "Oh mist du tust mir so leid!!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330123516863,
+      "content": "da flenn ich los, das tu ich grad eh die ganze zeit...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330123489916,
+      "content": "Doch klar!! :) also ob halt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330123404717,
+      "content": "haha :D dazu bin ich dann leider nicht mehr in der lage :D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330123363982,
+      "content": "Nein dann kommt... Stopp!! Ich f\u00c3\u00bchle mich gemobbt!!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330122994753,
+      "content": "ich f\u00c3\u00bchl mich gemobbt :D \nund wenn die heseler im unterricht nochmal irgend ne anspielung macht, dann renn ich heulend raus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330122953035,
+      "content": "Okay?? :) also manchmal check ich auch nemme durch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330122888944,
+      "content": "naja...\nhaha und der andere kommentar drunter: julia, eigentlich kannst du \"mathe\" viel besser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330122854208,
+      "content": "das ist doch nicht schlecht!! Wie komisch.. :P was die da gleich drunter schreibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330122467776,
+      "content": "mmh 3-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330122438949,
+      "content": "Stimmt ja die assi aktion da :( naja wird schon alles wieder!! ;* ist die note nicht gut oder was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330122065676,
+      "content": "ich war nich traurig, das war nur mal wieder dieser ganze stress mit fernbeziehung der raus musste... und fr. lamprecht hat unter die arbeit geschrieben ich sollte mehr abgeben und gleich fragen und da hab ich mich bisschen verarscht gef\u00c3\u00bchlt, weil sie mich f\u00c3\u00bcr genau das ja angemotzt hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330121950787,
+      "content": "Okay :) :* ich bin bei dir!! Ach und ne frage warum warst du am mittwoch in mathe so hammer traurig??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330121887141,
+      "content": "ist schon ok... nachdem ich mich jetzt 2mal in den schlaf geheult hab bin ichs schon fast gewohnt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330121846356,
+      "content": "Und mir tut das alles voll leid!! :* :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330121536203,
+      "content": "freut mich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330121525420,
+      "content": "Ach quatsch!! :) :* mach ich gerne!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330121328195,
+      "content": "doch! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330121219700,
+      "content": "Bitte :) f\u00c3\u00bcr so was bedankt man sich doch nicht?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330120892685,
+      "content": "danke tanja!! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330120820584,
+      "content": "Aber wir alle helfen dir dabei :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330120483609,
+      "content": ":**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330120371381,
+      "content": "Oh man :( juliaaa :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330120283039,
+      "content": "beides",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330120240112,
+      "content": "Wes wegen ?? Wegen jordan oder deinem kumpel?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330116871074,
+      "content": "Dacht ich mir auch. ich fuehl mich sooo scheisse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330115110548,
+      "content": "Dein armer kumpel :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330114571533,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330114339461,
+      "content": ":) okay freut mich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330114265724,
+      "content": "Mmh ich versuchs...\r\nhahah das wuerde mir jetzt auch iwie gedanken machen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330114041253,
+      "content": "Oh.. Du hast nicht leich :) brings ihm schonend bei!! Gut das ich ein M\u00c3\u00a4dchen bin und net auf dich steh ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330112947650,
+      "content": ":))\r\nUnd jetzt hat mir grad mein kumpel, bei dem ich mich die ganze zeit ausgeheult hab, gesagt dass er was von mir will... shit!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330112818482,
+      "content": "Kein problem!! Immer wieder gerne :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330112672370,
+      "content": "Ach tanja :* danke!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330112611264,
+      "content": "Wird schon S\u00c3\u00bc\u00c3\u009fe!! :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330112497919,
+      "content": "Mmh ich hoffs doch :/ :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330112448963,
+      "content": "Wenn du daran glaubst und vertraust dann wird das!! Und egal was passieren wird  es ist das beste f\u00c3\u00bcr dich!! :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330112222364,
+      "content": "Mmmh... ich hab nur so angst, dass er mich irgendwann nicht mehr liebt. auf der einen seite will ich, dass er sich in ne australierin verliebt, das waere so viel leichter und besser fuer ihn aber auf der anderen seite will ich natuerlich, dass er mich immer noch liebt, wenn er hier herkommt und dass zwischen uns 2 alles klappt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330112013357,
+      "content": "Glaube ich nicht!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330111748964,
+      "content": "Nein, der grund ist ja eher der vater aber ich denk trotzdem, dass es viel ausmacht. oder dass das eben der grund ist, warum er meinte eeeigentlich braeuchte er ne beziehung mit ner australierin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330111599622,
+      "content": "Als ob sex der grund ist das er schluss gemacht hat??!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330106710253,
+      "content": "Oder ich legs zumindest so aus, dass er es so sieht, er ist n 17 jaehriger junge, der noch nie sex hatte und ne freundin in deutschland hatte...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330105599823,
+      "content": "Warum theoretisch ne beziehung in australien?? Warum seid ihr nemme zsm?? :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330104214127,
+      "content": "Ich versuchs!!! weisst du, wenn ich irgendwie die chance haette nach australien zu kommen. ich waere schon laengst am flughafen! aber 1. hab ich das geld nich, 2. nicht die bescheinigung meiner eltern, dass ich ausreisen darf, 3. kein visiter-visum, 4. keine unterkunft (jordans vater duerfte es ja nich wissen), 5. keine schulbefreiung/ferien, 6. meinte jordan, er braeuchte theoretisch ne beziehung in australien und ich sollte eine in deutschland haben, auch wenn es ihm sehr weh tun wuerde, 7. Wir sind ja nich mal mehr zusammen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330103623300,
+      "content": "Aber ihr seid so S\u00c3\u00bc\u00c3\u009f!!! :) :* schreib mit ihm so oft es geht!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330103549112,
+      "content": "Ach tanja, du bist so suess! <3 aber leider gehts nich :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330103135589,
+      "content": "Julia kauf dir ein flugticket!! Ich bezahle mit!! :* :) auf nach australien!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330102970614,
+      "content": "Suess ;) ich hoffs... \r\ner hat mir auch vorher wieder ne nachricht geschrieben, in der er meint, dass er mich immer noch liebt und mich vermisst, dass er bei allem was er tut an mich denkt und dass er sich soo arg wuenscht ich waere in australien...\r\n:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330102781981,
+      "content": "Ich glaube genau das was du gesagt hast er genau so sagen w\u00c3\u00bcrde nur halt auf englisch!! Kopf hoch ihr 2 S\u00c3\u00bc\u00c3\u009fen das wir schon ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330102661108,
+      "content": "Weisst du, das hoert sich jetzt verdammt kindisch und naiv an, aber ich glaub wirklich, dass ich niemals so nen typen wie ihn finden werde und dass er meine wahre liebe ist!\r\nmmh ich glaub nich, dass es schnell vergeht aber ich bin sicher, dass ich warten werde. ich hoff nur, dass er dann keine andere hat... :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330102499135,
+      "content": "Oh man :( er vermisst dich bestimmt hammer arg!! Ihr armen!! :* aber bitte verlieb dich in keinen anderen!! Warte die 1 1/2 jahre.. Wird schon einigerma\u00c3\u009fen schnell vergehen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330102090096,
+      "content": "Mmh doch, immer dann, wenn er heimlich seinen laptop holen kann. ist allerdings nicht so oft :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330096709887,
+      "content": "Oh man :( wie schei\u00c3\u009fe!!! :* tut mir voll leid!! Und ihr schreibt gar nemme oder wie?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330095727402,
+      "content": "Zu spaet...und wie, ohne kontakt zu haben. \r\nach die polizei hat uebrigens grad noch verhindert, dass er sich von der bruecke stuerzt auf der er stand, das hat alles ausgeloest...\r\nin einundhalb jahren...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330095091350,
+      "content": "Okay schau das es was wird!! Aber ihr k\u00c3\u00b6nnt ja heimlich zsm bleiben?? Und wann ist er fertig mit schule? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330094567900,
+      "content": "Weil er ihm fuer immer das internet wegnimmt & gesagt hat, jordan muss die schule abbrechen, wenn er weiter mit mir zusammen ist. und nach europa darf er auch nich. aber jordan ist ja vor uns mit der schule fertig und macht dann n gap year in europa und meint da koennten wir uns ja treffen und schauen, was draus wird. ist aber noch soooo lang",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330093616797,
+      "content": "Oha... Aber wie kann sein dady es ihm verbieten?? :O und warum denn auch??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330090780941,
+      "content": "Nup...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330086098864,
+      "content": "Das ist ein scherz oder?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330081082476,
+      "content": "Schluss zu machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330079267428,
+      "content": "Zu was wurde er gezwungen?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330078896563,
+      "content": "Er wurde von seinem vater gezwungen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330078847125,
+      "content": "Wie jetzt? :( was ist denn passiert?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330078762300,
+      "content": "Nichts mehr :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330078694661,
+      "content": "Was ist mit ihm :( :*??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330077363823,
+      "content": "jordan...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330077329215,
+      "content": "Doch schon!! Sonst w\u00c3\u00bcrde ich ja nicht fragen :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1330077249878,
+      "content": "nich so wichtig :* :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330077223924,
+      "content": "S\u00c3\u00bc\u00c3\u009fe was ist eig los?? :* :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325424226013,
+      "content": "Okay :D naja danke wie machst dus??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1325424122744,
+      "content": "Ich hab keine ahnung, sorry men kopf tut verdammt weh und ich lieg bei rebe auf der couch.. <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325423898193,
+      "content": "Ehm was kommt eig in franz dran? Schon nur conditionel du passe und subjonctif und laisser und faire faire?? :D S\u00c3\u00bc\u00c3\u009fe <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325423890798,
+      "content": "Ehm was kommt eig in franz dran? Schon nur conditionel du passe und subjonctif und laisser und faire faire?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319478660757,
+      "content": "Hmmm ;D freu mich <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1319478497161,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319478386476,
+      "content": "Hmmm ;D neee <3 aber machen wir einfach ein neues ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1319477798836,
+      "content": "tust du gar nich :DD <3 ok :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319477760866,
+      "content": "Ist doch net schlimm :* <3 danke ;D ich schau da halt echt doof.. Mach mer halt diese woche noch mal eins.. Das kannst dann rein stellen ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1319477577083,
+      "content": "oh sorry ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319477559542,
+      "content": "Willst du mich und nina mal bidde entmarkieren ;D wir finden das bild net soo sch\u00c3\u00b6n ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1310264842241,
+      "content": "guut :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310209920736,
+      "content": "Wie iszs so!!?? :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1310208177714,
+      "content": "heei <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310207299956,
+      "content": "juliaaa <3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia Bartl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliabartl_8xlnjq8qta",
+  "magic_words": [
+    
+  ]
+}

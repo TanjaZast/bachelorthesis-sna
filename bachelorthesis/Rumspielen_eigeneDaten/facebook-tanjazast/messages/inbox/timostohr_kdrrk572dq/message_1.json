@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Timo St\u00c3\u00b6hr"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319561347665,
+      "content": "Okay mach das... ;) nen guten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319561341889,
+      "content": "Okay mach das... ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo St\u00c3\u00b6hr",
+      "timestamp_ms": 1319560589252,
+      "content": "ich geh jetz erst ma was essen;)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319560348108,
+      "content": "Haha ;D das ist ja dann voll positiv f\u00c3\u00bcr mich ;P ;D nja zeit/ lust noch bissle so zu chatten oder so?? ;P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo St\u00c3\u00b6hr",
+      "timestamp_ms": 1319559907421,
+      "content": "ja kann mich noch erinnern:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319556912995,
+      "content": "Ja cool ;D naja ich dachte weil das halt einfach \u00c3\u00bcbelast lange her ist und das du dich halt da nemme dran erinnern kannst ;D. Haha dann ist ja gut ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo St\u00c3\u00b6hr",
+      "timestamp_ms": 1319556216040,
+      "content": "Ja doch glaub schon:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo St\u00c3\u00b6hr",
+      "timestamp_ms": 1319554039684,
+      "content": "Ja kann sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319551491533,
+      "content": "Weisst dus jetzt?? ;D kannst dich vllt an dein schulandheim in breisach erinnern?? F\u00c3\u00a4llt dir dann auch vllt ein wer ich bin?? ;D ;P mb tanja ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319484623315,
+      "content": "Hey timo (: na weisst du vllt noch so bissle wer ich bin?? ;D oder kannst dich vllt bissle daran erinnern?? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Timo St\u00c3\u00b6hr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timostohr_kdrrk572dq",
+  "magic_words": [
+    
+  ]
+}

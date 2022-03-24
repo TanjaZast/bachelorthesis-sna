@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Martha Kbm"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martha Kbm",
+      "timestamp_ms": 1314564418327,
+      "content": "http://www.facebook.com/l/tZtZt;bit.ly/qVZkY8#tZtZE xD .....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martha Kbm",
+      "timestamp_ms": 1314555198415,
+      "content": "http://www.facebook.com/l/XhCXr;bit.ly/qVZkY8#hM7rr xD .....",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Martha Kbm",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marthakbm_9kubkb7tcg",
+  "magic_words": [
+    
+  ]
+}

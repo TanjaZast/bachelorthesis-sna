@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Chiara Celine Mercedes R\u00c3\u00b6\u00c3\u009fler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chiara Celine Mercedes R\u00c3\u00b6\u00c3\u009fler",
+      "timestamp_ms": 1459930183048,
+      "content": "Hi Tanja \u00f0\u009f\u0098\u008a,\ndas freut mich von dir zu h\u00c3\u00b6ren das alles geklappt hat! War mir nicht ganz sicher aber dann muss ich mir ja jetzt keine Gedanken mehr machen \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1459889102648,
+      "content": "Hey Chiara, \nDas Geld ist angekommen. Vielen Dank dass es so schnell geklappt hat und du dran gedacht hast. War voll \u00c3\u00bcberrascht als mir Jan geschrieben hat dass du es mir bereits \u00c3\u00bcberwiesen hast. \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chiara Celine Mercedes R\u00c3\u00b6\u00c3\u009fler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chiaracelinemercedesrossler_zhfind0hew",
+  "magic_words": [
+    
+  ]
+}

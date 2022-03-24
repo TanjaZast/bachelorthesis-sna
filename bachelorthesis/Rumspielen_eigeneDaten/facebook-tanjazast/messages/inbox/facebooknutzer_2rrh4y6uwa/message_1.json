@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315605579902,
+      "content": "3 wochen oder so :'(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315575886932,
+      "content": "Glaub ich dir ;( wann kommts denn wieder ? (:\r\nbitte <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315572835921,
+      "content": "ja ich hab wasser oder luft im display :( das ist sooo doof :/\ndanke <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315491149259,
+      "content": "Heii (:\r\nalso ich geb dir meine nummer falls du die nich mehr hast (;\r\n> 015788155067 ;)\r\nwas ist mit deinem handy wenn du es einschicken musstest ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_2rrh4y6uwa",
+  "magic_words": [
+    
+  ]
+}

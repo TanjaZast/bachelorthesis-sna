@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Andy Bndgns"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304683728000,
+      "content": "Viel Spa\u00c3\u009f wobei auch immer :)) cao man schreibt sich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andy Bndgns",
+      "timestamp_ms": 1304683549000,
+      "content": "noch Mathe :) \ntsch\u00c3\u00b6\u00c3\u00b6 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304683298000,
+      "content": "Bestimmt :)) okay wie viele noch.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andy Bndgns",
+      "timestamp_ms": 1304683231000,
+      "content": "ja ja :D \nich Packs :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304683167000,
+      "content": "Ich habs gemerkt :)) ja ist eig auch egal wollts dir nur mal sagen.. Achsooo so einen drauf trinken, dass man die behinderten Pr\u00c3\u00bcfungen hinter sich hat :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andy Bndgns",
+      "timestamp_ms": 1304682995000,
+      "content": "sorry :D ich hab n bisschen was getrunken :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304682607000,
+      "content": "Du hast doch zu Ruth gesagt du w\u00c3\u00bcsstest Net wer ich  bin.? So jetzt wei\u00c3\u009ft dus :)) du bist vorhin im Bus voll auf mich drauf gelaufen und mir voll aufn Fu\u00c3\u009f getrappt -.- :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280602386000,
+      "content": "darum.... weil du immer ablehnst... :-D dankeeeeee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andy Bndgns",
+      "timestamp_ms": 1280522859000,
+      "content": "warum ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280516124000,
+      "content": "komm nimm doch bitte endlich mal an!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Andy Bndgns",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/andybndgns_al5botm9aq",
+  "magic_words": [
+    
+  ]
+}

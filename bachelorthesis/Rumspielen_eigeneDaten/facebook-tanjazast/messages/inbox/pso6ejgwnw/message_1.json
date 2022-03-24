@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552671612590,
+      "content": "Du hast mit einem/r Freund/in einen Jahrestag der Freundschaft gefeiert.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1406624467913,
+      "content": "Ma nije :) salim se :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406590056915,
+      "content": "Pa ja Mislim da Nije takav",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1406553516449,
+      "content": "Brines se da nije manijak? :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406550698312,
+      "content": "Super Bas me raduje :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1406540009944,
+      "content": "Aha jesam, nije bilo problema",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406535440397,
+      "content": "E si dobro stigla ku\u00c4\u0087i?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/pso6ejgwnw",
+  "magic_words": [
+    
+  ]
+}

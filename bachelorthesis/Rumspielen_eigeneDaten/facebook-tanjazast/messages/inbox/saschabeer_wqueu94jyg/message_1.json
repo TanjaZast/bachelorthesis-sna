@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Sascha Beer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sascha Beer",
+      "timestamp_ms": 1447361344447,
+      "content": "Ja klar, finds super, dass ihr geschrieben hast. vielen dank! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447361255714,
+      "content": "Okay erledigt \u00f3\u00be\u008c\u00b5 kann aber nichts versprechen okay? \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sascha Beer",
+      "timestamp_ms": 1447361126549,
+      "content": "Ja genau :) Boah das w\u00c3\u00a4r echt super von dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447361001092,
+      "content": "Klar ich kann der schnell auf whatsapp schreiben \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447360984685,
+      "photos": [
+        {
+          "uri": "messages/inbox/saschabeer_wqueu94jyg/photos/12233473_1090955740945275_1805600121_n_1090955740945275.jpg",
+          "creation_timestamp": 1447360982
+        }
+      ],
+      "type": "Generic",
+      "ip": "109.92.148.70",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447360978074,
+      "content": "Die?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sascha Beer",
+      "timestamp_ms": 1447360885631,
+      "content": "Hi :) Das klingt jetzt vllt etwas komisch, aber k\u00c3\u00b6nntest du mir einen kleinen Gefallen tun? Ich kann der Carolin Sauter hier leider keine Nachricht schicken und hab gesehen, dass du mit ihr befreundet bist und wollte fragen, ob du ihr vllt mal schreiben k\u00c3\u00b6nntest, dass sie mir vllt eine Nachricht schicken k\u00c3\u00b6nnte.\nSorry, dass ich dir deswegen schreibe. W\u00c3\u00a4r aber super lieb von dir!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sascha Beer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/saschabeer_wqueu94jyg",
+  "magic_words": [
+    
+  ]
+}

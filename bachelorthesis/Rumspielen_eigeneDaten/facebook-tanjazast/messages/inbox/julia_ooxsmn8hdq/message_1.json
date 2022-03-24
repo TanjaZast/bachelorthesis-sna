@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Jul Ia"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jul Ia",
+      "timestamp_ms": 1372350651606,
+      "content": "daf\u00c3\u00bcr gibts n\u00c3\u00a4chste woche nen ganz leckeren schokokuchen habs mir scho aufgeschriebn ;))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jul Ia",
+      "timestamp_ms": 1372350622252,
+      "content": "weil ich des voll vergesen hab und ne ddaheim bin ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372350606861,
+      "content": "Warum morgen nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jul Ia",
+      "timestamp_ms": 1372350190448,
+      "content": "ich kann n\u00c3\u00a4chste woche einen mitnehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jul Ia",
+      "timestamp_ms": 1372350180617,
+      "content": "muss ich morgen nen kuchen machen ? also morgen geht fei ned e zeit mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372348768316,
+      "content": "Morgen den Kuchen nicht vergessen ;) danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jul Ia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/julia_ooxsmn8hdq",
+  "magic_words": [
+    
+  ]
+}

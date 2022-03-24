@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Babic Milka"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270322148000,
+      "content": "cao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268850624000,
+      "content": "e pa lepo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Babic Milka",
+      "timestamp_ms": 1268850200000,
+      "content": "evo cekam da dodju kaca i jasmina kod mene..:**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268849855000,
+      "content": "evo nistaaaaa\n\na ti????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Babic Milka",
+      "timestamp_ms": 1268849558000,
+      "content": "eee cao ..gde si ti?sta radis? i ja tebee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268849410000,
+      "content": "ciao!!!!\n\nVolim te Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Babic Milka",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/babicmilka_lpllgp6-mw",
+  "magic_words": [
+    
+  ]
+}

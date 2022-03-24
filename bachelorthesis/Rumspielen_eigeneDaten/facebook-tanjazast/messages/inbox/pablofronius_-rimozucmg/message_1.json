@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Pablo Fronius"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373666720421,
+      "content": "Ah stimmt du warst ja auch donau sommer? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373488800329,
+      "content": "Haha ok:) was schaust? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373488699805,
+      "content": "Genau das gleiche :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373488355398,
+      "content": "Schau grad fernseh und lieg im bett:) du?:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373488268062,
+      "content": ":) was tust du, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373488159861,
+      "content": "Klar doch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373488143888,
+      "content": "Ja wird schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373488081525,
+      "content": "Achso ok:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373488048664,
+      "content": "Wei\u00c3\u009f ich auch nicht so recht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373487892126,
+      "content": "Achso ouh:/ wieso nichtmehr??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373487863260,
+      "content": ":) ich hab mit niemanden mehr was von da zu tun :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373487841963,
+      "content": "Ja musst ja ein grund haben? Oder?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373487817108,
+      "content": "Warum auch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373487762458,
+      "content": "Ja auch:) wieso kommst du eig nichtmehr nach wernau? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373487670550,
+      "content": "Gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373487580750,
+      "content": "Wie gehts? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373487422601,
+      "content": "Hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pablo Fronius",
+      "timestamp_ms": 1373487211956,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Pablo Fronius",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/pablofronius_-rimozucmg",
+  "magic_words": [
+    
+  ]
+}

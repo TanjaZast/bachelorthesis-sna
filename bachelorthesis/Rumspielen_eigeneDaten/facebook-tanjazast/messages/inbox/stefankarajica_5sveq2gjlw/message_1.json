@@ -1,0 +1,811 @@
+{
+  "participants": [
+    {
+      "name": "Stefan Karajica"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1443469811481,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428066432438,
+      "content": "Zeig das mal Lisa \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428066424152,
+      "photos": [
+        {
+          "uri": "messages/inbox/stefankarajica_5sveq2gjlw/photos/11124033_966210640086453_1408283861_n_966210640086453.jpg",
+          "creation_timestamp": 1428066423
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427984305746,
+      "content": "Die ist schon Zuhause",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427984219820,
+      "content": "ja was mach ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427984215610,
+      "content": ":D sorry king wann hat lisa Feierabend? mama hat gesagt die jammert voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427984182678,
+      "content": "Was ist mit dir ?! Blockiert den doch einfach ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427984088393,
+      "content": "alter Ufuk nervt mich schon wieder :o was soll ich nur machen der findet mich immer wieder :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427984063974,
+      "content": "hab nur das halbe Gesetzbuch aufgesagt also mega interessant :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427984043386,
+      "content": "hahaha mega :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427983966493,
+      "content": "Wie wars ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427983901752,
+      "content": ":D ein Lackaffe :D hatte meine PR\u00c3\u0084SENTATION",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427974674914,
+      "content": "Sieht aus wie n mongo :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427974514266,
+      "content": "HAHAHA ICH MAG DEN NICHT",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427974470748,
+      "content": "Noch nie gesehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427974467794,
+      "content": "ich hab den Fehler nur korrigiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427974452201,
+      "content": "und kennst den? das ist der Lackaffe der voll viele nicht reinl\u00c3\u00a4sst :D",
+      "photos": [
+        {
+          "uri": "messages/inbox/stefankarajica_5sveq2gjlw/photos/11086294_965692450138272_1011113499_o_965692450138272.jpg",
+          "creation_timestamp": 1427974434
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427974446088,
+      "content": "Tolles Bild :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427974440747,
+      "content": "Da steht \"bild\" :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427974139468,
+      "content": "bild",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427974137662,
+      "content": ":) doch den kennst du warte bekommst gleich ein vild :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973719415,
+      "content": "Kenn dem bestimmt eh nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973714085,
+      "content": "Achwas ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427973704110,
+      "content": ":) der arbeitet im myers :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973567468,
+      "content": "Sein Kumpel halt des das ganze macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973557842,
+      "content": "Nee ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427973548399,
+      "content": "Mario wei\u00c3\u009ft du wer das ist? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973297954,
+      "content": "Ja der kl\u00c3\u00a4rt das mit Mario oder so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427973214635,
+      "content": "und was hat er gesagt :D Lisa antwortet ja kaum :D oder ich kp eine von uns beiden eben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427973136239,
+      "content": "Lisa hat schon mit dem geredet der hat sie besucht \nNee schenkt doch nichts glaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427973098722,
+      "content": "schenkt die was zu Ostern? und wie ist es bei dir mit seeberger? soll ich mal am WE mit Thomas reden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427973076076,
+      "content": ":) ja ich bin so krank aber will bei Frederike \u00c3\u00bcbernachten mama flippt bestimmt aus :( warum wollte Lisa bildet von mama und Papa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972817848,
+      "content": "Ohjee :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972583236,
+      "content": "nein ich kann keine Koffer schleppen man stefan :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972415008,
+      "content": "Dann musst mit m Bus fahren :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972404212,
+      "content": "ich bin kraaaaank und sterbe bald :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972395870,
+      "content": ":) mama ist beim Sport",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972348502,
+      "content": "Man wei\u00c3\u009f es nicht , gibt sowas wie Eltern ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972336409,
+      "content": "hahaha nein wie komme ich nur heim :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972326202,
+      "content": "um 18.07 bin um 20 Uhr da kann mich jemand abholen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972323969,
+      "content": "Zum Gl\u00c3\u00bcck sind wir heute bei mir :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972309628,
+      "content": "heute habt ihr mich wieder daheim! *-* freut sich Lisa schon?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972309503,
+      "content": "Wann f\u00c3\u00a4hrst nach Ulm ,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972290788,
+      "content": "hahah ich muss nur k\u00c3\u00b6rperlich anwesend sein ich mach gerade meinePr\u00c3\u00a4sentation die ich gleich halten muss :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1427972261380,
+      "content": "Was ist mit dir ?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1427972231679,
+      "content": "ey du penner :D was treibst du dich hier auf Fb rum lern mal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702962312,
+      "content": "Wird sich schon kl\u00c3\u00a4ren ! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702942500,
+      "content": "Das ich immer weniger zu schlafen hab und mein Tod immer n\u00c3\u00a4her r\u00c3\u00bcckt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702906434,
+      "content": "Was ist so witzig ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702893186,
+      "content": "Ja ich auch! Tsch\u00c3\u00bc\u00c3\u009f hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702885791,
+      "content": "Machs noch schlimmer :D ich sterbe ja nicht eh schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702860601,
+      "content": "Aber ich geh jetzt schlafen gute Nacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702850832,
+      "content": "Noch nie was schlimmeres erlebt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702842844,
+      "content": "Ich sag noch so zu lisa denk mal das Auto ist weg , aber eigentlich nur als Scherz , und auf einmal ists halt echt weg ?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702774875,
+      "content": "Mach ich gleich morgen gute Nacht ich \u00c3\u00bcberlege mir f\u00c3\u00bcr beide was doch ich versteh dich ich h\u00c3\u00a4tte mich umgebracht man :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702701145,
+      "content": "Nee ist schon okay , solang du maxi irgendwie beibringen kannst das ich nichts falsch gemacht hab !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702677938,
+      "content": "Ja in der Situation ist es schon was anderes , aber du wei\u00c3\u009ft wie ichs mein !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702667767,
+      "content": "Ich versuche alles das du mir verzeihst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702649321,
+      "content": "Ja kannst du auch nicht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702639206,
+      "content": "Ja ich verstehe dich voll du wei\u00c3\u009ft nicht was f\u00c3\u00bcr Vorw\u00c3\u00bcrfe ich mir mach weil ich eigentlich immer vorbildlich und was wei\u00c3\u009f ich bin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702582193,
+      "content": "Frag mal lisa wie ich da drauf war , hab echt gedacht ich Fall da gleich um",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702561443,
+      "content": "Nee jetzt mal im ernst , sorry aber daf\u00c3\u00bcr was deine Schwester sagt kann ich ja echt nichts machen ! \nJa ich wei\u00c3\u009f du kannst da ja eigentlich echt nichts machen wenn er die Schl\u00c3\u00bcssel nimmt , aber du musst mich auch mal verstehen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702474757,
+      "content": "Danke f\u00c3\u00bcrs Gespr\u00c3\u00a4ch und ich sorg mich jedes mal drum die zu \u00c3\u00bcberreden und meine Eltern das sie mit darf f\u00c3\u00bcr dich und dann kommst du mir so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702415523,
+      "content": "Hahaha hat sie gut gemacht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702394843,
+      "content": "Hat meine Schwester meiner mama erz\u00c3\u00a4hlt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702378847,
+      "content": "Keiner hat hier Drogen genommen oder sonst was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702369562,
+      "content": "Was f\u00c3\u00bcr Drogen Typen !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702349909,
+      "content": "Ich bin die 1.7 Sch\u00c3\u00bclerin und jetzt hier mit Drogen Typen was zu tun ich bin tot ; D haha habs ja verdient meinen 18ner erlebe ich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702271859,
+      "content": "Hahahaha :D du arme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702259474,
+      "content": "Weil meine Eltern Vampire sind :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702244895,
+      "content": "Ja danke Tsch\u00c3\u00bc\u00c3\u009f '.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702242189,
+      "content": "Wieso 2 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702225939,
+      "content": "Also ich darf jetzt zwei Stunden schlafen dr\u00c3\u00bcck mir die Daumen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702215133,
+      "content": "So wies jeder verdient , sag ich da blo\u00c3\u009f :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702191664,
+      "content": "Mach ich aber am arsch bin ich trotzdem :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397702147468,
+      "content": "Ja ist ja jetzt egal , wenn du dem sp\u00c3\u00a4ter beibringen kannst das ich alles richtig gemacht hab ist alles okay !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702090104,
+      "content": "Nein mein gr\u00c3\u00b6\u00c3\u009ftes Problem ist das ich jetzt wei\u00c3\u009f das ich die unzuverl\u00c3\u00a4ssigste Person \u00c3\u00bcberhaupt bin. Und ich war immer Vertrauensw\u00c3\u00bcrdig so schnell geht das :/ der kotzt bestimmt noch in mein zimmer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701984535,
+      "content": "Damit kann man in seinem Zustand schon rechnen \nJa ist ja jetzt auch egal , solang kein Kratzer drin ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701971513,
+      "content": "Er tut mit so unendlich leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701954223,
+      "content": "Sorry ich kanns ja immer noch nicht glauben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701936599,
+      "content": "Hab ich gewusst das er das macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701881677,
+      "content": "Ja da kann man schon was dagegen tun aber wegfahren lassen ist echt zu hart",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701868455,
+      "content": "-.- ich wei\u00c3\u009f doch ich werde es auch nie wieder gut machen das wei\u00c3\u009f ich auch -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701844441,
+      "content": "Alter die sind mir aus der Jacke gefallen und der klaut die",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701794356,
+      "content": "Tanja* :D hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701782285,
+      "content": "Ums aufpassen geht's nicht lisa ! Ich wei\u00c3\u009f das man auf den nicht aufpassen kann ! \nAber das mit m auto ging echt zu weit ! Ich hab dir die Schl\u00c3\u00bcssel anvertraut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701769601,
+      "content": "Ich k\u00c3\u00b6nnte mich daf\u00c3\u00bcr schlagen ich hab mit solchen Leuten nie was zu tun ich kenn mich damit nicht aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701732698,
+      "content": "Dein ernst wie soll ich auf so einen aufpassen das mit dem Auto tut mir hammer leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701281595,
+      "content": "Sorry heute hast mich echt entt\u00c3\u00a4uscht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397701267546,
+      "content": "Hast du auch verdient ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397701138306,
+      "content": "Doch man :D ich penn aufm Sofa alle hassen mich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397700966156,
+      "content": "Als ob ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397700956866,
+      "content": "Ich bin am arsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397700953957,
+      "content": "Meine Schwester hat meinen Eltern einfach gesagt er hat Drogen genommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397700698177,
+      "content": "Und erkl\u00c3\u00a4r ihm wieso es besser war das er bei dir pennt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397700679786,
+      "content": "Du erkl\u00c3\u00a4rst es dem morgen bitte ! Als ob der \u00c3\u00bcberhaupt noch irgendwas was wei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397700442134,
+      "content": "Ja der pennt jetzt einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397699965076,
+      "content": "Ist aber besser so wie es ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397699933541,
+      "content": "Alter der stresst voll rum ich soll ihn abholen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397699890257,
+      "content": "Der ist oben sag dem er soll schlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397699852407,
+      "content": "Beruhig den jetzt mal !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397699274625,
+      "content": "Sag wenn du daheim bist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397480426729,
+      "content": "Hat sich doch jetzt gekl\u00c3\u00a4rt ? :D \nMacht also doch keinen unterschied :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397469748370,
+      "content": "Doch f\u00c3\u00bcr sie schon. Egal mir ist es so Wurst aber sie macht wenn dann heute was der Rest ist leider dein Problem :D schreib ihr einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397469549989,
+      "content": "soll sie halt heute lernen ?! :D macht doch keinen unterschied ? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397469036278,
+      "content": "Weil sie f\u00c3\u00bcr ihre Pr\u00c3\u00bcfungen lernen muss und heute f\u00c3\u00bcr dich Zeit h\u00c3\u00a4tte :D also im Endeffekt ist das voll nur deine Entscheidung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397468972536,
+      "content": "Wieso nur heute ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397468951503,
+      "content": "H\u00c3\u00a4 was wieso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397468893537,
+      "content": "Wieso ? :D hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397468764582,
+      "content": "Hahah meine Schwester will heute gehen. Sie meinte entweder heute oder gar nicht. Wie willst du es machen :'D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Karajica",
+      "timestamp_ms": 1397254587937,
+      "content": "Wo seid ihr den hin ? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefan Karajica",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefankarajica_5sveq2gjlw",
+  "magic_words": [
+    
+  ]
+}

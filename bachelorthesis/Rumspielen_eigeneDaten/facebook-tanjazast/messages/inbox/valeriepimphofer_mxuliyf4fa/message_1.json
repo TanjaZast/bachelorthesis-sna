@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Valerie Pimph\u00c3\u00b6fer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valerie Pimph\u00c3\u00b6fer",
+      "timestamp_ms": 1555318078904,
+      "content": "Hey :) voll gerne! Schreib einfach eine Mail und dann macht die Uni einen Termin mit dir aus \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1555316580838,
+      "content": "Huhu! :) ich h\u00c3\u00a4tten Interesse an der Studie teilzunehmen! :) habt ihr noch bedarf oder bereits genug Leute? \nLiebe Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371333123483,
+      "content": "Alles alles liebe und gute noch von mir :* ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Valerie Pimph\u00c3\u00b6fer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/valeriepimphofer_mxuliyf4fa",
+  "magic_words": [
+    
+  ]
+}

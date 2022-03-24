@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Mary Lou"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388355540549,
+      "content": "Ruf bitte an ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388355189288,
+      "content": "Sorry nicht an dich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388355178007,
+      "content": " Ja warum ihr seid doch 18",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388355171468,
+      "content": "Kommst du von oben wieder rein ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388354780645,
+      "content": "015755914770",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388354772898,
+      "content": "Kannst du anrufen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388354676029,
+      "content": "Ja?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1388354575841,
+      "content": "Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mary Lou",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marylou_jcdocnbogw",
+  "magic_words": [
+    
+  ]
+}

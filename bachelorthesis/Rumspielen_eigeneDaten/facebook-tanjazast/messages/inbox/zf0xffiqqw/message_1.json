@@ -1,0 +1,373 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419592976882,
+      "content": "Haha echt.. ups :D \nHast gut geschlafen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419590550531,
+      "content": "Hahahah ich hab Schon ewig lange geschlafen aber okay \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419560182653,
+      "content": "Siehst jzt gehn wir schon wieder heim :) \n\nIch w\u00c3\u00bcnsch dir ne gute nacht und sch\u00c3\u00b6ne tr\u00c3\u00a4ume :) \nBis dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419547012631,
+      "content": "Ja des schon aber ich will nicht anstehen m\u00c3\u00bcssen ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419546621487,
+      "content": "Gegangen oder so \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419546616277,
+      "content": ":) hahahaha nein lasst euch doch einfach Zeit? Ist noch fr\u00c3\u00bch ich bin auch schon erst um halb 2 gegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419546510053,
+      "content": "Ja des denk ich mir :) \nNaja wir sind iwie immernoch nicht weg ^^ wird langsam sp\u00c3\u00a4t :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419546290493,
+      "content": "\u00f3\u00be\u008c\u00b1 manchmal aber sonst es sch\u00c3\u00b6ner",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419545776837,
+      "content": "Haha chilliger service :)\n\nDu f\u00c3\u00a4hrst nie oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419545382188,
+      "content": "Hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419545381272,
+      "content": ":) hab immer Fahrer \u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419544989209,
+      "content": "Dann kommst mitm taxi ^^ naja des bissl teuer :/ au\u00c3\u009fer du pennst iwo in ulm oder neu-ulm bei ner freundin :)\n\nWie machst es denn sonst immer so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419543553390,
+      "content": ":) Nein als ob Fahrer ist doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419543538319,
+      "content": "Ohh haha das is doof ^^ \nNaja n\u00c3\u00a4chstes mal darfst halt nix trinken dann kommst mit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419543294477,
+      "content": "Voll geil \u00f3\u00be\u008d\u0095 wollte auch gehen aber kann nicht mehr fahren \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419542929408,
+      "content": "Wann gehst denn ins bett?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419542923105,
+      "content": "Aso oke :) \nNe ich geh noch nach ulm bissl feiern oder in i-ne bar oder so.. \nNoch den urlaub ausnutzen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419542604995,
+      "content": ":) schlafen du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419540942297,
+      "content": "Ja oha ^^ voll umsonst \u00f3\u00be\u008c\u00b4\nDann kanns sie ja genausogut zahlen.. ^^\n\nWas machst heute noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419540664334,
+      "content": "Ja schon oder? :) hatte davor eine die wollten das ich komplett durchzahle\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419539758887,
+      "content": "Ahh oke cool :) \nSonst w\u00c3\u00a4re es ja ziemlich rausgeworfenes geld ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419539530906,
+      "content": ":) ne hab nen Tauschpartner jetzt mal f\u00c3\u00bcr das 2. Semester auf jeden Fall \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419537334185,
+      "content": "Ach so gleich.. Das is ja cool :) \n\nUnd in den drei monaten wo du nicht da bist steht die dann leer oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419537208437,
+      "content": "Nein Einzimmerwohnung :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419537105446,
+      "content": "Haha oke :) in nem hotel dann oder wie ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419536976200,
+      "content": ":) Beim Hauptbahnhof hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419536711452,
+      "content": "Ach du meine g\u00c3\u00bcte ^^ dann dauernd hin und her \u00f3\u00be\u008c\u00af\nUnd wo wohnst du dann da ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419536549178,
+      "content": "Ja kann ich \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419536543658,
+      "content": "Alle drei Monate drei Monate L\u00c3\u00a4nge von Montag bis Freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419536091150,
+      "content": "Haha.. Naja kannst du bestimmt besser beurteilen als ich \u00f3\u00be\u008c\u00b3\n\nOhh oke.. dann is ja iwie doof :/ \n\nWielange bist dann immer in karlsruhe ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419535695396,
+      "content": "Ehm es gibt sch\u00c3\u00b6neres keine Ahnung \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419535677753,
+      "content": ":) doch doch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419535401391,
+      "content": "Haha ach quatsch.. das glaub ich dir nicht ^^ \n\noke.. Und machts dir spa\u00c3\u009f ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419535110398,
+      "content": "Dual BWL Bank ganz spannend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419535099955,
+      "content": "Doch schon langsam schon. \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419532727897,
+      "content": "Ahh cool :) und was studierst du jzt ? :)\nAch gott.. Aber ich glaub nicht dass du dir da so schnell gedanken dr\u00c3\u00bcber machen musst ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419532431251,
+      "content": "Da studiere ich ;) aber das traurige ist das ich trotzdem immer mehr zunehme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419532067609,
+      "content": "Find ich echt sehr cool dass du das alles so durchziehen kannst :)\n\nWieso karlsruhe? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419531312973,
+      "content": "Ja klar also mehr jetzt Gewichte und so Joggen ging in Karlsruhe schwer au\u00c3\u009fer halt in Studio:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419529146536,
+      "content": "Ja stimmt kannst nix machen ^^ is ja auch nicht dene ihr ding :) \n\nUnd sonst? Bist noch flei\u00c3\u009fig am joggen und sport machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419528831868,
+      "content": "ja :) sagen schon einige was aber was soll ich da schon machen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419528312552,
+      "content": "Haha ohje ^^ \nAber ich sags dir nochmal sieht sehr gut aus.. Kannst glaub ich beruhigt sein ;) oder sagt jmd was anderes ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419528084313,
+      "content": "ich wei\u00c3\u009f es ja selber nicht :D das ist glaub mein problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419527228470,
+      "content": "Und trzd noch nicht daran gewohnt ? ^^ wie findest dus denn selber ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419527066553,
+      "content": "\u00c3\u00bcber einen Monat :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419526790974,
+      "content": "Wielang hast deine haare denn jzt so? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419526509444,
+      "content": "danke danke hab mich aber noch nicht dran gew\u00c3\u00b6hnt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419526495838,
+      "content": "klar bei mir ist meistens alles klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419526471432,
+      "content": "Ja steht dir aber sehr gut :) \nIch wusste auch dass ich dich kenne, konnte dein Gesicht nur nicht richtig einordnen ^^ \n\nJa bei mir ist alles klar danke :) \nUnd bei dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419526035719,
+      "content": "Ja hab eine andere Frisur bist einer von einigen Menschen die mich nicht mehr erkennen :) klar ich merke mir Gesichter schon gut alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1419525943342,
+      "content": "Hey tanja.. Kannst dich noch an mich erinnern ? War mal mit Jeremy bei dir vorm haus :)\nAchja und da im tk-maxx an der kasse haben wir uns auch gesehen ^^ sry dass ich dich nicht erkannt hab :/",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zf0xffiqqw",
+  "magic_words": [
+    
+  ]
+}

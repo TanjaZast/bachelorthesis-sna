@@ -1,0 +1,251 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Schmieder"
+    },
+    {
+      "name": "Franziska de Gilde"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lea Swensson"
+    },
+    {
+      "name": "Anna Koehler"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Jelena Sophie Bohnet"
+    },
+    {
+      "name": "Annkatrin Kr\u00c3\u00a4uter"
+    },
+    {
+      "name": "Eva Ohmberger"
+    },
+    {
+      "name": "Rebecca Maresa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414965855443,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1414962647627,
+      "content": "Lea Span hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lea Span"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1414866015076,
+      "content": "Franziskaha Hawaii hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Franziskaha Hawaii"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Koehler",
+      "timestamp_ms": 1404473477004,
+      "content": "ok, kein Ding ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404473464807,
+      "content": "Ich hab jetzt leider schon was :/ musste das schon fertig machen aber danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Koehler",
+      "timestamp_ms": 1404473419891,
+      "content": "Milinski: \"damit Ihr Morgen stets and\u00c3\u00a4chtig mit einer Erinnerung an Ihren Deutschkurs 2012 - 2014 beginnen kann\" ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404466462351,
+      "content": "Damit ich das auf die Karte schreibe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404466447082,
+      "content": "kann jemand so lieb sein und sich ein paar S\u00c3\u00a4tze \u00c3\u00bcberlegen f\u00c3\u00bcr Milinski und Dmochi?:* w\u00c3\u00a4re Mega",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404407730491,
+      "content": "Diebin Ball brauchen noch voll viel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404406382486,
+      "content": "Ich dachte wir bezahlen des von dem \u00c3\u00bcbrigen Geld aufm Konto?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404406131662,
+      "content": "Ich bekomme dann 1.50\u00e2\u0082\u00ac von jedem passt euch das?:* denkt bitte alle am Freitag an das Geld ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1404404412420,
+      "content": "Entweder wenn das die L\u00c3\u00b6sung IST oder mein Lehrer hat keine Ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404404396979,
+      "photos": [
+        {
+          "uri": "messages/archived_threads/jenniferfranziskafacebooknutzerund8weiterepersonen_p-nx7gxoew/photos/10501431_804139149626937_1416853343_n_804139149626937.jpg",
+          "creation_timestamp": 1404404397
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404403669308,
+      "content": "Welches f\u00c3\u00bcr Dmochi?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404403659581,
+      "photos": [
+        {
+          "uri": "messages/archived_threads/jenniferfranziskafacebooknutzerund8weiterepersonen_p-nx7gxoew/photos/10501431_804139149626937_1416853343_n_804132989627553.jpg",
+          "creation_timestamp": 1404403659
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404403454610,
+      "content": "Hammer oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404403446551,
+      "photos": [
+        {
+          "uri": "messages/archived_threads/jenniferfranziskafacebooknutzerund8weiterepersonen_p-nx7gxoew/photos/10510155_804131402961045_589439810_n_804131402961045.jpg",
+          "creation_timestamp": 1404403446
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Koehler",
+      "timestamp_ms": 1404403309844,
+      "content": "ja, w\u00c3\u00bcrd ich sagen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404403234349,
+      "content": "Das Geschenk von Milinski kostet nur 5\u00e2\u0082\u00ac sollen wir der noch nen Lippenstift kaufen damit sie ne neue Kriegsbemalung hat? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404385810378,
+      "content": "Super, danke \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Koehler",
+      "timestamp_ms": 1404376277225,
+      "content": "perfekt, und ein gro\u00c3\u009fes Danksch\u00c3\u00b6n! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1404375701827,
+      "content": "Danke, dass du dich darum k\u00c3\u00bcmmerst :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annkatrin Kr\u00c3\u00a4uter",
+      "timestamp_ms": 1404375563109,
+      "content": "Ja das ist gut! Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404375343890,
+      "content": "Jo perfekt! Danke!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404374982080,
+      "content": "Also ich hoffe ich habe niemanden vergessen ich besorge jetzt einfach auch f\u00c3\u00bcr Dmochi das Geschenk und ich hoffe das passt dann ich denke wenn wir dem son Mathe R\u00c3\u00a4tselbuch kaufen und im Lidl noch viel Schokolade wie Valerija schon gesagt hat passt das und f\u00c3\u00bcr Frau Milinski schau ich einfach genau das gleiche Buch zu besorgen das ich auch habe oder?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jennifer, Franziska, Facebook-Nutzer und 8 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/jenniferfranziskafacebooknutzerund8weiterepersonen_p-nx7gxoew",
+  "magic_words": [
+    
+  ]
+}

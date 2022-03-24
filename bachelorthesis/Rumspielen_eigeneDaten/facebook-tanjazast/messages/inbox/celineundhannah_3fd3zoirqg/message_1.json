@@ -1,0 +1,414 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Celine Buschow"
+    },
+    {
+      "name": "Hannah Spiekermann"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370610379893,
+      "content": "Ich schreib dir ne SMS okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370610315105,
+      "content": "Und hannah Bitte melde sich ganz dringend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370610292291,
+      "content": "Kannst du mir noch deine nimmer geben? :) meine W\u00c3\u00a4re die 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370606559488,
+      "content": "Ja glaub ich dir... Tut mir auch echt leid.. :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370606245637,
+      "content": "Oh Mist stimmt :/ dann m\u00c3\u00bcssen wir bei den 10er fragen und parallel Klassen von mir. :) man echt doof das auch niemand von euch jetzt kommen kann aber wird nicht so schlimm sein :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370605556871,
+      "content": "Das musste sie sein :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370605547875,
+      "content": "+49 157 39128548",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370605526051,
+      "content": "Warte kurz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370605522261,
+      "content": "Ja haben wir auch gesagt, aber n\u00c3\u00a4chste Woche ist ja auch noch der Frankreichaustausch..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370605335065,
+      "content": "Dann gib mal bitte Hannahs Nummer dann ruf ich an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370605308337,
+      "content": "Also insgesamt? Ganz ehrlich das geht nicht die haben alle mitzumachen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370605220241,
+      "content": "Ja das kann ich machen, bin aber nicht immer da! ;) \nAlso heute kann ich nicht mehr in je Stadt... Und Hannah hat ja die Zettel..\nSoweit ich wei\u00c3\u009f sind jetzt noch 3 aus der para dabei, aber eine von uns macht doch nicht mit. Also haben wir 2 mehr...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370605074382,
+      "content": "Und wer von euch beiden m\u00c3\u00b6chte w\u00c3\u00a4hrend der Aktion listen beauftragte sein (alle Namen auf der liste kontrollieren vervollst\u00c3\u00a4ndigen) also eben stellvertretend f\u00c3\u00bcr mich (brauch nur eine)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370604742499,
+      "content": "K\u00c3\u00b6nnt ihr mir die Liste mailen oder wir treffen uns in der Stadt? Was ist jetzt dabei raus gekommen? Wie viele sind wir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370604705525,
+      "content": "Hatte Klausur bis jetzt :5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370599445342,
+      "content": "Oder wohl eher nach der 5.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370599410934,
+      "content": "Ja Wohast du jetzt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370596700887,
+      "content": "K\u00c3\u00b6nnt ihr es mir bitte mailen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370596680432,
+      "content": "Also wir gehen jetzt noch schnell zu der para-klasse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370596632033,
+      "content": "Sag du wo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370590125465,
+      "content": "Ja Hey wo genau wollen wir uns treffen?;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370547171496,
+      "content": "Also aber verlobe und ich unterst\u00c3\u00bctzen sich so gut wies geht weil du schon ziemlich viel machen m\u00c3\u00bcsst!:* mir ist das grad erst so klar geworden das wie ja mitnichten zu dritt sind!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370547132469,
+      "content": "Eben :/ ist echt Schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370547112615,
+      "content": "Haha ok da hat sich unsere Kruppe aber ziemlich schnell verkleinert! Schade eig weil mit mehr l\u00c3\u00a4uten gehen solche Projekte einfach viel leichter!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370547055493,
+      "content": "Jap ;) :* nur wir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370546765676,
+      "content": "Wann ist das denn morgen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370546756363,
+      "content": "Kurze frage besteht die Gruppe eig nur noch aus uns drein?:O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370546093519,
+      "content": "Du ich hab Training und ich muss unbedingt hin, weil wir am Sonntag Quali haben und das echt wichtig ist..., :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370545794100,
+      "content": "Ja wir gehen morgen nochmal zur b!:) \nMorgen kann ich leider nicht Sorry!;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370545722428,
+      "content": "Also 7.juni 17-21 Uhr postgasse 2 jugendreferat ulm :* Bitte eine muss mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370545665724,
+      "content": "Frag Bitte noch die andere klasse wir brauchen Leute :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370545598002,
+      "content": "Ja h\u00c3\u00a4lt die 14 M\u00c3\u00a4dels von der liste! Ich schreib nochmal auf Facebook das die die Anmeldung nicht vergessen sollen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370545435306,
+      "content": "Vor der 3. Stunde wenn es geht also gro\u00c3\u009fe pause w\u00c3\u00a4re gut und wie viele sind es jetzt bei euch insgesamt? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370545309379,
+      "content": "Ja ich brauchte Ort und zeit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370545148559,
+      "content": "Also unsere para klasse c will nicht mitmachen! Du bekommst die Sachen morgen wir schreiben die einfach auf Facebook und dann treffen wie und iwo!;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370544872594,
+      "content": "Wann bekomme ich alles? :* gibt es Neuigkeiten und wie sieht es aus mit morgen und dieser Veranstaltung:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370458778843,
+      "content": "Ja hat frau Ruder Engels auch gesagt gute Idee aber :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370458321525,
+      "content": "Ich hab auch keine Ahnung wie viele wir schon haben aber ich bring die morgen mit!;* manche k\u00c3\u00b6nnen aber jetzt doch nicht zu der zeit wann sie gesagt haben das sie da k\u00c3\u00b6nnen! Am besten wir geben nochmal ne liste rum!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370454016293,
+      "content": "Okay das w\u00c3\u00bcrde gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370453694624,
+      "content": "Schau ich aber aber in ulm in der Stadt iwo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370453582981,
+      "content": "Wo w\u00c3\u00a4re das denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370453486213,
+      "content": "Kommst sonst etwas sp\u00c3\u00a4ter oder gehst 5 Minuten fr\u00c3\u00bcher ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370453432279,
+      "content": "Hm das ist eher schlecht bei mir, weil ich unbedingt am Freitag ins Training muss... Und das geht bis 19 uhr.. :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370453176415,
+      "content": "Schau ich sp\u00c3\u00a4ter muss jetzt erst mal wieder bisschen was f\u00c3\u00bcr die schule lernen :) :* ich glaub ab 19 Uhr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370452866636,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370452865199,
+      "content": "Um wie viel Uhr genau?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370452783630,
+      "content": "Okay sie wird es ja hier auch alles lesen. Eine Frage hat eine von euch freitag abend zeit mit Frau Ruder engels und mir mitzukommen zu einer Notfall Sitzung von der 72 Stunden Aktion da wird uns bisschen was erz\u00c3\u00a4hlt und so und eine vom eich dabei zu haben w\u00c3\u00a4re toll sonst muss ich alleine gehen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370452604009,
+      "content": "Keine Ahnung, da musst du Hannah fragen, die hat die Zettel zu sich genommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370452536422,
+      "content": "Wie viele sind es bis jetzt? :) okay ehm gro\u00c3\u009fe pause unten im Container wo ihr davor hattet glaub :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370452408801,
+      "content": "Gro\u00c3\u009fe Pause w\u00c3\u00a4re besser, weil ein paar noch nicht abgegeben haben und wir nicht wissen, wann die kommen ;)\nOkay werden wir morgen dann ausrichten ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370452320573,
+      "content": "Ich kann auch in der ersten Stunde zu euch kommen ich wei\u00c3\u009f ja wo ihr habt ;) voll gut wie schnell Ihr das geschafft habt :) danke :* und wie viele sind es bei euch momentan Bitte sagt es w\u00c3\u00a4re toll wenn noch ein paar mehr kommen k\u00c3\u00b6nnten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370452236559,
+      "content": "Okay wo bist du morgen in der gro\u00c3\u009fen Pause?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370451940937,
+      "content": "Am besten mir und die Liste auch :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1370451745133,
+      "content": "Wo sollen wir die Zettel abgeben? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1369741250190,
+      "content": "Also ich bin im Urlaub und ich wei\u00c3\u009f die Adressen nicht auswendig, aber Hannah hat ja ne neue liste, die sie dir schicken wollte... Und das sind dann auch alle... Wir werden das schon irgendwer rausbekommen mit den Adressen :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369694268249,
+      "content": "Hei ihr lieben ;) ich wei\u00c3\u009f ihr seid sicher im Urlaub und so aber jetzt hab ich ganz viele emails bekommen und die wollen von jeder einzelnen Person die bei der 72 Stunden Aktion mitmachen will zu vor und Nachname noch Adresse und Geburtsdatum wissen und ich wollte dann nur fragen wie es bei euch aussieht ob ihr eine liste habt mit allen Adressen eurer Mitsch\u00c3\u00bcler und ob die eine Liste aktuell ist die mir Celine mal gegeben hat oder ob welche abgesprungen sind und wie ihr dann das mit den Geburtsdaten machen wollt wei\u00c3\u009f ich auch nicht aber bitte \u00c3\u00bcberlegt euch schnell was ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Celine und Hannah",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/celineundhannah_3fd3zoirqg",
+  "magic_words": [
+    
+  ]
+}

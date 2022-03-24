@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Nicolai Schwald"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430292492268,
+      "content": "Oh sorry ich hab die Nachricht echt nicht gelesen gehabt bzw gesehen \u00f3\u00be\u00b0\u00a6 und bin auch mehr oder noch mehr im lernstress -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430292455431,
+      "content": "015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicolai Schwald",
+      "timestamp_ms": 1430289603747,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicolai Schwald",
+      "timestamp_ms": 1430214185484,
+      "content": "Hey, schick mal nochmal deine nummer bitte. Hab keine nummern mehr und muss noch ein paar sachen mit dir kl\u00c3\u00a4ren ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nicolai Schwald",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicolaischwald_0myxltpcjg",
+  "magic_words": [
+    
+  ]
+}

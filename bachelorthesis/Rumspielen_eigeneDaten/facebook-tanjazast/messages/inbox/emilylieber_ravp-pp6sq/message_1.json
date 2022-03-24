@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Emily Lieber"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299091915000,
+      "content": "Macht nichts <3 okay Bye ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1299091521000,
+      "content": "Nee, lass mal! <3\nIch muss off, sorry!<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299091463000,
+      "content": "Das ist echt bl\u00c3\u00b6d.. Soll ich mal mit der reden? Und fragen wie sie sich da f\u00c3\u00bchlen w\u00c3\u00bcrde? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1299091368000,
+      "content": "Ich bins Emme(:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1299091361000,
+      "content": "Der wohnt in Laupheim!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299091055000,
+      "content": "Das ist gemein.. In welche klasse geht der.. Ehm sorry ich bin mit dem Handy on und seh dein Bild nicht.. Wer bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1299090791000,
+      "content": "Jan, unc ich steh halt immer noch bisschen auf den!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299090711000,
+      "content": "Oh.. Das ist nicht so toll... :( mit wem?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1299089942000,
+      "content": "Nee, die ist ja jetzt mit meinem Ex zusammen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298905955000,
+      "content": "Doch eig schon aber wir machen nicht mehr viel und sehen uns nicht mehr so oft.. Warum? Bist noch? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emily Lieber",
+      "timestamp_ms": 1298900977000,
+      "content": "Bist du nicht mehr mit Resa befreundet\u00c2\u00b4?!\n<3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Emily Lieber",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/emilylieber_ravp-pp6sq",
+  "magic_words": [
+    
+  ]
+}

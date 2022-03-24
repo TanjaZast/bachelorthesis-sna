@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Nicole Kr\u00c3\u00a4mer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicole Kr\u00c3\u00a4mer",
+      "timestamp_ms": 1410279810313,
+      "content": "Schichterei ist halt bloed, oh ok das wird anstrengend :D\n\nJip :)\nNe ich hab die karte immer am bahnschalter geholt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410278547818,
+      "content": "Warum geht so? Ich mach ein duales Studium und fahre jeden Tag bis nach Ravensburg und du hast dann eine Monatskarte bestellt? :* warst mit deinem schatz?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Kr\u00c3\u00a4mer",
+      "timestamp_ms": 1410277009402,
+      "content": "Amerika war toll *-*\nFsj geht so\nWas machst du eig jetzt? :)\n120 von bc nach ulm\nWarum? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410276257491,
+      "content": "Was ich dich fragen wollte: du bist ja jeden Tag mim Zug in die Schule gefahren. Welche Fahrkarte hattest du da und wie viel hat die gekostet? \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410276109065,
+      "content": "Hey s\u00c3\u00bc\u00c3\u009fe na wie geht es dir? Wie gef\u00c3\u00a4llt dir dein FSJ wie wars in Amerika? :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nicole Kr\u00c3\u00a4mer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicolekramer_4zmzxiqwow",
+  "magic_words": [
+    
+  ]
+}

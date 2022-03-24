@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tim Wie\u00c3\u009fner"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465695744686,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tim Wie\u00c3\u009fner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timwiessner_ihphm8cmfw",
+  "magic_words": [
+    
+  ]
+}

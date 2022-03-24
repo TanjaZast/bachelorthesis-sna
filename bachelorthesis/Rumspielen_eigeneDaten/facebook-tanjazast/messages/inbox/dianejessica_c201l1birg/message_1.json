@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Diane Jessica"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diane Jessica",
+      "timestamp_ms": 1388962546965,
+      "content": "ok ich frag mal :) danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388962473840,
+      "content": "Nein leider nicht :/ hast du larissa timov mal gefragt der hatte ich mein BlackBerry Akku gegeben sonst kannst sie fragen ob sie das noch h\u00c3\u00a4tte dann kann ich dir meins schon geben aber gerade geht meins ja ohne Akku nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diane Jessica",
+      "timestamp_ms": 1388962203451,
+      "content": "und ich krieg erst in 2 monaten n neues",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diane Jessica",
+      "timestamp_ms": 1388962188163,
+      "content": "meins ist kaputt da geht gar nix mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diane Jessica",
+      "timestamp_ms": 1388962181262,
+      "content": "tanja :) ich frag grad jeden :D aber hast du zuf\u00c3\u00a4llig n altes smartphone das du nicht mehr brauchst",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Diane Jessica",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dianejessica_c201l1birg",
+  "magic_words": [
+    
+  ]
+}

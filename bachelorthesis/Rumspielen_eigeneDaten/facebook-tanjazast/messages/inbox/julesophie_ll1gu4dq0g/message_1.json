@@ -1,0 +1,136 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Jule Sophie Bauder"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tabea Bieler",
+      "timestamp_ms": 1400179715171,
+      "content": "Tabea Bieler hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tabea Bieler"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396386078734,
+      "content": "Okay perfekt Danke dir! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Sophie Bauder",
+      "timestamp_ms": 1396384318708,
+      "content": "Also lini kommt morgen auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Sophie Bauder",
+      "timestamp_ms": 1396381466764,
+      "content": "Cool :) ja ich frag sie gleich:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396381257312,
+      "content": "Okay w\u00c3\u00a4re halt echt sch\u00c3\u00b6n wenn sie auch auf dem Bild w\u00c3\u00a4re. Ihr bekommt es dann auch f\u00c3\u00bcr eure abi Zeitung geschickt und ist ne kleine Erinnerung. Danke dir :) kannst du mir Bescheid geben? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Sophie Bauder",
+      "timestamp_ms": 1396381180712,
+      "content": "Ich glaub lini wei\u00c3\u009f es noch nicht sicher, aber ich sag's ihr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Sophie Bauder",
+      "timestamp_ms": 1396381149012,
+      "content": "Ja wir kommen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396381071866,
+      "content": "Hey ihr zwei kommt ihr morgen zu Wirtschaft? Bitte vor allen Wegen den Bildern. W\u00c3\u00a4re sehr lieb Danke :* und k\u00c3\u00b6nnt ihr lini fragen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387293096129,
+      "content": "Morgen Kuchen nicht vergessen :) (danach habt ihr Ruhe) :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tabea Bieler",
+      "timestamp_ms": 1386524173004,
+      "content": "Haha dann m\u00c3\u00bcssten aber alle die nicht gestreckt haben und die Hausaufgaben nicht hatten 2 kuchen aus Solidarit\u00c3\u00a4t backen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386519607271,
+      "content": "Nein eigentlich nicht :) es geht ums Prinzip und ich f\u00c3\u00bchre eben gerne listen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tabea Bieler",
+      "timestamp_ms": 1386519123708,
+      "content": "Haha du willst ja nur kuchen essen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386515006910,
+      "content": "Okay gut ich schreibe euch dann am Dienstag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Sophie Bauder",
+      "timestamp_ms": 1386511809030,
+      "content": "Ich auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tabea Bieler",
+      "timestamp_ms": 1386507215601,
+      "content": "haha ja aber nicht morgen :) ich bring einen Mittwoch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386503511933,
+      "content": "Na, denkt ihr zwei an einen Kuchen? ;) Danke",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jule Sophie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/julesophie_ll1gu4dq0g",
+  "magic_words": [
+    
+  ]
+}

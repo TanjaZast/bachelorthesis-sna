@@ -1,0 +1,4093 @@
+{
+  "participants": [
+    {
+      "name": "Alexander Hartig"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347604049346,
+      "content": "Oha du bist echt gemein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347601169746,
+      "content": "Tja...sag ich net",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347564843583,
+      "content": "ja woher? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347564664243,
+      "content": "Ich weis aber das ihr euch auf einer party kennengelernt habt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347564600874,
+      "content": ";) oh man ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347564265644,
+      "content": "Ich habe mit denen eig. Nix zu tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347564252181,
+      "content": "Kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347564088580,
+      "content": ";) na und?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563874323,
+      "content": "Aber die hat nen freund in der para",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563857672,
+      "content": "Aso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563798402,
+      "content": ";) kenn ich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563765695,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563751227,
+      "content": "so ner kleiner?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563539738,
+      "content": "Der redet immer mit der dessire grattenmacher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563515229,
+      "content": "Kaum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563506044,
+      "content": "ich meine auch reden ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563487617,
+      "content": "Was ich hab dem noch nie ne nachricht geschrieben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563444480,
+      "content": "oh cool ;) haha\u00c2\u00b4und du textest den voll??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347563282619,
+      "content": "Der is in my form",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347563121428,
+      "content": ";) also was ist jetzt mit max ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347391522576,
+      "content": "warum?? ich wills wissen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347391396948,
+      "content": "Geh off",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347391100473,
+      "content": "wie warum das??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347391082083,
+      "content": "Der ist nicht auf der akademie f\u00c3\u00bcr kommunikation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347391044779,
+      "content": "kommunikation ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347391038054,
+      "content": "warum der ist doch auf der akademie f\u00c3\u00bcr kommuniaktion und ddu wo anders??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390904726,
+      "content": "Was verstehst du daran nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347390848382,
+      "content": "warum das?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390837192,
+      "content": "Der ist in meiner klasse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347390820304,
+      "content": "keine ahnung.. warunm??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390755600,
+      "content": "L\u00c3\u00a4uft da was? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347390730076,
+      "content": "ja schon warum?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390678093,
+      "content": "Du machst manchmal was mit dem...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347390656118,
+      "content": "ist ein kumpel von mir warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390654063,
+      "content": "???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390375404,
+      "content": "Sry ich meine maxi frenzel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347390307812,
+      "content": "kenn ich nicht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1347390252031,
+      "content": "Woher kennst du Felix Frenzel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344028010395,
+      "content": "Nein :) war ja nicht so gemeint :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344027881023,
+      "content": "Oke geh off... danke f\u00c3\u00bcr die verabschiedung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344027789997,
+      "content": ":) nein du arsch -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344027679583,
+      "content": "Du bist eine kleine Nervens\u00c3\u00a4ge",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344027611357,
+      "content": "Nein hast du nicht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344027465873,
+      "content": "Ja also wieder habe ich gewonnen...:P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344027303560,
+      "content": ":) ja dann vllt schon xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344027234345,
+      "content": "Wenn ich als single zufrieden bin warum soll ich dann einen Korb riskieren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344027141831,
+      "content": ":) nein eig nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344026997367,
+      "content": "Gut \u00c3\u00bcberlegter schwachsinn...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344026885348,
+      "content": "Nein?? :) was ist denn das f\u00c3\u00bcr ein schwachsinn!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344026800943,
+      "content": "lieber single als einen korb kasieren...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344026607890,
+      "content": "Ja klar! :) ehm nein als ob ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344026521471,
+      "content": "Noch da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344025998078,
+      "content": "Ist mir trotzdem zu schwierig...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344025958907,
+      "content": "Ja also :) ist doch cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344025834288,
+      "content": "Doch hat sie vor nem halben jahr behauptet... wir ham schon \u00c3\u00bcber alles geredet... :D von verstorbenen opas bis zur unterw\u00c3\u00a4sche...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344025648031,
+      "content": "Weisst du doch nicht mal wenn du sie nicht fragst?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344025601411,
+      "content": "Also so geht das auf jedenfall schief... sie will ja nicht mal was von mir (glaub ich zumindest)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344025542091,
+      "content": ":) egal iwie :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344025126999,
+      "content": "Nein... ich wied ja nicht mal wie ich das anfangen soll :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344025071612,
+      "content": "Mach doch!!! :) ist ja egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344025009197,
+      "content": "Ich hab auch eine kennengelernt die hat einen richtig guten charakter wir verstehen uns so gut das habe ich so noch nicht erlebt aber sie mir zu schnappen ist mir zu anstrengend und zu schwierig...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344024983401,
+      "content": "Nein :) peeeeeinlich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344024902710,
+      "content": "Tja da musch ran...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344024870520,
+      "content": "Ja ne ab und zu gibt es schon nen geilen :) aber ich bezweifel da ne chance zu haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344024813122,
+      "content": "Nix halt so! Jetzt erz\u00c3\u00a4hl... ich erz\u00c3\u00a4hls schon niemand weiter...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344024660855,
+      "content": ":) halt so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344024378929,
+      "content": "Warum dann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344024340071,
+      "content": "Nein echt nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344023853478,
+      "content": "Warum? Liebskummer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344023803675,
+      "content": ":) naja ich nicht soo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344023443664,
+      "content": "Aber gl\u00c3\u00bccklich damit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344023352347,
+      "content": "Same",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344023282856,
+      "content": ":) ja schon -.- du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022907922,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022900075,
+      "content": "Was l\u00c3\u00a4uft grad so bei dir? Immer noch single",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344022836109,
+      "content": "Aber was??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022673019,
+      "content": "Rede dich nicht raus erz\u00c3\u00a4hl was...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344022596349,
+      "content": ":) kp weiss nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022423600,
+      "content": "Erz\u00c3\u00a4hl mal was mir ist lw...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344022326362,
+      "content": "Toll!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022297040,
+      "content": "Ich weis das war absicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344022208216,
+      "content": "Machst es aber selber?? :D -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344022034988,
+      "content": "Endlich habe ich gesiegt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021911459,
+      "content": ":D sorry dann hab ich es leider vergessen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344021853182,
+      "content": "Nein mindestens das zweite mal... und warum musst du weitermachen wenn ich sage denn mag ich nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021756972,
+      "content": "Jetzt das erste mal :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344021700815,
+      "content": "Und wie oft habe ich dir schon gesagt das ich diesen :P smilie nicht mag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021524814,
+      "content": "Okay haha freut mich :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344021287148,
+      "content": "Oke ich meins wirklich so!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021188110,
+      "content": ":) nein weiss ich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344021135094,
+      "content": "Ja... du weist genau das ich es so meine brauchst net die ganze zeit fragen... :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021032332,
+      "content": ":) findest??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344020928736,
+      "content": "Ja... besser wie meins auf jeden fall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344020883363,
+      "content": "Findest du?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344020716802,
+      "content": "Des ist gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344020641689,
+      "content": "Ja das war halt so bei nem shooting :P warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344020579799,
+      "content": "Oke...hast dein pb beim fotograf machen lassen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019657875,
+      "content": "Ja genau :) chillig!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019421647,
+      "content": "Blos die eine woche kann ich mir die zeit noch todschlagen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019380753,
+      "content": "voll cool :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019369468,
+      "content": "Ach italien und frankreich und so...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019325154,
+      "content": ":) was machst sonst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019292512,
+      "content": "\u00c3\u009cberragend...ich bin nur vom 13-19 zuhause...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019207469,
+      "content": "5 wochen :) also 3 wochen england dann 1 woche serbien und 1 woche kroatien",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019173003,
+      "content": "Und wohin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019164888,
+      "content": "Von wann bis wann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019110243,
+      "content": "nicht viel :P fahr in urlaub ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019072246,
+      "content": "Und bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019031214,
+      "content": ":) aaah nett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1344019016255,
+      "content": "Nix... geh morgen zum 80. Von meinem opa...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343939446178,
+      "content": ":) naja und sonst? Was geht so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343927994530,
+      "content": "Ja...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343923750315,
+      "content": ":) ja stimmt :P ist gut so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343923640455,
+      "content": "Kenne ich :D und ich war gestern 8 stunden baggersee... bin rot wie eine tomate aber was soll man bei diesem wtter anderes machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343923417666,
+      "content": "Eig wollte ich was mit nem kumpel machen aber sieht nicht so aus als wenn das was wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343923286517,
+      "content": "Und bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343923225997,
+      "content": "Oh :) das ist bl\u00c3\u00b6d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343923122309,
+      "content": "Auch nix mir ist langweilig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343923078824,
+      "content": ":) ehm nicht viel und bei dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343922870133,
+      "content": "Was geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343922840755,
+      "content": "Auch gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343922728141,
+      "content": "gut und dir? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343922711154,
+      "content": "Wie gehts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343922631917,
+      "content": "hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343922514651,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343507677078,
+      "content": "okay gute nacht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343507665980,
+      "content": "Gehe schlafen gute nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343507579906,
+      "content": ":) als ob!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343507526630,
+      "content": "Das w\u00c3\u00a4re mir zu anstrengend 5wochen urlaub :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343507310065,
+      "content": "ja voll chillig :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343507016795,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343507010663,
+      "content": "Also eine woche nix :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343506938133,
+      "content": "letzte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343506930887,
+      "content": "ehm 3 wochen england eine woche serbein und ketute woche kratien :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343506880590,
+      "content": "Oke und wo gehts hin in den ferien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343506773557,
+      "content": "ja stimmt :D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343506541574,
+      "content": "Zocken... was sonst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343506033540,
+      "content": ":) ehm tv schauen :P bei dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343505717093,
+      "content": "Seh ich auch so :D was geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343505542851,
+      "content": "ja das ist supii ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343505530299,
+      "content": "Auch gut: )",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343504565910,
+      "content": "gut und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343504471035,
+      "content": "Wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343504249723,
+      "content": "hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1343504238431,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342904719834,
+      "content": "Okay :) gute nacht meld dich mal wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342904402409,
+      "content": "Gehe schlafen... gute nacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342904376250,
+      "content": "Bei mir l\u00c3\u00a4dt es den film immer ewig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342904194057,
+      "content": ":) ja das spinnt bei mir immer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342904148998,
+      "content": "Des schikt die nachricht sogar zwei mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342901566499,
+      "content": "Ja iwie schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342901544622,
+      "content": "Ja iwie schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342901383150,
+      "content": "Ist das internet heute langsam... :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342900200303,
+      "content": "Mir auch :) haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342899784948,
+      "content": "Okay ja nir ist lw...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342898037291,
+      "content": ":) okay alles klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342897877424,
+      "content": "Robert bosch gymnasium... und anna esinger ist dort",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342897818905,
+      "content": "Aaah beim bosch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342897696153,
+      "content": "Ferdinand von Steinbeis schule beim bosch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342897618071,
+      "content": "Ja schon :) wo in ulm noch mal??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342897358893,
+      "content": "Gerade noch blaubeuren nach den ferien in ulm... hildegard ist die m\u00c3\u00a4dchenschule oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342896186130,
+      "content": "St hildegard warum?? :) und du noch mal??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342895958744,
+      "content": "Wwelche schule bist du nochmal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342895942578,
+      "content": "Auch nix",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342895869973,
+      "content": ":) nicht viel und bei dir?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342895768751,
+      "content": "Was geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342892016601,
+      "content": "hallo:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1342892002466,
+      "content": "Guten tag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341935141555,
+      "content": "Echt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341932611952,
+      "content": ":) ist okay.. :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341932526308,
+      "content": "Same... hab jetzt tanzkurs kann nemme schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341932078037,
+      "content": "Keine ahnung ;D ist jetzt ja auch egal? Ich kapier es so langsam nicht mehr :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341931672867,
+      "content": "H\u00c3\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341931593852,
+      "content": "Ja sorry :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341931407899,
+      "content": "?????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341930531744,
+      "content": ":) nichts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341930419879,
+      "content": "Was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341930395538,
+      "content": ":D ach komm schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341930329336,
+      "content": "So lala",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341930277028,
+      "content": ":) ja bei dir ists auch gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341930238870,
+      "content": "Oke gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341930212649,
+      "content": "Ich WAR in neu ulm :D und jetzt dann nach hause",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341930083622,
+      "content": "Zum tanzkurs fahren... wohin gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341929710359,
+      "content": "Ehm auf ner bushalte sitzen :D du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341929564347,
+      "content": "Was mchsch grad?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341929534761,
+      "content": "Ja stimmt auch wieder :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341929492094,
+      "content": "Ach egal... kann mir eigentlich egal sein...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341929370671,
+      "content": "Voll der arsch!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341929058495,
+      "content": "Aber des ist halt scheise f\u00c3\u00bcr die freundin denn.... ihren freund sieht sie jetzt 4 monate nicht mehr.... wegen ihrem ex....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341928791222,
+      "content": ":) oha dann ist es doch nett??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341928351147,
+      "content": "Der hat den ex- seiner freundin vekloppt... und sein fahrad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341928273751,
+      "content": "Ja wenn er B\u00c3\u00b6se war?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341928121926,
+      "content": "Hallo 4 monate knast?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341927958160,
+      "content": "Warum?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341927852983,
+      "content": "Der angeklagte hat mir voll leid getan....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341927690470,
+      "content": ":) achso voll cool.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341927062720,
+      "content": "Beleidigung,K\u00c3\u00b6rperverletzung und Sachbesch\u00c3\u00a4digung... 4monate knast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341927011139,
+      "content": "Beleidigung,k\u00c3\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341925820340,
+      "content": "Glaub ich dir ;D um was gings",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341925725552,
+      "content": "Ja war interesant",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341925679647,
+      "content": ":) achsoo interessant!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341925250363,
+      "content": "Eine gerichtsvehandlung ankugen....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341924830350,
+      "content": "Was macht ihr da??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341924806559,
+      "content": "Was macht ihr da??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341923047303,
+      "content": "waren im gericht\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341919430798,
+      "content": ":) warum bist du so fr\u00c3\u00bch da??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341912937124,
+      "content": "Ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341912569317,
+      "content": "Nein?? :D du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1341912344067,
+      "content": "Bisch grad h&m ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340624908943,
+      "content": "Ja... so siehts aus!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340623902320,
+      "content": ":) dann ist es ja abgemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340612118748,
+      "content": "Oke mach des",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340494872984,
+      "content": "Jaaa :) vllt ich sag dir bescheid :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340466000989,
+      "content": "Oke schade... vileicht sehen wir uns das n\u00c3\u00a4chste mal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340458446770,
+      "content": ":) kp iwann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340456753943,
+      "content": "Wann? Um wieviel uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340456653160,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340455806217,
+      "content": "Heute?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340455732050,
+      "content": "Da war ich auch :D bist hart shoppen?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340455639083,
+      "content": "Ne bin grad im H&M",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340453405980,
+      "content": ":) ja fertig??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340449064361,
+      "content": "oke\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340394627724,
+      "content": "Ja :) gaaanz chillig!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340393459029,
+      "content": "oke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340384970849,
+      "content": ":) ist ja nichts!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340382271596,
+      "content": "Jetzt sag!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340376216132,
+      "content": ":) ich hab mir nur was ausgedacht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340376109753,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340374389150,
+      "content": "Keine ahnung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340372991094,
+      "content": "was bin ich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340372974707,
+      "content": "Ach du bist schon so einer :D\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340372399661,
+      "content": "gemacht jetzt muss ichs noch bearbeiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340367014325,
+      "content": ":) und mach jetzt ein bild!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340366841519,
+      "content": "mach ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340366609694,
+      "content": ":) okay dann laber halt!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340355086876,
+      "content": "Jaja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340354709831,
+      "content": "Nein tut es nicht!! Stell dich nicht so an :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340353819077,
+      "content": "Des sieht viel besser aus wenns regnet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340351689054,
+      "content": "Warum ???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340350101846,
+      "content": "Dazu muss es regnen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340347240589,
+      "content": "Doch!! :) bitte mach!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340344041406,
+      "content": "Nein!!! Ist egal dann mach ich halt keines...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340342037226,
+      "content": "In deinem zimmer im bad in der K\u00c3\u00bcche usw!? :D drau\u00c3\u009fen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340341418679,
+      "content": "Klar... die Idee ist gut blos weis ich net wo auf den boden...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340303971190,
+      "content": "Was f\u00c3\u00bcr ideen?? :D mach selbstausloeser und hock dich aufn boden :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340303867482,
+      "content": "Eins hab ich schon gemacht aber da sieht man nur mein face... ich will noch eins wo ich ganz drauf bin aber mir fehlen die ideen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340257351595,
+      "content": "Okay! :) nicht vergessen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340255551312,
+      "content": "Ja heut mach ich foto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340255087006,
+      "content": "Ja dann passts doch :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340254971995,
+      "content": "3 oder 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340221539240,
+      "content": "Im ernst?? :) voll unfair eigentlich!!! :D was bekommst dann??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340221376267,
+      "content": "Hab ne 1-2 in latein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340214088542,
+      "content": "Ja? :) hab ich immer!! :P was f\u00c3\u00bcr ne frage ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340212968338,
+      "content": "Hasch du \u00c3\u00bcberhaupt gelernt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340204677439,
+      "content": ":) ach laber nicht!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340204504002,
+      "content": "Ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340200345676,
+      "content": "Schon!? :) was denkst du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340199631685,
+      "content": "Was dann?... komsch mit deiner t\u00c3\u00bcrkengang und verhausch mich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340180877926,
+      "content": "Wehe wenn nicht! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340173961531,
+      "content": "Ja man ich hab heut neun stunden schule... vileicht morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340170626110,
+      "content": "Na und!? Ich wills halt sehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340170397317,
+      "content": "Danke... so toll siehts nicht aus :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340170232422,
+      "content": "Du bist doch doof! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340169871577,
+      "content": "Just for fun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340130590009,
+      "content": "Und warum das?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340130495078,
+      "content": "Haha heute nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340129841693,
+      "content": "Aber ich wills selber machen!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340129795856,
+      "content": "So :D dann las es doch von bettina beurteilen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340129600511,
+      "content": "Halt so weil ichs beurteilen will!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340129458585,
+      "content": "Warum musst du unbedingt ein bild von mir sehen? Wrum ist das dir nicht einfach egal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340129096021,
+      "content": "Machs einfach :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340128986783,
+      "content": "Wie denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340128617377,
+      "content": "Ja ganz einfach :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340128557533,
+      "content": "Wie den?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340127864472,
+      "content": "Doch!? :) nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340127804652,
+      "content": "Oke aber ich kann ja kein bild von mir selber machen das dann noch proffesioneell aussieht...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340125344512,
+      "content": ":) ja hab ich!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340125216432,
+      "content": "Bild auf sms... hast du sowass wie email",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340122209551,
+      "content": "Kp per privatnachricht oder halt sms??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340122070123,
+      "content": "Und wie soll ich dir das schicken?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340121778245,
+      "content": "Okay aber danach?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340121591814,
+      "content": "Hab grad tanzkurs... geht nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340121494731,
+      "content": "Bitte :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340121402506,
+      "content": "Vileicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340121215186,
+      "content": "Ich will ein foto sehen!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340120904683,
+      "content": "Sind schon ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340119671692,
+      "content": "Wann gehst?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340117964142,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340117494632,
+      "content": "Oke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340117469120,
+      "content": "Mach mal kurz! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1340117364384,
+      "content": "Soll ich Haare kurz oder so lassen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340117240508,
+      "content": "Heei du :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339933488229,
+      "content": "Haha sonne scheint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339920456678,
+      "content": "Ja schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339917752175,
+      "content": "Ja wie immer halt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339856104820,
+      "content": ":) okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339848735273,
+      "content": "nix",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339845976047,
+      "content": "Nicht viel bus fahren und bei dir?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339845526943,
+      "content": "was geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339845191880,
+      "content": ":) haha hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339844746827,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339837086831,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339758983997,
+      "content": ":) oh das wird schon!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339758640142,
+      "content": "Echt nicht so toll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339758458582,
+      "content": ":) achso wie wars??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339739214645,
+      "content": "Nein f\u00c3\u00bcr die arbeit jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339735772908,
+      "content": "Als ob?? :) f\u00c3\u00bcr nen vokabeltest oder was??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339735295243,
+      "content": "Mach ich aber das reicht net...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339698264975,
+      "content": "Dann lern doch lieber statt nem spickzettel??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339697303317,
+      "content": "Englisch spickzettel f\u00c3\u00bcr morgen feschrieben... und NWT pr\u00c3\u00a4sentation weiter gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339696852152,
+      "content": "Du!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339696436441,
+      "content": "Oke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339695789459,
+      "content": "Hatte training :) und gk lernen :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339693913157,
+      "content": "Oke was macsch heute so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339692817830,
+      "content": "Das dus weisst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339688735229,
+      "content": "Was ist ganz klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339688521075,
+      "content": "Ja :) mhmh ganz klar :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339684386263,
+      "content": "Ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339682444653,
+      "content": "Wer weiss obs richtig ist?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339679562158,
+      "content": "w\u00c3\u00bcrde ja nix machen denn rest hab ich abgeschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339677592282,
+      "content": "Oha gut!? :D wow wetten der ist falsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339674587517,
+      "content": "ich hab einen ganzen satz selber bearbeitet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339674566947,
+      "content": "auf 4,5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339673089237,
+      "content": "Ja suche ich!! :D und wie wars?? Auf was stehst in latein??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339672230566,
+      "content": "Spa\u00c3\u009f hab grad meine allerletzte Lateinarbeit geschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339651640303,
+      "content": "Alter suchsch stress?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339650995977,
+      "content": ":) ja du bist mir schon son ghettokind :P mit ja man und so :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339650130192,
+      "content": "ja man",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339605222076,
+      "content": ":) naja lea hat mit ihrer freundin schon gel\u00c3\u00a4stert :P totaaaal gut formuliert :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339601518132,
+      "content": "Ok... das war gut vormuliert... aber wer hat den gesagt das gel\u00c3\u00a4stert wurde? ich habe geredet gesagt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339595471328,
+      "content": "Ich weiss :) er hat ja iwas geschrieben von wegen es tut ihm ja leid aber er gibt sich schon M\u00c3\u00bche beim tanzen und bla bla und man nicht laestern brauch und so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339595348450,
+      "content": "Und lea hat mir geschrieben weil luckas ihr geschrieben hat. Und er hat ihr geschrieben weil ich ihm geschrieben hab.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339593211156,
+      "content": ":) hmm erz\u00c3\u00a4hl von lukas der hat frei lea geschrieben?! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339590980724,
+      "content": "bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339590977430,
+      "content": "nitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339590503347,
+      "content": ":) duuu!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339589799287,
+      "content": "ach bitte erz\u00c3\u00a4hl du was :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339588893291,
+      "content": "Denk dir was aus :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339588603347,
+      "content": "ich hab aber nix zum erz\u00c3\u00a4hlen\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339587199709,
+      "content": ";) ne erst mal bitte du und dann ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339587121401,
+      "content": "erz\u00c3\u00a4hl du doch mal was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339587114556,
+      "content": "haha ich hab doch nix zum erz\u00c3\u00a4len",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339587089343,
+      "content": ":) dann erz\u00c3\u00a4hl was??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339586632610,
+      "content": "mir ist so lw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339586613269,
+      "content": "ja!!!!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339586604234,
+      "content": ":) ja also.. Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339586445897,
+      "content": "nix... mach ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339586404567,
+      "content": ":) ja schon aber was soll ich denn da bitte machen?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339586219658,
+      "content": "dann hasch se halt verkakt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339586189353,
+      "content": ":) naja geht warum nicht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339586135950,
+      "content": "nicht egal\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339585410398,
+      "content": "Ja :) egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339580430699,
+      "content": "schade\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339579578708,
+      "content": "War doof!! :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339577012905,
+      "content": "Viel Gl\u00c3\u00bcck...\nmir ist langweilig ich weis gar nicht was ich heut machen soll :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339576260993,
+      "content": "Reli ka :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339572669046,
+      "content": "Und was hasch grad so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339532455021,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339507701888,
+      "content": "Okay :) haha gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339505061586,
+      "content": "Ich hab f\u00c3\u00bcnf leuten geschrieben w\u00c3\u00a4hrend der arbeit weil ich nicht wusste was das ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339499529831,
+      "content": "Nee sag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339497898316,
+      "content": "Ach egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339494422791,
+      "content": "Was laberst du?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339487224874,
+      "content": "Zu sp\u00c3\u00a4t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339486823179,
+      "content": "Pr\u00c3\u00a4sidialkabinett?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339486205209,
+      "content": "Wie unfair!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339479121905,
+      "content": "Hab heute und morgen keine schule wegen m\u00c3\u00bcndliches abi... aber muss jetzt geschichte nachschreiben....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339478888228,
+      "content": ":) ist doch okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339474139761,
+      "content": "Sry bin einfeschlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339445538851,
+      "content": ":)??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339444309499,
+      "content": "!?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339444305473,
+      "content": ":) ach nein :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339443521743,
+      "content": "Wenn ich mal meine erste freundin habe dann hast du mich schon lang vergessen also mach dir keine m\u00c3\u00bche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339443126622,
+      "content": "vllt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339442452327,
+      "content": "Aha das hattest du also vor :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339442169775,
+      "content": ":) ja schon \nich wei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339441969317,
+      "content": "Also wenn du grad vorhast mich mit der zu verkuppeln hast pech gehabt... (die ist nicht so mein geschmack)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339441839296,
+      "content": ":) ja schon aber als ob!!?? Ihre blicke!? Sagen doch alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339441508540,
+      "content": "Ach die denkt ja nicht mal beim Kaffekochen an mich :) die hat nur ihr Orchester im kopf...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339441351168,
+      "content": ":) erz\u00c3\u00a4hl!! Was hat se so alles geschrieben und so??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339441224444,
+      "content": "Ich hab \u00c3\u00bcbrigens mit sonnen schein geschreiben...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339439484289,
+      "content": "Im ernst?? :) warum?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339439301315,
+      "content": "Ich h\u00c3\u00a4tte dir das abgenommen obwohl du am samstag gesagt hast das du 16 wirst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339438919881,
+      "content": "Haha :) verarscht!! 16 nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339438686274,
+      "content": "H\u00c3\u00a4 du hast doch geburtstag... wie alt bist du jetzt gerworden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339438356527,
+      "content": "Nein 15 :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339438311822,
+      "content": "Ach egal... ich fonds halt traurig das du an deinem geburtstag lernen musst... bist ja schon 16...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339436674940,
+      "content": "Ach nein!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339434770663,
+      "content": "Weil du eine von dir negativ empfundene Sache tun musst :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339432786193,
+      "content": "Warum denn?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339432570780,
+      "content": "Mein mitleid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339430329130,
+      "content": " Lernen :O voll doof ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339430120224,
+      "content": "Was nachschuss heut noch so an deinem birthday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339428615535,
+      "content": ":) haha wie geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339427276144,
+      "content": "Sie war voll verst\u00c3\u00b6rt und er gelangweilt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339426179117,
+      "content": "Was f\u00c3\u00bcr blicke?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339425723293,
+      "content": "Ist zwar lie\u00c3\u009f aber die blicke die sie sich zugeworfen haben waren gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339424991197,
+      "content": ":) oha wie geil ist das lustig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339424856092,
+      "content": "Also vor mir sa\u00c3\u009f ein junge so zw\u00c3\u00b6lf jahre... dann kam ein m\u00c3\u00a4dchen und hat sich zu ihm reingesetz:\nSie:Hi\nEr: Hallo\nSie: wie geht es dir?\nEr: bast scho \nSie: willst du mit mir mal ins kino gehen?\nEr steht schweigend auf nimmt seinen rucksak und geht nach hinten zu seinen kumpels... :D so fail",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339424581750,
+      "content": "Was ist dir im bus passiert?? :D ehm nein ich feier nicht erst in 2 wochen danke danke :* ist doch net schlimm?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339424362539,
+      "content": "Feier noch sch\u00c3\u00b6n! Feierst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339424031257,
+      "content": ":) was?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339423806572,
+      "content": "Oh nein so peinlich: Alles alles gute und liebe zum geburtstag von mir <3 ! ....sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339423104627,
+      "content": "Hab grad was lustiges im bus erlebt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339423018816,
+      "content": ":) okay dann ist ja okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339422440912,
+      "content": "Ja aber ich wechsel ja dann eh... also die mobben mich nicht aber die m\u00c3\u00b6gen mich halt nicht (auser ein m\u00c3\u00a4dchen aber von der will ich nix)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339422219225,
+      "content": "Oha :) das ist doch schlimm!! :O mit der klasse verbringt man so hammer viel zeit immer!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339421948517,
+      "content": "Kp weil ich ein spast bin und weil ich h\u00c3\u00a4slich bin... blablabla... aber sonst bin ich eigentlich schon beliebt halt blos in meiner klasase nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339421775554,
+      "content": "Im ernst?? Warum?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339421718592,
+      "content": "Ich bin in meiner klasse eigentlich gar nicht so beliebt :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339421410402,
+      "content": ":D nein so sind die net",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339419139173,
+      "content": "Jetzt sind die bestimmt ganz arg traurig oder?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339419005348,
+      "content": "Ich mag die jetzt neicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339416637589,
+      "content": ":) oh das ist echt nicht gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339413157493,
+      "content": "Also in der pause meinte eine aus meiner klasse sie hat so hunger dann hab ich ihr 5\u00e2\u0082\u00ac gegeben und hab gesagt kauf dir was... das problem war nur ihre 3 Freundinen ham sich einfach auch etwas davon gekaucht... voll gemein jetzt hab ich nixmehr aber ich hab ja auch keinen hunger",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339412721424,
+      "content": "Du bist doch schon so d\u00c3\u00bcnn :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339412401818,
+      "content": "Aber ich komme auch ohne essen aus :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339412365597,
+      "content": ":) haha du armer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339412319112,
+      "content": ":) haha du armer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339409427085,
+      "content": "Noch da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339407345051,
+      "content": "Hab heut. Mittagschule aber nix zum essen: (",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339406399357,
+      "content": "Haha totaaal :D :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339405453299,
+      "content": "sweet :D.   Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339405301495,
+      "content": "Oh man du tust mir doch leid :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339404971519,
+      "content": "Wir h\u00c3\u00b6ren grad eine symphony von mozartstr: (",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339404686990,
+      "content": "Jaaa :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339404462474,
+      "content": "Noch saar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339401032483,
+      "content": "Du weis was ich meine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339400893429,
+      "content": ":) pause haben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339400765794,
+      "content": "Haha was macht ihr grad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339400664282,
+      "content": ":) ja geht so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339400604603,
+      "content": "Bk ist voll cool ich mag bk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339400507106,
+      "content": ":) ich bk ja musik ist nervig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339400438058,
+      "content": "Jetzt hab ich music... die. Lehrerin ist so nervig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339400274693,
+      "content": "Ja passt schon :) ist ganz cool :P okay gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339399064989,
+      "content": "Die frau hat mir mein handy weggenommen... jetzt hab ichs wieder :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339397610502,
+      "content": "Magst du mathematik?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339396680545,
+      "content": "Noch mal mathe :P hatte es eh schon ne stunde :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339396650999,
+      "content": "Noch mal mathe :P hatte es eh schon ne stunde :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339396537816,
+      "content": "Hab grad Physik :D was hasch du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339392429450,
+      "content": "Ich nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339390797206,
+      "content": "Oh man hab ich voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339362924521,
+      "content": "Ja gute nacht und schlaf gut und viel Spa\u00c3\u009f dann in der schule morgen :D ach das musste einfach sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339362833855,
+      "content": "Gute nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339362721143,
+      "content": "Okay :) tschau naja ich auch dann bald iwann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339362668484,
+      "content": "Danke ich geh jetzt schlafen... tschau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339362513977,
+      "content": "Ja nichts aber du hast mich besiegt :) hattest einfach bessere argumente",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339362427456,
+      "content": "Was Denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339362222710,
+      "content": "Doch :) hast du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339362188877,
+      "content": "Nein ich hab garnixgewonnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339362027381,
+      "content": ";) ja okay du hast gewonnen und hast ja recht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339361884451,
+      "content": "Na und ist so... und ich will ja auch net ne h\u00c3\u00a4sliche abknutschen, oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339361577014,
+      "content": "Alle jungs sagen iwie aussehen zum angeben :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339360959700,
+      "content": "Das aussehen braucht man zum angeben... und der charakter ist aber viel wichtiger: man braucht sie damit man weis das man geliebt ist um sich zu tr\u00c3\u00b6sten wenn es dem anderen schlecht geht und f\u00c3\u00bcr einander da sein... aber auch um spa\u00c3\u009f zu haben wenn das wetter sch\u00c3\u00b6n ist... nab braucht einfach jemanden der einen versteht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339360637111,
+      "content": "Okay dann sag mir doch deine eigene meinung?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339360493732,
+      "content": "Verschiedenes eigentlich mach ich das um mir eine eigene meinung zu bilden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339360290972,
+      "content": "Und was sagen die??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339360268095,
+      "content": "Ach ich frag manchmal leute was sie so denken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339360150761,
+      "content": "Welche meinungen kennst du dann eig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339360141764,
+      "content": "Welche meinungen kennst du dann eig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339360020996,
+      "content": "Gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339359992299,
+      "content": ":) gut oder schlecht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339359939397,
+      "content": "Die meinung hab ich noch nie geh\u00c3\u00b6rt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339359672147,
+      "content": "Keine ahnung die meisten um anzugeben und naja ich finde sooo hammer h\u00c3\u00bcbsch sollte er nicht sein sonst muss man ja angst haben dass er einem weggenommen wird :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339359480043,
+      "content": "F\u00c3\u00bcr was brauchst du dann einen h\u00c3\u00bcbschen freund?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339359401576,
+      "content": "Das frage ich mich auch!? Naja meistens um nicht alleine zu sein und um zu wissen das man geliebt und gebraucht wird?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339359288516,
+      "content": "Mal ne frage: f\u00c3\u00bcr was braucht man in unserem alter deiner Meinung nach eine/n Freund/in ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339359087528,
+      "content": ":) ja paar Anspr\u00c3\u00bcche halt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339358940411,
+      "content": "f\u00c3\u00bcr mich muss beides stimmen... dann gibt es zwar wenig auswahl aber das ist dann wenigstens auch die richtige",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339358719238,
+      "content": "Ehm meistens charakter als erstes und dann aussehen :D du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339357931799,
+      "content": "\u00c2\u00bf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339357630488,
+      "content": "Kp.. was magst du an jungs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339357579734,
+      "content": "Okay und was genau? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339357418428,
+      "content": "Jungs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339357225374,
+      "content": "Sag mal bitte ein Gespr\u00c3\u00a4chsthema :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339356754737,
+      "content": "Oke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339356619542,
+      "content": "Ja ich weiss :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339356594660,
+      "content": "Ja ich weiss :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339356358193,
+      "content": "Hahaha :D sweet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339356328479,
+      "content": "Mist ich weiss es ja selber nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339355248712,
+      "content": "Nein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339355116169,
+      "content": "Du weisst doch was ich meine?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339353904826,
+      "content": "und bla?????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339353808050,
+      "content": "Naja zickenkrieg ist so uncool gesagt und bitchfight so cool und bla gesagt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339353619330,
+      "content": "Trotzdem die ganze zeit krieg... was ist eigentlich der unterschied zwischen Bitchfight und Zickenkrieg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339353303704,
+      "content": ":) naja ich bin ja erst seit der 9. Da :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339353210365,
+      "content": "Wie kann man in einer m\u00c3\u00a4dchenschule \u00c3\u00bcberleben? Also ich kann mir das gar nicht vorstellen ne schule ohne m\u00c3\u00a4dchen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339353039847,
+      "content": "Ja schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339352790043,
+      "content": "Des ist die m\u00c3\u00a4dchenschule? Oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339352680552,
+      "content": ":) st hildegard in bettinas klasse halt?? :D haha ja noch da du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339352365314,
+      "content": "Noch da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339351709252,
+      "content": "Ja ich kenn mehrere wo des so ist welche schule bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339350998945,
+      "content": "Voll gegenteil :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339350777335,
+      "content": "Montag und mittwoch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339350676187,
+      "content": "Oh gott :P jeden dienstag und donnerstag ;) du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339350620500,
+      "content": "An welchen tagen hast du eigentlich mittagschule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339350468696,
+      "content": ":) jaaa!! Bin da :P ja mach das am besten einfach so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339350376304,
+      "content": "Noch da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339350047377,
+      "content": "Eigentlich weis ich nichts \u00c3\u00bcber den Inhalt aber ich mach halt ewig die powerpoint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339349915645,
+      "content": ":) naja gibt auch spannendere themen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339349815161,
+      "content": "So spannend ist das nicht... \u00c3\u00bcber die digitale aufnahme,speicherung,bearbeitung und wiedergabe von Schall und Ton...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339349560432,
+      "content": "Spannend :) \u00c3\u00bcber welches thema??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339349345572,
+      "content": "Ich war eigentlich die ganze zeit vor dem PC :( zuerst bissle zocken und dann hab ich ewig ne NWT pr\u00c3\u00a4sentetion f\u00c3\u00bcr die schule gemacht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339349226652,
+      "content": "Ich hatte 3 stunden training und dann hab ich geburtstagsessen mit der familie gehabt und jetzt bissle lernen und Fu\u00c3\u009fball schauen :P du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339349201931,
+      "content": "???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339349058387,
+      "content": "Danke was hasch heute so gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339349016654,
+      "content": ";) ja klar hast ja recht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339348869117,
+      "content": "???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339348823686,
+      "content": "Noch da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339348320154,
+      "content": "Ich find das n\u00c3\u00a4hmlich so langweilig wenn man schreibt: uh der ist in die veknallt und der will was von der anderen... weil mich das garnichts angeht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339348167066,
+      "content": "Oh man :D wenn du willst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339347602186,
+      "content": "Also gut... k\u00c3\u00b6nnen wir bitte bitte \u00c3\u00bcber etwas anderes schreiben als \u00c3\u00bcber dann Beziehungskram von kumpels",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339347357612,
+      "content": "Okay okay :) gaaaanz ruhig!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339347260057,
+      "content": "Also k\u00c3\u00b6nnen tu ich aber ich sollte nicht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339347055444,
+      "content": ":) musst du nicht aber kannst und solltest du :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339346907454,
+      "content": "Des muss ich dir glaub jetzt net erz\u00c3\u00a4hlen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339346689078,
+      "content": ":) haha woe nett!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339346455526,
+      "content": "Ok ne der steht net auf die... lukas und m\u00c3\u00a4dchen das ist eh so eine sache",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339346280110,
+      "content": ":) jaja klar :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339346100147,
+      "content": "Tut er nicht sonst w\u00c3\u00a4re die sache komplizierter... anderes thema: sch\u00c3\u00b6nes wetter heute",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339345725685,
+      "content": ":) nein im ernst ?? Er steht net auf sie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339345666049,
+      "content": "Ne ich hab ihm gesagt das sie ihn nicht mag und das er besser f\u00c3\u00bchren sollte... dann meinte er das er eh nichts von ihr wil... damit ist die sache erledigt! K\u00c3\u00b6nnen wir bitte das thema wechseln dieses wir lw. !?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339345480639,
+      "content": "Uuuuuh ^^ von lea!! ja nichts oder??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339345359067,
+      "content": "Ach keine ahnung... ich hab grad eine nachricht von lea gekriegt :( was ich ihm alles erz\u00c3\u00a4hlt h\u00c3\u00a4tte :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339344464087,
+      "content": "Keine ahnung was lea halt noch so alles gesagt hat :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339344392839,
+      "content": "Was f\u00c3\u00bcr tipps",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339344353200,
+      "content": "Und weitere tipps geben weil lea leidet ja auch darunter?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339344281892,
+      "content": "Ja oke des kann ich machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339344208108,
+      "content": "Ja okay :D aber sag ihm mal das er mehr f\u00c3\u00bchren sollte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339344144609,
+      "content": "Aber ich hab lea versprochen das ich ihm nichts sag... und dann ist das mir egalob das mein kumpel ist :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339344058227,
+      "content": "Doch?? Hallo das ist dein kumpel?? Du kennst den bestimmt ewig und lea hat nichts b\u00c3\u00b6ses gesagt nur das er mehr f\u00c3\u00bchren sollte?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343841644,
+      "content": "Du glaubst doch nicht das ich wegen 2\u00e2\u0082\u00ac wemanden etwas erz\u00c3\u00a4hle...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343791874,
+      "content": "Tja das musst du riskieren?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343754693,
+      "content": "Aber wenns ich ihm erz\u00c3\u00a4hl ist lea b\u00c3\u00b6se :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343671043,
+      "content": ":) ehm ja alles aber ich bin nicht geldgierig!? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343650069,
+      "content": "Jetzt nennt er mich schon SPAST... gleich eskalierts ich brauch ne Notl\u00c3\u00b6sung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343519081,
+      "content": "Des ist mein kumpel was erz\u00c3\u00a4hl ich dem jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343493364,
+      "content": "Du bist echt geldgierig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343428439,
+      "content": "Das wir beide kollegen sind und wir es nicht unter 4 euro machen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343388853,
+      "content": "Jetzt sins schon 2\u00e2\u0082\u00ac... was soll ich ihm erz\u00c3\u00a4hlen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343318306,
+      "content": "Mach 10 draus und 5 bekomme ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343271618,
+      "content": "Er bietet mir schon 1\u00e2\u0082\u00ac wenn ichs ihm sag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343222851,
+      "content": "Lea?? :) haha nein sonst haben die vllt streit??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343173233,
+      "content": ":D erz\u00c3\u00a4hl grad dem lukas \u00c3\u00bcber seine tanze :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339343102162,
+      "content": ":) ich weiss :P deshalb hab ich es doch auch gesagt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339343034432,
+      "content": "Danke das wollte ich h\u00c3\u00b6ren!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342960767,
+      "content": "Ach quatsch!? :) bist doof?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342839349,
+      "content": "Soll ich aufh\u00c3\u00b6ren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342783918,
+      "content": "Ja der grund ist doch weil ich einfach cool bin :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342647926,
+      "content": "Aha... du demkst was anderes :o soll ich aufh\u00c3\u00b6ren zu schreiben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342483056,
+      "content": "Jaja als ob das der grund ist?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342455948,
+      "content": "Ich muss wohl sonst bist du ja beleidigt :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342335851,
+      "content": "Schau du antwortest trotzdem :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342234591,
+      "content": "Oke... :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342213030,
+      "content": "Du brauchst nicht antworten?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342165323,
+      "content": "Ja aber du hast angefangen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339342125800,
+      "content": "Warum?? :) mit mir schreibst doch auch :P?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339342007168,
+      "content": "Wie als wenn ich jetzt anfang mit der zu schreiben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339341933044,
+      "content": "Warum denn?? :D als ob frag se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341888708,
+      "content": "Ne... ok... irgendwie f\u00c3\u00bchl ich mich von diesem musiczug verfolgt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339341821416,
+      "content": ":) nein die ist st.hildegard aber kann sein das sie da im orchester oder so ist :P frag sie einfach :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341667686,
+      "content": "Kp die hat nixmehr geschrieben... ist die zuf\u00c3\u00a4llig auf diesem Musiczug im Humbolt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339341578541,
+      "content": "Tu ich doch eh immer :P was gibts von sonnenschein?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341508021,
+      "content": "Ich mein nur das mich der smilie aufregt! Dann red halt weirer viel zeugs :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339341388144,
+      "content": "Du musst jetzt sagen nein also ob!!?? Das ist voll angemessen!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341308280,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341300211,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339341289781,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339341084699,
+      "content": ":) als ob?? Ich rede immer viel zeugs :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339340720287,
+      "content": "Achso ich hab jetzt gedacht des war ernst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339340532597,
+      "content": "Ach egal ist doch okay:) bissle ironie und so :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339340325599,
+      "content": "Warum denn ich hab dich doch jetzt gefunden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339340183420,
+      "content": ":) ja tut mir so leid aber du bist zu unselbstst\u00c3\u00a4ndig :P als ob es ist nicht negativ!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339339973161,
+      "content": "du meinst ich h\u00c3\u00a4tte dich nicht finden sollen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339339811181,
+      "content": "alles muss man selber machen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339339780708,
+      "content": "Musst du selber nachdenken und rausfinden :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339339604467,
+      "content": "was ist denn nicht positiv?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339339577479,
+      "content": ":) zu kompliziert?? :P egal nur net positiv",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339339451132,
+      "content": "des blick ich net",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339339382562,
+      "content": ":) das ist aber nichts positives?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Hartig",
+      "timestamp_ms": 1339339024941,
+      "content": "danke\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339332306928,
+      "content": "Herzlichen Gl\u00c3\u00bcckwunsch!! :D gefunden :P!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alexander Hartig",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alexanderhartig_huwyg56kgq",
+  "magic_words": [
+    
+  ]
+}

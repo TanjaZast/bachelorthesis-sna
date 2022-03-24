@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Murat Yilmaz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Murat Yilmaz",
+      "timestamp_ms": 1426172011507,
+      "content": "Ne frage wer bist du \nWir sind zwar befreundet aber ich hab echt Ka wer du bist?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Murat Yilmaz",
+      "timestamp_ms": 1418427239157,
+      "content": "Wiee meinst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418427224843,
+      "content": "Hahaha sorry aber wenn man so fragt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Murat Yilmaz",
+      "timestamp_ms": 1418427180730,
+      "content": "asooo boaah tut mir leid dann f\u00c3\u00bcrs st\u00c3\u00b6ren... \n\nWie duu willst:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418427146144,
+      "content": "Ne sorry hast mich geaddet aber ich tu dich wieder raus :) okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Murat Yilmaz",
+      "timestamp_ms": 1418427096421,
+      "content": "nee frage wir sind befreundet aber ich wei\u00c3\u009f gar nicht wer du bist :D\nkennt man sich vllt?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Murat Yilmaz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/muratyilmaz_sqqdjgireq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,992 @@
+{
+  "participants": [
+    {
+      "name": "Alex G\u00c3\u00b6ppel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1450025447628,
+      "content": "Schon gut \u00f3\u00be\u008c\u00b8\nDanke \nJa war gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1450025283715,
+      "content": "Hey Hey, tut mir so leid! \nAlles Liebe und Gute ganz arg nachtr\u00c3\u00a4glich zum Geburtstag \u00f3\u00be\u008c\u00b1 ich wollte dir am Freitag noch im Myers gratulieren aber hatte es dann voll vergessen und war auch einfach schlecht drauf. Ich hoffe dir geht es gut und dass du noch sch\u00c3\u00b6n gefeiert hast. \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1434042350364,
+      "content": "Alles Gute \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404659565291,
+      "content": "Ich hab gerade F1 geschaut, und geh nacher zu meiner Freundin :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404655757217,
+      "content": "Hab bis halb 3 gepennt und jetzt schau ich meine Serie an. Bin sehr kaputt :/ was geht bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404655683909,
+      "content": "Ok,was geht ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404649609363,
+      "content": "Nene Spa\u00c3\u009f schon nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404634576277,
+      "content": "Was ist daran schlimm ? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404618687040,
+      "content": ":) schlimm ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404594323778,
+      "content": "Ja klar \u00f3\u00be\u00ad\u009e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404555327798,
+      "content": "Hahah :D wie fr\u00c3\u00bch du aufstehst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404544928327,
+      "content": "\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404544925273,
+      "content": "Ja passiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404531828296,
+      "content": "Das f\u00c3\u00a4llt dir ja fr\u00c3\u00bch Auf :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404506608111,
+      "content": "Klar \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404481731640,
+      "content": "Haha \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404476688878,
+      "content": "Haha als ob",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404474664847,
+      "content": "Nein \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404467585222,
+      "content": "Nicht so gut wie mit jeli und mir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404467371699,
+      "content": "Schon gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404466124201,
+      "content": "Wie wars? Ja ich wollte auch gehen aber hab mich umentschieden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404463371839,
+      "content": "Ich war im Myers \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404436382528,
+      "content": "Nicht viel bei dir?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1404433462612,
+      "content": "Was geht ? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826935582,
+      "content": "Jaja mal schauen \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826924761,
+      "content": "Ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826903186,
+      "content": "25:75",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826894443,
+      "content": "Sicher \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826830662,
+      "content": "Neeee :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826820793,
+      "content": "50:50 \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826807405,
+      "content": "Pff \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826796248,
+      "content": "Du zahlst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826781334,
+      "content": "Taxi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826764061,
+      "content": "Wie kommen wir heim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826747187,
+      "content": "Ja ich bin drau\u00c3\u009fen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826723070,
+      "content": "Ja dann warte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826517337,
+      "content": "Ja kannst machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826503782,
+      "content": "Ja aber ohne die ich komm dann alleine und klebe dann wie Ein depp an euch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826477619,
+      "content": "Komm ans Myers",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826465576,
+      "content": "Sahara",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826457848,
+      "content": "Wo bist du ,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826448262,
+      "content": "Ja suuuuper ; D die wollen nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826410269,
+      "content": "Warte doch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826392961,
+      "content": "Sorry so geil sieht es nicht aus :D kaum was los und nicht so geile Musik",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826106112,
+      "content": "Haha dann gehen wir heim :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826092968,
+      "content": "Ja :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826091202,
+      "content": "Nein ich geh kurz zu einem Kumpel \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826080784,
+      "content": "Warst du das ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403826069695,
+      "content": "Geh halt? :d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403826003208,
+      "content": "5 \u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403825936728,
+      "content": "Wie viel kostet eintritt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403825711922,
+      "content": "10 Minuten? Wie kommen wir heim? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403825577525,
+      "content": "Wann bist du da ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403825562456,
+      "content": "Gut!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403824094742,
+      "content": "Noch nicht da. Wie ist es? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403823581005,
+      "content": "Bin im Myers",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403823573386,
+      "content": "Wo bist du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403817149777,
+      "content": ":D wir gehen erst um 1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403817141197,
+      "content": "Kommst nicht flavour? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403816146811,
+      "content": "Perfekt! Dann sieht man sich im Myers \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403814667686,
+      "content": "Wir kommen schon iwie heim :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403814649999,
+      "content": "Weil ich w\u00c3\u00bcrde auch gehen, nur ich will nicht alleine Heim fahren \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403814646064,
+      "content": "Komm halt erst einmal flavour",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403814623065,
+      "content": "Wei\u00c3\u009f ich noch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403814606195,
+      "content": "Echt ? Wie kommst Heim ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403814586554,
+      "content": "Jap du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403814334845,
+      "content": "Gehst heute ins Myers ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403785601100,
+      "content": "Vieles \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403785592958,
+      "content": "Tja \u00f3\u00be\u008d\u0087\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403781422416,
+      "content": ":D hahahah was kannst du \u00c3\u00bcberhaupt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403735535509,
+      "content": "Dann kann ich wohl nichts machen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403735203904,
+      "content": "Ja das ist kein St\u00c3\u00bcck hilfreich :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403731713516,
+      "content": "Du bist in der \"Krise\" \u00f3\u00be\u008c\u00b8\nDu musst das wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403731543667,
+      "content": "Pfff was fragst du mich? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403731070851,
+      "content": "Und was soll ein Mann machen ? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403731014492,
+      "content": "Bist doch ein mann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403730329699,
+      "content": "Wie ? Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403730289691,
+      "content": "Hahaha klar? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403729840733,
+      "content": "Okay dann kann ich dir wohl nicht mehr helfen \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403729734375,
+      "content": "Hahaha nein zu Sp\u00c3\u00a4t :D bin in einer Lebenskrise",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403729423490,
+      "content": "Haha :) \nAch Tanja, Kopf hoch \u00f3\u00be\u00b0\u0099",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403729280383,
+      "content": "Das finde ich jetzt echt deprimierend :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403729148857,
+      "content": "Nein nicht wirklich \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403729057688,
+      "content": "Oha kein Vertrauen? :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403728986175,
+      "content": "Nein \u00f3\u00be\u008c\u00b8\u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403728819283,
+      "content": "Hahahaha :D doch lass mal machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403728767259,
+      "content": "Hoffentlich f\u00c3\u00a4hrst du nie vor mir \u00f3\u00be\u008c\u00b8\u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403724898198,
+      "content": "\u00f3\u00be\u008d\u0094 oh Gott",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403724844509,
+      "content": "Hahah ich meine ed ernst weder der Benzinkanister noch mein Kuchen \u00c3\u00bcberlebt wenn ich im 4. Gang abbiege :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403724788719,
+      "content": "Haha, das will ich sehen \u00f3\u00be\u008c\u00b4\nJa :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403724540580,
+      "content": "Hahaha :D klar. Ne Spa\u00c3\u009f ich fahre katastrophal. Ist es da besser? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403702468482,
+      "content": "Soso bist davor schon alleine Auto gefahren \u00f3\u00be\u008c\u00b8\nNein ich spiel in Neu-Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403701646867,
+      "content": "Okay sorry sorry :D war bei mir davor auch schon so... spielst du in senden? Oder da iwo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403694189226,
+      "content": "Ja hatte gestern ein Turnier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403694177872,
+      "content": "Sag ich ja nicht... War ja bei mir genauso!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403694104243,
+      "content": "Achso chillig machts Spa\u00c3\u009f?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403694097355,
+      "content": "Hahaha stimmt sagst du als so alter Typ :) bist ja schon eeeeewig 18",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403684133396,
+      "content": "Beim Golfen ;)\n\nJa das sind halt die Sachen die man macht, wenn man frisch 18 geworden ist \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403655914593,
+      "content": "Auf golfen? :D also ich geh feiern fahre haupts\u00c3\u00a4chlich mim Auto umher und geh sinnlos Geld ausgeben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403645758206,
+      "content": "Naja ich wei\u00c3\u009f kaum was mit der Zeit anzufangen, also bin ich ziemlich oft auf Golfen \u00f3\u00be\u008c\u00b8\nDu ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403642171955,
+      "content": " Ja hammer :D eigentlich. Was tust so? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403635133603,
+      "content": "Ja klar \u00f3\u00be\u008c\u00b8\nDu auch ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403630111038,
+      "content": "Und genie\u00c3\u009ft du Schon die Ferien? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403569207926,
+      "content": "Ja oder so \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403560097615,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403560094592,
+      "content": "hahaha ne das sind die die 100 Liter alles m\u00c3\u00b6gliche trinken zum Schluss noch Hugo meinen sie w\u00c3\u00a4ren es und dann mir vor die f\u00c3\u00bc\u00c3\u009fe kotzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403556610388,
+      "content": "Geile Sache! \nDas sind dann die, die 5 Flaschen Vodka kaufen und dann noch einem Glas Kotzen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403526469811,
+      "content": "Weil ich mich um die kotzenden Jungs k\u00c3\u00bcmmern musste :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403469901939,
+      "content": "Warum ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403469094296,
+      "content": "Hahahha ich hab mich wie so ne Krankenschwester gef\u00c3\u00bchlt ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403468983276,
+      "content": "So muss sein!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403468943912,
+      "content": "Fl\u00c3\u00bcssig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403426355689,
+      "content": "Achso, wie wars ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403404407541,
+      "content": "Ne ;) feier meinen Geburtstag ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1403388588356,
+      "content": "Und gehst heute weg ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402876389370,
+      "content": "Haha klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402876369598,
+      "content": "Gehst ohne deine Boyscrew nicht feiern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402876324804,
+      "content": "Ja mal schauen, wer alles mitkommt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402876271135,
+      "content": "Haha was f\u00c3\u00bcr schauen.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402876233471,
+      "content": "Ja mal schauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402876134110,
+      "content": "?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402876131190,
+      "content": "Aber am Donnerstag sind wir dann beide am Start",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402846000846,
+      "content": "Achso ja dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402833981011,
+      "content": "Usw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402833979431,
+      "content": "18ner von guten Freunden isw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402833964437,
+      "content": "Kostenloses saufen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402831599246,
+      "content": "Was kann besser sein als Myers ? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402829769717,
+      "content": "Ne :) iwie kommt immer was besseres dazwischen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402762168340,
+      "content": "Und wars im Myers ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402489397076,
+      "content": "Ja mach ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402488507154,
+      "content": "Sagst halt Bescheid ob du morgen gehst ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402487519865,
+      "content": "K\u00c3\u00b6nnen wir machen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402481731071,
+      "content": "Ja ich w\u00c3\u00bcrde mich echt freuen dich mal beim feiern zu treffen! ;) dann trinken wir was zusammen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402479044661,
+      "content": "Nicht schlecht! Vielleicht sieht man sich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402477328855,
+      "content": "Und Berger war letzte Woche auch nicht so geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402477290310,
+      "content": "Haha ne meine Familie kommt heute abend vorbei dann ist das schon ein mega fest. Morgen aber! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402476874708,
+      "content": "Gut! \nGehst heute gleich weg ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402476515461,
+      "content": "Du sagst es! :D jetzt kann ich mal legal weg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex G\u00c3\u00b6ppel",
+      "timestamp_ms": 1402475974784,
+      "content": "Alles Gute :)\nJetzt bist ja auch endlich 18!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alex G\u00c3\u00b6ppel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alexgoppel_sn4muvsooa",
+  "magic_words": [
+    
+  ]
+}

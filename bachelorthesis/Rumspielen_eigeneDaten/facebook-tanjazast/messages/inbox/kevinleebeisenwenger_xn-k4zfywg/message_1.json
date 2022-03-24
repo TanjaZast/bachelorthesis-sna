@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Kevin-Lee Beisenwenger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1498601332551,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kevin-Lee Beisenwenger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kevinleebeisenwenger_xn-k4zfywg",
+  "magic_words": [
+    
+  ]
+}

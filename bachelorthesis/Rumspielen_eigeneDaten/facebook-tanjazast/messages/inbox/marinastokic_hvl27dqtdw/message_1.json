@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Marina \u00c5\u00a0toki\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307816339214,
+      "content": ":D joj pa hvala ti <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marina \u00c5\u00a0toki\u00c4\u0087",
+      "timestamp_ms": 1307816322064,
+      "content": "sretan ro\u00c4\u0091endan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marina \u00c5\u00a0toki\u00c4\u0087",
+      "timestamp_ms": 1273743746000,
+      "content": "pa....valjda je logi\u00c4\u008dno da dolazimo u Starigrad za vrijeme praznika...=)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1273741592000,
+      "content": "Jedno pitanje.......\n\nKad dolazite u starigrad????",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marina \u00c5\u00a0toki\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marinastokic_hvl27dqtdw",
+  "magic_words": [
+    
+  ]
+}

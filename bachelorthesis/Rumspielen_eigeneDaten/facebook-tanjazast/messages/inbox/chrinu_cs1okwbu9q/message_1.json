@@ -1,0 +1,403 @@
+{
+  "participants": [
+    {
+      "name": "Chri Nu"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1440617415939,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/chrinu_cs1okwbu9q/audio/audioclip14406174134596166_1048948938479289.mp4",
+          "creation_timestamp": 1440617413
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.247.9",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1440573209292,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1433325724080,
+      "content": "Hey :) wie geht es dir?\nLange nichts geh\u00c3\u00b6rt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1407400165798,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406468343203,
+      "content": "Wie geht es dir ;) was machst du heute",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406461389948,
+      "content": ";) oha Voll lieb danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406290530129,
+      "content": "Weil es mich interessiert :) optisch und vom Charakter :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406287499287,
+      "content": "Warum fragst du das :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406207192162,
+      "content": ":) war eben im M\u00c3\u00b6belhaus. Jetzt wieder daheim. Was steht bei dir noch an? \nWas f\u00c3\u00bcr einen Typ Mann suchst du denn :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406206536626,
+      "content": "Mega ;) bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406147331652,
+      "content": "Flei\u00c3\u009fig :) wie wars?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406147048394,
+      "content": "War joggen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406145362751,
+      "content": "Viel momentan leider.. wie hast den Abend verbracht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406129351119,
+      "content": "Achso bist ja nur unterwegs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406128319003,
+      "content": "M\u00c3\u00bcnchen noch.. muss wegen Arbeit und Wohnung paar Sachen kl\u00c3\u00a4ren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406120476071,
+      "content": "Chillen du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406113118680,
+      "content": "Doch auch.. was machst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406109796718,
+      "content": "Klar du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406099780701,
+      "content": "Hast gut geschlafen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406096627777,
+      "content": ":D du machst es mir nicht leicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406066538118,
+      "content": "Nein :D hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406058724424,
+      "content": "Siehst wirklich umwerfend aus :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406058684201,
+      "content": "Okay :) schade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406058653458,
+      "content": "Achso ne heute eher nicht mehr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406057846516,
+      "content": "Ich kann dich auch jetzt spontan noch besuchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406057838890,
+      "content": ":D spinnst du? Ich bin jede Woche in Ulm.. das ist gerade mal 30 min weg?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406057589885,
+      "content": "Ja schau erst mal wie weit das ist \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406057577418,
+      "content": "Danke danke :) mach ich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406056624471,
+      "content": "Hast die Tage mal Lust dich zu treffen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406056616676,
+      "content": "Okay :) dann verlauf dich nicht.\nUnd viel Spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406056417267,
+      "content": "Ja bin ich ich geh joggen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406056412542,
+      "content": "Aus Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406044410115,
+      "content": "Bist fertig mit putzen :) was machst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406038527217,
+      "content": "Woher kommst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406034856897,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406034854271,
+      "content": "Ah Memmingen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406030488195,
+      "content": "Memmingen :) also Buxheim, liegt direkt daneben. Und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406029926457,
+      "content": "Heute passt eher nicht :/ wo wohnst du \u00c3\u00bcberhaupt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406027376865,
+      "content": "Ansonsten k\u00c3\u00b6nnten wir uns noch treffen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406027368047,
+      "content": "Nicht gut :/ so viel vor dir? Wirst also den Tag daheim verbringen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406027312119,
+      "content": "Ja muss bisschen putzen und was wei\u00c3\u009f ich noch alles :) also wieder volles Programm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406026125681,
+      "content": "Ja ganz gut :) aber sehr g\u00c3\u00bcnstig. Unnormal g\u00c3\u00bcnstig.\nWas steht heute noch alles an bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406025900768,
+      "content": "Und wie hat es dir gefallen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406024422748,
+      "content": "Oha :D und jetzt bist schon fit? \nEinkaufen.. Tagesausflug mit Kumpels. Haben auch den Primark mal angeschaut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406023611163,
+      "content": "Was hast du da gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406023603951,
+      "content": "Ja lange :) bis 4 oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406021782191,
+      "content": "Doch auch Danke :) \nWollte noch, aber waren den ganzen tag in Innsbruck. Und sind erst um 22 Uhr heimgekommen.. wie wars? Wie lange warst unterwegs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406021740880,
+      "content": "Jap du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406021737430,
+      "content": "In Ulm du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1406021289498,
+      "content": ":D hast gut geschlafen? \nWo warst gestern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406020704974,
+      "content": "Bin   Jetzt wach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406020686588,
+      "content": "Jap ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1405975063702,
+      "content": "Tanja :) bist noch wach?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chri Nu",
+      "timestamp_ms": 1405894557466,
+      "content": "Hey Tanja :) Chris hier. Danke f\u00c3\u00bcr den Namen. \nIch hoffe ich wecke dich nicht. Schlaf gut",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chri Nu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chrinu_cs1okwbu9q",
+  "magic_words": [
+    
+  ]
+}

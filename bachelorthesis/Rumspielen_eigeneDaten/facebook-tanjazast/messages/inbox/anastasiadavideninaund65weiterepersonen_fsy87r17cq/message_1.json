@@ -1,0 +1,487 @@
+{
+  "participants": [
+    {
+      "name": "Anastasia Dolce Vita"
+    },
+    {
+      "name": "Davide Grillo"
+    },
+    {
+      "name": "Nina Desiree Kienh\u00c3\u00b6fer"
+    },
+    {
+      "name": "Armin Gutjahr"
+    },
+    {
+      "name": "Patricia Bott"
+    },
+    {
+      "name": "Tatjana Yabumoto"
+    },
+    {
+      "name": "Carolinchen F\u00c3\u00b6rster"
+    },
+    {
+      "name": "Kathrin J\u00c3\u00a4ger"
+    },
+    {
+      "name": "Eva Franke"
+    },
+    {
+      "name": "Esther R\u00c3\u00b6"
+    },
+    {
+      "name": "Jule Nue"
+    },
+    {
+      "name": "Anna Oo"
+    },
+    {
+      "name": "Nadine Denise"
+    },
+    {
+      "name": "Muha Dk"
+    },
+    {
+      "name": "Frank Buendgens"
+    },
+    {
+      "name": "Felix Oki"
+    },
+    {
+      "name": "Boxi Wolks"
+    },
+    {
+      "name": "Hanna Magdalena"
+    },
+    {
+      "name": "Judith Tress"
+    },
+    {
+      "name": "Janet Holzf\u00c3\u00a4ller"
+    },
+    {
+      "name": "Jens Reiber"
+    },
+    {
+      "name": "Franzi Ska"
+    },
+    {
+      "name": "Ella Fiona"
+    },
+    {
+      "name": "Christina Luisa"
+    },
+    {
+      "name": "Erinna Mich Dran"
+    },
+    {
+      "name": "Julia Bay"
+    },
+    {
+      "name": "Jen Belikov"
+    },
+    {
+      "name": "Vanessa Nadine"
+    },
+    {
+      "name": "Johanna Kalmbach"
+    },
+    {
+      "name": "Lukas Zimmermann"
+    },
+    {
+      "name": "Mariella Mk"
+    },
+    {
+      "name": "Domenica Ewald"
+    },
+    {
+      "name": "Ca Ro La"
+    },
+    {
+      "name": "Oliver Sp"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Carina Schlegel"
+    },
+    {
+      "name": "Chaifia von Filseck"
+    },
+    {
+      "name": "Raphael Greb"
+    },
+    {
+      "name": "Ni Lau"
+    },
+    {
+      "name": "Calimba De Luna Keller"
+    },
+    {
+      "name": "Rasp Marius"
+    },
+    {
+      "name": "Jessica Binder"
+    },
+    {
+      "name": "Anja Kalmbach"
+    },
+    {
+      "name": "Laura Kienh\u00c3\u00b6fer"
+    },
+    {
+      "name": "Isabell Bella"
+    },
+    {
+      "name": "Carola Kitzig"
+    },
+    {
+      "name": "Sabrina N\u00c3\u00a4hrig"
+    },
+    {
+      "name": "Friederike Nowotny"
+    },
+    {
+      "name": "Michaela Dominique Ru\u00c3\u009f"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Chris Moosbrugger"
+    },
+    {
+      "name": "Dennis R\u00c3\u00b6cker"
+    },
+    {
+      "name": "Daniel Koy"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Andreas Braun"
+    },
+    {
+      "name": "Pantha Rei"
+    },
+    {
+      "name": "Fabiola Emilie"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Duygu Akbasli"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Simone Treptow"
+    },
+    {
+      "name": "Moritz K\u00c3\u00b6hn"
+    },
+    {
+      "name": "Nathalie Huber"
+    },
+    {
+      "name": "Demet Fi"
+    },
+    {
+      "name": "Clara Re"
+    },
+    {
+      "name": "Charlotte Swe"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373385694535,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian M\u00c3\u00b6bius",
+      "timestamp_ms": 1373385639826,
+      "content": "Fabian M\u00c3\u00b6bius hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Fabian M\u00c3\u00b6bius"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Bolkart",
+      "timestamp_ms": 1373385627610,
+      "content": "Philipp Bolkart hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Philipp Bolkart"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Zwanni Neumann",
+      "timestamp_ms": 1373385599650,
+      "content": "Manuel Zwanni Neumann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Manuel Zwanni Neumann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Ruf",
+      "timestamp_ms": 1373385592373,
+      "content": "Daniel Ruf hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Daniel Ruf"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larissa Arnold",
+      "timestamp_ms": 1373385570912,
+      "content": "Larissa Arnold hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Larissa Arnold"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pierre Akk",
+      "timestamp_ms": 1373385560218,
+      "content": "Pierre Akk hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Pierre Akk"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Armin Gutjahr",
+      "timestamp_ms": 1373385538212,
+      "content": "sind die fragen spannend? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael St\u00c3\u00b6lzle",
+      "timestamp_ms": 1373384917249,
+      "content": "Michael St\u00c3\u00b6lzle hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michael St\u00c3\u00b6lzle"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Johne",
+      "timestamp_ms": 1373384741580,
+      "content": "Oliver Johne hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Oliver Johne"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julian Bortoli",
+      "timestamp_ms": 1373383637905,
+      "content": "Julian Bortoli hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Julian Bortoli"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "An\u00c3\u00a0 Floris",
+      "timestamp_ms": 1373383485863,
+      "content": "An\u00c3\u00a0 Floris hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "An\u00c3\u00a0 Floris"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1373383226893,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Timo Timoi",
+      "timestamp_ms": 1373383038141,
+      "content": "Timo Timoi hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Timo Timoi"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1373383002377,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Fischer",
+      "timestamp_ms": 1373382920665,
+      "content": "Michael Fischer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michael Fischer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie-Maria Chiev",
+      "timestamp_ms": 1373382828465,
+      "content": "Sophie-Maria Chiev hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sophie-Maria Chiev"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1373382658136,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nc M\u00c3\u00a4rkle",
+      "timestamp_ms": 1373382619127,
+      "content": "Nc M\u00c3\u00a4rkle hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nc M\u00c3\u00a4rkle"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina St\u00c3\u00b6bling",
+      "timestamp_ms": 1373382617193,
+      "content": "Nina St\u00c3\u00b6bling hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nina St\u00c3\u00b6bling"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1373382608643,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Golchert",
+      "timestamp_ms": 1373382578518,
+      "content": "Patrick Golchert hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Patrick Golchert"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris Moosbrugger",
+      "timestamp_ms": 1373382559521,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ella Fiona",
+      "timestamp_ms": 1373382146152,
+      "content": "Hallo ihr alle :)\nich h\u00c3\u00a4tte ne kleine Bitte an euch. Und zwar muss ich f\u00c3\u00bcr die Uni mit ein paar Kommilitoninnen eine Projektarbeit machen, und daf\u00c3\u00bcr haben wir ne Miniumfrage erstellt. Es w\u00c3\u00a4r super lieb wenn ihr da mitmachen k\u00c3\u00b6nntet, es dauert echt nur f\u00c3\u00bcnf Minuten ;)\nUnd wenn ihr Lust habt d\u00c3\u00bcrft ihr den Link auch gerne weiter verschicken, je mehr mitmachen, desto besser :D\n\nDanke schonmal!! :**\n\nHier der Link: https://www.umfrageonline.com/s/8c4ed4f",
+      "share": {
+        "link": "https://www.umfrageonline.com/s/8c4ed4f"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anastasia, Davide, Nina und 65 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/anastasiadavideninaund65weiterepersonen_fsy87r17cq",
+  "magic_words": [
+    
+  ]
+}

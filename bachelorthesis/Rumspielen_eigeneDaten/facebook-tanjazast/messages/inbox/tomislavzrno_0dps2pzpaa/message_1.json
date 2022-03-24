@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Tomislav Zrno'"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tomislav Zrno'",
+      "timestamp_ms": 1528699821571,
+      "content": "Sretan ro\u00c4\u0091endan, sve najbolje :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tomislav Zrno'",
+      "timestamp_ms": 1527975089041,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tomislav Zrno'",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tomislavzrno_0dps2pzpaa",
+  "magic_words": [
+    
+  ]
+}

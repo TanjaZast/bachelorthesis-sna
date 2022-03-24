@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Aleksandar Sanja Bojkovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1546303764263,
+      "content": "Hvala, \u00c5\u00beelim to i vama. Sretna nova \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Sanja Bojkovic",
+      "timestamp_ms": 1546287236829,
+      "content": "Aleksandar Sanja hat einen Anhang gesendet.",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Sanja Bojkovic",
+      "timestamp_ms": 1339614150954,
+      "content": "Jesam hvala puno a i tebi sve najlepse zelimo...\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339596974287,
+      "content": "Hallo?? Sanja Dali si dobila text poruku?? :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339449921211,
+      "content": "Evo da cestita mo nikolu rodjendan :) da nam lepo slavi i da bude sdrav i mnogo srecan :) poljubac svima i sorry da pisem tako kasno\r\nVesna i tanja <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Aleksandar Sanja Bojkovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/aleksandarsanjabojkovic_kwrxsaxgxw",
+  "magic_words": [
+    
+  ]
+}

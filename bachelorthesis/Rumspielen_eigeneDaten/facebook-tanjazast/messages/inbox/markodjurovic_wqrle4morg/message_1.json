@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Marko Djurovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1556890101057,
+      "content": "Hahahahaha hit su slike \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Djurovic",
+      "timestamp_ms": 1556662981201,
+      "photos": [
+        {
+          "uri": "messages/inbox/markodjurovic_wqrle4morg/photos/59325842_343801416486583_4167822301099720704_n_343801413153250.jpg",
+          "creation_timestamp": 1556662975
+        },
+        {
+          "uri": "messages/inbox/markodjurovic_wqrle4morg/photos/58682458_413066142574741_5563718613971501056_n_413066139241408.jpg",
+          "creation_timestamp": 1556662979
+        },
+        {
+          "uri": "messages/inbox/markodjurovic_wqrle4morg/photos/59121022_654213998354256_7482012327336738816_n_654213995020923.jpg",
+          "creation_timestamp": 1556662975
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marko Djurovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/markodjurovic_wqrle4morg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Calvin M\u00c3\u00bcller"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454817594282,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454812400402,
+      "photos": [
+        {
+          "uri": "messages/inbox/calvinmuller_qipxinx9wg/photos/12665757_1142365562470959_617303982_n_1142365562470959.jpg",
+          "creation_timestamp": 1454812399
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.99.82",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454812394670,
+      "content": "Da fehlt ein Foto \u00f3\u00be\u008c\u00be das zweite von uns 3 bitte noch",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Calvin M\u00c3\u00bcller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/calvinmuller_qipxinx9wg",
+  "magic_words": [
+    
+  ]
+}

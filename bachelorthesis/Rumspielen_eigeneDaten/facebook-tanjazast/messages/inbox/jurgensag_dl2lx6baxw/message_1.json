@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "J\u00c3\u00bcrgen Sag"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J\u00c3\u00bcrgen Sag",
+      "timestamp_ms": 1402585434759,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402580128826,
+      "content": "Hat der nicht nen \u00c3\u00a4lteren Bruder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen Sag",
+      "timestamp_ms": 1402571259600,
+      "content": "Hey mal ne Frage woher kennst du orhan keskin",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "J\u00c3\u00bcrgen Sag",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jurgensag_dl2lx6baxw",
+  "magic_words": [
+    
+  ]
+}

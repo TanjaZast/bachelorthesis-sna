@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Velvet de Malik"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Laura Reu"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1509656359393,
+      "content": "Velvet hat gespielt. Du bist dran!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1456758252013,
+      "content": "Ja tanja laura und ich haben vorhin im rewe dar\u00c3\u00bcber geredet deshalb \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1456753349587,
+      "content": "Coolio ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1456748672358,
+      "content": "Hab die gruppe erstellt \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1456748660065,
+      "content": "Ein Kontakt hat die Gruppe Treffen \u00f0\u009f\u00a4\u0097\u00f0\u009f\u008e\u008a genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Treffen \u00f0\u009f\u00a4\u0097\u00f3\u00be\u0094\u00a0",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/treffen_nk5h1c-kjg",
+  "magic_words": [
+    
+  ]
+}

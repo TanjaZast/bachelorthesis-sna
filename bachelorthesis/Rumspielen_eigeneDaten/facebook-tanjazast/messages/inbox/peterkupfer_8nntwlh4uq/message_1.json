@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Peter Kupfer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Kupfer",
+      "timestamp_ms": 1419620349519,
+      "content": "Tolle Ausstrahlung :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Peter Kupfer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/peterkupfer_8nntwlh4uq",
+  "magic_words": [
+    
+  ]
+}

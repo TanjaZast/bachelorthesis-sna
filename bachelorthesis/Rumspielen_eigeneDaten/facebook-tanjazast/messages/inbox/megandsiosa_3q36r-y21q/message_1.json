@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Megan Dsiosa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343161892612,
+      "content": "999 :) haha",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Megan Dsiosa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/megandsiosa_3q36r-y21q",
+  "magic_words": [
+    
+  ]
+}

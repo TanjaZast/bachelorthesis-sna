@@ -1,0 +1,374 @@
+{
+  "participants": [
+    {
+      "name": "Antonios Kamargiannis"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493239037363,
+      "content": "okay vielen dank :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493238984538,
+      "content": "Jop kanns mir anschauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493238421022,
+      "content": "kannst du dir da dann kurz mein LA anschauen weil ich nicht wei\u00c3\u009f ob das stimmt und was du mit der 2 meinst. bin vermutlich einfach nur \u00c3\u00bcberm\u00c3\u00bcdet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493238271227,
+      "content": "Nur von 10 bis 12",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493238079643,
+      "content": "wann habt ihr denn morgen Pause? bzw du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493237897197,
+      "content": "Ok gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493237887442,
+      "content": "hab f\u00c3\u00bcr die 1a doch was sch\u00c3\u00b6nes raus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493237875601,
+      "content": "aber du kannst ja keinen beliebigen einsetzten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493236467751,
+      "content": "Viel mehr kann man da nicht sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493236454444,
+      "content": "Du setzt in die untere gleichung deine Vektoren ein und dann musst du umformen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493236369470,
+      "content": "kannst es mir bitte trotzdem ausf\u00c3\u00bchrlicher erkl\u00c3\u00a4ren? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493235644047,
+      "content": "Du musst da eig nur das mit dem d(p, f1) +d(p, f2) berechnen und zeigen dass das 2a ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233855589,
+      "content": "magst du mir die 2 erkl\u00c3\u00a4ren? ich hab da nichts aber schaue es mir heute noch an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233832301,
+      "content": "?? :D also 2 ganz und 1b?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493233808737,
+      "content": "Die 2 und die B",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233795868,
+      "content": "was habt ihr schon alles? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493233779257,
+      "content": "Kann sein hab die Ergebnisse nicht weil wir uns ein mal verrechnet haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233774412,
+      "content": "als L1 und L2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233751539,
+      "content": "16+- wurzel aus 756 halbe? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493233712560,
+      "content": "Ja da kommen \u00c3\u00bcberall nur h\u00c3\u00a4ssliche sachen raus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493233521359,
+      "content": "hast du in LA bei der 1a auch was h\u00c3\u00a4ssliches raus? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493121685200,
+      "content": "Jo kein Problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493121592997,
+      "content": "gab sonst keinen platz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493121584768,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493121583224,
+      "content": "bin im hinteren Raum :d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493066444067,
+      "content": "perfekt, Dankesch\u00c3\u00b6n!!!! :) bis morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493066176737,
+      "content": "Ok ja wir haben ja davor eh AI dann muss man sich nicht suchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493065968481,
+      "content": "hab da leider aha VL.... ja kid w\u00c3\u00a4re super, dann w\u00c3\u00bcrde ich direkt nach der Vorlesung dazukommen. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493065920746,
+      "content": "Wir werden uns auch von 10 bis 12 hinhocken kannst da auch kommen wenn du nichts hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493065893929,
+      "content": "Achso ja sonst k\u00c3\u00b6nnen wir auch zum kiz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493065863540,
+      "content": "nope :/ aber hab eclipse aufm laptop",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493065818230,
+      "content": "Hast du nen sgi Account?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493065812586,
+      "content": "Jo k\u00c3\u00b6nnen wir machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493065786707,
+      "content": "Duuuu ich hab in info jetzt die Nummer 3 und bisschen die 1. kann ich mich morgen von 14-16 Uhr euch anschlie\u00c3\u009fen? Dass du mir ein bisschen hilfst? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493057713677,
+      "content": "haben ja eh kein leben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057377950,
+      "content": "Also du musst immer an die Uni kommen um die Aufgaben zu machen oder es halt kaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057339430,
+      "content": "Da ist es ja schon drauf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493057282013,
+      "content": "aber wenn man es in der uni macht am uni computer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057267454,
+      "content": "Ja dann mach das am besten so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057257542,
+      "content": "Kostet halt 20 euro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493057251037,
+      "content": "oka :) im internet steht ich soll das handy 72 stunden einlegen :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493057233412,
+      "content": "muss das mal morgen runterladen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057232088,
+      "content": "Hat so bi\u00c3\u009fchen gezeigt wie die Eingaben so sind",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057219392,
+      "content": "Ne nicht unbedingt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493057208533,
+      "content": "hahah okay :D also f\u00c3\u00bcr mich alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493057142755,
+      "content": "Also f\u00c3\u00bcr mich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493056556145,
+      "content": "vielen Dank1 hat er noch was interessantes gesagt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonios Kamargiannis",
+      "timestamp_ms": 1493056342988,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonioskamargiannis_pk0uryphuw/photos/18120209_1480706221960563_1267843124_o_1480706221960563.jpg",
+          "creation_timestamp": 1493056341
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493055793666,
+      "content": "was ist der Einschreibeschl\u00c3\u00bcssel im WiMa Praktikum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1468317156003,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonios Kamargiannis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antonioskamargiannis_pk0uryphuw",
+  "magic_words": [
+    
+  ]
+}

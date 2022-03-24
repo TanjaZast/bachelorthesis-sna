@@ -1,0 +1,306 @@
+{
+  "participants": [
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333045108588,
+      "content": ":) aber das hat sich jetzt eh gekl\u00c3\u00a4hrt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1333045001855,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333044996590,
+      "content": ":) ja genau ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1333044945369,
+      "content": "auf em handy oder woe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1333044939315,
+      "content": ";D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1333044936031,
+      "content": "echt?! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333044925304,
+      "content": "du nicht wundern :) ich hab vorhin bei dir angerufen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318096046591,
+      "content": "dankeee ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318096029025,
+      "content": "jaa ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318096022890,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318095861659,
+      "content": "achso ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318095849180,
+      "content": "nee echt net :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318095604606,
+      "content": "jaa weil du meintest er hat zu viel gesat und dann dacht ich er hat dich beschimp oder so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318095588721,
+      "content": "h\u00c3\u00a4\u00c3\u00a4?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318095557516,
+      "content": "ohh ok..war er beschimpfend?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318095498391,
+      "content": "ja zu viel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318095456297,
+      "content": "wieso was hat er gesagt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318095441763,
+      "content": "ich weiss gar nemme was ich denken soll!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318095413860,
+      "content": "au man tanja..du bist so eien ..denks so was doch net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318095400308,
+      "content": "halt so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094869941,
+      "content": "wie kommst du auf sowas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094842168,
+      "content": "ja ich!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094801158,
+      "content": "wieso ..wer sagt des? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094786520,
+      "content": "ja stimmt doch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094764267,
+      "content": "wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094701600,
+      "content": "ja schon aber ist ja egal wie ich mich f\u00c3\u00bchle ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094678893,
+      "content": "schade..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094676528,
+      "content": "ahok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094666564,
+      "content": "beide oder so ich weiss nichts mehr ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094375435,
+      "content": "wer hat schluss gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094335352,
+      "content": "ja das wiisen wir beide net so genau!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094317869,
+      "content": "wegen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318094312604,
+      "content": "ja wir sind nemme zsm!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1318094272948,
+      "content": "tanja..:) was da los mit andrew? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310562501217,
+      "content": "ciao :* bis morgen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1310562462329,
+      "content": "Jaa mei ich dnek mir bei der schon gar nichts mehr dr\u00c3\u00bcber wenn die \u00c3\u00bcber einen l\u00c3\u00a4stert weil se des bgei so gut wie jedem macht :D naja ich muss dann mla ciao :*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310562375322,
+      "content": "jap genau weil die \u00c3\u00bcbelst hinterfotzig ist und so gut wie jeden l\u00c3\u00a4stert!! :D hallo?? und wie viel bock ich schon auf berlin hab!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1310562306780,
+      "content": "Also wie jetzt die hat \u00c3\u00bcber dich gel\u00c3\u00a4stert udn du willst mit ihr jetzt nichts mehr uz tun haben? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310562260064,
+      "content": "ja di el\u00c3\u00a4stert sich voll einen \u00c3\u00bcber mich ab und sagt dann voll den schei\u00c3\u009f \u00c3\u00bcber mcih!! :D boaah jetzt will ich nichts mehr mit der zu tun haben !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1310562207537,
+      "content": "H\u00c3\u00a4\u00c3\u00a4 was is mit bf und sagen? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310562169082,
+      "content": "booah :D du musst dir mal geben was zimmerman so alles \u00c3\u00bcber mich sagt und dann auf bf tut :D ich habs vorhin erfahren :D haha so ne dumme :(",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hanna Kramer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hannakramer_wszo9qvkjg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Steve Hick"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steve Hick",
+      "timestamp_ms": 1439728227107,
+      "sticker": {
+        "uri": "messages/stickers_used/851553_575285995890778_225688196_n_575284785890899.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Hick",
+      "timestamp_ms": 1430401550637,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_209575159232986_444727714_n_209575155899653.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Hick",
+      "timestamp_ms": 1425413019960,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steve Hick",
+      "timestamp_ms": 1425372856500,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steve Hick",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stevehick_amdknxbqcw",
+  "magic_words": [
+    
+  ]
+}

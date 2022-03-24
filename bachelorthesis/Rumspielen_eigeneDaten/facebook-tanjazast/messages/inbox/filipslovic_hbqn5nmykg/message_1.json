@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Filip Slovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Filip Slovic",
+      "timestamp_ms": 1519323222731,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447320236267,
+      "content": "Eh cao Filipe \u00e2\u0098\u00ba\u00ef\u00b8\u008f pls daj broj od kuma, Lidija mi neodgovara. Kaca nikako da organizira date sa kumom \u00f3\u00be\u008d\u0083 pa da ja to uzmem u svoju ruku",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Filip Slovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/filipslovic_hbqn5nmykg",
+  "magic_words": [
+    
+  ]
+}

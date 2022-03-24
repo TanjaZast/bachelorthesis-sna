@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Greta Ke"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1483556021912,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Greta Ke",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/gretake_q6lso7xzuq",
+  "magic_words": [
+    
+  ]
+}

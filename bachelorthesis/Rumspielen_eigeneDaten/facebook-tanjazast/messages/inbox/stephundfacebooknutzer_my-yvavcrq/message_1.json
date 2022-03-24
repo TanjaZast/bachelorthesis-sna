@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Steph Anie"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414441305466,
+      "content": "Also meins ist in 2 Minuten da! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414431832634,
+      "content": "ich schicks per email klappt nicht \u00c3\u00bcber fb :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414431782677,
+      "content": "also hier ist das bisherige handout, tanja deins fehlt halt noch :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steph und Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/stephundfacebooknutzer_my-yvavcrq",
+  "magic_words": [
+    
+  ]
+}

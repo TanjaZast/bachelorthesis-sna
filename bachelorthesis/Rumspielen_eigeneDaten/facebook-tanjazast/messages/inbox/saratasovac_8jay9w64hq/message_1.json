@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Sara Tasovac"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408034297392,
+      "content": "Nema na \u00c4\u008demu \u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f ba\u00c5\u00a1 nas raduje",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1408026398513,
+      "content": "Savr\u00c5\u00a1ena je ogrlica,mnogo mi se svi\u00c4\u0091a,hvala\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1346867071670,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1346867067344,
+      "content": "Znamo se? Daa\r\nLep/a? Prelepa\r\nTi si mi? Drugarica i ne\u00c5\u00a1to vi\u00c5\u00a1e\r\nBroj? Nemam\r\nVolim te? Daaa\r\nVeza? Ne\r\nFb veza? Ne\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1346417395787,
+      "content": "hvala\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346413991934,
+      "content": "evo recept za tvoju mamu: 200G urme (iseckati), 200G vode, jedna mala kasicica sode birkarbone. To kuvat 7-8 minuta i onda ohladiti. 80G maslaca, 150G zutog secera, pola praska za pecivo, 170G brasna, 2 jaja umutit i dodati urme i peci. podmazati pleh sa maslacem i brasnom. sos: 250G zutog secera, 130G maslaca, 1pavlaka i 1 vanil.Seci kolac i prelivati sa vrucim sosom! ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345892917131,
+      "content": "onda se vidimo?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1345892900236,
+      "content": "=D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345892882780,
+      "content": "ne ali danas dolazimo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Tasovac",
+      "timestamp_ms": 1345892849172,
+      "content": "Cao! Da li ste do\u00c5\u00a1li u \u00c4\u008ca\u00c4\u008dak",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sara Tasovac",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/saratasovac_8jay9w64hq",
+  "magic_words": [
+    
+  ]
+}

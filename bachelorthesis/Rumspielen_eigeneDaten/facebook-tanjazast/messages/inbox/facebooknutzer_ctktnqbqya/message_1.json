@@ -1,0 +1,362 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364952338640,
+      "content": "Schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364952335574,
+      "content": "Nat\u00c3\u00bcrlich dann k\u00c3\u00b6nnen wir uns besser kennen lernen und schnelle und wir k\u00c3\u00b6nnen \u00c3\u00b6fters schrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364952276360,
+      "content": "\u00c3\u009cber whats app?? Als ob das was ausmacht? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364926369427,
+      "content": "Deswegen deine Nummer dann k\u00c3\u00b6nnen wir immer schreiben und dann k\u00c3\u00b6nnen wir uns auch kennen lernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364922007190,
+      "content": "Ja ich kenn dich ja nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364890371250,
+      "content": "Wie meinst du nicht so her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364868974165,
+      "content": "Hmmm ich geb meine Nummer nicht so her ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364864020305,
+      "content": "Um mit dir zu schreiben deine s\u00c3\u00bc\u00c3\u009fe stimme zu h\u00c3\u00b6ren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364863926324,
+      "content": "Warum denn dann meine Nummer??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364861724678,
+      "content": "Gibst du mir deine Nummer um uns neher kennen zu lernen s\u00c3\u00bc\u00c3\u009fe ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364861705980,
+      "content": "Bist echt s\u00c3\u00bc\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364861697912,
+      "content": "Gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364861499597,
+      "content": "Ja gut.. Dir? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364855080261,
+      "content": "Wie geht's dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364777127938,
+      "content": "Hallo! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1364775890582,
+      "content": "Heii)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363528995988,
+      "content": "Sage",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363528993691,
+      "content": "Weil ich es darf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363445785820,
+      "content": "Warum stimmt es nicht ;) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363444245837,
+      "content": ":) weils nicht stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363439477800,
+      "content": "Warum man ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363434934333,
+      "content": "HahA man!!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363433486163,
+      "content": "Das soll hei\u00c3\u009fen das wenn ich deine Nummer bekomm das ich mit dir s\u00c3\u00bc\u00c3\u009fe immer schreiben kann und nicht immer in Facebook auf deine Antwort warten muss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363433230917,
+      "content": "Was redest du?? ;) Hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363415809734,
+      "content": "Ich kann Tage lang mit einem s\u00c3\u00bc\u00c3\u009fen M\u00c3\u00a4dchen nicht schreiben das ist echt traurig :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363415777786,
+      "content": "Nat\u00c3\u00bcrlich ist das schlimm f\u00c3\u00bcr mich :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363387149295,
+      "content": "Tja.. Ist ja nicht schlimm??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363387061299,
+      "content": "Dann K\u00c3\u00b6nnen wir auch SMS schreiben und telefonieren dann m\u00c3\u00bcssen wir nicht 2 Tage warten bist die andere Person antwortet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363386522369,
+      "content": "Hmmm :) warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363328136223,
+      "content": "Ich w\u00c3\u00bcrde mich freuen wenn ich deine Nummer bekomm dann k\u00c3\u00b6nnten wir auch SMS schreib nicht nur in Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363299701490,
+      "content": "Warum? :) hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363284551082,
+      "content": "Ich hab darauf gewartet das du mir deine Nummer schickst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363270710613,
+      "content": "H\u00c3\u00a4 warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363214979781,
+      "content": ":'(  du hast mir das herz gebrochen :'( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363212162353,
+      "content": "Ich geb meine Nummer nicht einfach so ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363155448544,
+      "content": "Heii :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363129819791,
+      "content": "Kannst du mir deine Nummer geben dann k\u00c3\u00b6nnen wir uns besser kennen lernen s\u00c3\u00bc\u00c3\u009fe :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363125337129,
+      "content": "Ich kenn dich null! :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363123041616,
+      "content": "Sollen wir uns mal treffen s\u00c3\u00bc\u00c3\u009fe :) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363123028191,
+      "content": "Ich komme aus achstetten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363122905003,
+      "content": "Aus donaustetten du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363121484194,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363105177241,
+      "content": "Darf ich dich fragen woher du kommst s\u00c3\u00bc\u00c3\u009fe :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363104432559,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363104426375,
+      "content": "Warum solltest du deine Nummer einem\nFremden geben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363104418674,
+      "content": "Ja das machst du auch richtig so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363104303850,
+      "content": "Oh Hahaha okay ;) Naja aber ich wollte sie nicht weil ich nicht einfach so Nummern her gebe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363104251249,
+      "content": "Mein Bruder hat gesagt er hat dir meine Nummer gegeben weil ich dich s\u00c3\u00bc\u00c3\u009f finde aber er wusste nicht das ich Facebook habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363104181788,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_ctktnqbqya",
+  "magic_words": [
+    
+  ]
+}

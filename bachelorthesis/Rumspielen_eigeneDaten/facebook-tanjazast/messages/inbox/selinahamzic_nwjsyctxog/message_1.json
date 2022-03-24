@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Selina Hamzi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1399648860250,
+      "content": "vielen dank <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399648810049,
+      "content": "Okay hab ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1399648499181,
+      "content": "w\u00c3\u00a4re voll lieb :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1399648495835,
+      "content": "hey Tanja :* ich hab bei nem Gewinnspiel mitgemacht und musste ein bestimmtes Bild auf einer Seite hochladen. Kannst du das mal bitte kurz liken. W\u00c3\u00a4re mega lieb. Ich w\u00c3\u00bcrde gerne gewinnen https://www.facebook.com/photo.php?fbid=750677281630146&set=o.285632886879&type=1&theater",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341153790360,
+      "content": "Okay :) danke ich schau mal ob ich das hin bekomme ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1341153484851,
+      "content": "Dann kannst du in der fundkiste schauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1341153403332,
+      "content": "N\u00c3\u00a4chsten freitag um 19ugr mal kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1341153389139,
+      "content": "Aber du sollst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1341153378926,
+      "content": "Ner sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341048654572,
+      "content": "Und hat man was gefunden? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Hamzi\u00c4\u0087",
+      "timestamp_ms": 1341016347790,
+      "content": "Mach icg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341009864920,
+      "content": "Duu selly :) falls du iwo im mahatma ne weisse ice watch finden solltest die leicht verkratzt ist ( also nach heute). Naja das ist meine :* kannst du mir dann bitte bescheid sagen!?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Selina Hamzi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/selinahamzic_nwjsyctxog",
+  "magic_words": [
+    
+  ]
+}

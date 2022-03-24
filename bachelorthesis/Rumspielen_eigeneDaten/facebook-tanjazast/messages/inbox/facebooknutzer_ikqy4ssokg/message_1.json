@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362152274035,
+      "content": "Erkl\u00c3\u00a4r ich dir nachher okidoki?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362152237462,
+      "content": "H\u00c3\u00a4 warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362152161418,
+      "content": "Ich muss den um 18.30 nehmen -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362152117696,
+      "content": "Ich glaub halb 9 f\u00c3\u00a4hrt der letzte jede halbe Stunde aber der f\u00c3\u00a4hrt nur bis donaustetten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362152067895,
+      "content": "Ich wei\u00c3\u009f es nicht? ;) ich nehme ja eh den Bus um 19.30! ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362152020028,
+      "content": "F\u00c3\u00a4hrt der nicht nach 20 uhr anders?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362151893466,
+      "content": "Ehm je nachdem :) haha jede halbe Stunde eben?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362151827554,
+      "content": "Nachm kurs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362151726602,
+      "content": "Wann??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362145918725,
+      "content": "Also nach donaustetten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362144521695,
+      "content": "Wann f\u00c3\u00a4hrt dein bus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362144160845,
+      "content": "Achso ich Geh ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362137504429,
+      "content": "Wie der kurs glaub ich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362137488362,
+      "content": "Von wann bin wann ist der? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362137470470,
+      "content": "Heim*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362137466216,
+      "content": "F\u00c3\u00a4hrst du mit dem bus hein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362137452360,
+      "content": "Ja warum? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1362136982255,
+      "content": "Heyy kommst du heute zum indiaworkshop?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_ikqy4ssokg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Coco Ehrenthaller"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Coco Ehrenthaller",
+      "timestamp_ms": 1556664882765,
+      "content": "Hey Maus ja ich hab's ihm gleich am n\u00c3\u00a4chsten Tag gegeben .\nEr hat nur gemeint das er das mit seiner Mutter bereden muss aber das die sowas normal nicht machen . \nAlso nicht so gute Nachrichten er hat Mal den Zettel genommen.\nAber ich denke eher das das ein nein war .\nSorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1556658663175,
+      "content": "und? :* sorry f\u00c3\u00bcrs nerven!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1556524275205,
+      "content": "Hallo Corinic, hast du Momo alles weitergeleitet? Er hatte sich noch nicht bei mir gemeldet, daher frage ich \u00f0\u009f\u0098\u009a\nVielen Dank und liebe Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Coco Ehrenthaller",
+      "timestamp_ms": 1447913516752,
+      "content": "Das bekommst du schon hin \u00f3\u00be\u008c\u00aa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447891148033,
+      "content": "\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447891144382,
+      "content": "Alles klar bitte \u00e2\u0098\u00ba\u00ef\u00b8\u008f bedanke dich nicht zu fr\u00c3\u00bch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Coco Ehrenthaller",
+      "timestamp_ms": 1447890373728,
+      "content": "So viel wie rein passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Coco Ehrenthaller",
+      "timestamp_ms": 1447890337916,
+      "content": "Ja genau. \nGold ochsen original. \nDanke dir\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447890260855,
+      "content": "Hab vergessen welches Bier deine Jungs wollen \u00f3\u00be\u008c\u00b1 Gold Ochsen Original? Und 2 mal so ne 20 Flaschen Kiste dann? \u00e2\u0098\u00ba\u00ef\u00b8\u008f \nVielen Dank \nUnd gute Nacht",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Coco Ehrenthaller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cocoehrenthaller_ww8e56pssw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "participants": [
+    {
+      "name": "Franziska de Gilde"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Emilia Sch\u00c3\u00bctz"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1404421757425,
+      "content": "Jap, ich bring dir die Originale mit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404421574809,
+      "content": "Emil kannst du mir noch den sonnengesang in din a 4 mitbringen oder schicken? Des war so klein ich konnte des nich so wirklich lesen is wenn ich des morgen singen soll...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404404760656,
+      "content": "Ich hoffe es ist nicht alzu schlimm tut mir wirklich leid aber wir werden nicht fertig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404404728901,
+      "content": "Ich schaffs heute abend nicht .... tut mir voll leid aber ich hab mit tanja dass mit den t\u00c3\u00bccher schon besprochen und die f\u00c3\u00bcrbitten haben wir auch schon und er hat mir nicht geantwortet :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1404378821817,
+      "content": "Das wei\u00c3\u009f ich nicht, da m\u00c3\u00bcssen wir heute Abend den Vikar fragen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1404375320664,
+      "content": "Oh ich hab noch vergessen: ich brauch wahrscheinlich n Mikro. Is da eins da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403863891077,
+      "content": "achso, perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403863717139,
+      "content": "Haben wir schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403863696578,
+      "content": "Richtig gut!! Ich schick's an den Vikar weiter, der schaut auch nochmal dr\u00c3\u00bcber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403863528229,
+      "content": "Passwn die so oder w\u00c3\u00bcrdet ihr was \u00c3\u00a4ndern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403863513161,
+      "content": "Die Probe am Donnerstag wird f\u00c3\u00bcr uns alle auf 19.00 Uhr verschoben, da davor Vesper ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403863487051,
+      "content": "Danke ! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403861061395,
+      "photos": [
+        {
+          "uri": "messages/inbox/gottesdienstmusik_o2ch1kenhw/photos/10487029_734094399988261_728619021_n_734094399988261.jpg",
+          "creation_timestamp": 1403861061
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403861058574,
+      "photos": [
+        {
+          "uri": "messages/inbox/gottesdienstmusik_o2ch1kenhw/photos/10487029_734094399988261_728619021_n_734094369988264.jpg",
+          "creation_timestamp": 1403861058
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403860918693,
+      "photos": [
+        {
+          "uri": "messages/inbox/gottesdienstmusik_o2ch1kenhw/photos/10510159_734093926654975_365792305_n_734093926654975.jpg",
+          "creation_timestamp": 1403860918
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403860909997,
+      "photos": [
+        {
+          "uri": "messages/inbox/gottesdienstmusik_o2ch1kenhw/photos/10490308_734093859988315_86590107_n_734093859988315.jpg",
+          "creation_timestamp": 1403860910
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403705554065,
+      "content": "Charlotte wie sieht's aus mit der Lesung, k\u00c3\u00b6nntest du das \u00c3\u00bcbernehmen? Die genau Bibelstelle bekommst du noch, der Text ist \u00c3\u00bcber Abraham",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403631150842,
+      "content": "Jo passt. Wenn des f\u00c3\u00bcr den Organisten ok is...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403627201769,
+      "content": "Wir k\u00c3\u00b6nnen ja 18.30 Uhr sagen und Franzi du kommst nach wenn du fertig bist. Dann sag ich zum Organisten 19 Uhr. W\u00c3\u00a4re das auch okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403627147678,
+      "content": "Ich glaube es w\u00c3\u00a4re ganz gut, wenn der Organist das mal davor mit dir durchspielen kann. Au\u00c3\u009ferdem wei\u00c3\u009f ich nicht, wie die Situation vor dem Gottesdienst ist, ob man da noch proben kann und ob der Organist fr\u00c3\u00bcher da ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403611932178,
+      "content": "Ich dachte des machen wir am Freitag dann kurz vor dem Gottesdienst...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403611814116,
+      "content": "Willst du nicht mal noch mit dem Organisten proben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403609804978,
+      "content": "Ja sonst k\u00c3\u00b6nnt ihr mir ja sagen was der gesagt hat..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403600365164,
+      "content": "mh okay.. der Vikar kann davor nicht, dann frag ich nach ob 19 Uhr auch gehen w\u00c3\u00bcrde.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403598448887,
+      "content": "Ich kann nur vor 16 oder nach 19 Uhr..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403598148970,
+      "content": "Jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1403597559983,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403596049802,
+      "content": "W\u00c3\u00a4re 17.30 Uhr am 3.07. f\u00c3\u00bcr euch alle okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403596023160,
+      "content": "Da haben wir nichts geplant, da soll der Organist selber entscheiden was er gerne spielt ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528346739,
+      "content": "Was wird bei der Kommunion gespielt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403528339936,
+      "content": "Tanja, deinen Vorschlag find ich gut, allerdings musst du das halt vor dem Gottesdient vorbereiten. Aber wenn das f\u00c3\u00bcr dich okay ist gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528326054,
+      "content": "Oki",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403528301419,
+      "content": "Schreib ich euch aber noch, sobald ich mehr wei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403528287593,
+      "content": "Uhrzeit ist noch nicht fest, weil ich nicht wei\u00c3\u009f, wann wir in die Kirche k\u00c3\u00b6nnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528266774,
+      "content": "Wann am do?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528262318,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528257111,
+      "content": "Oh des wollte ich nich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403528244978,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361924215271_792446242_n_126361920881938.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403527604286,
+      "content": "Man k\u00c3\u00b6nnte doch T\u00c3\u00bccher den hauptgang entlang auslegen und die entzweigen sich und jede bankreihe ist ein ,, neuer Weg\" den man einschlagen kann. Man kann ja dann zu jeder Abzweigung nen beschriebenen zettel hinlegen mit Ideen oder M\u00c3\u00b6glichkeiten in welche Richtung unser weiterer Lebensweg gehen k\u00c3\u00b6nnte. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403527326280,
+      "content": "Also Lieder die wir spielen hab ich rausgesucht, was symbolisch darstellen oder in der Art find ich ne gute Idee, also falls dir was einf\u00c3\u00a4llt und du das organisiert gerne! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403527167009,
+      "content": "Wollt ihr irgendwie auch noch so Lieder spielen oder so eine Art ,,St\u00c3\u00bcck\" vorbereiten? oder Sachen symbolisch darstellen z.B. den weg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403526792669,
+      "content": "Hey M\u00c3\u00a4dels,\n\nEs geht um den Gottesdient vor unserem Abiball: \nCharlotte, w\u00c3\u00a4re es f\u00c3\u00bcr dich okay, wenn du die Lesung vorliest?\n\nFranzi Schiller und Tanja, ihr macht ja die F\u00c3\u00bcrbitten, so 4/5 br\u00c3\u00a4uchten wir da. Das Thema ist \"Neues wagen\", die F\u00c3\u00bcrbitten sollten also inhaltlich dazu passen. Wenn ihr die F\u00c3\u00bcrbitten fertig habt, schickt sie bitte an den Vikar Stier, der m\u00c3\u00b6chte nochmal dr\u00c3\u00bcber gehen: u.stier@freenet.de\nIhr solltet sie dann im Gottesdienst auch vorlesen, wenn das okay ist ;) \n\nFranzi de Gilde du bekommst morgen noch die Noten f\u00c3\u00bcr das Hallelujah. \n\nAnsonsten w\u00c3\u00bcrde ich sagen, dass wir 6 mal ein Treffen in St. Georg mit dem Vikar machen und kurz proben. W\u00c3\u00a4re Donnerstag 3. Juli f\u00c3\u00bcr euch okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403526375267,
+      "content": "Emilia Sch\u00c3\u00bctz hat dich und 2 weitere Personen zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        },
+        {
+          "name": "Franziska Schiller"
+        },
+        {
+          "name": "Charlotte Kast"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403295164325,
+      "content": "Ich habs mir verkniffen zu schreiben ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403295145228,
+      "content": "Ja mir ist das egal, ist auch einfacher von der Orga",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403294493662,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403294452363,
+      "content": "Also ich glaub alleine h\u00c3\u00b6rt sich des besser an. Nicht dass ich des unbedingt alleine singen muss. Is nur meine Meinung. Wie ihr wollt...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403294342776,
+      "content": "Wie du m\u00c3\u00b6chtest, die anderen haben sich ja nicht gemeldet dass sie singen wollen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403291990701,
+      "content": "Soll ich das jetzt eigentlich alleine singen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska de Gilde",
+      "timestamp_ms": 1403264723521,
+      "content": "Oki! Mit den Proben reichte ja auch einmal kurz durchsingen davor. Aber die Noten h\u00c3\u00a4tt ich schon gern fr\u00c3\u00bcher :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403264521233,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403264495900,
+      "content": "Franzi, ich frag den organisten ob er auch auf dem Fl\u00c3\u00bcgel spielen k\u00c3\u00b6nnte, weil das sch\u00c3\u00b6ner klingt zu den Liedern. Am Montag gehe ich zu Kerstner und frag nach den Noten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403264481309,
+      "content": "Was anderes gibt es n\u00c3\u00a4mlich gar nicht und da haben wir ja noch \u00c3\u00bcberlegt was wir nehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403264308291,
+      "content": "Guti ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403264295240,
+      "content": "Ja, er meint f\u00c3\u00bcr die Lesung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403264035285,
+      "content": "Hm. Am besten das klaren wir dann beim Treffen.  Entschuldige, aber das einzige was ich von ihm verstanden habe war: \" F\u00c3\u00bcr. .. wegen des Aufbruchs nehmen wir die Gechichte mit Abraham. Denkt euch was fetziges aus. \"",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403263911541,
+      "content": "Die Lesung, also das mit Abraham wird von einem Lektor vorgelesen, also zum Beispiel einer aus unserer Stufe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403263853496,
+      "content": "Genau znd da sagte er er nimmt das was mit Abraham.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403263819523,
+      "content": "Der Pfarrer liest das Evangelium vor, die Tagesgebete und das Hochgebet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403263592743,
+      "content": "Also er redet ja auch was. Das meine ich ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403263556139,
+      "content": "Ja es gibt doch gar keine anderen Texte?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403263456264,
+      "content": "Hm, ich glaube er meinte f\u00c3\u00bcr seine Texte.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1403263414116,
+      "content": "Du meinst f\u00c3\u00bcr die Lesung oder wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403254263271,
+      "content": "Emilia, zwecks des Aufbruchs w\u00c3\u00bcrde er gern den Text von Abraham einbeziehen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403253998631,
+      "content": "Ein Kontakt hat die Gruppe Gottesdienst, Musik genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403253803738,
+      "content": "Hey ihr Lieben, \nder Organist der angefragt worden ist hei\u00c3\u009ft Adrian H\u00c3\u00a4nsler. Herr Stier meint, wenn wir etwas von der Kollekte (ca. 30 Euro) ihm \u00c3\u00bcberlassen, w\u00c3\u00bcrde er mit den Solistinnen proben. Hier die E-mail : adrian.haensler@uni-ulm.de .\nAlso Vikar Stier hat das gemacht ^^",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Gottesdienst, Musik",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/gottesdienstmusik_o2ch1kenhw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Marco Lapomarda"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1417835659183,
+      "content": "Myers :)\u00f3\u00be\u00ae\u009f\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Lapomarda",
+      "timestamp_ms": 1417834794959,
+      "content": "Wo ging noch was ??\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marco Lapomarda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcolapomarda_zj8lgbftlw",
+  "magic_words": [
+    
+  ]
+}

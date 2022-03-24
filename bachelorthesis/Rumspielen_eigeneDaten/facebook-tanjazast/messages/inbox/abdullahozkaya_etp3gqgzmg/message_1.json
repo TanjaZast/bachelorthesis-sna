@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Abdullah \u00c3\u0096zkaya"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdullah \u00c3\u0096zkaya",
+      "timestamp_ms": 1414870555162,
+      "content": "Auch ganz gut:) Was machs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414870189164,
+      "content": "Gut und dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Abdullah \u00c3\u0096zkaya",
+      "timestamp_ms": 1414868362757,
+      "content": "Wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414867126809,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Abdullah \u00c3\u0096zkaya",
+      "timestamp_ms": 1414859929341,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Abdullah \u00c3\u0096zkaya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/abdullahozkaya_etp3gqgzmg",
+  "magic_words": [
+    
+  ]
+}

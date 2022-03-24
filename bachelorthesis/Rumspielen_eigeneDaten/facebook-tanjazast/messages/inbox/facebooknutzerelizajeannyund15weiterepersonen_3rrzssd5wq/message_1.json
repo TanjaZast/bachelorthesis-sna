@@ -1,0 +1,198 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Eliza Eberhardt"
+    },
+    {
+      "name": "Jeanny R. Ba\u00c4\u008da"
+    },
+    {
+      "name": "Leandro Soarez"
+    },
+    {
+      "name": "\u00d0\u009c\u00d0\u00b0\u00d0\u00ba\u00d1\u0081\u00d0\u00b8\u00d0\u00bc \u00d0\u0092\u00d0\u00be\u00d1\u0080\u00d0\u00be\u00d0\u00bd"
+    },
+    {
+      "name": "Kim Kicherer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Harry Fit"
+    },
+    {
+      "name": "Alicia Rafaela Evans"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Cem Michael Rechenberg"
+    },
+    {
+      "name": "Areti Lagou"
+    },
+    {
+      "name": "Bi Ne"
+    },
+    {
+      "name": "Maximilian Hirsch"
+    },
+    {
+      "name": "Daniela Gl\u00c3\u00b6ckler"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351969799553,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1351965806339,
+      "content": "Simon Prplx'mvs hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Simon Prplx'mvs"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Katrin Moiseenko",
+      "timestamp_ms": 1351962675352,
+      "content": "Katrin Moiseenko hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Katrin Moiseenko"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351957222427,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351953382874,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Verena Rosa",
+      "timestamp_ms": 1351950561719,
+      "content": "Verena Rosa hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Verena Rosa"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Na Talie",
+      "timestamp_ms": 1351950488440,
+      "content": "Na Talie hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Na Talie"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Anthony Palma",
+      "timestamp_ms": 1351949881423,
+      "content": "David Anthony Palma hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "David Anthony Palma"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351949651894,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351949589615,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nico Soica",
+      "timestamp_ms": 1351949542872,
+      "content": "Nico Soica hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nico Soica"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351949517755,
+      "content": "http://m.youtube.com/watch?v=1FjWt3P4-wU\n\n\n\n\nBitte linken und weitersenden \nDanke",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Eliza, Jeanny und 15 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerelizajeannyund15weiterepersonen_3rrzssd5wq",
+  "magic_words": [
+    
+  ]
+}

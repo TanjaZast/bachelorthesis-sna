@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1523360817576,
+      "content": ":o :o Ta",
+      "share": {
+        "link": "http://ron1523360812.storage.googleapis.com/1523360812.html?wkr=ronny&id=100000925770890&name=Ta+Za"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_ajwastpt3w",
+  "magic_words": [
+    
+  ]
+}

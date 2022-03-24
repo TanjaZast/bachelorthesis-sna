@@ -1,0 +1,247 @@
+{
+  "participants": [
+    {
+      "name": "Kevin El Aleman"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Sofia Sturm"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Pascale Rey"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Regina Heudorfer"
+    },
+    {
+      "name": "Caro Ch"
+    },
+    {
+      "name": "Ann Knappe"
+    },
+    {
+      "name": "Su Shi"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Sophie Witte"
+    },
+    {
+      "name": "Johanna Duckek"
+    },
+    {
+      "name": "Nadine Schneider"
+    },
+    {
+      "name": "Isabelle Fink"
+    },
+    {
+      "name": "Anne Hoerder"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341584167944,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Calzia",
+      "timestamp_ms": 1341579793532,
+      "content": "Chiara Calzia hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Chiara Calzia"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christina Paal",
+      "timestamp_ms": 1341574826157,
+      "content": "Christina Paal hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Christina Paal"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mard\u00c3\u00bf Marta\u00c3\u00adn",
+      "timestamp_ms": 1341553645371,
+      "content": "Mard\u00c3\u00bf Marta\u00c3\u00adn hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mard\u00c3\u00bf Marta\u00c3\u00adn"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341086827684,
+      "content": "FacebookHii Mausi, tut mir wirkich leid.Wir sind bis vorhin noch auf Klassenfahrt in de schweiz gwesn. Alles alles gute w\u00c3\u00bcnsch ich dir trotzdem!!!Lasses krachn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carolin Wels",
+      "timestamp_ms": 1340979421384,
+      "content": "Carolin Wels hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Carolin Wels"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nadine Schneider",
+      "timestamp_ms": 1340961299307,
+      "content": "Ich bring kuchen mit wenn des ok ist?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carolin Wels",
+      "timestamp_ms": 1340740440101,
+      "content": "Hab leider Abiball, w\u00c3\u00bcnsch dir aber einen sch\u00c3\u00b6nen Abend! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1340739655734,
+      "content": "also ich komm :D muss schauen was ich machen kann... wahrscheinlich ein salat :D bis dann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340739543213,
+      "content": "isst mit ss xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340739431429,
+      "content": "Haha ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Su Shi",
+      "timestamp_ms": 1340739355783,
+      "content": "like :D ...ich bring 2x erdbeer-tiramisu mit, weiss ja nicht, wie viel du ist ;D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340738835596,
+      "content": "mhmmmm erdbeer-tiramisu :D\nich komme auch xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Su Shi",
+      "timestamp_ms": 1340738605412,
+      "content": "ich bring erdbeer-tiramisu mit :) und ich komm ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340737634236,
+      "content": "mhmmmm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann Knappe",
+      "timestamp_ms": 1340737563996,
+      "content": "doch die caro und die anderen austauschsch\u00c3\u00bcler?\nund sonst lernst leute kennen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340737518441,
+      "content": "ich kenn da doch keinen :(\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340737509844,
+      "content": "und ich soll dann da alleine gammeln ???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann Knappe",
+      "timestamp_ms": 1340737476100,
+      "content": "hey tut mir leid.. :/ ich glaub nich dass ich des hinbekomm\nich hab am sonntag morgen einen termin... aber ich w\u00c3\u00bcnsch euch auf jeden fall ganz viel spa\u00c3\u009f und feiert sch\u00c3\u00b6n !! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin El Aleman",
+      "timestamp_ms": 1340734369223,
+      "content": "wenn ich bei dir pennen kann gehts bestimmt :D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Hoerder",
+      "timestamp_ms": 1340729052502,
+      "content": "Also ich komm und bring so ein nachtich mit beereb und sahne und gerne einen brief uuund ich trink recht wenig bier ;D bis dann ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340727825898,
+      "content": "so liebe Leute,\nam Samstag werde ich meine Abschieds- und meine (nachtr\u00c3\u00a4gliche) Geburtstagsparty feiern.\nFalls ihr noch nicht sicher wusstet, ob ihr kommt, sagt mir bitte so schnell wie m\u00c3\u00b6glich bescheid!!!\n\nDie Party ist bei mir zu Hause:\nAgnes-Karll Weg 5 \n89075 Ulm - Eselsberg\nund f\u00c3\u00a4ngt um 18:30 an. Das Ende ist nicht genau bestimmt aber ich w\u00c3\u00bcrd sagen nicht l\u00c3\u00a4nger als 1 oder 2 Uhr (die armen Nachbarn ;) ) \n\nJeder sollte etwas f\u00c3\u00bcrs B\u00c3\u00bcffet mitbringen. Entweder einen Nachtisch oder eine Vorspeise.\nBitte schreibt mir so schnell wie m\u00c3\u00b6glich was ihr mitbringt, nicht dass wir am Schluss 20 Kuchen oder 10 mal Tomate-Mozarella haben :D\n\nEin gro\u00c3\u009fer Wunsch sind auch noch sogenannte \"plane letters\" also Briefe von euch, die ich dann im Flugzeug nach Kanada lesen werde :). Ich w\u00c3\u00bcrde mich total freuen wenn ihr mir einen schreibt :)\n\nDann noch wegen Alkohol: Ich werde Bier besorgen. Kann mir bitte jeder schreiben wie viel Bier er trinkt? (Aber bitte sauft euch nicht zu, denn wir wollen uns ja noch an den Abend erinnern ;) )\n\nEure Caro <3\n\n\n\n\n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kevin, Facebook-Nutzer, Sofia und 15 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/kevinfacebooknutzersofiaund15weiterepersonen_nes6e_debg",
+  "magic_words": [
+    
+  ]
+}

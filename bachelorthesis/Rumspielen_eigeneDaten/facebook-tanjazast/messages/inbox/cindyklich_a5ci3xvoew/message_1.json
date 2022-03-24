@@ -1,0 +1,421 @@
+{
+  "participants": [
+    {
+      "name": "Cindy Klich"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419436269469,
+      "content": "W\u00c3\u00bcnsche euch ein ganz tolles Fest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419436235607,
+      "content": "Sagst einfach Bescheid wenn ihr soweit seit \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419436210960,
+      "content": "Den musst leider selber machen weil er dann gleich bezahlt werden m\u00c3\u00bcsste \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419413164223,
+      "content": "Kannst du mr den Gutschein schnell schicken die Namen von den beiden w\u00c3\u00a4ren Lisa und Stefan und meine Email: tanja.zast@gmx.de",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419413127161,
+      "content": "Ja das w\u00c3\u00a4re ne mega Option! 125 passt auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419172594644,
+      "content": "Wir k\u00c3\u00b6nnen h\u00c3\u00b6chstens die Zeit k\u00c3\u00bcrzen das man beide nur 30 min fotografiert f\u00c3\u00bcr das Paket mit 125 Euro \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419165899804,
+      "content": "Ja aber 180 ist halt doch sehr viel finde ich :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419104112735,
+      "content": "Kann dir einen gutschein machen wenn du magst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419104082920,
+      "content": "Normal kostet es 200 Euro aber ich kann das gern f\u00c3\u00bcr 180 Euro machen.  Inklusive sind da auch 10 Bilder in 13x18 cm oder 6 digitale",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419103979830,
+      "content": "Du meinst also ein paarshooting",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1419103963770,
+      "content": "Hallo Tanja, lieb das du an mich denkst.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419102458579,
+      "content": "Hey du :) \nIch h\u00c3\u00a4tte eine Frage... \nW\u00c3\u00bcrdest du vielleicht als Weihnachtsgeschenk f\u00c3\u00bcr meine Schwester einspringen? Ich wollte der ein Fotoshooting mit ihrem Freund zusammen schenken und die Kosten um die 180\u00e2\u0082\u00ac w\u00c3\u00bcrdest du es eventuell machen und f\u00c3\u00bcr wie viel :)\nDanke im Voraus :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1354209454119,
+      "content": "geh mal auf diashow oder mit maus nen rechtsklick, den bogen runterspeichern und auch gr\u00c3\u00b6\u00c3\u009fer anschauen. wenn das alles nicht hilft, schicke ich euchs hier nochmal zu :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354208867341,
+      "content": "Heei ;) ich kann unseren Bilderbogen gar nicht richtig anschauen :( da st\u00c3\u00b6rt die schrift",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343683172363,
+      "content": "also hier sind sie ganz normal zu sehen...musst sie runter kopieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343682834488,
+      "content": "sind die einen 2 fotos mit absicht so abgeschnitten?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343681327861,
+      "content": ":-) bittesch\u00c3\u00b6n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343681273389,
+      "content": "danke danke danke :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343681148693,
+      "files": [
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/z26_965129016853099.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343681049309,
+      "files": [
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/z27_965129003519767.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343680721582,
+      "files": [
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/z12_965129026853098.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343680649810,
+      "content": "danke :) das eine ist voll sch\u00c3\u00b6n!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343680093602,
+      "content": "ja genau :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343680047242,
+      "content": "dann die 12 wo du so kniest, richtig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343680017471,
+      "files": [
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/z33_965129010186433.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343679777268,
+      "content": ":) okay danke :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343679762911,
+      "content": "verrate es niemand....passt schon :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343679731326,
+      "content": "ja genau :) und meine schwester hat auch 2 aber selber dann ausgesucht :P oh okay also schuld ich dir noch etwas geld?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343679679840,
+      "content": "ja genau, eigentlich 2 f\u00c3\u00bcr sich allein...ok, also das bekommen wir schon hin...du nimmst 4 inklusive f\u00c3\u00bcr dich und deine freundin, richtig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343679586186,
+      "content": "ehm ne also ich hab 5 sie auch und meine schwester auch also dachte ich hat jede 2 frei??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343679526853,
+      "content": "wieviel hat denn die freundin gezahlt weil normal sind 3 frei wenn man zu zweit ist oder habt ihr alle 3 7,50 euro gezahlt huuuuuu....drehwurm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343679239122,
+      "content": "ja genau :) halt nur oberk\u00c3\u00b6rper mit kopf :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343679208690,
+      "content": "z-33 wo ihr zu zweit seit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343679149563,
+      "content": "okay mach ich :) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343679121894,
+      "content": "warte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343678859160,
+      "content": "oh okay kannst du meins vllt nach vorne nehmen?? ich fahr dann f\u00c3\u00bcr 5 wochen weg am samstag und wollte unserer freundin die blider schon davor geben weil die ja auch wieder heim fliegt :) :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343678785359,
+      "content": "ich fange heute noch an die bestellten raus zusenden...dauert die komplette woche da es 60 personen sind :-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343678684122,
+      "content": "sorry wennich schon wieder nerve :) und wie weit bist schon?? :** :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330933291,
+      "content": ":) okay vielen dank :** ich will die unbedingt sehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1343330859467,
+      "content": "jaaaaaa, bekommst bald....wir sind bald durch :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330770408,
+      "content": ":) sind meine bilder in bearbeitung?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342891978523,
+      "content": "also :) ich (Tanja Zast) h\u00c3\u00a4tte gerne z-33.jpg (kannst du da nur ab den h\u00c3\u00a4nden machen also unterk\u00c3\u00b6rper weg schneiden??) und dann h\u00c3\u00a4tte ich noch gerne z-12.jpg :) und sarah Cover h\u00c3\u00a4tte gerne z-27.jpg :) und noch z-26.jpg.....\ngeht das?? und wie lange dauert es ungef\u00c3\u00a4hr? kussi :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342883776534,
+      "content": "okay sehr gut :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1342883749940,
+      "content": "ja sie kann sich dann auch 2 aussuchen :-) schreibs bei der bestellung aber bitte nochmal dazu...komme hier sonst ganz durcheinander :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342883139676,
+      "content": "ehm eine frage... wie ist das eig weil eine freundin also sarah cover hat ja mit fotoshootig gemacht und kann ich dann 2 einzelne von mir aussuchen und das du dann ihr die schickst wo wir zu 3 sind und sie sich 2 aussuchen darf weil sie auch gezahlt hat :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1342879585164,
+      "content": "Ihr habt 2 digitale Bilder frei.\nW\u00c3\u00a4hlt Eure Wunsch-Nummern der 2 Bilder aus und schickt diese mit Euren Namen\nan info@ck-photography.de oder via facebook Cindy Klich Fotografie.\nDiese werden dann von uns bearbeitet und an Euch zugesandt.\n\n\nPreise f\u00c3\u00bcr digitale Nachbestellungen:\n\n1 Bild = 8 EUR\nab 5 Bilder = 7 EUR pro Bild\nab 10 Bilder = 6 EUR pro Bild\n\nViel Spass beim aussuchen :-)",
+      "files": [
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/Kontaktabzug004_965128973519770.jpg",
+          "creation_timestamp": 1429298923
+        },
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/Kontaktabzug003_965128976853103.jpg",
+          "creation_timestamp": 1429298923
+        },
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/Kontaktabzug001_965128996853101.jpg",
+          "creation_timestamp": 1429298923
+        },
+        {
+          "uri": "messages/inbox/cindyklich_a5ci3xvoew/files/Kontaktabzug002_965128986853102.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342191761912,
+      "content": "Bin schon seeehr gespannt ;) hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1342191697457,
+      "content": "das freut mich :-) sind auch alle ziemlich toll geworden :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342191480345,
+      "content": ":) okay kein problem :P vielen dank schon mal und es hat so viel Spa\u00c3\u009f gemacht! <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cindy Klich",
+      "timestamp_ms": 1342191065355,
+      "content": "Hallo Tanja, ein paar Tage m\u00c3\u00bcsst ihr euch noch gedulden :-) wir habens bald. LG Cindy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342181752114,
+      "content": "Heei :) ich wollte mal fragen wann eigentlich die fotos vom Fotoshootig im ten dance fertig sind also das vor 2 oder 3 wochen :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342181724465,
+      "content": "Heei :) ich wollte mal fragen wann eigentlich die fotos vom Fotoshootig im ten dance fertig sind also das vor 2 oder 3 wochen :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Cindy Klich",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cindyklich_a5ci3xvoew",
+  "magic_words": [
+    
+  ]
+}

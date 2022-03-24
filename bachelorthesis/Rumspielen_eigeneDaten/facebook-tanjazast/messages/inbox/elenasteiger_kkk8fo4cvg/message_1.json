@@ -1,0 +1,233 @@
+{
+  "participants": [
+    {
+      "name": "Elena Steiger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1469449734870,
+      "content": "Vielen Dank \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1469449724020,
+      "content": "In Ulm Wielandstrasse. Ich glaube schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469449654984,
+      "content": "Ich glaube das m\u00c3\u00bcsste alles sein. Falls du noch ne frage hast einfach melden. Aber wei\u00c3\u009f nicht, ob es in jedem Rewe gleich ist. In welchem bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469449603418,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/elenasteiger_kkk8fo4cvg/audio/audioclip146944960263254030_1290698887637625.mp4",
+          "creation_timestamp": 1469449603
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.36.59.246",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469449547841,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/elenasteiger_kkk8fo4cvg/audio/audioclip146944954704654916_1290698384304342.mp4",
+          "creation_timestamp": 1469449547
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.36.59.246",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1469449538841,
+      "content": "Hab keine Kopfh\u00c3\u00b6rer dabei, aber ich h\u00c3\u00b6rs nacher daheim an \u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469449485153,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/elenasteiger_kkk8fo4cvg/audio/audioclip146944946910160003_1290697944304386.mp4",
+          "creation_timestamp": 1469449484
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.36.59.246",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1469449399056,
+      "content": "Ok vielen Dank \u00f0\u009f\u0099\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469449378723,
+      "content": "Ich schick dir gleich ne Memo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1469449304901,
+      "content": "Hallo Tanja ich arbeite ab Mittwoch auch im rewe an der Kasse ( nicht in g\u00c3\u00b6gglingen)  wurde zwar 3 h eingearbeitet aber kann trotzdem noch nicht alles \u00f0\u009f\u0098\u0081 wie kassiere ich denn nochmal einen iTunes Gutschein? Und Handy guthaben ? Und wie kann jmd bei mir an der Kasse Geldabheben ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402147707037,
+      "content": "Oh man das sind halt dann wieder 3 :/ :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1402065535778,
+      "content": "Und maddis freund ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402065440120,
+      "content": "Bei 2 oder so k\u00c3\u00b6nnte ich es versuchen wei\u00c3\u009ft halt madi und David",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402065422254,
+      "content": "Also bei 5 hat er schon gesagt das geht \u00c3\u00bcberhaupt nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1402063928949,
+      "content": "Ich denke 10 , aber nichz sixher. Michelle und fredel kommen ja auch so rein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402052303777,
+      "content": "Ja frag mal rum wie viele das w\u00c3\u00a4ren ich schau mal das es halt wenigstens bei ein paar geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1402052225591,
+      "content": "weis nicht genau. aber maddi und julias freunde sind auch noch keine 18",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402049928820,
+      "content": "Ja hab ich schon der meinte ne gar nicht aber ich frag nochmal wie viele w\u00c3\u00a4ren das? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1402049551044,
+      "content": "Hallo, du hast ja kontakt zum theatro, k\u00c3\u00b6nntest du nichz fragwn ob die unter 18 j\u00c3\u00a4hrigen nicht auch mit einverst\u00c3\u00a4ndnisserkl\u00c3\u00a4rung reinkommen. Ich f\u00c3\u00a4nds n\u00c3\u00a4mlich echt schade wenn maddi und so nicht mitk\u00c3\u00b6nn.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369052876128,
+      "content": "Bitte kein Problem immer wieder gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1369050670261,
+      "content": "ja, ruth hat morgen glaube ich eh ganz fr\u00c3\u00bch fahrstunde, dann sage cih ihr einfach ebscheid. trotzdem anke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369050530046,
+      "content": "Ja dann ruf jetzt bei der mama an?:) oder morgen ganz fr\u00c3\u00bch dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1369050478938,
+      "content": "ne danke, ich h\u00c3\u00a4tte eig morgen fahrstunde, wollte die jedoch verschieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369050430152,
+      "content": "Ich hab die leider auch nicht also von michael aber ich kann dir die Nummer von seiner Mama geben und du rufst morgen an und fragst nach Michaels oder ich hab am Mittwoch fahrstunde und frag ihn dann einfach? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1369050219406,
+      "content": "hey :) k\u00c3\u00b6nntest du mir die handynummer vom fahrlehrer geben ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Elena Steiger",
+      "timestamp_ms": 1368718906899,
+      "content": "oke danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368718889771,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368718883226,
+      "content": "Du sollst 10 nach 6 am Kreisel stehen okay?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Elena Steiger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/elenasteiger_kkk8fo4cvg",
+  "magic_words": [
+    
+  ]
+}

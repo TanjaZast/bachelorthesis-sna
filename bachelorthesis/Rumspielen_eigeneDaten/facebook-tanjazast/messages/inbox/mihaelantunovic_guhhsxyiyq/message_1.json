@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Mihael Antunovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309106557943,
+      "content": "hast du schon mal ne powerpoint gemacht??",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mihael Antunovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mihaelantunovic_guhhsxyiyq",
+  "magic_words": [
+    
+  ]
+}

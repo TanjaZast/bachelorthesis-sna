@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Cuma Aslan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406541460038,
+      "content": "Gib mal bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406517220840,
+      "content": "Taj ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406492267295,
+      "content": "Ich hass es hier zu schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406492257677,
+      "content": "Gib mal deine nummer f\u00c3\u00bcr whatsapp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406463983993,
+      "content": "Cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406462125633,
+      "content": "Nichts chillen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406461365511,
+      "content": ":) Nichts bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406287996337,
+      "content": "\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406287965290,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406287940560,
+      "content": "Was geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406287477167,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cuma Aslan",
+      "timestamp_ms": 1406279894406,
+      "content": "Hii\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Cuma Aslan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cumaaslan_gdjsnlf2wg",
+  "magic_words": [
+    
+  ]
+}

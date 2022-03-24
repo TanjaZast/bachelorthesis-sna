@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0096z Taylan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u0096z Taylan",
+      "timestamp_ms": 1423900721743,
+      "content": "Hey \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00c3\u0096z Taylan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/oztaylan_qktjk_3kmg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402228444075,
+      "content": "Haha ich wei\u00c3\u009f sorry \u00f3\u00be\u008c\u00b1 hm okay trotzdem danke nochmal \u00f3\u00be\u008c\u00b5\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402225637965,
+      "content": "Oder direkt die Schwester :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402225611038,
+      "content": "Oh du fragst mich Sachen haha :D keine Ahnung frag Alexander g\u00c3\u00b6ppel der ist voll gut mit dem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402224545719,
+      "content": "Weist du zuf\u00c3\u00a4llig ob da irgendjemand Heino in der Familie hei\u00c3\u009ft?\u00f3\u00be\u008c\u00b8 der Vater oder so vielleicht \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402224286838,
+      "content": "hm eigentlich nicht so wichtig aber wenn du mir schon geholfen hast. \u00f3\u00be\u008c\u00b5Ich dr\u00c3\u00bccks mal so aus: ich muss mit dem reden. \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402224106991,
+      "content": "Haha jetzt bin ich aber neugierig wof\u00c3\u00bcr du die Info gebraucht hast :) :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402224071696,
+      "content": "Alles klar dann bin ich wenigstens schonmal ein St\u00c3\u00bcck weiter wie vocher. Mal gucken was der Louis sagt \u00f3\u00be\u008c\u00b8 aber Dankesch\u00c3\u00b6n. :)))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402223919549,
+      "content": "Da am hohen rhein? Da wohnt glaub die oma von denen aber die wohnen eigentlich in der n\u00c3\u00a4he von dani lagemann :) aber frag Louis. Bertholdstr. Wohnt echt die Oma",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402223852007,
+      "content": "Aber okay ich frag mal den Louis danke :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402223828708,
+      "content": "hm ich glaub in der bertholdstra\u00c3\u009fe, k\u00c3\u00b6nnt das hinhauen ist die da irgendwo in der n\u00c3\u00a4he?:) die Nummer wei\u00c3\u009f ich leider nicht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402223680571,
+      "content": "Doch die wohnen ja bei ihrem dady da im Neubaugebiet in der n\u00c3\u00a4he vom wasserturm wei\u00c3\u009ft wo ich meine? Frag mal Louis schwarzart der wohnt da auch der m\u00c3\u00bcsste genau die Stra\u00c3\u009fe wissen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402223498871,
+      "content": "Genau den. :)\nmhmm.. Da l\u00c3\u00a4sst sich jetzt dr\u00c3\u00bcber streiten. \u00f3\u00be\u008c\u00b8 also sicher nicht so gut das du weist wo er wohnt oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402223439976,
+      "content": "Kommt drauf an was kennen hei\u00c3\u009ft :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402223425744,
+      "content": "Beneke? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402223360570,
+      "content": "Ich sollte schnell was wissen.. Kennst du den Ruben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402223329445,
+      "content": "Hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402223173620,
+      "content": "Hey \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_xpiqaktb4g",
+  "magic_words": [
+    
+  ]
+}

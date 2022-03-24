@@ -1,0 +1,943 @@
+{
+  "participants": [
+    {
+      "name": "Velvet de Malik"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363212140657,
+      "content": "Kein Problem :* aber danke trotzdem... Word hoffentlich iwie :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1363202798369,
+      "content": "Tut mit leid find den link nicht !!! Sorry :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362347533597,
+      "content": "Warum? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362347486087,
+      "content": "Hahah okay :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362347290178,
+      "content": "Ich finde ihr seht gl\u00c3\u00bccklich aus und das ist die hauptsache ich hab schon mal zu ihm gesagt das ihr nicht sooo gut zusammen passt meiner Meinung nach aber nur weil ich finde das du zu gut f\u00c3\u00bcr ihn bist muss ich einfach so ehrlich sagen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362347085705,
+      "content": "Findest du mich und Marco den wirklich s\u00c3\u00bc\u00c3\u009f  zusammen ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362328762734,
+      "content": "Kein Problem das soll jetzt auch nicht was gr\u00c3\u00b6\u00c3\u009feres werden.. Ich wusste auch nicht ob ich was sagen soll ihr seid viel zu s\u00c3\u00bc\u00c3\u009f und ja aber iwie hat mir mein Kumpel soN schlechtes gewissen gemacht dann dachte Och vllt soll dir laura das sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362328580220,
+      "content": "Danke du bist so s\u00c3\u00bc\u00c3\u009f!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362328552404,
+      "content": "Quatsch s\u00c3\u00bc\u00c3\u009fe!! :) warum denn.. Schau mal am besten ihr redet miteinander ohne einander unterbrechen manchmal reicht das schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362328453752,
+      "content": "Ich komm grade gar nicht klar mit allem..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362328412012,
+      "content": "Ja so war der schon immer... :/ ja das ist schon iwie doof da versteh ich dich aber alle Jungs sind so.. Extrem eifers\u00c3\u00bcchtig das zeigt nur wie sehr er dich liebt!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362328115732,
+      "content": "Das Problem ist eig, dass er mich t\u00c3\u00b6ten w\u00c3\u00bcrde wenn ich mit anderen Typen so schreibe und so und or allem was mit ihnen mache. Er ist halt extrem eifers\u00c3\u00bcchtig..\nAber er darf sowas alles machen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362328033861,
+      "content": "Okay sehr gut!! :* :) ja ich fand das dann nur komisch warum er \u00c3\u00bcberhaupt schreibt aber das soll er dir alles lieber zeigen/erkl\u00c3\u00a4ren was wei\u00c3\u009f ich ;) und vielleicht ist das alles nur ein Missverst\u00c3\u00a4ndnis ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362327855841,
+      "content": "Wenn dann bin ich nur sauer auf Marco, weil genau er braucht ihr ja nicht unbedingt schreiben :D und ich seh's auch so, Lisa Antworten eben nur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362327784141,
+      "content": "Ich find es nur komisch das er ihre Nummer hat und ja die so schreiben.. Die bringt mich um wenn ich dir das erz\u00c3\u00a4hl :D Hahaha.. Sei nicht sauer auf sie.. Sie macht nichts au\u00c3\u009fer antworten :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362327423406,
+      "content": "Nein achwas, als ob ich Lisa deswegen nicht mag!:) \nInwiefern komisch? Also schreiben sie schon so normal oder wie?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362327337146,
+      "content": "Ehm heeei :* :) du also ja die schreiben schon ab und zu aber du darfst deshalb nicht lisa nicht m\u00c3\u00b6gen oder so was.. Ich muss ehrlich sagen das es iwie komisch ist...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362327001413,
+      "content": "Ich hab da mal ne frage.. Laura hat mir erz\u00c3\u00a4hlt das Lisa mit Marco schreibt oder so, \u00c3\u00a4hm Lisa will ich nicht fragen also frage ich sich ob das stimmt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1362326936722,
+      "content": "Hey du:*\nNa wie geht's dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351272439345,
+      "content": "kommst jetzt mit?<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351271598811,
+      "content": "Kenn ich doch beide kein St\u00c3\u00bcck ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351271517286,
+      "content": "doch lauras freund? jennys freund? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351271107562,
+      "content": "Und solche typen die keiner kennt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351271018343,
+      "content": "mich laura jenny? das ist mal die h\u00c3\u00a4lfte :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351270979951,
+      "content": "Ich kenn da echt niemanden da komm ich mir so fehl am Platz vor :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351270950494,
+      "content": "komm mit! bitte;)<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351270919771,
+      "content": "wir beide?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351269939496,
+      "content": "Ich kenn da echt niemanden und laura und jenni wollen auch glaub eher das wenn dann du mit kommst ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351268548164,
+      "content": "In welche?? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351268069168,
+      "content": "Also wenn du mit willst dann fahren wir mim 19:37 iger bus in stadt, dann in ne  chillige bar;)<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351267511491,
+      "content": "mich kennst ja dann;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351267506508,
+      "content": "also gehen wir mit?<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351266887167,
+      "content": "ich auch nicht! :D\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351266815292,
+      "content": "Ja keine Ahnung ich kapier das alles ja gerade nicht mehr :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351266786924,
+      "content": "Okay und wie soll das Dan aussehen ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351266763136,
+      "content": "Ach doch ;) klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351266722314,
+      "content": "Wenn die mich nicht einl\u00c3\u00a4d haha ka ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351266670896,
+      "content": "Warum denn das?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351266609283,
+      "content": "Also ich wusste nicht das die nach Ulm gehen... Laura hat nichts gesagt! Also geh ich lieber nicht da mit..:/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351266497445,
+      "content": "Ich kenn da aber dann echt keinen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351266085174,
+      "content": "Wir k\u00c3\u00b6nnen auch nach Ulm;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351265982561,
+      "content": "Oder gehst du mit den anderen nach Ulm?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351265908332,
+      "content": "Haha ok;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351265803426,
+      "content": "Pfisterer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351265763962,
+      "content": "Welcher bene ? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351265738405,
+      "content": "Also dann was machen wir?? :) warte ich frag bene und so ob die da sind ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351176332728,
+      "content": "Ja machen wir ;) :* aber heute gehts mir schon richten gut :* das war nur die letzten Wochen und ab und zu abends aber keine Ahnung ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351167513571,
+      "content": "das w\u00c3\u00a4r ja super! :) <3\nalso reden wir morgen noch mal obs klappt und wies dir geht! <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351167474152,
+      "content": "Ja das ist so immer die Frage also wenn ich geh dann kann meine Mama uns eigentlich mim vw Bus abholen da haben alle Platz das w\u00c3\u00bcrde so schon gehn ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351167331004,
+      "content": "okay gut, sagst dann bescheid. :) weil hin geht ja locker mim bus.. nur m\u00c3\u00bcssen wir schaun wer uns abholt :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351167284192,
+      "content": "Also ich wei\u00c3\u009f noch nicht ob ich 100% geh weil ich voll bauchweh seit gestern hab und meine Freundin nicht mehr mit kommt aber wenn laura du und jenny geht dann werd ich wahrscheinlich schon gehn aber Morgen wei\u00c3\u009f ich mehr ;) :* aber klar passt das mit laura und Jenny <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1351166822089,
+      "content": "Also morgen klappt? :D <3\nJenny und Laura wollen vllt auch mit, passt aber doch oder ? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346621434137,
+      "content": "gute nacht <3 :) bis dann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346621396704,
+      "content": "cool, gute nacht<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346621383286,
+      "content": "auch ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346620855947,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346620854314,
+      "content": "nur chillen, du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346620819194,
+      "content": "was machst so? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346620397787,
+      "content": ";***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346620388735,
+      "content": ":) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346620374278,
+      "content": "haja:**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346620353898,
+      "content": "dann ist super :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346619194695,
+      "content": "auch:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346619087397,
+      "content": "gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346616357793,
+      "content": "wie gehts so?<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616341593,
+      "content": "oh nicht viel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346616267208,
+      "content": "auch nciht:) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616210588,
+      "content": "nicht viel udn bei dir?? :) :+",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346616133512,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1346616131880,
+      "content": "na, was geht?>3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343337638146,
+      "content": "Du S\u00c3\u00bc\u00c3\u009fe!! <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1343336334732,
+      "content": "s\u00c3\u00bc\u00c3\u009fe<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343336303868,
+      "content": ":) okay das finde ich gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1343336185171,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1343336183408,
+      "content": "okay, das beruhgit mich! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343336059451,
+      "content": "Okay <3 ist wirklich nicht sooo krass schlimm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1343335543696,
+      "content": "okay<3 tut mir leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343335492898,
+      "content": "Ist okay :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1343335407688,
+      "content": "sorry! aber war keine zeit iwie,.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343335388573,
+      "content": "Jetzt habt ihr 2 nicht mal mehr tschau gesagt bevor ihr in urlaub seid -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342647233504,
+      "content": "danke:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342646777767,
+      "content": "Dir auch viel erfolg und lern sch\u00c3\u00b6n! :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342646594600,
+      "content": "good<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342646586325,
+      "content": "viel erfolg! :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342646436536,
+      "content": "S\u00c3\u00bc\u00c3\u009fe ich geh dann mal schlafen :** haben morgen musical Vorf\u00c3\u00bchrung :) viel Spa\u00c3\u009f dir dann und erhole dich.. Und mach dir keine sorgen vicki wird nicht lw werden!! ;** <3 i promise",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342646258367,
+      "content": "ja genau! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645886572,
+      "content": ":) gell mit melli dann wenn sie \u00c3\u00bcberhaupt so hei\u00c3\u009ft :P :** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342645822865,
+      "content": "ja, ich wei\u00c3\u009f auch nicht warum die das so nennen :D aber ich wei\u00c3\u009f kein anders Wort, das das besser erkl\u00c3\u00a4ren kann ohne die ganze Geschichte erz\u00c3\u00a4hlen zu m\u00c3\u00bcssen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645771553,
+      "content": "Ah ja so war das weil als studienfahrt denke ich dann immer so die ganze klasse :) gaaaanz viel Spa\u00c3\u009f dir dann :**!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342645705493,
+      "content": "ich hab da bei nem wettbewerb gewonnen.. und bin halt erst am letzen schultag wieder da! :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645670008,
+      "content": "Im ernst? Schon? :O wer geht eig alles?? :** okay wird gemacht <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342645560262,
+      "content": "hahah okay, sie hat dir schon alles erz\u00c3\u00a4hlt :DD\nja hatten wir<3\nmorgen..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645488655,
+      "content": "Ja das hatten wir ja eh gesagt dachte ich :) ja ich weiss das ihr euch alle kennt und die sich gegenseitig wegen ihren akzenten lustig machen :P wann gehst du?? :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342645347111,
+      "content": "ja voll gerne!<3 (und vicky und sarah kennen sich schon;) ) aber das problem ist, dass ich jetzt ne woche auf studienfahrt in br\u00c3\u00bcssel bin, und somit vicky alleine hier ist! aber du kannst ja mal mit ihr schreiben und ihr k\u00c3\u00b6nnt ja was amchen, nicht das  vicky vor langeweile stirbt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645190253,
+      "content": "Ich weiss <33 wollt ihr mal vorbei kommen?? Und vllt auch das wir was unternehmen sarah kann ja auch mit oder so <33 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342645070885,
+      "content": "hehehe;) <333 \nvicky ist gerade in deutschland(;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645041959,
+      "content": "Hast du nen spiegel daheim dann schau rein und sag dann was h\u00c3\u00bcbsch ist :* ;)<33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342644793603,
+      "content": "h\u00c3\u00bcbsche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342644790471,
+      "content": "<3333",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342640805634,
+      "content": "<33 S\u00c3\u00bc\u00c3\u009fe!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1342639320487,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337025178189,
+      "content": "aber n\u00c3\u00a4chstes jahr kommt eh was anderes dran.. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337025166519,
+      "content": "ookay, verzwickte situation :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337025040624,
+      "content": "aber ich bin da gut frin .P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337025022996,
+      "content": "mach das. wenns dir eh keinen spa\u00c3\u009f macht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337025001947,
+      "content": "aber ich glaub ich mach chemie einfach weg :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024980588,
+      "content": "echt so,,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024959444,
+      "content": "ich auch :O oh man -.- so doof ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024936775,
+      "content": "ich glaub so ober so ist schwer..:o ich hab schon bisschen schisse davor!. :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024894130,
+      "content": "ja okay :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024842635,
+      "content": "eben dann nehm am besten das was dir spa\u00c3\u009f macht! ich glaub das ist das beste.. was anderes bringts nicht so oder? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024767337,
+      "content": "ja ich hatte chemie 4 aber das soll so schei\u00c3\u009fe und schwer sein und bio auch deshlab hab ich physik eig weil das einfach geil ist und ichs mag und dann will ich bio auch weils spa\u00c3\u009f macht und chmie bin ich zwar gut aber ich mags net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024607398,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024601882,
+      "content": "aber alle denken, bio ist vol einfach, aber alina hat erz\u00c3\u00a4hlt, das bio nicht nur auswendig lernen ist, sondern auch ganzsch\u00c3\u00b6n kompliziert..\nund man da auch chemie braucht..\nich hab physik auch nur abgew\u00c3\u00a4hlt weil wir zwei jahre nen schei\u00c3\u009f lehrer hatten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024497086,
+      "content": "mhmm, was haste bis jetzt gew\u00c3\u00a4hlt..? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024445962,
+      "content": "achso okay .. oh man ich w\u00c3\u00a4hle dann zum 2ten mal aber ich hab keine ahnung :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024273643,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024272149,
+      "content": "nur 2 st\u00c3\u00bcndig, und bio dann 4 st\u00c3\u00bcndig.\nich hab nat\u00c3\u00bcrlich physik weg! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024242994,
+      "content": "2 oder 4 st\u00c3\u00bcndig und welches naturwissenschaftliche hast du weg?? :* :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024201236,
+      "content": ";*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1337024192522,
+      "content": "habs gew\u00c3\u00a4hlt:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337024178954,
+      "content": "vellie :) hast du chmie in der oberstufe gew\u00c3\u00a4hlt oder abgew\u00c3\u00a4hlt?? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1325794446389,
+      "content": "Ja okay ;D ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325794408899,
+      "content": ":) mich auch:: du simsen wi rlieber ich geh jetzt off ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1325794352093,
+      "content": "Das freut mich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325794292308,
+      "content": ":) ja weil es mir eig immer gut geht :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1325794143120,
+      "content": "Warum so gut gleich :)) auch gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325794096569,
+      "content": "ja voll gut und dir?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1325794040908,
+      "content": "Und wie gehts ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1325793975522,
+      "content": "heeei .) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1325793932572,
+      "content": "Heyoo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1273077005000,
+      "content": "hallo <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Velvet de Malik",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/velvetdemalik_ue0pjvy_nq",
+  "magic_words": [
+    
+  ]
+}

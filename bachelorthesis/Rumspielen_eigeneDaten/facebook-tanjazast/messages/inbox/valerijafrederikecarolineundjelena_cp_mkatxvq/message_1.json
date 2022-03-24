@@ -1,0 +1,147 @@
+{
+  "participants": [
+    {
+      "name": "Valerija Geller"
+    },
+    {
+      "name": "Frederike Leona"
+    },
+    {
+      "name": "Caroline Sauter"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Jelena Sophie Bohnet"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385561864896,
+      "content": "Freitag halb2 nachschreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385488755004,
+      "content": "Vielleicht will der so ein h\u00c3\u00b6rdings machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385477472398,
+      "content": "Ich geh morgen hin ich mein wir k\u00c3\u00b6nnen w\u00c3\u00a4hrend Musik am donnerstag schreiben so ein witz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Sophie Bohnet",
+      "timestamp_ms": 1385466697653,
+      "content": "Hab mit den geredet der gar gesagt Donnerstag geht iwie nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385466420093,
+      "content": "Ich find Freitag auch doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385465997286,
+      "content": "Haha ne von mir aus w\u00c3\u00bcrd donnerstag gehen aber freitag ist echt stier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385465102586,
+      "content": "Ich red mit dem morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385465097872,
+      "content": "So ein pissa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385464998117,
+      "content": "Ich franz\u00c3\u00b6sisch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385464985507,
+      "content": "Ich Schreib da Geschichte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385464968368,
+      "content": "Wann Freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385461252716,
+      "content": "Nachmittags?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Sophie Bohnet",
+      "timestamp_ms": 1385461214853,
+      "content": "Herr schmiedel sagt Freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caroline Sauter",
+      "timestamp_ms": 1385395725820,
+      "content": "Aber danke f\u00c3\u00bcrs ausrichten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caroline Sauter",
+      "timestamp_ms": 1385395707707,
+      "content": "Oh man der soll nicht so rumstressen ! aber wollte morgen sowieso mein Zettel abgeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1385394969792,
+      "content": "Ok danke Tanja:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385394867600,
+      "content": "Heei ihr vier :* Herr Schmiedel hat mich heute auf dem Gang getroffen und gesagt ihr sollt euch sehr schnell bei ihm melden (es geht um einem Nachschreibetermin) er wollte das ihr unbedingt am Freitag schreibt aber ich hab ihm gesagt das einige Geschichte oder sonst was schreiben also geht so schnell es geht zu ihm vllt schreibt ihr schon am Donnerstag :o",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Valerija, Frederike, Caroline und Jelena",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/valerijafrederikecarolineundjelena_cp_mkatxvq",
+  "magic_words": [
+    
+  ]
+}

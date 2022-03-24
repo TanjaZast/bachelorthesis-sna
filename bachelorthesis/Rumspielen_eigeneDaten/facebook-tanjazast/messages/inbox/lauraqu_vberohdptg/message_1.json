@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Laura Qu"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Laura Qu",
+      "timestamp_ms": 1350136404966,
+      "content": "hey ja klar :) 015739112740",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349961496795,
+      "content": "Laura!! ;) :* kannst du mir vielleicht noch mal deine Nummer geben?? <3 w\u00c3\u00a4re voll lieb ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344018565561,
+      "content": "gehst du nicht mehr bosch?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Laura Qu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lauraqu_vberohdptg",
+  "magic_words": [
+    
+  ]
+}

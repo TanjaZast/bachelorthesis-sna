@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Stefani Baa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefani Baa",
+      "timestamp_ms": 1456786533514,
+      "content": "Danke s\u00c3\u00bc\u00c3\u009fe \u00f0\u009f\u0092\u008b\u00f0\u009f\u0092\u008b\u00f0\u009f\u0092\u008b das w\u00c3\u00bcnsche ich dir auch \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1456786451916,
+      "content": "Hey meine Liebe \u00f3\u00be\u00ac\u008f alles alles liebe und gute noch zu deinem 4. Geburtstag! Hoffe du hast sch\u00c3\u00b6n gefeiert und es ausgenutzt an deinem echten Geburtstag zu feiern \u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc\u00e2\u0098\u00ba\u00ef\u00b8\u008f ich hoffe dass es dir gut geht und alles in deinem Leben so ist wie du es dir w\u00c3\u00bcnschst! F\u00c3\u00bchle dich gedr\u00c3\u00bcckt \u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefani Baa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefanibaa_rt1nvghm9g",
+  "magic_words": [
+    
+  ]
+}

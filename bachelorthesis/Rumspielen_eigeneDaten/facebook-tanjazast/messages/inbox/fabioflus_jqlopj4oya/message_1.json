@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Fabio Fl\u00c3\u00bcs"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344091542462,
+      "content": "16 :P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Fabio Fl\u00c3\u00bcs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fabioflus_jqlopj4oya",
+  "magic_words": [
+    
+  ]
+}

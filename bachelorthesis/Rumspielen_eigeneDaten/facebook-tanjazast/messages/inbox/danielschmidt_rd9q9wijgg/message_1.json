@@ -1,0 +1,768 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Schmidt"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1434034681529,
+      "content": "Bitte \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1434034677644,
+      "content": "Wie geht's dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034350900,
+      "content": "Danke danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1434030787975,
+      "content": "Hey :) \nAlles Gute dir \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405633034374,
+      "content": ":) jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405629922802,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405629912179,
+      "content": "Ne Donaustetten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405623489206,
+      "content": "Ok in g\u00c3\u00b6gglingen wohnst du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405623361806,
+      "content": "Von Ulm heim :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405620345427,
+      "content": "Wo bist hingefahren so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405619699156,
+      "content": "Ja klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405611460609,
+      "content": "Ja mein ich ja \nOb alleine mit'm Fahrrad unterwegs warst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405611355700,
+      "content": "War mim Fahrrad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405611290764,
+      "content": "F\u00c3\u00a4hrst alleine ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405609750167,
+      "content": "Sch\u00c3\u00b6n :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405607298664,
+      "content": "Bin grad heimgekommen vom arbeiten \nBin jetzt alleine \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405606964669,
+      "content": "Fahrrad fahren du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405588131970,
+      "content": "Okay :) \nWas machst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405584413304,
+      "content": ":) naja zu kurz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405584104352,
+      "content": "Ok :) hehe \nJoa war's auch \n\nHast gut geschlafen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405582781023,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405568276783,
+      "content": "Guten morgen :) \nWas klingt gut ? Des mit der Ausbildung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405548479782,
+      "content": "Klingt gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405548476299,
+      "content": "Bis dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405545986846,
+      "content": "Ich arbeite bei Evo Bus \nUnd hab dort im Februar meine Ausbildung zum fahrzeuginnenausstatter erfolgreich beendet \n\n\n\nDu ich geh pennen :) \nBis morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545923954,
+      "content": ":) was machst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405545661640,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545655997,
+      "content": ":) echt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405545543076,
+      "content": "Oh geil \nInteressant :) \n\nDu sei mir nicht b\u00c3\u00b6se bitte aber ich w\u00c3\u00bcrd schlafen gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545502723,
+      "content": ":) Richtung Wirtschaft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405545284518,
+      "content": ";) ja ganz gchillt \nFreu mich aufn Kontakt :) \n\nOk und was so alles \u00f3\u00be\u008c\u00ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545257225,
+      "content": "Ja schauen wir einfach :) oh einiges",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405545115830,
+      "content": "Und was magst studieren ? \n\nDanke mir auch \n\nOk versteh ich \nK\u00c3\u00b6nn ja uns so hier erstmal weiter unterhalten und kennenlernen \nWenn du mich kennenlernen magst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545085561,
+      "content": "Naja gebe meine Nummer nicht so her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545076547,
+      "content": "Gut und dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405545065879,
+      "content": "Studieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405544982610,
+      "content": "Cool was hast dann so vor ? \n\nW\u00c3\u00bcrd mich freuen wenn du in whats app schreiben magst ;) \n\nWie geht es dir Eig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405544942419,
+      "content": "Genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405544474457,
+      "content": "Ok hast des Abi gmacht oder \n\nHast Lust Vlt in whats app zu schreiben ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405544419889,
+      "content": "Nichts Chillen  halt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405544404425,
+      "content": "Ich meinte beruflich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405541945064,
+      "content": ";) Chillen du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405536914459,
+      "content": "Danke auch \nWas machst du so Eig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405527363432,
+      "content": "Gut dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405523058809,
+      "content": "Wie geht's dir \nHam uns mal im Burger King gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405522483763,
+      "content": "W\u00c3\u00bcrd dich gern kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405522477100,
+      "content": "Ok hm hat's angezeigt egal \n\nDenkst dir jetzt bestimmt was ich f\u00c3\u00bcr'n depp bin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405522440898,
+      "content": "Hast du nichz\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405514040833,
+      "content": "Weil ich dir ausversehen meinen Standort geschickt hab Iwie kp \n\nWas sagst zum ersten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405512689233,
+      "content": ";) h\u00c3\u00a4 wegen was sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405512234829,
+      "content": "Ok ja so hab ich's auch nicht gmeint \nIch dacht halt man k\u00c3\u00b6nnte sich ja trotzdem einfach kennenlernen so ganz locker und gchillt \n\nUps Sry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405510609280,
+      "content": "Ich bin momentan nicht auf der Suche nach einem Freund :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405482091337,
+      "content": ":) magst mich kennenlernen oder hast n Freund",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405470218960,
+      "content": "Achso voll s\u00c3\u00bc\u00c3\u009f :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405461676007,
+      "content": "Weil ich dich Eig echt ganz nett und h\u00c3\u00bcbsch finde und ja dich Eig schon mal n\u00c3\u00a4her kennenlernen wollen w\u00c3\u00bcrde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405454357487,
+      "content": "Warum? :)0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405444733403,
+      "content": "Hast du Eig Interesse dass man dich kennenlernt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405443745175,
+      "content": "Wie geht's dir :) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405443704893,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1405441257880,
+      "content": "Hey Tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1400448685611,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398978681855,
+      "content": "Meldest dich gar nemme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398978477137,
+      "content": "Tanja Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398623388473,
+      "content": "Tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398611700161,
+      "content": "Man kann sich ja kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398611652461,
+      "content": "Magst schreiben ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398606419572,
+      "content": "H\u00c3\u00a4 Bist du Single?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398604983073,
+      "content": ":) ne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398603060637,
+      "content": "Ok war ja dein Freund oder lieg ich da falsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398602319599,
+      "content": ":) hahaha ne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398597073006,
+      "content": "Ja ich fands Eig echt nett \nAber dein Freund hat sich bestimmt gewundert oder \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398597020500,
+      "content": "Ne das zweite ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398595948392,
+      "content": "Dass ich nicht voll war oder dass ich's cool fand dass man sich mal gesehen hat \n\n\nBestimmt aufs erste gell \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398595598564,
+      "content": "Was echt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398595464128,
+      "content": "echt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398594769954,
+      "content": "\u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398594767543,
+      "content": "Cool dich mal gesehen zu haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398594755792,
+      "content": "Ich auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398594741825,
+      "content": "doch so dicht war ich nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398594694903,
+      "content": "Weist nemme wer ich bin \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398594681229,
+      "content": "hey?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1398593282263,
+      "content": "Huhu \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1389490888030,
+      "content": "Ich w\u00c3\u00bcrd dich gern mal bissl kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1389490865698,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387886722202,
+      "content": "Morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874728040,
+      "content": "Morgen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387846849000,
+      "content": "Ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387846837841,
+      "content": "Vielleicht zwischendurch mal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387846653046,
+      "content": "Mich kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387846640957,
+      "content": "F\u00c3\u00bcr was?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387845022779,
+      "content": "Okay ;) also Eig im Endeffekt keine zeit f\u00c3\u00bcr sowas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387844988001,
+      "content": "Usw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387844981830,
+      "content": "Schule viel lernen Familie Freunde User",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387812437731,
+      "content": "Des ist kein Grund :P \n\nWieso was hast alles so vor wenn ich fragen darf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387812408221,
+      "content": "Weil eben. Ja wenn ich zeit h\u00c3\u00a4tte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387812374257,
+      "content": "Warum stimmt des nicht \n\nNur wenn du magst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387812355623,
+      "content": "Weil es nicht stimmt :) oki",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387812205140,
+      "content": "W\u00c3\u00bcrd dich gern kennenlernen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387811712611,
+      "content": "Was naja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387811704051,
+      "content": "Hahahah. Ehm naja :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387811476499,
+      "content": "Ja aber so gut wie :) \n\nDanke auch \nBist ne h\u00c3\u00bcbsche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387811458424,
+      "content": "Gut dir? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387811450677,
+      "content": "Sind doch noch keine Weihnachten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387796516171,
+      "content": "Weihnachten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387796511995,
+      "content": "Wie geht's \n\nFrohe einhauchten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387566305719,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Schmidt",
+      "timestamp_ms": 1387311337573,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daniel Schmidt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/danielschmidt_rd9q9wijgg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Franziska Schiller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381773251179,
+      "content": "Ich war net da sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381773123001,
+      "content": "K\u00c3\u00b6nnt ihr mir weiterhelfen?:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381765484611,
+      "content": "Ja das hab ich aber iwas mit zusammenfassen? :) oder nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1381762636956,
+      "content": "Die Stellen auf dem Blatt im Buch markieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381759423189,
+      "content": "Was haben wir in englisch genau auf? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381168527302,
+      "content": "Dir auch <3 bis morgen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381168434445,
+      "content": "Okay danke dir :* :) viel Spa\u00c3\u009f dann noch was auch immer du noch an diesem Abend vor hast :) bis morgen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381168118528,
+      "content": "ok hab se doch ;) hab beiden bescheid gesagt :) danke <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381167771288,
+      "content": "Welche? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381167740185,
+      "content": "Haha ne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381167734385,
+      "content": "Ich hab fie nummer nicht mehr :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381167664784,
+      "content": "Nichts schlimmes ich wei\u00c3\u009f es aber echt nicht :o ihr habt ja nichts angestellt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1381167613034,
+      "content": "wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381167091706,
+      "content": "Heei :* frau walz hat gesagt ich soll euch beiden sagen ihr sollt morgen gegen ende der gro\u00c3\u009fen Pause ans Lehrerzimmer kommen am besten mit belinda aber der kann ich nicht \u00c3\u00bcber fb Bescheid geben :) k\u00c3\u00b6nnt ihr die informieren? :) also morgen Ende gro\u00c3\u009fe pause zu Frau wlaz okay? :* danke",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia und Franziska",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/juliaundfranziska_ulpo1m83pw",
+  "magic_words": [
+    
+  ]
+}

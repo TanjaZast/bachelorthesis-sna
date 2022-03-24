@@ -1,0 +1,341 @@
+{
+  "participants": [
+    {
+      "name": "Aleksandar Milisavljevic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1528672674060,
+      "content": "Srecan rodjendan! Sve najlepse! Ziveli! \u00f0\u009f\u00a5\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1442688311748,
+      "content": "Evo idem na neku svadbu :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442568034322,
+      "content": "Ni\u00c5\u00a1ta ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1442568027301,
+      "content": "Eeej. Super",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1442445401805,
+      "content": "Eej :)\nKako je? Sta radis? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1434035079049,
+      "content": "Kad ces ovamo? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1434035072507,
+      "content": ":))))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034436734,
+      "content": "Mnogo sam se obradovala za poruku :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1434028954314,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434010288952,
+      "content": "Hvala puno \u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1433986466488,
+      "content": "Sve najlepse! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424213289689,
+      "content": "Ah okay ukapirala sam :\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424213226937,
+      "content": "Pa link za skolu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424213187332,
+      "content": "\u00c5\u00a0ta imam? \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424206745400,
+      "content": "U skoli glume, filmske, pozorisne rezije. Imas oznaceno kod mene kao radno mesto. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424175548041,
+      "content": "A gde si to\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424131168749,
+      "content": "Pa tesko kad si direktor pa je sve na tebi :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424131078828,
+      "content": "Od \u00c4\u008detvrtka imala",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424131069292,
+      "content": "Pa uzmi si odmor g\u00c4\u0091e je problem ja sam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424131036426,
+      "content": "\u00c5\u00a0ta radi\u00c5\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424129516574,
+      "content": "jedva cekam neki odmor malo :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424129504899,
+      "content": "Evo radim bas ovih dana",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424129467233,
+      "content": ":) \u00c5\u00a1ta radi\u00c5\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424129418441,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424129229697,
+      "content": "E pa ho\u00c4\u0087e i to",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424128289456,
+      "content": "Proletece",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424128284417,
+      "content": "Ma prolece to :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424128273598,
+      "content": "Ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424128169998,
+      "content": "Planiram u junu/julu ali mo\u00c5\u00beda i Augustu moram videti sa jasminom \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424128051318,
+      "content": "A dobro, bicemo u kontaktu :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424127946131,
+      "content": "Trajati",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424127931522,
+      "content": "Pa vazi ali ce to jos Traktate",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424122870514,
+      "content": "A dobro, bilo bi mi drago da se vidimo kad dodjes :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424122739543,
+      "content": "Joj jos se Nezna \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424120765920,
+      "content": "A ja te pitam kad ces ovamo :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424120713044,
+      "content": "Nene\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1424120667071,
+      "content": "Do\u00c5\u00a1la u Bg? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424120486654,
+      "content": "Pa evo me \u00f3\u00be\u008d\u0095\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1423776366476,
+      "content": "Kad ces opet na ovu stranu? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1422394084529,
+      "content": "Kako bilo u Beogradu? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1422394049904,
+      "content": "pravim neke kampanje na fejsu za skolu.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1422394039539,
+      "content": "Evo radim i ja isto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1422394035543,
+      "content": "A da, sestra :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422376807129,
+      "content": "Eh pa Okay evo radim ti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422376798400,
+      "content": "To mi je sestra \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Milisavljevic",
+      "timestamp_ms": 1422373047736,
+      "content": "Heej... :) Pa gde si ti? Kako si? Nismo se nasli ono vece ovde pa sam pitao tvoju drugaricu da mi posalje link. :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Aleksandar Milisavljevic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/aleksandarmilisavljevic_ci_er01wea",
+  "magic_words": [
+    
+  ]
+}

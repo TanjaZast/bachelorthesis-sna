@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Larry Lou"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411076488715,
+      "content": "Ja das w\u00c3\u00bcsste ich gerne :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1411071842486,
+      "content": "Krass warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411059280142,
+      "content": "Also ich k\u00c3\u00b6nnte kotzen schei\u00c3\u009f Bahn hat einfach \u00c3\u00bcber 35 Minuten Versp\u00c3\u00a4tung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1411016026122,
+      "content": "Sorry bin erst jetzt da -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410756736320,
+      "content": "Ich gleich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410756721642,
+      "content": "Ich bin da :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410753627004,
+      "content": "Okay perfekt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410753588929,
+      "content": "Ich wart dann einfach unten und klingel nicht oder so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410753448114,
+      "content": "Also so zwischen 6:45 -50 schaff ichs auf jeden fall :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410753344645,
+      "content": "W\u00c3\u00a4re 6.45 okay? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410727293736,
+      "content": "Also whatsapp findet dich nicht deshalb doch facebook :D ich wollt mal nur kurz fragen wegen morgen fr\u00c3\u00bch:) wann und wo soll ich kommen falls du zug f\u00c3\u00a4hrst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410414819563,
+      "content": "Kein Problem \u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410408978308,
+      "content": "Super \u00c3\u00bcbertrieben mega lieb:* danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410408170743,
+      "content": "Okay aber wenn ich dann mit dem Zug fahre gebe ich dir wieder bescheid :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larry Lou",
+      "timestamp_ms": 1410406785002,
+      "content": "Also ich will dir da keine umst\u00c3\u00a4nde machen und deshalb fahr ich heute wieder Fahrrad :) ich find dein angebot super lieb und hat mich total gefreut dass wir uns so zuf\u00c3\u00a4llig begegnen wer h\u00c3\u00a4tte das gedacht?:) und deine nummer kann ich erst speichern wenn mein handy geladen ist sonst h\u00c3\u00a4tt ich gleich auf whatsapp geschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410385821052,
+      "content": "Also ich fahre morgen nicht mit dem Zug sondern mit dem Auto aber ich kann dich gerne bis Laupheim oder so mitnehmen :) meine Nummer w\u00c3\u00a4re die: 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Larry Lou",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/larrylou_p4675fcbvw",
+  "magic_words": [
+    
+  ]
+}

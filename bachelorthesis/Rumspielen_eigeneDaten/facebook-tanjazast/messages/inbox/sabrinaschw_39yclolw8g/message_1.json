@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "SaBrina Schw"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SaBrina Schw",
+      "timestamp_ms": 1576666491016,
+      "content": "W\u00c3\u00a4re auch was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "SaBrina Schw",
+      "timestamp_ms": 1576666451316,
+      "content": "https://facebook.com/events/1024674077885808/",
+      "share": {
+        "link": "https://www.facebook.com/events/1024674077885808/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "SaBrina Schw",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sabrinaschw_39yclolw8g",
+  "magic_words": [
+    
+  ]
+}

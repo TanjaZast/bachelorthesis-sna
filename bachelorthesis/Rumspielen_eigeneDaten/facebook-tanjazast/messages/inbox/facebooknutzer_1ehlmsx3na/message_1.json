@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397827667569,
+      "content": "Ich wei\u00c3\u009f die links nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1397825188726,
+      "content": "Bitte die Links zu den einzelnen Bilder an Ulmer \u00c3\u009c16 Partys schicken.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769675650,
+      "content": "K\u00c3\u00b6nnten die zwei Bilder bitte ganz ganz schnell aus fb entfernt werden? Das w\u00c3\u00a4re ganz ganz arg lieb. Vielen Dank :*",
+      "photos": [
+        {
+          "uri": "messages/inbox/facebooknutzer_1ehlmsx3na/photos/10259646_759047067469479_187352591_n_759047067469479.jpg",
+          "creation_timestamp": 1397769675
+        },
+        {
+          "uri": "messages/inbox/facebooknutzer_1ehlmsx3na/photos/10168318_759047070802812_1397591221_n_759047070802812.jpg",
+          "creation_timestamp": 1397769675
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_1ehlmsx3na",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Jan Miller"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439120407327,
+      "content": "Gatscher hat ewig gebraucht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439120400977,
+      "content": "Wir jez auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439120398389,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439119887755,
+      "content": "Los du Mongo \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439119483482,
+      "content": "Bin schon da \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439118834284,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc ich bin schon unterwegs \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439117950080,
+      "content": "Okay fahre gleich los",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439117682704,
+      "content": "Um 13:15 am See?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439117162112,
+      "content": "Uhrzeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439117149865,
+      "content": "Muss mich richten dann fahre ich schnell Mim Auto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439116792152,
+      "content": "Wann bist da\u00f0\u009f\u0098\u0089?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439116777092,
+      "content": "Ja okay aber ich bleibe auch nicht zu lange",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439116768660,
+      "content": "Bin ich hab aber aufger\u00c3\u00a4umt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439116105622,
+      "content": "Aufwachen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439116098360,
+      "content": "Tanja \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439115143979,
+      "content": "Wann geht's an See?\u00f0\u009f\u0098\u0081\nKann n\u00c3\u00a4mlich nur bis 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439114141664,
+      "content": "Ich bin auch vor 5min aufgewacht \u00f0\u009f\u0098\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439114120586,
+      "content": "Ja ich bin aber wieder eingeschlafen \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Miller",
+      "timestamp_ms": 1439107259721,
+      "content": "Wie du bist schon wach \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jan Miller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/janmiller_eyrqxwcgww",
+  "magic_words": [
+    
+  ]
+}

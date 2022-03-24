@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1314052027817,
+      "content": "http://www.facebook.com/l/pbVHs;bit.ly/onsp7H#PqbJy xD .....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1314040314913,
+      "content": "http://www.facebook.com/l/th6TH;bit.ly/onsp7H#PDfot xD .....",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_1pqdvhavvg",
+  "magic_words": [
+    
+  ]
+}

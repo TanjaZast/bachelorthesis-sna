@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Marcel Eisele"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393972286871,
+      "content": "Wo seid ihr genau? Ruf mich an! 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marcel Eisele",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marceleisele_6et__eplag",
+  "magic_words": [
+    
+  ]
+}

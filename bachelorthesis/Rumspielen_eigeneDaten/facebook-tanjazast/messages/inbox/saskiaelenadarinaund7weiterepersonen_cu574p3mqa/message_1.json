@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Saskia Iacono"
+    },
+    {
+      "name": "Elena Mignemi"
+    },
+    {
+      "name": "Darina Smith"
+    },
+    {
+      "name": "Lidia Muhur"
+    },
+    {
+      "name": "Nathalie Buschow"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Vanessa Sclafani"
+    },
+    {
+      "name": "Leehooh Do-it"
+    },
+    {
+      "name": "Daniel Wechter"
+    },
+    {
+      "name": "Daniela Gl\u00c3\u00b6ckler"
+    },
+    {
+      "name": "Janine Hermann"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1323882287180,
+      "content": "Hey :) hab ne neue Nummer die lautet 017625265750 :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Saskia, Elena, Darina und 7 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/saskiaelenadarinaund7weiterepersonen_cu574p3mqa",
+  "magic_words": [
+    
+  ]
+}

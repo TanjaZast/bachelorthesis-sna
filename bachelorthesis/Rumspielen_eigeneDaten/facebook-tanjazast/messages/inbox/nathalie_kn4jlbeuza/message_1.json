@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Natha Lie"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1549827682462,
+      "content": "Hallo \u00f0\u009f\u0098\u008a\nMein kleiner Hund Teddy nimmt aktuell an einem Gewinnspiel Teil. \nWir w\u00c3\u00bcrden uns riesig freuen, wenn du ihm deine stimme geben w\u00c3\u00bcrdest. \nAlles was du tun musst, w\u00c3\u00a4re sein Wettbewerbsbild mit der Nummer 04 zu liken. \nHier ist der Link:\nhttps://www.facebook.com/StudioOneUlm/photos/a.272042069880462/635432490208083/?type=3\nDanke und Liebe gr\u00c3\u00bcsse!! \u00f0\u009f\u0098\u008a",
+      "share": {
+        "link": "https://www.facebook.com/StudioOneUlm/photos/a.272042069880462/635432490208083/?type=3"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1465314417641,
+      "content": "hey, kannst du bitte meinen geteilten Beitrag auf meiner pinnwand liken? W\u00c3\u00bcrde gern die karten f\u00c3\u00bcrs basketball gewinnen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1408304490217,
+      "content": "Ja ist echt krass haha einfach so \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408304371723,
+      "content": "Hahaha ich hab das mit Frederike entdeckt und wir waren so geschockt wie klein die Welt einfach ist und ich g\nDachte deshalb immer dich schon mal iwo gesehen zu haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1408278770667,
+      "content": "Echt so :D das bild steht in meinem zimmer, aber ich w\u00c3\u00a4r nie im leben drauf gekommen das das lisa ist :D aber jetzt seh ichs dann auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408278737335,
+      "content": "Wir feiern das gerade so! Was f\u00c3\u00bcr ein Zufall einfach \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1408278690341,
+      "content": "ich war mir nicht sicher ob die unten rechts oder die unter mir :D krass haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408278661022,
+      "content": "Die im Grauen unter dir das sieht man doch \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natha Lie",
+      "timestamp_ms": 1408278631290,
+      "content": "als ob das bild hab ich auch bei mir daheim :D welche ist da lisa?Oo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408277718421,
+      "content": "Schau mal du warst mit meiner Schwester damals im Kindergarten \u00f3\u00be\u008d\u0095\u00f3\u00be\u008c\u00b0 das habe ich gerade bei uns daheim in den Bilder gefunden \u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408277680909,
+      "photos": [
+        {
+          "uri": "messages/inbox/nathalie_kn4jlbeuza/photos/10622122_829311573776361_1594829027_n_829311573776361.jpg",
+          "creation_timestamp": 1408277681
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    }
+  ],
+  "title": "Natha Lie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nathalie_kn4jlbeuza",
+  "magic_words": [
+    
+  ]
+}

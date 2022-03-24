@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451381960521,
+      "content": "Ey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416391965792,
+      "content": "1. http://www.amazon.de/gp/offer-listing/3827415497/ref=dp_olp_used?ie=UTF8&condition=used\n\n\n2. http://www.amazon.de/gp/offer-listing/3827414865/ref=dp_olp_used?ie=UTF8&condition=used\n\n\n3. http://www.amazon.de/gp/offer-listing/3642381278/ref=dp_olp_used?ie=UTF8&condition=used",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tanja Za",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tanjaza_8o8hsmgl6w",
+  "magic_words": [
+    
+  ]
+}

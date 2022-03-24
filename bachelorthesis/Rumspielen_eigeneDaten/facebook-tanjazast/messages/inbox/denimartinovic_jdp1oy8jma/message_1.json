@@ -1,0 +1,446 @@
+{
+  "participants": [
+    {
+      "name": "Deni Martinovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1592701568303,
+      "content": "Heeej, noch nicht im Nest\u00f0\u009f\u0098\u008a wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584051912227,
+      "content": "Kostenmaessig keine Sorgen\u00f0\u009f\u0098\u008a weit auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584051874534,
+      "content": "Zu weit, und teuer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584051870584,
+      "content": "Puuuh ist nicht geplant \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584051802571,
+      "content": "Wann kommst du nach Basel? \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584051785795,
+      "content": "Jaaa ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584051473069,
+      "content": "Nichts bald ins Bett und bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584051423910,
+      "content": "Was geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584051416962,
+      "content": "Auch danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584051386626,
+      "content": "Okay und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584050107353,
+      "content": "Wie gehtsss dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584050053417,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1584049714838,
+      "content": "Hiii du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1582846329292,
+      "content": "Jaas genau\u00f0\u009f\u0098\u008a sonst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582846295598,
+      "content": "Klar muss! Immer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1582845354785,
+      "content": "Ja mussss Tanjci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582845251458,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582845249140,
+      "content": "Ja bei dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1582845105393,
+      "content": "Alles geschmeidig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582845037093,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1582844803005,
+      "content": "Hi du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575588057557,
+      "content": "Wss geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575588052543,
+      "content": "Auch danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575588035651,
+      "content": "Gut und selbst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575587421882,
+      "content": "Wie gehtsss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575587398018,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575586852296,
+      "content": "Hiii du\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575249360017,
+      "content": "Dankee Tanjci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575249336659,
+      "content": "Gute Nacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575249240141,
+      "content": "Will auch nicht stoeren gute Nacht noch Tanjci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575248831234,
+      "content": "Kompliment",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575248785765,
+      "content": "Ja aber abgehackt. Suess bist du echt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575248747089,
+      "content": "23 \u00f0\u009f\u0098\u0082 ma nemoj se predati! Ona samo dugo treba dok skonta ko joj treba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575248683458,
+      "content": "Mit ihr wird leider nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575248540735,
+      "content": "Wie alt bist du nun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575248532563,
+      "content": "Pa diverse reportazen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575248487715,
+      "content": "Pa moram \u00f0\u009f\u0098\u0082\nKoje reporta\u00c5\u00bee? \nPa odavno! 100 godina. Kad nikako da dodjes da posjeti\u00c5\u00a1 Jasminu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575247305912,
+      "content": "Dugo te nisam vidio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575247298401,
+      "content": "Ma reportaze.. Ma uspjeces ti to",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575247263422,
+      "content": "Te\u00c5\u00a1ko, mu\u00c4\u008dim se ali mora nekako. \u00c5\u00a0ta gleda\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246969793,
+      "content": "Evo gledam tv... Kako ide faks?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575246919039,
+      "content": "Evo zavr\u00c5\u00a1avam neke stvari za faks za sutra. Ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246638740,
+      "content": "Sta se radi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246630493,
+      "content": "Ja geht danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575246617687,
+      "content": "Gut, selbst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575246605956,
+      "content": "Izkulirala",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246599693,
+      "content": "Ma nije problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575246573547,
+      "content": "John izvini, ja sam te izkurilara \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246565445,
+      "content": "Wie gehtsss denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1575246546826,
+      "content": "Ej :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575246393212,
+      "content": "Ej",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1575142351599,
+      "content": "Hii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1572069155480,
+      "content": "Hiii du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1497246657225,
+      "content": "Hejj Tanja, srecan ti rodjendan, zaboravijo ti cestitat jucer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1465792367699,
+      "content": "Kako vrijeme brzo prodje, vec 20 a sjecam se jos kad sam vas prvi put upozno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1465765968535,
+      "content": "UnfassbR",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1465765953426,
+      "content": "Boahhh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465765011833,
+      "content": "Hvala, 20 \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1465747768926,
+      "content": "Wie alt bist du geworden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Deni Martinovic",
+      "timestamp_ms": 1465747762256,
+      "content": "Hej sretan rodjendan, i ako je malo sp\u00c3\u00a4t hehee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1293289330000,
+      "content": "Meine cousine!!! sie ist doch h\u00c3\u00bcbsch!!! genau perfekt f\u00c3\u00bcr dich!! :-)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Deni Martinovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/denimartinovic_jdp1oy8jma",
+  "magic_words": [
+    
+  ]
+}

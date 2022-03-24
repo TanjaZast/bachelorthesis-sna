@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Soner Demirel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1505041645015,
+      "content": "Haha okay \u00f0\u009f\u0098\u0082keine ahnung wirklich \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505041626459,
+      "content": "Ne du hattest mir ne anfrage geschickt. Musste dir also die Frage stellen \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1505040941360,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1505038415987,
+      "content": "Ja auch , kennt man sich \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505027539766,
+      "content": "Ja, bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1505001910827,
+      "content": "Na alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1504997626762,
+      "content": "Hey \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1504974037823,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Soner Demirel",
+      "timestamp_ms": 1504974036593,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Soner Demirel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sonerdemirel_6grjwq6qnw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403340822736,
+      "content": "Hey Interesse bei dem Workshop zu Dancen ? \n\nhttps://www.facebook.com/events/1411221769164295/?ref=22",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_gkqx4hr3mw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Melanie Rebecca Geist"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa Zast",
+      "timestamp_ms": 1458248583343,
+      "content": "Hat geklappt\u00e2\u009d\u00a4\u00ef\u00b8\u008f Also wir sagen dir dann die Tage Bescheid welche Bilder es werden\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458230901472,
+      "content": "\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458230900971,
+      "content": "Und von da kannst es auf dein Handy tun,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458230900705,
+      "content": "Am pc/Laptop m\u00c3\u00bcsste es gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458230871189,
+      "content": "Geht das bei dir gar nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Zast",
+      "timestamp_ms": 1458229931515,
+      "content": "Ok wie l\u00c3\u00a4d man die runter, weil das bei mir nicht geht\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458214333207,
+      "content": "https://www.dropbox.com/sh/18j7vghsw32m3pk/AABv1YbKaelReDyF7aYnh8gha?dl=0",
+      "share": {
+        "link": "https://www.dropbox.com/sh/18j7vghsw32m3pk/AABv1YbKaelReDyF7aYnh8gha?dl=0"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458214319135,
+      "content": "HEY! \nmeine lieben\nfolgendes problem:\nich hatte ja eine cd bereits gebrannt. die cd aber nicht mehr gefunden, hab dann gestern 2 nochmal brennen wollen. jetzt kommt bei meinem macbook eine Fehlermeldung zwecks des lasers!?!?!? \n\nhab jetzt alles auf dropbox hochgeladen\nm\u00c3\u00bcsste klappen - hoffe ich!\ndann sagt ihr mir einfach welche Bilder ihr am meisten m\u00c3\u00b6gt und ich schau dass ich das mit dem macbook hinbekomme.. \nund dann schick ich euch CDs am ende mit allen Bildern - also unbearbeitet und bearbeitet <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa und Melanie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisaundmelanie_py3oconswq",
+  "magic_words": [
+    
+  ]
+}

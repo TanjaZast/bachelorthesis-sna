@@ -1,0 +1,619 @@
+{
+  "participants": [
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370616994068,
+      "content": "Musst die treppe hoch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370616987341,
+      "content": "Ja ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370616976145,
+      "content": "Bist du drin? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370616419708,
+      "content": "Bin da :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370615204801,
+      "content": "Wirst du schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611819016,
+      "content": "Ob ich das find :/ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611739396,
+      "content": "Jettt gehts ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611651849,
+      "content": "Bin mitm handy on :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611644227,
+      "content": "Ich kann das nicht sehn :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370611438883,
+      "content": "Hilft dir das? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370611436875,
+      "photos": [
+        {
+          "uri": "messages/inbox/leaspan_zjclotzrgg/photos/995193_583112361729618_475887989_n_583112371729617.jpg",
+          "creation_timestamp": 0
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611366493,
+      "content": "Weiss nicht wo das ist :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370611355932,
+      "content": "Wo genau? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370611298353,
+      "content": "17 Uhr Postgasse 2 am Rathaus iwo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370610881041,
+      "content": "Hey :) wann genau soll ich wo sein? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370540372748,
+      "content": "Ok danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370540355404,
+      "content": "Nein kommt nicht mehr dran ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370540252170,
+      "content": "Hey :) weisst du ob erster wk noch drankommt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370463726274,
+      "content": "Bis dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370463658092,
+      "content": "Genau perfekt ;) freut mich das du doch mit machst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370463139875,
+      "content": "Ok ;) freitag in reli, oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370463111143,
+      "content": "Mir geben :) Herr jucker gibt an dem tag allen frei die mitmachen wollen oder eben mitmachen man muss nur vor und Nachname auf ne liste schreiben das machen wir dann zusammen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370462882440,
+      "content": "Muss ich da extra zu den lehrern gehn oder reicht das wenn ich die ausgef\u00c3\u00bcllten zettel dir bzw herr jucker geb?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370462796088,
+      "content": "Laut meinen eltern schon... Muss es nur noch unterschreiben lassen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370462498679,
+      "content": "Also wenn du Freitag kannst dann komm bitte da ;) kannst du dann reli und Geschichte ausfallen lassen so wie die meisten? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370462203176,
+      "content": "Hey. Kannst du mich von der liste streichen? Geht das? Ich schaff das alles nicht... Hab kaum zeit an dem we... Dachte eig dass es reicht wenn ich nur freitag morgen n paar stunden da bin... Aber wenn ich so oft da sein muss, schaff ich das nicht :/ lg lea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1358182656432,
+      "content": ":D :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358181559412,
+      "content": "Okay kein Problem ;) bitte bitte f\u00c3\u00bcr mich ist es ja auch gut ich wollte eh das sie mich noch mal.anschaut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1358181155282,
+      "content": "das schaffen wir schon^^ sonst spielen wir halt 3 : 4 weiter am ende :) nochmal danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358181125311,
+      "content": "Ehm um halb 6 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1358180915445,
+      "content": "wann kommt dein n\u00c3\u00a4chster bus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1358180447253,
+      "content": "k\u00c3\u00b6nnen wir machen :) danke :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358180425785,
+      "content": "Ja okay :) kann ich dann w\u00c3\u00bcrde ich den sp\u00c3\u00a4teren Bus heim nehmen.. Geht klar ;) au\u00c3\u009fer wir fragen ob sie noch etwas fr\u00c3\u00bcher Schluss machen will/kann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1358180216700,
+      "content": "hey :) am mittwoch m\u00c3\u00bcssen isabel, jelena und ich noch spielnoten machen... h\u00c3\u00a4ttest du zeit / lust nachem sportunterricht noch ein paar min dazubleiben?? weis leider nicht wie lang es genau dauern wird^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1356371006246,
+      "content": "Thx :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356370362293,
+      "content": "Danke dir auch!! :* ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1356357803655,
+      "content": "frohe weihnachten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349269880429,
+      "content": "Ja :** sicher dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1349255008098,
+      "content": "015734615937",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1349254993598,
+      "content": "schade :( hoffentlich n\u00c3\u00a4chstes mal :) lg \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349254967307,
+      "content": "Und kannst du mir noch mal deine Nummer geben?? Ich hab 2 ;0 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349254903260,
+      "content": "Also.. Ich kann glaub heute nicht   kommen.. Mich kann niemand fahren und ja Es fahren in meinem Dorf keine buse und das ist halt doof aber ich glaube ihr werdet auch ohne mich voll Spa\u00c3\u009f haben uns sag dann bitte isy und Bettina ganz liebe gr\u00c3\u00bc\u00c3\u009fe :) :** <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1349249571660,
+      "content": "hey :) weist du schon ob du heute kommst? also du m\u00c3\u00bcsstest am zob in den 7ner einsteigen richtung haltestelle theater. der kommt ab 14.19 alle halbe stunde. ist egal ob du den um 14.19, 14.49 oder 15.19 nimmst. alle kommen unterschiedlich xD. dann steigst du an der margarete-steiff-strasse in jungingen aus. und dann rufst mich an, dann hol ich dich ab :D . lg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1341857084773,
+      "content": "ich bin halt bei der mittagsschule nicht da.... aber wenn wir die choreo machen k\u00c3\u00b6nnt ich viell sp\u00c3\u00a4ter noch dazu kommen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341857045465,
+      "content": "keine ahnung? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1341857025455,
+      "content": "weist du ob wir das jetzt morgen in der zehnten mit der choreo machen? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1341856940681,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341781582078,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341781548453,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1341766185451,
+      "content": "hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339108230235,
+      "content": ":) achso okay :P ehm okay dann machen wirs so und bitte sie ganz ganz lieb denn das w\u00c3\u00a4re super lieb :* wie kommst du/ihr hin zu bettina??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1339107716259,
+      "content": "das sind dann 7,50 \u00e2\u0082\u00ac von jedem.... weil moritz kommt nur, weil ich noch einen kumpel mitbringen sollte, aber er schenkt trotzdem mit (auch wenn er nix zahlt)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1339107638624,
+      "content": "ich denke schon :D ich sags morgen isabel und isabelle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339105037514,
+      "content": "Ja ich mach gerne mit :) ehm wie viel soll ich noch dazu geben dann?? Ach und denkst du so ein blumenstrauss oder ne pflanze w\u00c3\u00bcrde dann auch noch dazu gehen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1339102914769,
+      "content": "ich weis es nicht... aber vielleicht kannst du noch bei uns mitmachen... ich denke nicht, dass das ein problem ist :D isabel sch\u00c3\u00b6nthaler, isabel fink, moritz schneider und ich haben ihr die vierte staffel von gossip girl gekauft. wenn du willst kannst mich einfach mal morgen, wenn du zeit hast anrufen. lg lea :D ;)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339096052620,
+      "content": "Was kann ich bettina zum geburtstag kaufen?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331495712988,
+      "content": "bie mir genau das gleiche... aber mit der grammatik komm ich relativ gut klar...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331495686556,
+      "content": "Ich hab keine ahnung :D das ist ja das doofe ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331495285820,
+      "content": "hoff ich auch... aber ehrlich, was k\u00c3\u00b6nnte die zu dem film fragen? au\u00c3\u009fer: beschreibe was in dem film passiert ist oder so \u00c3\u00a4hnlich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331495231214,
+      "content": "Ja :) ich auch <3 und ich hoffe nur es wird nicht zu schwer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331495001926,
+      "content": "ich werd morgen nach der arbeit voll gl\u00c3\u00bccklich sein... :D nur noch eine franz-arbeit in meinem / unserem ganzen leben \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331494624963,
+      "content": "Ja ich hab auch schiss davor! :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331494140303,
+      "content": "vor allem weil sie ja meinte sie bringt n paar fragen zum film dran...\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331494116663,
+      "content": "w\u00c3\u00a4r m\u00c3\u00b6glich, aber ich setz stattdessen irwie immer que ein... ich hab son schiss vor der arbeit... :(\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331483129725,
+      "content": "kann es sein das das dessen hei\u00c3\u009ft?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331482813970,
+      "content": "hey :) weist du was dont (franz\u00c3\u00b6sisch) auf deutsch hei\u00c3\u009ft?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1331482775735,
+      "content": "hey :) weist du was dont (franz\u00c3\u00b6sisch) auf deutsch hei\u00c3\u009ft?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318441595710,
+      "content": "<3 bis!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318441590732,
+      "content": "nis morgen bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441581122,
+      "content": "bb \u00e2\u0099\u00a5\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441526063,
+      "content": "bis morgen :)\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318441510603,
+      "content": "bitte :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441498586,
+      "content": "danke\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441497088,
+      "content": "schade :(\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318441258766,
+      "content": "nee bei euch net!! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441199183,
+      "content": "weist du zuf\u00c3\u00a4llig ob morgen was ausf\u00c3\u00a4llt?\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318441195434,
+      "content": "hey :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1318441174573,
+      "content": "hey :)\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317057449735,
+      "content": "jap bb ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1317057436898,
+      "content": "bb \u00e2\u0099\u00a5 bis morgen \u00e2\u0099\u00a5\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317057220886,
+      "content": "bitte <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1317057178704,
+      "content": "okay. danke \u00e2\u0099\u00a5\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317055361828,
+      "content": "ich glaub mal nicht das was ausf\u00c3\u00a4llt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1317055332641,
+      "content": "nja :) weist du ob morgen was ausf\u00c3\u00a4llt?\u00c2\u00ad\u001c\u00c2\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1311412805979,
+      "content": "hi. how are you?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lea Span",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/leaspan_zjclotzrgg",
+  "magic_words": [
+    
+  ]
+}

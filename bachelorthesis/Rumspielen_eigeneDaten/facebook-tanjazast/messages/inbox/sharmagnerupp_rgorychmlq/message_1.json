@@ -1,0 +1,280 @@
+{
+  "participants": [
+    {
+      "name": "Sharmagne Rupp"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404225396313,
+      "content": "Alles klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404225376266,
+      "content": "15 Minuten vor dem h&m dem nur f\u00c3\u00bcr Frauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404225230880,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404223942427,
+      "content": "Ok wann und wo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404223925637,
+      "content": "Bin bald da :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404213923940,
+      "content": "Ja klar mach ich :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404213178574,
+      "content": "Eigentlich fast immer bin sp\u00c3\u00a4ter nur in ulm unterwegs deswegen sollte ich es halt rechtzeitig wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404213056107,
+      "content": "Okay ab wann kannst du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404212797171,
+      "content": "Ok sag mir rechtzeitig Bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404212132249,
+      "content": ":) ab 15 Uhr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404210124244,
+      "content": "Wie siehts aus ? Wann bist du in ulm ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404124008523,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404123975066,
+      "content": "Mach ich dann noch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404113845763,
+      "content": "Ok sag mir bitte bis heute abend bescheid wann und wo dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404113744538,
+      "content": "Morgen dann eher bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404111930748,
+      "content": "Irgendwo in ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404111078074,
+      "content": "Muss ich noch schauen :) wo passt es dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404079200909,
+      "content": "Alles klar wann und wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404078985320,
+      "content": "Ja gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1404073186261,
+      "content": "Ok k\u00c3\u00b6nnen wir uns kurz davor vielleicht treffen oder so dass ich dir das geld geben kann ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069282613,
+      "content": "Ja am Dienstag jetzt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1403981010534,
+      "content": "Gehst du am montag 30.06. Zum theatro und holst die b\u00c3\u00a4ndchen oder karten oder was auch immer ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402691007301,
+      "content": "Du wei\u00c3\u009ft bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402690993834,
+      "content": "Alles klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402689073892,
+      "content": "Ja ich mach das dann mit ahmad aus und schreib in die Gruppe ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402673413297,
+      "content": "Ok also ich nehme noch 2 zus\u00c3\u00a4tzlich mit\nWie ist das dann mit dem geld ? Muss man das \u00c3\u00bcberweisen oder an dem abend mitbringen oder wie ist das ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402659495900,
+      "content": "Ja w\u00c3\u00a4re gut so bald wie m\u00c3\u00b6glich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402655321919,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402601871155,
+      "content": "Ok gut\nBis wann muss man wem sagen wie viele man mitnehmen will ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402601832597,
+      "content": "Ja darf man ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1402601513104,
+      "content": "Hallo\nWie ist das jetzt eigentlich .. darf man im theatro noch freunde mit in vip Bereich nehmen oder nicht ? Ich w\u00c3\u00bcrde gerne welche mitnehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395004476090,
+      "content": "Fragen reicht das w\u00c3\u00a4re richtig nett :) nein leider nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1395003810506,
+      "content": "Wenn ich ihn vor Mittwoch sehe kann ich ihn mal fragen ob er dich reinbringt aber versprechen kann ich nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1395003779279,
+      "content": "Kennst du niemanden der dort arbeitet ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395003509641,
+      "content": "Hmm Nein das ist das Problem :D -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sharmagne Rupp",
+      "timestamp_ms": 1395003216101,
+      "content": "Bist du noch keine 18?\nIch kenne jemanden der im theatro arbeitet allerdings an der bar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395003044867,
+      "content": "Hey du denkst du es gibt eine M\u00c3\u00b6glichkeit das ich am Mittwoch oder wann auch immer diese abi Party im theatro ist auch orgdoer rein komme? :) :* danke schon einmal",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sharmagne Rupp",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sharmagnerupp_rgorychmlq",
+  "magic_words": [
+    
+  ]
+}

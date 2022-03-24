@@ -1,0 +1,280 @@
+{
+  "participants": [
+    {
+      "name": "Dario Vasic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602700558604,
+      "content": "Ni\u00c5\u00a1ta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602700543246,
+      "content": "Jeste :) hvala puno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602698631634,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602698627655,
+      "content": "Jel se javio i napravio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602698587560,
+      "content": "Ok hvala :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602695133279,
+      "content": "Sada me zvao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602695123828,
+      "content": "Evo pravi upravo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602694735381,
+      "content": "Pisala sam mu ali nije pro\u00c4\u008ditao :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602684830637,
+      "content": "Ok :) mo\u00c5\u00bee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602599151099,
+      "content": "Zlatan Goca Vasic",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602599133829,
+      "content": "Evo Kaze da mu pises",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602598998717,
+      "content": "\u00f0\u009f\u0092\u00aa\u00f0\u009f\u0092\u00aa\u00f0\u009f\u0092\u00aa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602598997637,
+      "content": "Jel si imao kontakt sa zlatanom?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602598982294,
+      "content": "Odli\u00c4\u008dno! Hvala puno :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602598747873,
+      "videos": [
+        {
+          "uri": "messages/inbox/dariovasic_dtxodwwfcq/videos/video1602598747_343641286890596.mp4",
+          "creation_timestamp": 1602598743,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/120933543_3339295262786248_4246382817951034158_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=2e61dd14c4a36100fd73437b93ccb613&oe=61886E22"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602598656832,
+      "content": "Joojjj",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602598284539,
+      "content": "Haahhhh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602598114465,
+      "content": "Pa jel mo\u00c5\u00beda mo\u00c5\u00bee\u00c5\u00a1 da ustanes iz kreveta? \u00f0\u009f\u0098\u0085 to bi bilo odli\u00c4\u008dno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602592355515,
+      "content": "Ili da nesto promenimo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602592344870,
+      "videos": [
+        {
+          "uri": "messages/inbox/dariovasic_dtxodwwfcq/videos/video1602592344_2525007087792581.mp4",
+          "creation_timestamp": 1602592340,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/120921136_3643803045664727_3779471845010096958_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=cbdb13e0264edb85c0a36d57ad777beb&oe=6188E595"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602592341066,
+      "content": "Jel ok ovako",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602591687773,
+      "content": "Pitacu ga to bas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602591669173,
+      "content": "Za Zlatana mogu ok,ali Ljubo u Bosni",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602591597747,
+      "content": "A lisine koleginice su mi sve poslale a ja zaboravila na vas. Jel mo\u00c5\u00bee\u00c5\u00a1 i zlatana pitati i Ljuba da mi isto po\u00c5\u00a1alju nekako? Molim te :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602591547336,
+      "content": "Da bas na dan svadbe ako sve bude \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602591519657,
+      "content": "Izvini sto sam dosadan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602591505751,
+      "content": "Hoces to da pokazes na Dan svadbe Ili kako vec?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602590556054,
+      "content": "Evo snimam Pa obrisem \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602590535011,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602590522141,
+      "content": "Ako mo\u00c5\u00bee danas :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602590512679,
+      "content": "Jel to danas da napravim ili kad vec?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602588936775,
+      "content": "Mo\u00c5\u00beda minut. :) ili manje koliko ho\u00c4\u0087e\u00c5\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602588528810,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Vasic",
+      "timestamp_ms": 1602588528742,
+      "content": "Cao Tanja,pa bih naravno nesto samo koliko da traje otprilike?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602586587821,
+      "content": "Ej \u00c5\u00a1ta se radi? \u00c4\u008cula sam da mora\u00c5\u00a1 pod karantenu. Bas bzv... ima\u00c5\u00a1 li vremena i volju da snimi\u00c5\u00a1 kratak video za svadbu? Samo sam da se snimi\u00c5\u00a1 i da ne\u00c5\u00a1to po\u00c5\u00beeli\u00c5\u00a1 za brak i jel bi mogao zamoliti i Ljuba i zlatana? Re\u00c5\u00beem video za njih pa bi se sigurno radovali :)! Hvala ti",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dario Vasic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dariovasic_dtxodwwfcq",
+  "magic_words": [
+    
+  ]
+}

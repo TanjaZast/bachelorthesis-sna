@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Paul Dumler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1375259306297,
+      "content": "H\u00c3\u00a4 warum soll der mich verletzt haben?  Das stimmt doch gar nicht warum sagt der das? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paul Dumler",
+      "timestamp_ms": 1375227854041,
+      "content": "Bitte schreib zur\u00c3\u00bcck des ist dem voll wichtig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paul Dumler",
+      "timestamp_ms": 1375226729690,
+      "content": "Der erz\u00c3\u00a4hlt immer wiedwr von eurem kuss und das des was besonderes war mit dir obwohl der nicht gekannt hat dws tut dem glaub voll leid :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paul Dumler",
+      "timestamp_ms": 1375226491225,
+      "content": "Hab geh\u00c3\u00b6rt niklas hat dich echt verletzt",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Paul Dumler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/pauldumler_zhrpkqyhba",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Yalcin Aslan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yalcin Aslan",
+      "timestamp_ms": 1498308309784,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yalcin Aslan",
+      "timestamp_ms": 1401013238230,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Yalcin Aslan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/yalcinaslan_kckfncw3aq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "participants": [
+    {
+      "name": "Angelina Scott Pilgrim"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363988071705,
+      "content": "Wei\u00c3\u009f ich nicht ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1363987948304,
+      "content": "Glaubt ihr, der ist noch so lang im kh? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1363987883434,
+      "content": "Di ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363985121601,
+      "content": "? Vorschlag : n\u00c3\u00a4chsten Mo di oder mi ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363932022989,
+      "content": "Okay. Also wie siehts aus ? (: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363895938269,
+      "content": "AB Montag bin ich weg und komm dann erst Sonntag bevor Schule wieder anf\u00c3\u00a4ngt aber sagt ihm dann ganz liebe gr\u00c3\u00bc\u00c3\u009fe von mir und sagt das es mir leid tut wir aber im Urlaub sind ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1363889992833,
+      "content": "wisst ihr denn wie lang der noch im krankenhaus ist ... ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363886704061,
+      "content": "Mir ists egal ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1363886340776,
+      "content": "also wenn ihr es noch dieses we machen wollt, dann kann ich leider nicht....bin bis sonntag in Leipzig.\naber ab montag gerne ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1363886253564,
+      "content": "Wann habt ihr zeit?! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1363886237333,
+      "content": "ich bin morgen nicht da :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1363886220997,
+      "content": "Mir egal :) ich kann auch schon morgen.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363886141414,
+      "content": "Jap ! Terminvorschlag ? (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1363881363441,
+      "content": "Mir egal :* sollten m\u00c3\u00b6glichst bald gehen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1363878080717,
+      "content": "Kp?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363878047126,
+      "content": "Ja gut da kann man ja nach fragen ;) und bis wann oder wann wollt ihr gehen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1363877710169,
+      "content": "Bwk aber wo genau kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363877213185,
+      "content": "Okay gut :) wei\u00c3\u009f jemand wo der ist und bis wann? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1363877141949,
+      "content": "klar :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1363855423277,
+      "content": "Ja gerne.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1363855224941,
+      "content": "Hey :) wollen wir hr schmid auch besuchen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Angelina, Lisa, Mo und 2 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/angelinalisamound2weiterepersonen_ir-nc2jg1w",
+  "magic_words": [
+    
+  ]
+}

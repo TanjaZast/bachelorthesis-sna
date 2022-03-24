@@ -1,0 +1,314 @@
+{
+  "participants": [
+    {
+      "name": "Nico Soica"
+    },
+    {
+      "name": "Sofia P. Potter"
+    },
+    {
+      "name": "Isabell Marx"
+    },
+    {
+      "name": "Elena Mignemi"
+    },
+    {
+      "name": "Nata Be"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Alexander Epic"
+    },
+    {
+      "name": "Anna Mtzl"
+    },
+    {
+      "name": "Ferrero MH"
+    },
+    {
+      "name": "Harley Harley"
+    },
+    {
+      "name": "Ray Pr\u00c3\u00b6ll"
+    },
+    {
+      "name": "Toni Pr\u00c3\u00b6ll"
+    },
+    {
+      "name": "Katharina Axmacher"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lorena Kilian"
+    },
+    {
+      "name": "Luna Levana"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1377451963435,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Christ",
+      "timestamp_ms": 1377440960660,
+      "content": "Philipp Christ hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Philipp Christ"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Ania",
+      "timestamp_ms": 1377428580078,
+      "content": "Steph Ania hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Steph Ania"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1377426454313,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Engelmann",
+      "timestamp_ms": 1377328733850,
+      "content": "Jana Engelmann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jana Engelmann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jay Potter",
+      "timestamp_ms": 1377293343688,
+      "content": "Jay Potter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jay Potter"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nata Be",
+      "timestamp_ms": 1377293298516,
+      "content": "Oki:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lorena Kilian",
+      "timestamp_ms": 1377293277003,
+      "content": "War nicht mit absicht haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steffi Bla\u00c5\u00beek",
+      "timestamp_ms": 1377293270595,
+      "content": "Steffi Bla\u00c5\u00beek hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Steffi Bla\u00c5\u00beek"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nata Be",
+      "timestamp_ms": 1377293261218,
+      "content": "?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lorena Kilian",
+      "timestamp_ms": 1377293204931,
+      "content": "Ups haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lorena Kilian",
+      "timestamp_ms": 1377293189241,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1376947271155,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dini Ma",
+      "timestamp_ms": 1376935944720,
+      "content": "Dini Ma hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Dini Ma"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Klaudija Lipeikaite",
+      "timestamp_ms": 1376839616065,
+      "content": "Klaudija Lipeikaite hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Klaudija Lipeikaite"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Shaniqua Potter",
+      "timestamp_ms": 1376839546188,
+      "content": "Shaniqua Potter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Shaniqua Potter"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1376837427232,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1376837372743,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1376836681361,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leon Petrovic",
+      "timestamp_ms": 1376836571397,
+      "content": "Leon Petrovic hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Leon Petrovic"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Harley Harley",
+      "timestamp_ms": 1376836511849,
+      "content": "Klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Kloos",
+      "timestamp_ms": 1376836102816,
+      "content": "Fabian Kloos hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Fabian Kloos"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Epic",
+      "timestamp_ms": 1376836062065,
+      "content": "Hajowaa ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manu Hernandez",
+      "timestamp_ms": 1376835889857,
+      "content": "Manu Hernandez hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Manu Hernandez"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1376835858059,
+      "content": "https://www.facebook.com/MutatedAesthtics\n\n\nHey ho :D Habt ihr Lust bisschen Werbung f\u00c3\u00bcr die Seite zu machen? Teilen und liken und Freunde einladen und sowas :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nico, Sofia, Isabell und 13 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/nicosofiaisabellund13weiterepersonen_plns5wpfra",
+  "magic_words": [
+    
+  ]
+}

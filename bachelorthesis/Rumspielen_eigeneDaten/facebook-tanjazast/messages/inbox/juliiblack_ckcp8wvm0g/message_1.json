@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Julii Black"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345676088934,
+      "content": ":) ooooh geil ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675979905,
+      "content": "Yeah, ich war in Daheim. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675937449,
+      "content": ":) war in 2 komischen st\u00c3\u00a4dten und am strandt und hab dort geschlafen und dann war ich noch auf ner party :P du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675851847,
+      "content": ":3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675848644,
+      "content": "wie man es sieht. was hast heut so gemacht?:\u00c2\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675721637,
+      "content": ":) ja du hast schon besser :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675642410,
+      "content": "coolcool_:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675588736,
+      "content": ":) sitzen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675566229,
+      "content": "xbox spiele, du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675530294,
+      "content": ":) was machst so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675493961,
+      "content": "mich auch (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675468207,
+      "content": ";) freut mich :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675426173,
+      "content": "auch(:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675416492,
+      "content": ";) gut und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675389155,
+      "content": "(:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675385846,
+      "content": "wie geht's Dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345675346683,
+      "content": "heei ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Black",
+      "timestamp_ms": 1345675332425,
+      "content": "HEy (:",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julii Black",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliiblack_ckcp8wvm0g",
+  "magic_words": [
+    
+  ]
+}

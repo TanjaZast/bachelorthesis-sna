@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Sorg"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315385399289,
+      "content": "Schon lange :) hab doch sogar schon urlaubsbilder hochgeladen :) also ich hab am 18. September firmung und du bist eingeladen und das beginnt so um 12 dann gibts zumindest spanferkel und so .. Kannst ja mal corinna nati und marko und dejan sagen?? :) dann ist kirche und danach kuchen und kalte platte :)\r\nAlso kannst es ja mal ueberlegen :) ach und jasmina kommt auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Sorg",
+      "timestamp_ms": 1315384913175,
+      "content": "Hall\u00c3\u00b6lle :-) ne die haben noch nichts gesagt :-) bist wieder in deutschland? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332656307,
+      "content": "haben dir nati und dejan schon von meiner firmung erz\u00c3\u00a4hlt?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332409352,
+      "content": "heyo ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Manuel Sorg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/manuelsorg__odllcusbq",
+  "magic_words": [
+    
+  ]
+}

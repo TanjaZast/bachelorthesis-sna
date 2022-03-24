@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1397815889393,
+      "content": "Einfach so :)\n\nHat mich interessiert ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397392717833,
+      "content": "Warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397392704400,
+      "content": "Wir tanzen zusammen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1397381717705,
+      "content": "Auf jeden Fall :)\n\nWoher kennst du Lidia ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397318955446,
+      "content": "Ja klar und du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1397303419174,
+      "content": "Gut nach hause gekommen ?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397302733597,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1397298247629,
+      "content": "Hey \u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ncgwkciq2w",
+  "magic_words": [
+    
+  ]
+}

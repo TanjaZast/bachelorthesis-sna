@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Ismail Memis"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428538921,
+      "content": "Oder halt auf ner balkan party\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428522071,
+      "content": "Vielleicht sieht man sich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428499741,
+      "content": "Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428497305,
+      "content": "Voll lieb, dass du fragst und danken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428487493,
+      "content": "Bin aber ab morgen wieder da \u00f0\u009f\u0098\u0095 Hahahah leider",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428476633,
+      "content": "Wollt nur fragen\u00f0\u009f\u00a4\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428457521,
+      "content": "Oh okey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428440091,
+      "content": "Wollte irgendwie einfach nicht in die Uni weil ich mich da unwohl und direkt gestresst f\u00c3\u00bchle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428439580,
+      "content": "Gute besserung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428416238,
+      "content": "Bin viel krank gewesen und war daheim und hab von da aus gelernt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1524428398105,
+      "content": "Ich kenne die von so eine Sprachreise die ich in der 9. klasse oder so mal gemacht habe nach England aber lustig wie klein die Welt ist!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1524428021823,
+      "content": "Man sieht dich ja kaum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1522499315069,
+      "content": "Dankesch\u00c3\u00b6n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1522499308704,
+      "content": "Ja ich wollt dich grad fragen was da abgeht\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1522482815139,
+      "content": "Alles Liebe und Gute nachtr\u00c3\u00a4glich und wie lustig ist das bitte!? Du kennst jassi Danner?! \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ismail Memis",
+      "timestamp_ms": 1522482668536,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ismail Memis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ismailmemis_g1fzs89r_q",
+  "magic_words": [
+    
+  ]
+}

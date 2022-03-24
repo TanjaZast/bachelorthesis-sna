@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Martin Jatzek"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1423683205837,
+      "content": "hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1418855231636,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1409264191234,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409264090963,
+      "content": "Ich wei\u00c3\u009f?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1409263795494,
+      "content": "Ist doch sch\u00c3\u00b6n :) hier in Deutschland ist das Wetter ja nicht so \u00c3\u00bcberragend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409263487732,
+      "content": "Geil :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1409262303581,
+      "content": "cool :) wie wars?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409261920731,
+      "content": "War vor 3 Wochen da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1409252814875,
+      "content": "Hey :) wie ist es in Venedig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martin Jatzek",
+      "timestamp_ms": 1406838169327,
+      "content": "Hey :) danke f\u00c3\u00bcrs annehmen :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Martin Jatzek",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/martinjatzek_ppklrbzflg",
+  "magic_words": [
+    
+  ]
+}

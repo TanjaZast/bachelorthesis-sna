@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ozi Sa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ozi Sa",
+      "timestamp_ms": 1455810434417,
+      "content": "Huhu",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ozi Sa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ozisa_dykn5ewpla",
+  "magic_words": [
+    
+  ]
+}

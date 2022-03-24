@@ -1,0 +1,532 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578073185967,
+      "content": "viielen dank :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578072125409,
+      "content": "01701975466",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578072116722,
+      "content": "Oh nein, dann ganz viel Erfolg!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578072099790,
+      "content": "Danke dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578072097604,
+      "content": "Ich sitze jetzt wieder dran :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578056757017,
+      "content": "kannst mir auch einfach deine nr geben :) in whatsapp ists nicht so umst\u00c3\u00a4ndlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578056712889,
+      "content": "wenn ich was hab, kannst es haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578056701255,
+      "content": "aktuell lern ich nur f\u00c3\u00bcr ne m\u00c3\u00bcndliche pr\u00c3\u00bcfung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578056687751,
+      "content": "ne hab noch nichts gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1578056680835,
+      "content": "danke dir auch :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578056454797,
+      "content": "Bist bereits gut mit dem aktuellen EdA Blatt ins neue Jahr gestartet? \u00f0\u009f\u0098\u0082 \nHast du zuf\u00c3\u00a4llig was bei der 1 oder 2?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1578056417451,
+      "content": "Frohes neues! \u00f0\u009f\u008e\u0089\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576756918801,
+      "content": "perfekt!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576756879283,
+      "content": "Gerne :) mit der Abgabe hat auch alles geklappt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576756606642,
+      "content": "vielen vielen dank!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576756404362,
+      "photos": [
+        {
+          "uri": "messages/inbox/keldobpasg/photos/79884754_862888074141421_6558045745344151552_n_862888050808090.jpg",
+          "creation_timestamp": 1576756403
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576756402601,
+      "photos": [
+        {
+          "uri": "messages/inbox/keldobpasg/photos/79899899_2317544155016137_4799580585540452352_n_2317544035016149.jpg",
+          "creation_timestamp": 1576756401
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576713411270,
+      "content": "vielen dank :))) dir auch tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576713401992,
+      "content": "ich antworte einfache :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576713390298,
+      "content": "Und kein Problem, gerne doch. Sch\u00c3\u00b6ne Feiertage dann noch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576713387110,
+      "content": "gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576713378431,
+      "content": "Ja, ist die richtige",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576713375003,
+      "content": "Klar kannst du drauf antworten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712991243,
+      "content": "oder is deine email\n\ntanja.zast@uni-ulm.de\n\n??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712960903,
+      "content": "kann ich dir einfacherheits halber auf deine gesendete email antworten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712883404,
+      "content": "dankee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712876596,
+      "content": "okeey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712859172,
+      "content": "An die Uni Mail w\u00c3\u00a4re es am geschicktesten :) \nDanke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712824866,
+      "content": "wo soll ichs dir schicken?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712817476,
+      "content": "perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712809291,
+      "content": "Hab ich immer dabei \u00f0\u009f\u0099\u0082! Mache ich dann. Bin eh ab 10 an der Uni",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712797659,
+      "content": "yes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712793895,
+      "content": "vllt tackern haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712790822,
+      "content": "Steht sonst name und alles drauf?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712788284,
+      "content": "yes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712783567,
+      "content": "oha voll cool!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712783307,
+      "content": "Also nur ausdrucken und abgeben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712771708,
+      "content": "Kann ich machen \u00f0\u009f\u0099\u0082!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712743981,
+      "content": "denn ich bin morgen nicht an der uni, weswegen dich das eda blatt getext hab.. ich vertrau aber meinem abgabepartner nicht, denn er is gerade hacke dich hahah :D w\u00c3\u00bcrdest du es ausdrucken und abgeben?? ich w\u00c3\u00a4r dir echt was schuldig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712722847,
+      "content": "Klar, ich kann es dir schicken:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576712072966,
+      "content": "gehst du morgen in die eda \u00c3\u00bcbung??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576712055921,
+      "content": "Klar, was gibts :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576711924685,
+      "content": "hey :) bist du noch wach??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576697769437,
+      "content": "gerne Tanja :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576689239564,
+      "content": "Neeee hat mir echt viel gebracht! Vielen Dank! \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576622818210,
+      "content": "und die c is sehr salopp formuliert haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576622803281,
+      "content": "kp :D kann ja immer n denkfehler drin sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576622742432,
+      "content": "Also auf den ersten Blick sehe ich nichts was nicht stimmt \u00f0\u009f\u0098\u0085 was soll da nicht stimmen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576622114520,
+      "content": "leider konnt ich dir diese woche keine abgabe liefern die zu \u00f0\u009f\u0092\u00af stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576622077790,
+      "content": "hab ich gern gemacht :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576622015300,
+      "content": "Bin gerade echt dankbar! Schaue es mir direkt morgen fr\u00c3\u00bch an.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576621978849,
+      "content": "Oha wie lieb von dir! Vielen vielen Dank \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb das ist ja mega nett!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576621866522,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576621825938,
+      "content": "falls es falsch sein sollte, kannst meinen l\u00c3\u00b6sungsansatz gerne als idee nutzen. eigentlich wollte ich diese woche nix abgeben :D doch weil du gefragt hast hab ichs doch gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576620549778,
+      "content": "haha \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576620379920,
+      "content": "Vielen Dank! :) habe mir versucht etwas aus den Fingern zu saugen aber nicht so gut \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576619549489,
+      "content": "2a) betrachte ich D5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576619539197,
+      "content": "also ich hab bei der 2a wohl die richtige idee und bei der 2b auch .. ich schreibs aus und schicks dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576619509967,
+      "content": "nice :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576619481599,
+      "photos": [
+        {
+          "uri": "messages/inbox/keldobpasg/photos/79323950_848695302226689_1020668758504505344_n_848695258893360.jpg",
+          "creation_timestamp": 1576619480
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576619479607,
+      "photos": [
+        {
+          "uri": "messages/inbox/keldobpasg/photos/79850390_1023205664696699_8170152232314994688_n_1023205644696701.jpg",
+          "creation_timestamp": 1576619478
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576619451608,
+      "content": "Ich mache Triathlon \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576611546811,
+      "content": "was trainierst? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576611539110,
+      "content": "joa :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576611517300,
+      "content": "Habe zwar was, kann es dir nach dem Training mal schicken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576611489607,
+      "content": "des blatt is diese woche auch schei\u00c3\u009fe..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576611457036,
+      "content": "Das w\u00c3\u00a4re mega lieb! Bekomme die 2. nicht so ganz hin.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576601556695,
+      "content": "ehh ich mach morgen vermutlich eda fertig und dann bekommst du die l\u00c3\u00b6sungen falls ichs hin bekomm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576601531946,
+      "content": "ja hab ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576601019308,
+      "content": "Hallo Achim, du hast vermutlich meine email bekommen? \u00f0\u009f\u0098\u0085\u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576598058582,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/keldobpasg",
+  "magic_words": [
+    
+  ]
+}

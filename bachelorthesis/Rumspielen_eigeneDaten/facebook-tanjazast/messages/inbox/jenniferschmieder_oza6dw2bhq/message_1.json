@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Schmieder"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404306676497,
+      "content": "Ja stimmt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404303942118,
+      "content": "weil ich sch\u00c3\u00a4tz schon dass ide meisten vodka und gin wollen, aber ich kenn auch vereinzelt leute die das nicht m\u00c3\u00b6gen und wenn die dann gar nichts davon trinken k\u00c3\u00b6nnen ists auch schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404303481896,
+      "content": "also halt mind. eine vodka usw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404303476019,
+      "content": "aber nehmen wir schon von jedem mindestens eine Flasche, oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404303451169,
+      "content": "Danke dir \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404303441019,
+      "content": "Bis morgen Abend oder Mittag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404303386146,
+      "content": "Ich w\u00c3\u00bcrd das dazu schreiben damit es nicht im Nachhinein Diskussionen gibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jennifer Schmieder",
+      "timestamp_ms": 1404303371760,
+      "content": "Bis wann kann abgestimmt werden?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jennifer Schmieder",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jenniferschmieder_oza6dw2bhq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Dragana Vasilijevic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505730850264,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dragana Vasilijevic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/draganavasilijevic_mzdmtla4_q",
+  "magic_words": [
+    
+  ]
+}

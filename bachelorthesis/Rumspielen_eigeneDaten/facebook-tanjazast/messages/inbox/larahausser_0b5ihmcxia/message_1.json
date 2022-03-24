@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Lara Hau\u00c3\u009fer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1291014749000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lara Hau\u00c3\u009fer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/larahausser_0b5ihmcxia",
+  "magic_words": [
+    
+  ]
+}

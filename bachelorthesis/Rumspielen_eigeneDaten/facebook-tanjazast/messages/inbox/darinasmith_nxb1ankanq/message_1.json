@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Darina Smith"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458758944879,
+      "content": "Voll die gute Idee \u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458758931181,
+      "content": "Wenn du mir schreibst schicke ich dir einfach Lidia als Kontakt auf whatsapp \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458758909282,
+      "content": "Warte schnell meine ist die: 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Darina Smith",
+      "timestamp_ms": 1458757243279,
+      "content": "Tanja \u00f0\u009f\u0099\u008b\nKannst du mir vllt deine Nummer geben und die von lidia weil saskia und ich wollen unsere alte Gruppe gr\u00c3\u00bcnden \u00f0\u009f\u0098\u008d\u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Darina Smith",
+      "timestamp_ms": 1370459496917,
+      "content": "Hey :**\nDankesch\u00c3\u00b6n echt lieb von dir das du mir gratulierst hab mich wirklich gefreut \u00f3\u00be\u008c\u00ac\nJa ich hoffe auch dass man sich gaaannnzzzz bald wieder sieht <3\nAi s\u00c3\u00bc\u00c3\u009f danke dass kann ich alles nur zur\u00c3\u00bcck geben :*\nXOXO :*\nDu fehlst mir auch !!! Kussi Zur\u00c3\u00bcck <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370211687127,
+      "content": "Hei s\u00c3\u00bc\u00c3\u009fe :* ich bin einfach heute nicht dazu gekommen sorry :/ alles alles liebe und gute (mit leichter Versp\u00c3\u00a4tung) :* ich hoffe du hattest nen ganz sch\u00c3\u00b6nen tag <3 und auch ganz viel Spa\u00c3\u009f. Ich hoffe man sieht sich bald mal wieder :* du bist so hammer nett und wundersch\u00c3\u00b6n und bleib einfach so wie du bist :* Kussi an dich und bis bald du fehlst mir :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Darina Smith",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/darinasmith_nxb1ankanq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "participants": [
+    {
+      "name": "Dominik Obermayer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1406729018231,
+      "content": "Hey, sag mal warum schreibst du mir eig nicht mehr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1406490224261,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1406064299925,
+      "content": "Hab ich was falsch gemacht? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1406050474453,
+      "content": "Schreibst mir nicht mehr? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1406032472120,
+      "content": "Wann w\u00c3\u00bcrde es denn bei dir gehen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405953701637,
+      "content": ":) ja wenn ich zeit finde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405951420281,
+      "content": "Wir k\u00c3\u00b6nnen uns ja mal verabreden wenn du Lust und zeit hast :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405951099430,
+      "content": "Kein Problem du \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405948619221,
+      "content": "Okay, cool :) \nSorry dass ich dich so ausfrage :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405945542595,
+      "content": "Hop Hop :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405944003528,
+      "content": "Jaa :) \n1.70 :) \nWas genau tanzt du eig? \u00f3\u00be\u008c\u00ab sieht voll professionell aus auf deinen Fotos \u00f3\u00be\u008c\u00b8 Sorry ich kenn mich da ned so aus \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405943900337,
+      "content": "Ehm 1.65/66 du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405943891013,
+      "content": ":) Haha okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405943238561,
+      "content": "Gut, hat mich nur so interessiert :) \nWie gro\u00c3\u009f bist du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405943060242,
+      "content": "Beides",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405943053511,
+      "content": "Klar warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405942924659,
+      "content": "Hast du nen F\u00c3\u00bchrerschein bzw ein Auto? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405942812445,
+      "content": "Genau :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405942513102,
+      "content": "Ja da ist heute schw\u00c3\u00b6rmontag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405942290478,
+      "content": ":) in Ulm ist ja ein gro\u00c3\u009fer Feiertag mal schauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405941228839,
+      "content": "Okay :) \nWas machst heute so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405941166200,
+      "content": "War voll gut!! \u00f3\u00be\u00ae\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405941112842,
+      "content": "Oh man, die Nachricht hab ich eigentlich schon heut morgen geschrieben \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405941053977,
+      "content": "Guten morgen :) \nWie war's dann noch so in \u00c3\u0096sterreich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405723074055,
+      "content": "Meiner Tante :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405722992886,
+      "content": "Okay, das ist gut :) \nMit wem bist da eig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405721006882,
+      "content": "Schon cool :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405720544642,
+      "content": "Wie ist's so da wo du bist? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405720526149,
+      "content": "Ja schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405720496185,
+      "content": "Schon viel besser hier zu schreiben finde ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405720468070,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Obermayer",
+      "timestamp_ms": 1405720412221,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dominik Obermayer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dominikobermayer_wu52ota4cg",
+  "magic_words": [
+    
+  ]
+}

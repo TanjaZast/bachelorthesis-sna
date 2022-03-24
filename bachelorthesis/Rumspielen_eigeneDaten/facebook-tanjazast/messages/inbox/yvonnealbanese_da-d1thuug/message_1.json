@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Yvonne Albanese"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yvonne Albanese",
+      "timestamp_ms": 1448721004540,
+      "content": "Sehr gerne!\u00e2\u0098\u00ba oh man, hoffentl.wirst Du dann auch fit. Musst echt aufpassen. Liebs Gr\u00c3\u00bcssle Yvonne\u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448661556274,
+      "content": "Danke Ivonne! Bis Sonntag dann. Ja geht nicht so richtig - muss jeden Tag arbeiten \u00f3\u00be\u008c\u00b4 aber geht mir schon um einiges besser \u00f3\u00be\u008c\u00ad super lieb von dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yvonne Albanese",
+      "timestamp_ms": 1448533906797,
+      "content": "Hallo Tanja,\n\nJana hat mir erz\u00c3\u00a4hlt, dass es Dich ziemlich erwischt hat. Pass auf Dich auf und kurier Dich aus.\nBzgl. den Videos leite ich es an Jana weiter, da sie dies koordiniert. Ich hab leider keine Videos.\nMacarena bitte vom Video lernen.\nSpice Girls m\u00c3\u00bcsste eigentlich online sein. Aber ich gebe Jana Bescheid, dass sie sich nachher gleich darum k\u00c3\u00bcmmert. Toll, dass Du\nnebenher die Choreos lernst.\nGute Besserung!\n\nGanz liebe Gr\u00c3\u00bc\u00c3\u009fe\nYvonne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448492282232,
+      "content": "Hey Yvonne, bin zwar noch nicht ganz fit aber m\u00c3\u00bcsste langsam echt die Chores Intensiv anschauen vor allem \u00c3\u00bcben wir es auch nochmal bei Jana am Samstag \u00f3\u00be\u008d\u0095 nur leider finde ich weder f\u00c3\u00bcr Michael Jackson noch f\u00c3\u00bcr die spicegirls das Video in der Gruppe \u00f3\u00be\u008c\u00a3 kannst du es bitte f\u00c3\u00bcr mich reinstellen oder es mir zukommen lassen? Danke! \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yvonne Albanese",
+      "timestamp_ms": 1435246494620,
+      "content": "Parkpl\u00c3\u00a4tze sind leidee voll\u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435246240601,
+      "content": "Ich komme Zugbedingt etwa sp\u00c3\u00a4ter. Darf ich auf unseren Parkpl\u00c3\u00a4tzen Parken? Sonst zahle ich mich dumm und d\u00c3\u00a4mlich \u00f3\u00be\u008d\u0080\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yvonne Albanese",
+      "timestamp_ms": 1435135307923,
+      "content": "Perfekt! Das mit der Anprobe hat alles Dzenita gemacht. War das nicht bis heute? Frag am besten Dzenita nochmal direkt. Dann bis morgen:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435096824812,
+      "content": "Okay sehr gut dann bringe ich mein gl\u00c3\u00a4tteisen mit \u00f3\u00be\u008c\u00b5 bis Donnerstag \nMorgen Anprobe geht aber auf jeden Fall klar oder? \nMuss ich da nur reinlaufen und nach der Anprobe Fragen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yvonne Albanese",
+      "timestamp_ms": 1435090325023,
+      "content": "Hi Tanja, passt v\u00c3\u00b6llig. Bei denen es fr\u00c3\u00bcher schon geht was das Bekleben amgeht und Locken sollen es machen ansonsten im Ten:) freu mich. Bis Do. Liebe Gr\u00c3\u00bc\u00c3\u009fe Yvonne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435088682135,
+      "content": "Ich bin erst 18 Uhr in Ulm und mit den Wimpern ist bissle doof dann m\u00c3\u00bcsste ich die direkt am Morgen um 6 drauf machen und das kommt glaub nicht so gut bei der Bank. Und locken sind schon drau\u00c3\u009fen aber ich habe ja sehr kurze Haare m\u00c3\u00bcsste schnell gemacht sein \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Yvonne Albanese",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/yvonnealbanese_da-d1thuug",
+  "magic_words": [
+    
+  ]
+}

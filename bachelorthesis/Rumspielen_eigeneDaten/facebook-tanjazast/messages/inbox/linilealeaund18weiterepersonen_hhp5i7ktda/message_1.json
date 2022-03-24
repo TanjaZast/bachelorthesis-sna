@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Lini Julie"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Lea Marquardt"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Laura Amelie"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Chrissy Hogrefe"
+    },
+    {
+      "name": "Mareike Elsner"
+    },
+    {
+      "name": "St\u00c3\u00a9phie Wolpert"
+    },
+    {
+      "name": "Melii KeCksii"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Franziskaha Hawaii"
+    },
+    {
+      "name": "Jacqueline Wiedemann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Mara Anna Harvey"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tami Tessa"
+    },
+    {
+      "name": "Ellen Hofbauer"
+    },
+    {
+      "name": "Cari\u00c5\u0084 Eltr\u00c3\u00aec"
+    },
+    {
+      "name": "Isa Bel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1350125205335,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1350124108026,
+      "content": "Sophie Witte hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sophie Witte"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Simonsig",
+      "timestamp_ms": 1350120588542,
+      "content": "Stefanie Simonsig hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Stefanie Simonsig"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1350120555173,
+      "content": "Ist vielleicht ein bischen albern, aber jetzt habe ich es halt gemacht:\nBitte poste ein Herz an deiner Pinnwand, ohne Kommentar, nur ein Herz. Sende dann diese Nachricht an alle deine Freundinnen - nur weibliche Personen. Poste anschliessend ein Herz an die Pinnwand der Person, die dir diese Nachricht gesendet hat.Solltest du gefragt werden, weshalb du so viele Herzen an deiner Pinnwand hast, antworte nicht.Dies ist eine Aktion von Frauen f\u00c3\u00bcr alle Frauen. Es ist die Woche f\u00c3\u00bcr den Kampf gegen Brustkrebs. Es ist nur eine bescheidene Geste der Solidarit\u00c3\u00a4t. Die Herzform gibst du ein, in dem du die Zeichen < und 3 eintippst ohne Leerschlag.Vielen Dank",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lini, Lea, Lea und 18 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/linilealeaund18weiterepersonen_hhp5i7ktda",
+  "magic_words": [
+    
+  ]
+}

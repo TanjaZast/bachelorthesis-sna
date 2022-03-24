@@ -1,0 +1,523 @@
+{
+  "participants": [
+    {
+      "name": "Filip Kola\u00c4\u008dek"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1381989120888,
+      "content": "Hvala Tanja ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381961076370,
+      "content": "Joj izvini! -.- zelim ti jos sve najbolje za rodjendan :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347039954683,
+      "content": "jo skola -.- jos do sutra rano idemo ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347034242821,
+      "content": "i kolko ste dugo dole",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347034221479,
+      "content": "a eto pocela je skola ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347034170861,
+      "content": "da kod tebe?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347034066963,
+      "content": ":)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347034063434,
+      "content": "aaaaa u starigrdu ste",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347034040639,
+      "content": "nista malo u starigradu sutra idemo i ovo je bili sadnji put ovde ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347033976920,
+      "content": "sta se radi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1347033931561,
+      "content": "eee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347033922609,
+      "content": "heei ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341668930667,
+      "content": "Okay :) vidimo se hocu :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341668468952,
+      "content": "sis i vidimo se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341668452543,
+      "content": "oke ajd pozrdavi i",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341668382312,
+      "content": "okay :) mi isto ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341668048042,
+      "content": "dolazimo u 8 mj kao uvijek ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341667988366,
+      "content": "a kad ti ides? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341667976050,
+      "content": "eto samo tako  ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341667576970,
+      "content": ":) da sto pitas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341666814670,
+      "content": "aha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341666780075,
+      "content": "naravno ali jos imamo skolu :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341666748477,
+      "content": "jel dolazite na more ??:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341666725100,
+      "content": "eee :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1341666716797,
+      "content": "eee =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926653690,
+      "content": ":) to nije smjesno :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338926566246,
+      "content": "hahha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926462200,
+      "content": "jesmo :P mnogo je bilo hladno ali svaki dan smo isli ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338926392594,
+      "content": ":-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338926386762,
+      "content": "sigurno ste se kupali",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926336902,
+      "content": ":) da ko zna koliko jos ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338926243163,
+      "content": "a kao i obicno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338926085282,
+      "content": "da u 8. i mi dolazimo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925824945,
+      "content": "neznam mozda do\u00c4\u0091em u za 2-3 tjedna ili u 8. mjesecu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925721320,
+      "content": ":) aaah pa kad ti ides?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925600578,
+      "content": "ok ku\u00c5\u00beim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925554177,
+      "content": "sto aha??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925538565,
+      "content": "aha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925525707,
+      "content": "nismo jucer smo stigli oped kuci.. :) nema nista tamo :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925468496,
+      "content": "Jeste jos tamo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925419450,
+      "content": "ii sta ima novog?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925394294,
+      "content": "da jesmo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338925385940,
+      "content": "eeej :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925384643,
+      "content": "jeste bili u starigrdu?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1338925346427,
+      "content": "ejjjj :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314973263561,
+      "content": "nista",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314973247011,
+      "content": "sto??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314973202375,
+      "content": "bad sister",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314973188328,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314973168140,
+      "content": "ne interesuje me :D ja sam sto dalje od nje :D okay??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314973125915,
+      "content": "znam da ces sad biti pokraj lise i gledat sta joj pisem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314973080041,
+      "content": "a ma da evo sad ti lisa dolazi na face :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972985444,
+      "content": "ok sljedeci put cu pitat lisu sta mi tanja radi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972895581,
+      "content": "pa to sa lisom i st mi ona radi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972829180,
+      "content": "a sta si to skuzila\u00c5\u00be",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972697467,
+      "content": "ne samo sam nesto skuzila :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972585998,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972532007,
+      "content": "a jer ti to smeta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972484155,
+      "content": "nista sedi ist u sobi i prica :) aaah sta TEBI lisa radi :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972430859,
+      "content": "sta mi lisa radi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972408042,
+      "content": "e pa bas ljepo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972319345,
+      "content": "da se okupam zadnji pit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972302096,
+      "content": "ma idem samo na vikend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972278469,
+      "content": "pa sto sad ides u starigrad kad ti u ponedeljak pocinje skola??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314972172598,
+      "content": "aha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314972059592,
+      "content": "nije mi smo jos u hrvatckoj pa sutra idemo kuci :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314971992769,
+      "content": "jer vam je pocela skola",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314971951821,
+      "content": "ja cu sad ici u starigrad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314971927624,
+      "content": "nista sedimo kod porodice.. ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314971894010,
+      "content": "sta radis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314971878289,
+      "content": "ej",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Filip Kola\u00c4\u008dek",
+      "timestamp_ms": 1314971851204,
+      "content": "ej ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Filip Kola\u00c4\u008dek",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/filipkolacek_ivynbotoma",
+  "magic_words": [
+    
+  ]
+}

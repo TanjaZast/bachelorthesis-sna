@@ -1,0 +1,404 @@
+{
+  "participants": [
+    {
+      "name": "Daniel H\u00c3\u00a4ndel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426203100988,
+      "content": "Die Trainerin hat sie mir an dem HBF gebracht \u00f0\u009f\u0098\u0087\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426203083138,
+      "content": "Weil es das auch in Ravensburg gibt und ich arbeite da \u00f3\u00be\u008d\u0095\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426198133536,
+      "content": "Warum bist du in nem fitness das so weit weg ist und wie hast sie dann wieder bekommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426197470296,
+      "content": "Hab meine Schuhe im Fitness vergessen und das hat mich sooooo aufgeregt \u00f3\u00be\u00b0\u00a6 und da mein Auto in ulm ist und ich nicht 14 km mim Fahrrad fahren wollte h\u00c3\u00a4tte ich sie fast vor Montag nicht mehr gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426177904992,
+      "content": "Sehr gut wie war dein Tag?\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426177883638,
+      "content": "Aber jetzt daheim \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426172186528,
+      "content": "Ohje",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426171163669,
+      "content": "Ja noch immer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426159374392,
+      "content": "Und du noch uni?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426159364961,
+      "content": "Gerade eben \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426159345423,
+      "content": "\u00f3\u00be\u008c\u00b5 und hast es ausm Bett geschafft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426158897483,
+      "content": "\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426157905344,
+      "content": "\u00f3\u00be\u008c\u00b5 okay du Mega flei\u00c3\u009figer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426154246299,
+      "content": "He ich hab Ferien",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426154224467,
+      "content": "Du Faulpelz \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426153518124,
+      "content": "Lieg immer noch im Bett \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426153328204,
+      "content": "Hast aber lange geschlafen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426152040845,
+      "content": "Aso ok \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426143977198,
+      "content": "Naja meistens aber ich komme Dann schon am Samstag oder Sonntag zur\u00c3\u00bcck :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426116224081,
+      "content": "F\u00c3\u00a4hrst du jedes Wochenende heim?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426116215523,
+      "content": "Ja das echt gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426116186760,
+      "content": "Ja genau \u00f3\u00be\u008c\u00b5 Mega praktisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426116159765,
+      "content": "Ja ist doch direkt am Bahnhof oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426116114009,
+      "content": "Ok cool \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426116112349,
+      "content": "Kennst die ettlingerstr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426116102180,
+      "content": "Ne hab ne eigene Einzimmerwohnung \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115993613,
+      "content": "Wo hast du deine Wohnung in Karlsruhe oder wohnst du in einer WG?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115970494,
+      "content": "Ja mal schauen \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426115957582,
+      "content": "Ja schau das wird! \u00f3\u00be\u008c\u00b5 und ich meine 6 Pr\u00c3\u00bcfungen und alle im gleichen Zeitraum ist echt viel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115889900,
+      "content": "3 hab ich schon bestanden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115852860,
+      "content": "6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426115846155,
+      "content": "Egal immer positiv denken!!! Wie viele Pr\u00c3\u00bcfungen waren das? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115744887,
+      "content": "Bei zwei eher negativ \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426115687332,
+      "content": "Und was sagt dein Gef\u00c3\u00bchl? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115453290,
+      "content": "Nene bin nur am chillen \u00f3\u00be\u008c\u00b0 warte noch auf klausurergebnisse ob ich vllt in eine nachklausur muss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426115408419,
+      "content": "Was machst dann in mehr als einem Monat? F\u00c3\u00a4hrst wenigstens in den Urlaub? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426115403145,
+      "content": "Ok \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426115378369,
+      "content": "Musst du nicht \u00f3\u00be\u008c\u00b5 ich gehe eigentlich schon gerne hin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426114996808,
+      "content": "Und ich bemitleide dich \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426114806979,
+      "content": "Ich beneide dich \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426114558749,
+      "content": "Klar bis 13.4 noch \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426114470437,
+      "content": "Ja \u00f3\u00be\u008d\u0080 leider und du wieder frei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426112289437,
+      "content": "Morgen uni?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426112250687,
+      "content": "Wei\u00c3\u009f ja nicht \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426112238215,
+      "content": "Ja genau wo sonst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111934356,
+      "content": "In Karlsruhe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426111840919,
+      "content": "Direkt \u00c3\u00bcber dem Zoo \u00e2\u0098\u00ba\u00ef\u00b8\u008fdu wei\u00c3\u009ft glaub nicht was ich meine Oder \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111808183,
+      "content": "Wo ist das?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111800013,
+      "content": "Ja nicht schlecht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426111784652,
+      "content": "Ne war vorhin nur bisschen Fahrrad fahren \u00f3\u00be\u008d\u0095 die Br\u00c3\u00bccke ist geil oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111610285,
+      "content": "Bist noch unterwegs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111603602,
+      "content": "Gut \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426111482735,
+      "content": "Ja genau jetzt \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111280374,
+      "content": "Jetzt?\u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel H\u00c3\u00a4ndel",
+      "timestamp_ms": 1426111033635,
+      "content": "Hey \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daniel H\u00c3\u00a4ndel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/danielhandel_xch5skxzhw",
+  "magic_words": [
+    
+  ]
+}

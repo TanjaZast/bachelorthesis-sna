@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Marko Markovi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420837632180,
+      "content": "Nein spass weil ich hass \u00c3\u00bcber Facebook zu schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420837613822,
+      "content": "Ja ich bin auch nich jeder haja \u00f3\u00be\u008d\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420751193568,
+      "content": "Ich gebe nicht alles meine Nummer \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420664707441,
+      "content": "Hast du lust whatsapp zu schreiben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420664701528,
+      "content": "17 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420664641993,
+      "content": "18 du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420662993772,
+      "content": "Musik h\u00c3\u00b6ren haha wie alt bist du ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420662945694,
+      "content": "Rumliegen du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420662675075,
+      "content": "Auch was machst du so ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420662656821,
+      "content": "Gut und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420662060396,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Markovi\u00c4\u0087",
+      "timestamp_ms": 1420662059507,
+      "content": "Hey wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marko Markovi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/markomarkovic_6eozif0lwa",
+  "magic_words": [
+    
+  ]
+}

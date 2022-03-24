@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Tim Groh"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424905099402,
+      "content": "Oha nicht schlecht also einen sch\u00c3\u00b6nen Geburtstag gehabt? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Groh",
+      "timestamp_ms": 1424893753110,
+      "content": "Weil ich hier kein empfang habe und deswegen nen anderen anbieter brauche:)\nEine rosegoldene Uhr und wir waren kaffe trinken und vorher lecker essen:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424889599114,
+      "content": "Warum fragst du? Und was hast bekommen? \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Groh",
+      "timestamp_ms": 1424869136974,
+      "content": "Dankesch\u00c3\u00b6n mach ich:)\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Groh",
+      "timestamp_ms": 1424869121273,
+      "content": "Okay danke:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424868865690,
+      "content": "S\u00c3\u00bc\u00c3\u009fe alles alles Liebe und Gute \u00f3\u00be\u00ac\u0096\u00f3\u00be\u00ac\u0096\u00f3\u00be\u00ac\u0096 hab nen wundersch\u00c3\u00b6nen Tag und lass dich feiern \u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac K\u00c3\u00bcsschen love You",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424868825843,
+      "content": "Ja hatte ich aber am Abend war mein Handy eh leer warum? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tim Groh",
+      "timestamp_ms": 1424864251175,
+      "content": "Hey tanja muss von tims handy schreiben eeil meins net geht :) ich muss ganz dringend wissen ob du in f\u00c3\u00bcrstenstein empfang hattest?:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tim Groh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/timgroh_e6216y6s2g",
+  "magic_words": [
+    
+  ]
+}

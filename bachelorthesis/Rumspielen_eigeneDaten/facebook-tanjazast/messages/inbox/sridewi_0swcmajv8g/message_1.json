@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sri Dewi"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sri Dewi",
+      "timestamp_ms": 1304921267000,
+      "content": "kein problem,,,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304848877000,
+      "content": "Hallo sri :D nimmst du bitte meine Freundschaftsanfrage an?? :D\nDankee :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sri Dewi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sridewi_0swcmajv8g",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Christina Antonopoulou"
+    },
+    {
+      "name": "Laura Dimuni"
+    },
+    {
+      "name": "Jenny Kling"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "M\u00c3\u00a4ddy Dahmen"
+    },
+    {
+      "name": "Melanie Biegota"
+    },
+    {
+      "name": "Janine Klama"
+    },
+    {
+      "name": "Laura Sophie"
+    },
+    {
+      "name": "Sabine Haller"
+    },
+    {
+      "name": "Mario Sabo"
+    },
+    {
+      "name": "Chrisch Bubi"
+    },
+    {
+      "name": "Vanessa Sabotschan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vanessa Sabotschan",
+      "timestamp_ms": 1321986644989,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1321986228584,
+      "content": "ich hab se eh schon gestern abend bekommen:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jenny Kling",
+      "timestamp_ms": 1321977420204,
+      "content": "gut :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christina Antonopoulou",
+      "timestamp_ms": 1321977364444,
+      "content": "hhahaha ok alles klar :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1321977351260,
+      "content": "hahah oki s\u00c3\u00bcsee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jenny Kling",
+      "timestamp_ms": 1321977336877,
+      "content": "Hallo :) \nich habe eine neue Nummer:\n015120779528\n\nw\u00c3\u00a4re nett wenn ihr es \u00c3\u00a4ndern w\u00c3\u00bcrdet :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa, Christina, Laura und 10 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisachristinalauraund10weiterepersonen_c2e5fxrgag",
+  "magic_words": [
+    
+  ]
+}

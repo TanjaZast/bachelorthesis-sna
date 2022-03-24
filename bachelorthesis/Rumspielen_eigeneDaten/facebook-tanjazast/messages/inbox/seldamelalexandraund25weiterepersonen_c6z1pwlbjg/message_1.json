@@ -1,0 +1,155 @@
+{
+  "participants": [
+    {
+      "name": "Selda Baylan"
+    },
+    {
+      "name": "Mel Jak"
+    },
+    {
+      "name": "Alexandra Georgiou"
+    },
+    {
+      "name": "Melanie Po\u00c5\u00a1a"
+    },
+    {
+      "name": "Joana Fabig"
+    },
+    {
+      "name": "Hanna Pohl"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Nina Schidel"
+    },
+    {
+      "name": "Vesna Zast"
+    },
+    {
+      "name": "Bettina Crespel"
+    },
+    {
+      "name": "Corinna Leicht"
+    },
+    {
+      "name": "Jenny Klich"
+    },
+    {
+      "name": "Bettina Bulla"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Dana Frosch"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Annki Hell"
+    },
+    {
+      "name": "Maria Frosch"
+    },
+    {
+      "name": "Nadine Lie"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Margrit Moser-Frosch"
+    },
+    {
+      "name": "Lena M\u00c3\u00bcnz"
+    },
+    {
+      "name": "Amy Kusa"
+    },
+    {
+      "name": "Eileen Horvath"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sonja Sunshine",
+      "timestamp_ms": 1617876508421,
+      "content": "Sonja Sunshine hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sonja Sunshine"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Odette Magdalena Bischoff",
+      "timestamp_ms": 1514811892650,
+      "content": "Odette Magdalena Bischoff hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Odette Magdalena Bischoff"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yve Bu",
+      "timestamp_ms": 1504607867009,
+      "content": "Yve Bu hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Yve Bu"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andi Lotti Rampfi",
+      "timestamp_ms": 1321979709803,
+      "content": "Andi Lotti Rampfi hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Andi Lotti Rampfi"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maria Frosch",
+      "timestamp_ms": 1321947213176,
+      "content": "Setze ein Herz an deine Wand ohne Kommentar, nur ein Herz. Dann sende diese Nachricht an all deine Freunde - nur die Frauen. Als n\u00c3\u00a4chstes setze ein Herz an die Pinnwand der Person, die dir diese Nachricht geschickt hat. Und wenn dich jemand fragt warum du so viele Herzen an deiner Wand hast, nicht Antworten. Dies ist nur f\u00c3\u00bcr Frauen zur Erinnerung an Brustkrebs. Und da sollten wir immer dran denken.\nAlles liebe und danke dir! \u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Selda, Mel, Alexandra und 25 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/seldamelalexandraund25weiterepersonen_c6z1pwlbjg",
+  "magic_words": [
+    
+  ]
+}

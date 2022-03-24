@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Jelena Lambrecht"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jelena Lambrecht",
+      "timestamp_ms": 1344782223206,
+      "content": "Danke :) ich werde versuchen ne sch\u00c3\u00b6ne woche zu haben^^ :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344782118957,
+      "content": "Okay gut :) das freut mich :** danke werden wir alle hoffentlich noch haben.. Und dir auch noch ne woche ohne thomas.. Der vermisst dich voll ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Lambrecht",
+      "timestamp_ms": 1344780641677,
+      "content": "hey :) Ja also wegen dem telefonat ich sch\u00c3\u00a4tze mal das habe ich wohl in den falschen hals bekommen... aber es kam wirklich etwas seltsam r\u00c3\u00bcber ich kam mir einfach ein bischen verarscht vor in dem moment. Aber danke das du es mir nochmal erkl\u00c3\u00a4rt hast.. dann war das wohl ein missverst\u00c3\u00a4ndnis und du brauchst kein schlechtes gewissen haben das war ja nicht beabsichtigt von euch... es war eben einfach ein missverst\u00c3\u00a4ndnis^^  ich w\u00c3\u00bcnsch euch noch einen sch\u00c3\u00b6nen aufenthalt in england genie\u00c3\u009ft die sprachreise ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344771204997,
+      "content": "Also :) heei du ich will dir mal was sagen.. An dem einem abend wo du mit deinem freund telefoniert hast und so 2 M\u00c3\u00a4dchen gelacht haben das war halt ich.. Aber es hatte echt nichts mit eurem telefonat zu tun sondern nur mit seinem zimmernachbarn(thomas) weil der uns die ganze zeit voll zum lachen gebracht hat :P nicht das du denkst... und der thomas der redet so oft von dir uns so der liebt dich also RICHTIG ;) also sei echt nicht sauer deswegen es tut mir auch voll leid das wir da gelacht haben und ich hab auch voll das schlechte gewissen dewegen also bitte nicht sauer auf ihn sein.. :D danke :** ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jelena Lambrecht",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jelenalambrecht_1k5zxw4b0g",
+  "magic_words": [
+    
+  ]
+}

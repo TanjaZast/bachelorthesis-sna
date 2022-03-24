@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Tan Ja"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423248486238,
+      "content": "Ja genau so war es bei uns :) wie lange lernt ihr dann schon? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423248408467,
+      "content": "Ja auch 2 aber an einen halt 3 teilklausuren \u00f3\u00be\u008d\u0094\nKeiner so richtig aber er muss es wissen er will lieber ein Vollzeit Studium machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423248336121,
+      "content": "Hmmm ich verstehe es aber nicht so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423248319417,
+      "content": "Zwei und ihr? :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423226874651,
+      "content": "Oh \u00f3\u00be\u008c\u00b0\u00f3\u00be\u008d\u0094 wie viele habt ihr geschrieben?\nJa fanden wir auch wir sind auch alle voll traurig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423225652008,
+      "content": "Voll krass aber. \u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423225645434,
+      "content": "Also Anne glaub schon ich hab vielleicht 4 Tage gelernt  \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423141140168,
+      "content": "Geht so \u00f3\u00be\u008c\u00b4 hast du /ihr viel gelernt?\nNur lars Eben\nNein eigentlich nicht wir wussten auch nicht wie das ging aber hat sich wohl schon im Oktober dazu entschieden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423141057557,
+      "content": "Und flei\u00c3\u009fig am lernen? :) \n\nNein bei uns niemand bei euch? \n\nJa voll der hat so gut rein gepasst habt ihr Gemerkt dass er iwie ungl\u00c3\u00bccklich war? \u00f3\u00be\u00b0\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423138651300,
+      "content": "Ne haben erst n\u00c3\u00a4chste Woche Pr\u00c3\u00bcfungen ;)\nHat sonst wer aufgeh\u00c3\u00b6rt?\nWir findens alle auch richtig traurig \u00f3\u00be\u008d\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423138452973,
+      "content": "Okay aber richtig traurig \u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b9 wie ist es bei euch hattet ihr schon die Pr\u00c3\u00bcfungen,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423130100989,
+      "content": "Er hat's uns vor ein paar Wochen gesagt am besten fr\u00c3\u00a4gst du ihn selbst ;) Super \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423129929284,
+      "content": "Ja ganz okay glaub haben mich nicht alle Ergebnisse Beinbruch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423129913668,
+      "content": "Waaaaaaas wann?? Warum bricht der ab? Was hat dem nicht gefallen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tan Ja",
+      "timestamp_ms": 1423129185229,
+      "content": "Lars bricht ab es macht ihm keinen spass \u00f3\u00be\u008d\u0085\nWie liefs bei dir und den anderen wie waren denn die Klausuren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1423129097543,
+      "content": "Wei\u00c3\u009ft du was mit dem Lars ist? Der ist in keiner Liste Eingetragen f\u00c3\u00bcr die Seminare die kommenden Wochen? \u00f3\u00be\u00b0\u0095\u00f3\u00be\u00b0\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tan Ja",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tanja_z341z9c0wq",
+  "magic_words": [
+    
+  ]
+}

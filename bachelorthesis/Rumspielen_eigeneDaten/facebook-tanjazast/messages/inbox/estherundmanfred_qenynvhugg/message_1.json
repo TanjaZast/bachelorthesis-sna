@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Esther May"
+    },
+    {
+      "name": "Manfred Seybold"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manfred Seybold",
+      "timestamp_ms": 1538418526295,
+      "content": "Hi wollte ich auch gerade Scheiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538418496857,
+      "content": "Hast du nen link oder so reingestellt? Sehe nichts \u00f0\u009f\u0098\u009e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Esther May",
+      "timestamp_ms": 1538418190693,
+      "content": "An eure netten anfeuerungsrufe! :-p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manfred Seybold",
+      "timestamp_ms": 1538418148995,
+      "content": "An was erinnern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Esther May",
+      "timestamp_ms": 1538417418678,
+      "content": "Ta Za  Mo Ti Manfred Seybold erinnert mich ans Wochenende :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Esther und Manfred",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/estherundmanfred_qenynvhugg",
+  "magic_words": [
+    
+  ]
+}

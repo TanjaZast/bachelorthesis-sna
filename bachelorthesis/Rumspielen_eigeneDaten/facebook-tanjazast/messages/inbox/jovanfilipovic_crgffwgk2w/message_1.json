@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Jovan Filipovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1463886082279,
+      "content": "Pa lepo lepo. Kako sii,kako zivis? :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463885997062,
+      "content": "Pa bila do sada u Gradu pa zato",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1463884927616,
+      "content": "\u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1463884925663,
+      "content": "Sto ne spaavaas? :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352831176347,
+      "content": "Pa idemo u ameriku pa smo bili u becu i tako malo idemo da vidim nesto od sveta ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1352831062121,
+      "content": "Stooo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352830961943,
+      "content": "Pa moram da vidim kad dolazimo ;) posto je to u zadnje vreme tesko :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1352830743411,
+      "content": "Pa sledeci put kad budete dolazili ti se javi...:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352830570127,
+      "content": "Pa nismo bili dugo :o ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1352830360408,
+      "content": "Pa bzv,nisi se javljala da se vidimo..:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352830178934,
+      "content": "Ne zadnji put u avgustu i to samo jednu nedelju posto sam bila u engleskoj i jos smo za hrvatsku i tako ;) sto ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1352829892340,
+      "content": "Preko fejsaa npr..:D jesi li dolazila skoro? :) :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352829785357,
+      "content": "Parl bolje pitanje je sta ti radis i sto se ne javljas .. ;) a i kako ja da se javim? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jovan Filipovic",
+      "timestamp_ms": 1352829529970,
+      "content": "Pa sta radis ti breee,ne javljas se vise..:D :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jovan Filipovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jovanfilipovic_crgffwgk2w",
+  "magic_words": [
+    
+  ]
+}

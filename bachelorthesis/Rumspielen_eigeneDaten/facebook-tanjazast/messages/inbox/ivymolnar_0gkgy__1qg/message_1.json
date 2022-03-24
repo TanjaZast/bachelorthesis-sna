@@ -1,0 +1,657 @@
+{
+  "participants": [
+    {
+      "name": "Ivy Molnar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1545292066749,
+      "content": "Christmas has come so quickly this year \u00f0\u009f\u008e\u0084\u00f0\u009f\u008e\u0089\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1545292019135,
+      "content": "So happy to hear/read that. \nSo December is your month of celebration \u00f0\u009f\u0098\u0082\u00e2\u009d\u00a4\u00ef\u00b8\u008f in less than one week is Christmas \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1545248749141,
+      "content": "I had a great birthday. Our vacation was amazing!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1545248724485,
+      "content": "Hello beautiful. Never too late!\nThank you so much for your kind words. \u00f0\u009f\u0098\u0098\u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1545238719664,
+      "content": "Maybe I am to late but in Germany it\u00e2\u0080\u0099s still December 19th \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1545238609836,
+      "content": "Hey Beaty! Happy birthday to the most amazing and young and especially good looking woman! \u00e2\u0098\u00ba\u00ef\u00b8\u008f I hope you will have or had an amazing and awesome day with lovely people around you! I really hope you are healthy, happy and appreciating your life. Saw your vacation pics. I\u00e2\u0080\u0099m so happy for you. Kisses, hugs and love to you \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1536572203705,
+      "content": "You are very smart, just don't think about it too much. Life is full of obstacles, and we learn something new at every challenge.\n\nOh nice! We are going for 12 nights and staying in Phuket. I can't wait! It's our first holiday together. \u00f0\u009f\u0091\u00ab\n\nI am well. Always busy at work but I have a new boss and she is fantastic. Very understanding and easy to work with so it makes everything easier. \n\nTomorrow is finally 24 degrees. \u00e2\u0098\u0080\u00ef\u00b8\u008f It's been so cold so I can finally wear a skirt tomorrow \u00f0\u009f\u0098\u0089 \n\n\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1536571908382,
+      "content": "Thank you so much for your lovely massage! I\u00e2\u0080\u0099m so happy to hear your story. I\u00e2\u0080\u0099m always thinking I am the dumbest person in the world because everyone is passing everything so well but I am not \u00f0\u009f\u0098\u0095. Oh this sounds great \u00f0\u009f\u0098\u008d Thailand is so great and just beautiful. How long will you rest there? Lisa and Stefan just arrived from Thailand. They have been there for 3 weeks. Give love to everyone, too! How is your week so far? How is work?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1536527275126,
+      "content": "Hi love. I can imagine it is frustrating. But you have to stay motivated. When I qas studying I did my course over 4 years not 3, because I chose to do it slower to make sure I passed. One more year is not long, it will fly. \nI am well. Spring has finally arrived. Our winter was very cold. I am looking forward to getting out of the house and exercising. In December I am going to Thailand with my boyfriend so I can't wait. \nGive my love to everyone and don't stress about study, you are a smart girl and very young! \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1536510257995,
+      "content": "Hey Beauty! Bad news, I am coming next year. My exams didn\u00e2\u0080\u0099t went that well.... I expected to pass everyone of them but unfortunately I did not \u00f0\u009f\u0098\u0095 so I failed and have to repeat them... deadline is the beginning of October. I\u00e2\u0080\u0099m really sorry for that. You can\u00e2\u0080\u0099t imagine how frustrated I am for that. Hope you feel better than me. How are you? How is your family?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1536486546331,
+      "content": "Hello beautiful girl. It's been a while since we spoke. How are you? \nWhen are you coming to Australia? Soon I hope! \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521812057862,
+      "content": "Sure but it will be a very long list \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521796772659,
+      "content": "Amazing!! Make a list \u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521796714161,
+      "content": "Okay Great \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d I would like to see everything! \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521796277434,
+      "content": "You can tell me what you would like to see and I will take you :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521796231861,
+      "content": "You can stay for as long as you can. I have a major launch at work in September so I will be busy at work, but I am happy to take some time off so we can spend together and visit a few attractions in Melbourne.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521796148388,
+      "content": "I planned to stay 7-10 days but also can stay 5 days. Don\u00e2\u0080\u0099t know how busy you are at this period \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795906765,
+      "content": "How long will you stay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795899637,
+      "content": "I'm so excited!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795891029,
+      "content": "Just book what is more convenient for you?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795877678,
+      "content": "For me it's ok either day.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521795822189,
+      "content": "I searched for some flights on August 24th and 23th. It\u00e2\u0080\u0099s up to you. What is the best for you? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795220324,
+      "content": "Do you know when you will come?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795205074,
+      "content": "\u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521795201690,
+      "content": "That's ok. I am happy because it's the weekend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521795123878,
+      "content": "\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521795118701,
+      "content": "I\u00e2\u0080\u0099m sorry for that. Luckily it\u00e2\u0080\u0099s weekend! I\u00e2\u0080\u0099m good, thank you. Have a lot to study again",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521794998618,
+      "content": "How are you?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521794995098,
+      "content": "It was a very busy day",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521794984830,
+      "content": "I'm home",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521794956107,
+      "content": "No problem \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521793589953,
+      "content": "Give me 10 min. I'm driving",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521793528592,
+      "content": "I hope you had a productive day. I\u00e2\u0080\u0099m on a walk with the dog so haven\u00e2\u0080\u0099t good enough WiFi for phoning you but we can write \u00f0\u009f\u0092\u0095\u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521749017890,
+      "content": "Sleep well and we'll chat then \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521748361172,
+      "content": "Sure! But it\u00e2\u0080\u0099s better to book during the week. Flights are more expensive right now. No problem! I can relate to you. Sure we can talk tomorrow! Really exiting about it \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521747815310,
+      "content": "Give my love to Maria and Ivan. Maybe we can talk tonight? That should be about 9.30 in the morning for you?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521747724839,
+      "content": "Those dates are perfect for me \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521747705905,
+      "content": "Book the flights!!!! I can't wait!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1521747690727,
+      "content": "Hello beautiful. No. I had a conference on Wednesday night and last night after work so I have not had a chance to respond.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521747345303,
+      "content": "Is everything okay? Are you angry with me? \u00f0\u009f\u0098\u00a2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1521536127770,
+      "content": "I received an email. I\u00e2\u0080\u0099m working till August 24th. So I can book the flight at the 24th or 25th. Maybe we can talk tomorrow? Nice greetings from Maria and Ivan. We are going swimming right now \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1520860356094,
+      "content": "Okay! I will let you know. But I will look for some flights and possible dates \u00e2\u009d\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0098\u009a wish you a good night and wonderful dreams",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1520849150507,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1520849146107,
+      "content": "Hello lovely. Nice to hear from you. So good to hear that Maria is doing well. \n\nI am looking forward to your visit too. When is a good day so we can talk? For me it's best when it's about 9am in Germany, because it's 7pm in the evening here.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1520846900131,
+      "content": "Can we talk this week week about some dates. I\u00e2\u0080\u0099m waiting for my summer break job to give me some feedback. After that I can book the flight. This makes me so angry \u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1520846819901,
+      "content": "Hey Beaty! How are you? What are you doing? My exams are over. But have to start studying in a few days. Maria is great now. They moved to the ground floor and this makes everything easier. I\u00e2\u0080\u0099m looking forward to visit you \u00f0\u009f\u0098\u008d\u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1518158573025,
+      "content": "Thank you for writing. I am so glad she is getting better. Give  her my love when you see her or when you speak to her. \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1518133611997,
+      "content": "Thanks for asking \u00f0\u009f\u0098\u008d I\u00e2\u0080\u0099m going to sleep some hours. You are so beautiful \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd! Will write you tomorrow",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1518133544604,
+      "content": "Oh that\u00e2\u0080\u0099s great \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d say greetings to everyone! Maria is really good. They are moving in die first apartment in their house to avoid stairs. The whole family was really busy and had lot of work to do. Now grandma is at Reha. We will visit her at the weekend or at least call her. But she is so much better! Of course she can\u00e2\u0080\u0099t walk a lot but she is making huge steps and will be soon perfect again.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1518096831938,
+      "content": "That's ok beautiful. \nCall me any time. Don't stress. All the study is for a good future. Our cousin from Croatia is here and he is enjoying his time. \nI am looking forward to having you in Australia.\nWhen you have time, write to me to tell me how Maria is?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1518096686080,
+      "content": "Don\u00e2\u0080\u0099t worry! I\u00e2\u0080\u0099m coming visiting you this year but learning and sports stresses me a lot",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1518096650654,
+      "content": "Sorry Beaty. I\u00e2\u0080\u0099m at university right now and can\u00e2\u0080\u0099t talk \u00f0\u009f\u0098\u00a2\nSaw your pics! I\u00e2\u0080\u0099m so happy that you are having a good time \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1518096103955,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1518096093860,
+      "content": "Du hast einen Videochat mit Ivy verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515621460316,
+      "content": "Yes lets talk on the weekend. Sounds great!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621421283,
+      "content": "At the moment I will stay from 30th August till 27th September. Thanks a lot \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621362934,
+      "content": "So at least then I should leave Melbourne. Have you time to talk at the weekend? \u00f0\u009f\u0098\u009a or have you to work?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515621299890,
+      "content": "Awesome! Sounds so good!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621285821,
+      "content": "I would like to run the halfmarathon in Sydney on the 16th of September.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515621277740,
+      "content": "I have a spare room so it's nice not to be empty \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515621247619,
+      "content": "You can stay a month if you like \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621231683,
+      "content": "If it\u00e2\u0080\u0099s too long 7 days are more than enough!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621205960,
+      "content": "By the way I\u00e2\u0080\u0099m looking for flights... would it be okay when I rest 10 days (max 14) at yours. I know it\u00e2\u0080\u0099s a long time but I\u00e2\u0080\u0099m traveling alone and 2 weeks on my complete own is an adventure enough for me \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621088257,
+      "content": "Will get better soon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621079744,
+      "content": "\u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515621074572,
+      "content": "Thanks a lot! She is okay and was really happy about you wishes.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515452761008,
+      "content": "Thanks love. Give her all our love from Australia. I hope she can have the operation so she is better. \u00f0\u009f\u0092\u009c",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515452702592,
+      "content": "Mi she will rest there for some days and they are planing to send her to an other hospital. I really need to pray for her. But it\u00e2\u0080\u0099s better when she have this operation as soon as possible. It will get better. Only living with medical influence isn\u00e2\u0080\u0099t healthy \u00f0\u009f\u0098\u009a\u00e2\u009d\u00a3\u00ef\u00b8\u008f I will call her tomorrow and say the best wishes from you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515452544601,
+      "content": "Oh no. Is she home now?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515451066631,
+      "content": "Marija was so bad that she had to go to hospital. I really hope she is getting better soon.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515443325400,
+      "content": "Thank you. Ahh yes, Merry Christmas for Sunday! \nGive my love to everyone and your grandma. She is such a beautiful person. \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515351453824,
+      "content": "Oh that\u00e2\u0080\u0099s great \u00f0\u009f\u0098\u008d wishing you all the best! Grandma isn\u00e2\u0080\u0099t that well. It\u00e2\u0080\u0099s getting worser every day.... that\u00e2\u0080\u0099s so great \u00e2\u009d\u00a3\u00ef\u00b8\u008f you will have a great time with him. Send you love back. We are celebrating our second Christmas and that sounds really strange but we have a great time and lot of food \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1515315199174,
+      "content": "Hello love. You are right! I do have a boyfriend and he's absolutely wonderful.\nI am well. How are you? No news.. we are all well. \nI'm looking forward to taking some time off in February. Our cousin Dalibor is coming from Croatia for a visit so I am excited to show him around. \nGive my love to everyone \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1515268815291,
+      "content": "Happy new year Beaty! May I ask you something? Have I seen it rightly? Do you have a boyfriend? \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009a sooo happy for you! How are you? Any news?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1513683251461,
+      "content": "I am very excited for Christmas. I will have 4 days off so I'm looking forward to spending time with the family and resting from work. \nYes, let's talk next week one day! I would love to have you at my house. You will love Melbourne and I will be happy to show you around and take you anywhere you want \u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1513683081428,
+      "content": "Oh perfect! Wish you the best in the world \u00e2\u009d\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008d  are you exited for Christmas? \u00f0\u009f\u0098\u009a I\u00e2\u0080\u0099m really planing to visit Australia next year in September. Can we hear or phone each other? I would like to ask if it\u00e2\u0080\u0099s okay to stay few days at your house. Have a nice evening \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009a lots of love to you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1513682711028,
+      "content": "Hello beautiful girl. You didn't miss my birthday. Kod nas je 10.24 navece. \nHvala puno puno, cucemo se i nadam se opet videti. Puno pozdravi sve tvoje \u00f0\u009f\u0098\u0098\u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1513682605431,
+      "content": "Draga Ivy, \nMislim da sam zakasnila po australianakim satom ali ne po njema\u00c4\u008dkom. \u00c5\u00bdelim ti od srca sve najljep\u00c5\u00a1e za rodjendan. Puno zdravlja, ljubavi i sre\u00c4\u0087e u \u00c5\u00beivotu! Nadam se da si imala pre divan dan sa svojom porodicom. Nadam se da \u00c4\u0087e mo se vidjeti uskoro. Do tada ti \u00c5\u00a1aljem veliki poljubac i pozdrav u Australiju \u00f0\u009f\u008e\u0089\u00e2\u009d\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1511266699760,
+      "content": "Oh that's great! I can imagine how perfect you managed everything. I'm really proud that you handled it so well. I only have more than a week. Haven't been on vacation for over a year. And the next possible break (because one week isn't enough) is next year in August \u00f0\u009f\u0099\u0084 but I will make it \u00f0\u009f\u0098\u0082. Oh that's great \u00f0\u009f\u0098\u008d you will have a great time! It's kind of you inviting your family visiting you. Will tell them your greetings next time I see them\u00e2\u009d\u00a3\u00ef\u00b8\u008f thank you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1511261652527,
+      "content": "Yes. I am really happy with how everything went! It was a big 2 days and we had such good results and postitive feedback from everybody. \nThat's nice to see your parents travelling! How long is your Christmas break?\nI am looking forward to Christmas too! My cousin from Croatia is coming to Australia in February so I will wait and take time off then so he can stay with me and I can show him Melbourne. \nI am glad Maria is well. \nGive my love to everyone. \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1511261367271,
+      "content": "Are you satisfied with your work? \u00e2\u0098\u00ba\u00ef\u00b8\u008f congratulations! You are such a strong and diligent woman. That's great to hear. Everything good as well. Mama and dad are in Amerika for vacation at the moment. I have lots of work to do for university. Looking forward for the short Christmas break. Maria is doing better. Are you exited for Christmas as well? \u00f0\u009f\u0098\u008d\u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1511260978237,
+      "content": "Hello lovely girl. I am well thank you for asking. \nI have been a little busy at work. We just launched the new Centre on the weekend so it was been a busy month leading up to it. \nOtherwise, we are all well. \nHow are you? Is everyone well? \n\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1511260865595,
+      "content": "Hey Ivy, how are you? What are you doing? Haven't write for a long time \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1503441622473,
+      "content": "I am going to sleep for some hours. Will answer you in the morning \u00f0\u009f\u0098\u009a\u00e2\u009d\u00a3\u00ef\u00b8\u008f aaaw it would be so fun to visit you. \u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1503441562429,
+      "photos": [
+        {
+          "uri": "messages/inbox/ivymolnar_0gkgy__1qg/photos/21057324_1807993582574817_335183320_o_1807993582574817.jpg",
+          "creation_timestamp": 1503441561
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.209.17.188",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1503441524043,
+      "content": "I was trying hard to write in English \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085 so please forget about my grammatical mistakes. On Friday was the wedding from Ivana Borozni. She looked stunning \u00f0\u009f\u0098\u008d\u00e2\u009d\u00a3\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1503439427040,
+      "content": "Thank you so much for the message. \nI would absolutely love to have you! You are very welcome to stay with me as well. \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1503437557795,
+      "content": "Hey Ivy (beautiful lady, too)! I was working till now so I answer that late. We are great. Mom and dad are in Croatia for vacation and we are looking at the house and the dogs. We have nice weather but I am working from midday to night so can't have fun \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085 she is fine but hasn't her surgery because of the upcoming weddings. How are you, do you have any news? Greetings back \u00e2\u009d\u00a3\u00ef\u00b8\u008f\u00f0\u009f\u0098\u009a p.s I am planing to come and visit you next year if you allow. Have a nice work-day. Kisses \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1503408943013,
+      "content": "Say hello to everyone \u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivy Molnar",
+      "timestamp_ms": 1503408905515,
+      "content": "Hello beautiful lady. How are you? How is the weather in Ulm?\nIt's still very cold in Melbourne. I can't wait for our winter to be over. \nI just wanted to check in and see how your grandmother was going? Did she have her surgery?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ivy Molnar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ivymolnar_0gkgy__1qg",
+  "magic_words": [
+    
+  ]
+}

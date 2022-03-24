@@ -1,0 +1,542 @@
+{
+  "participants": [
+    {
+      "name": "Charlotte Kast"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1582576817251,
+      "content": "mir gehts soweit ganz gut, hab mein Staatsexamen echt gut \u00c3\u00bcberstanden und war \u00c3\u00bcber Weihnachten noch 2 Monate in S\u00c3\u00bcdostasien :) seit Anfang Februar bin ich jetzt im Referendariat in Erbach an der Schillerschule, da gef\u00c3\u00a4llts mir echt gut. Wie gehts dir Tanja? Was machst du gerade ;)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1582576706956,
+      "content": "leider haben wir kein wirkliches Mitteilungsblatt wie die anderen Vororte sondern nur einen Schaukasten und ein B\u00c3\u00bcrgerbl\u00c3\u00a4ttle, was aber glaub nur 2 mal pro Jahr rausgeht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1582576576217,
+      "content": "015120915105",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1582576562624,
+      "content": "ich geb den Termin an meinen Papa weiter und geb dir dann Bescheid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1582576509630,
+      "content": "Oh man sorry Tanja, ja das ist komplett untergegangen :/ hier ist meine Nummer, dann kannst du mich \u00c3\u00bcber whatsapp erreichen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582479293501,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1582479291397,
+      "content": "Ich will wirklich ungern nerven. Meine Nachricht ist vermutlich etwas untergegangen. Wenn ihr wollt kann ich auch gerne mal pers\u00c3\u00b6nlich vorbeikommen am Abend und euch ein bisschen was erz\u00c3\u00a4hlen oder ihr habt vielleicht am 12.03 ab 19 Uhr Zeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1581422968503,
+      "content": "Warum ich mich haupts\u00c3\u00a4chlich melde ist auch, dass ich dich fragen wollte wie es bei dir gerade zeitlich aussieht. Die BLO besteht weiterhin und wir wollen die auch noch lange bestehen lassen. Ich hatte dann die Idee dass wir ja mal geschrieben haben und dann wollte ich fragen ob du (oder/und) dein Papa vielleicht etwas Zeit habt euch das ganze mal anzuh\u00c3\u00b6ren. Also wie gesagt das ganze ist ja parteilos. \nAm 12.03 treffen wir uns um 19 Uhr im Adler in grinmelfingen und wollen den Termin auch bei euch im Mitteilungsblatt ver\u00c3\u00b6ffentlichen. Wir w\u00c3\u00bcrden uns freuen wenn da Interessierte B\u00c3\u00bcrger teilnehmen und wir eine Liste zusammenstellen k\u00c3\u00b6nnen was euch eurer Meinung nach in Grimmelfingen fehlt. Falls ihr Zeit und Lust habt w\u00c3\u00bcrde ich mich sehr freuen. Wenn ihr wollt kann ich aber auch pers\u00c3\u00b6nlich vorbeikommen und euch nochmals einladen. :) \nLiebe Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1581422745666,
+      "content": "Hallo Charlotte :) \nWie lief dein Staatsexamen? Wie geht es dir? \nWar es sehr stressig mit so lange so viel lernen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540935897191,
+      "content": "Alles gut \u00f0\u009f\u0098\u0095 h\u00c3\u00a4tte auch nichts weiteres interpretiert. Tut mir auf jeden Fall echt leid. Falls ihr/du etwas braucht dann meldest dich einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540922480152,
+      "content": "Das sah vor paar Wochen noch anders aus, also nicht dass du dich wunderst warum jetzt pl\u00c3\u00b6tzlich nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540922444304,
+      "content": "Du liebe, danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540765654512,
+      "content": "Das verstehe ich total, alles gut \u00e2\u0098\u00ba\u00ef\u00b8\u008f\nich w\u00c3\u00bcnsche euch echt von Herzen dass es sich bessert. Kopf hoch und es tut mir echt unglaublich leid! Alles wird gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540760624453,
+      "content": "Also momentan ists bei uns famili\u00c3\u00a4r gerade nicht so einfach drum muss er leider absagen. :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540737209101,
+      "content": "Ich frag ihn :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540727312537,
+      "content": "Tut mir echt leid, dass ich so nerve wegen der Liste. Ich verstehe das voll und ganz wenn dein Papa meint 10 oder weit vorne w\u00c3\u00a4re zu viel Arbeit aber k\u00c3\u00b6nnte er sich vorstellen sich trotzdem draufschreiben zu lassen? Er hat sicherlich ein gro\u00c3\u009fes Wissen und k\u00c3\u00b6nnte uns da echt bereichern :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540485166311,
+      "content": "Wie war der Start? \nIch bin das ganze Semester in Stuttgart und mache da ein Praktikum. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540485139146,
+      "content": "Sehr schade aber verstehe ich voll und ganz. So etwas nimmt echt Zeit in Anspruch. \u00f0\u009f\u0098\u009e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540307084290,
+      "content": "ja, aber er hat gesagt, dass es ihm leider doch zu viel wird. tut mir leid :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1540307037841,
+      "content": "ja genau, ich bin jetzt in der zweiten Vorlesungswoche und bist du auch gut gestartet :)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1540041385719,
+      "content": "Hast du eigentlich mal wieder deinen Papa gesehen? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1539797998952,
+      "content": "Stimmt! Das mit dem Hirsch hast du sogar erz\u00c3\u00a4hlt \u00f0\u009f\u0099\u0084\u00f0\u009f\u0098\u0085\nHabe es echt vergessen \u00f0\u009f\u0098\u009e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1539797968294,
+      "content": "Hallo :) wie geht es dir? Hat das Studium wieder begonnen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538340608378,
+      "content": "Ah jetzt hab ichs geckeckt, vielen Dank :)\nIch arbeite am Wochenende immer im Hirsch bei mir im Dorf und kellner dort ein bisschen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538340488279,
+      "content": "Alles gut. Gar kein Problem \u00e2\u0098\u00ba\u00ef\u00b8\u008f wollte es nur geschrieben haben f\u00c3\u00bcr alle F\u00c3\u00a4lle. \nWo arbeitest du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538322623039,
+      "content": "Er hei\u00c3\u009ft Eberhard :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538322615085,
+      "content": "Ah ok war den ganzen Tag beim arbeiten drum hab ich ihn seit gestern nicht mehr gesehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538322573870,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538322317124,
+      "content": "Nur hab ich eine Frage: wie hei\u00c3\u009ft er mit Vornamen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538322302395,
+      "content": "Wir wollen da niemanden unter Druck setzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538322289654,
+      "content": "Haben mal einen Platz in der top 10 frei (sogar 10). Wenn er mag darf er den haben als nachnominierung sonst darf er es lassen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538322236212,
+      "content": "Zeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538322234142,
+      "content": "Dein Papa hat zweit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538286633038,
+      "content": "Hallo Charlotte. Vielen dank f\u00c3\u00bcr die Info. Ja, uns fehlt halt ein Kandidat in den top 10... etwas doof aber so ist das jetzt. Verstehe deinen Papa da voll \u00e2\u0098\u009d\u00f0\u009f\u008f\u00bc\u00e2\u0098\u00ba\u00ef\u00b8\u008f kann man leider nichts machen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538238130952,
+      "content": "Hey Tanja,\nLeider muss ich jetzt doch absagen. Tut mir Leid f\u00c3\u00bcr das hin und her. Mein Vater konnte leider nicht mit meiner Mama sprechen weil sie die ganze Zeit unterwegs ist und morgen hat er leider auch keine Zeit. Deshalb hat er gesagt, dass er leider nicht zusagen kann. Ich hoffe; euer Treffen morgen verl\u00c3\u00a4uft gut und ihr habt genug Kandidaten. Halte mich gerne auf dem Laufenden und geb Bescheid, wenn ich oder mein Vater euch iwie helfen k\u00c3\u00b6nnen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538143216871,
+      "content": "Ok super vielen Dank :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538143207757,
+      "photos": [
+        {
+          "uri": "messages/inbox/charlottekast_ixrieidbyw/photos/42622882_942659529268015_5923640725961965568_n_942659515934683.jpg",
+          "creation_timestamp": 1538143207
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538143178485,
+      "content": "Kein Problem. Das sage ich jetzt dir (musst ihm nicht direkt sagen) aber wir haben leider echt nicht so viel Zeit \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u0088 \nDas Problem ist dass am Sonntag bereits die Nominierungsveranstaltung w\u00c3\u00a4re.... also da werden die ersten 10 zumindest Safe festgelegt. \nIch h\u00c3\u00a4tte unsere top Punkte mal auf einer Liste. Ich schicke es dir mal. \nW\u00c3\u00a4re also cool wenn er es bis morgen w\u00c3\u00bcsste. Sonst k\u00c3\u00b6nnten wir ja auch gerne telefonieren",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Charlotte Kast"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538142974288,
+      "content": "Ohje hast du bald schon wieder Pr\u00c3\u00bcfungen? Mein Papa h\u00c3\u00a4tte auf jeden Fall Interesse auch einen Platz weiter vorne zu nehmen. Er br\u00c3\u00a4uchte aber noch 1/2 Tage Bedenkzeit und will das auch noch mit Mama bereden :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538142711454,
+      "content": "\u00c3\u0096ffentliche Verkehrsmittel ist auch ein Punkt wobei Grimmelfingen die Linie 4 hat aber wir wollten viele Punkte mit denen sich viele Vororte angesprochen f\u00c3\u00bchlen. Ein genaueres Programm kommt ja dann noch \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538142652230,
+      "content": "Auch gut. Bin am lernen. Daher sehr langweilig gerade \u00f0\u009f\u0098\u0082\nAlso wir k\u00c3\u00b6nnten auf jeden Fall vorne was frei machen (7 oder 10) sonst ist ab 33 etwas frei. \nVorne ist dann nat\u00c3\u00bcrlich die Wahrscheinlichkeit gew\u00c3\u00a4hlt zu werden und in den Stadtrat zu kommen deutlich h\u00c3\u00b6her. \nWir haben halt noch kein Wahlprogramm (muss man ja auch noch nicht haben) aber die groben Punkte sind L\u00c3\u00a4rm- und Verkehrminderung, Nahversorgung, Kinderbetreuung, \u00c3\u0084rzte usw. \ndie Liste besteht aus lauter Vororten von Ulm. \nDabei sind: G\u00c3\u00b6gglingen, donaustetten, jungingen, Lehr (Denise Niggemeier ist aus b\u00c3\u00b6fingen also eine aus keinem richtigen Vorort) und das sind glaub alle. Noch mein Cousin ist hinten drauf aus Grimmelfingen. \nAber gerade Verkehr ist glaub ein Thema das euch in der Hauptstra\u00c3\u009fe auch belastet und auch wichtig ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538142213525,
+      "content": "Mein Papa hat gerade gesagt, er w\u00c3\u00a4r auf jeden Fall interessiert mehr \u00c3\u00bcber die Liste zu erfahren. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538142051076,
+      "content": "Welche Pl\u00c3\u00a4tze sind auf der Liste denn noch frei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538141955912,
+      "content": "Mir gehts gut und dir :)? Ich frag mal meinen Papa, ob der jemanden wei\u00c3\u009f ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538073231403,
+      "content": "Sehr sehr lieb, dass du geantwortet hast. Ja, schade. Dachte es mir. Man hat einfach immer so viel zu tun und das Studium und alles. Vielen Dank! Wenn es Flyer gibt melde ich mich nochmals. \nKennst du jemanden aus Grimmelfingen Lust h\u00c3\u00a4tte? Vielleicht dein Papa oder jemand den du kennst? \nVielen Dank im Voraus. \u00f0\u009f\u0098\u009a\u00e2\u0098\u00ba\u00ef\u00b8\u008f\nWie geht es dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1538046865485,
+      "content": "Hey Tanja,\nIch find das h\u00c3\u00b6rt sich richtig gut an & interessiert mich auch. Allerdings hab ich meinen Erstwohnsitz in Weingarten und hab im Fr\u00c3\u00bchjahr mein Staatsexamen, wo viel auf mich zukommt. Deshalb muss ich leider absagen. Freut mich aber mega, dass du an mich gedacht hast und mich interessiert auch, was du machst. Wenn ihr irgendwelche Flyer habt zum Auslegen, oder sonst facebook-Seiten zum Teilen gerne melden, da helf ich gern :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1538045378670,
+      "content": "Hey Charlotte. \nDas kommt vermutlich ziemlich ziemlich komisch, dass ich dir jetzt schreibe und du fragst dich garantiert auch wie ich da auf dich gekommen bin aber mir ist aufgefallen, dass dein Papa voll engagiert ist im Ortsverband Grimmelfingen. Wei\u00c3\u009f nicht wie du dazu stehst und ob du auch Lust hast dich politisch einzusetzen oder es sogar machst? \u00f0\u009f\u00a4\u0094\nIm mai sind ja wieder Kommunalwahlen. Donaustetten, G\u00c3\u00b6gglingen, Jungingen usw bilden eine W\u00c3\u00a4hlerliste mit 40 Kandidaten und wenn es gut l\u00c3\u00a4uft werden 3-4 als Alternative Partei in dem Stadtrat von Ulm schaffen. Momentan fehlen uns aber noch ca 5 Personen. Ich wei\u00c3\u009f, so was nimmt (wenn man da arbeit investieren will) auch Zeit in Anspruch. Wir haben weit vorne noch einen freien Platz aber auch sch\u00c3\u00b6n hinten. W\u00c3\u00bcrde mich echt freuen wenn du etwas Interesse h\u00c3\u00a4ttest. Dann k\u00c3\u00b6nnten wir uns ja zusammentelefonieren und dir kurz sagen was so die Ideen sind und was wir gerne durchsetzen w\u00c3\u00bcrden. \nW\u00c3\u00a4re super cool und vielen Dank dir \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Charlotte Kast"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1396903031369,
+      "content": "Ok ;*! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396898158754,
+      "content": "Okay perfekt :* aber eher Ende gro\u00c3\u009fe Pause sagen wir um halb 10? :) weil ich zur 3. Hab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1396890322938,
+      "content": "Danke ;*! Morgen gr. Pause vorm alten Sekre?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396880752788,
+      "content": "Duu ich hab noch alle Bl\u00c3\u00a4tter von Donnerstag in reli wann und wo soll ich se dir geben? :) :* kommt aber nicht mehr in der Klausur am Donnerstag dran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387297704415,
+      "content": "Ich sollte auch noch :* :D mussten ja englisch schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1387297024831,
+      "content": "Nee hab ich nich, und du ;*? Die war in der Pause iwie nich da :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387293728959,
+      "content": "Und hast du nach deiner geo Note gefragt? :* zufrieden? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1384963810732,
+      "content": "Du ich hab voll vergessen den smv zettel abzugeben kann ich den dir noch morgen in reli geben?  :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1370021426645,
+      "content": "23.4.96, Handy:  0151/20915105",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1370021375870,
+      "content": "Charlotte Kast, Rathausstr. 14, 89081 Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1366902112606,
+      "content": "kein Problem, du bist echt s\u00c3\u00bc\u00c3\u009f ;*! danke, das gleiche kann ich nur zur\u00c3\u00bccksagen ;) \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366830080409,
+      "content": "Oh Fuck wie peinlich mir das gerade ist!! -.- Charlotte ich hab dich heute noch gesehen dachte mit so: gratuliere noch!! Und was passiert habs vergessen -.- :* also du! Alles alles liebe und gute nachtr\u00c3\u00a4glich es tut mir so unendlich leid s\u00c3\u00bc\u00c3\u009fe <3 ich w\u00c3\u00bcnsche dir alles Gl\u00c3\u00bcck der erde ganz viel Gesundheit und alles was du dir zum gl\u00c3\u00bccklich sein w\u00c3\u00bcnschst :* auch ganz viel Gl\u00c3\u00bcck mit deinem Freund und.einfach wunderbar Momente!! :) du bist so ein Hammer tolles M\u00c3\u00a4dchen und einfach so eine wunderbare Person! Bleib so wie du bist kussi und sorry nochmal <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342986499915,
+      "content": "Bis morgen :) :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1342986264413,
+      "content": "ok, also dann bis morgen ;**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342986236693,
+      "content": "Kein problem :) mach ich doch gerne <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1342986054879,
+      "content": "perfekt,danke ;) \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342986029376,
+      "content": "Ich hab ca 10 St\u00c3\u00bccke und sara bringts mit :) also das video :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1342985477551,
+      "content": "\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1342985473871,
+      "content": "ja, des w\u00c3\u00a4r soo nett ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342985437481,
+      "content": "Oh schade :O aber es hiess ja eh wir sollen alle bilder morgen mitbringen von dem auftritt vllt findet sich ja da was zu schauen :D :** ich schau mal ob vom grillen heute kuchen \u00c3\u00bcbrig bleibt dann bring ich das mit :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1342985204851,
+      "content": "Hey ;** \nja hab ich, aber sie hat nicht zur\u00c3\u00bcckgeschrieben ://",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1333045158211,
+      "content": "ja klar, so wies dir am liebsten ist ;) ... bis morgen dann \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333045074046,
+      "content": "ja hats :) ja ich geh auch gleich anschauen.. ehm ich wollte fragen ob es auch klar geht wenn mich meine mutter am samstag f\u00c3\u00a4hrt und ich dann das ganze zeugs und wecken mit bringe?? sonst muss ich morgen wien spa\u00c3\u009ft im bus sitzen und daheim bei mir ist es halt im K\u00c3\u00bchlschrank und so :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1333044990870,
+      "content": "hey Tanja ;) ... ou man, sry, aber jetzt f\u00c3\u00a4ngt germanys next topmodel an, hat alles geklappt mit dem Einkaufen :) ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333044897239,
+      "content": "charlotte :).... ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Charlotte Kast",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/charlottekast_ixrieidbyw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "participants": [
+    {
+      "name": "Marcel Koch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1455267801044,
+      "content": "Hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1445941765252,
+      "content": "aso ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414259525200,
+      "content": "Ok :) wo bist dann unter der Woche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414259464569,
+      "content": "Ah doch ich in letzter Zeit schon weil ich nur am Wochenende hier bin und da sehe ich meine Freunde :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414259380979,
+      "content": "Ich geh nicht gern in Diskos",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414259372057,
+      "content": "Hahaha ja \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414259022046,
+      "content": "Das ist ja mal viel \u00f3\u00be\u008c\u00b4\u00f3\u00be\u00ae\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414258168833,
+      "content": "Ich weis noch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414258017503,
+      "content": "Haha okay gab aber nichts Sehenswertes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414257998826,
+      "content": "Hab Bettruhe einzuhalten also nichts und du \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414257761948,
+      "content": "Was machst heute noch so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414255321465,
+      "content": "ja ab und zu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414255316782,
+      "content": "haha doch schon ein paar mal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414255273993,
+      "content": "Nur shisha und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414255264049,
+      "content": "Als ob du da f\u00c3\u00a4hrst \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414248136330,
+      "content": "Rauchst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414247396684,
+      "content": "Haha :) ich fahr viel mit dem Auto rum \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414247303620,
+      "content": "Ja das kenne ich auch :) also glaube ich mal geh\u00c3\u00b6rt zu haben. Ach Quatsch echt jetzt? Woher?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414247175418,
+      "content": "Jap :) sagt mir was\nIch komm aus Offenhausen, dass ist direkt bei neu-ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414247152158,
+      "content": "Woher kommst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414247146828,
+      "content": "Nein aus Donaustetten sagt dir das was? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414237214810,
+      "content": "Kommst du direkt aus ulm oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414237202461,
+      "content": ":) cool \nIch bin 19 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414237048370,
+      "content": "Ah freut mich und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414237043596,
+      "content": "18 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414235342693,
+      "content": "Ganz gut eig. :)\n\nWie alt bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414235168173,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414235164493,
+      "content": "Joa ich lebe und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414234707193,
+      "content": ":) cool \nWie geht's dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414234499653,
+      "content": "Ja warum nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414234383509,
+      "content": ":) Bitte sch\u00c3\u00b6n \nH\u00c3\u00a4ttest du Lust ein wenig zu schreiben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414234353038,
+      "content": "Danke Danke \u00f3\u00be\u008c\u00b0 sehr lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Koch",
+      "timestamp_ms": 1414234312696,
+      "content": "Hey :) sch\u00c3\u00b6nes Profilbild :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marcel Koch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcelkoch_an16kjjj8g",
+  "magic_words": [
+    
+  ]
+}

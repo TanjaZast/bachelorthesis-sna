@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Gianluca Johnny Km"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034360836,
+      "content": "Vielen vielen Dank \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1434030692667,
+      "content": "Alles gute :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1426939081192,
+      "content": "ja Ulm ist halt schon nice hahaha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426810485952,
+      "content": "\u00f3\u00be\u008c\u00b5 was soll daran bitte stressig sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1426721385646,
+      "content": "oh stressig also ich bin immer in ulm Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426267225761,
+      "content": "Ich fahre jetzt heim nach Ulm und dann glaub feiern bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1426257916799,
+      "content": "was geht heute noch so ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1426257911925,
+      "content": "hab frei haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1426249016145,
+      "content": "Hab Vorlesung und bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1426243753125,
+      "content": "passt was geht so ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1425830486015,
+      "content": "Gut und dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1425830057258,
+      "content": "na wie geht's ? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1425801508975,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianluca Johnny Km",
+      "timestamp_ms": 1425794249526,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Gianluca Johnny Km",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/gianlucajohnnykm_pf5oe8h90g",
+  "magic_words": [
+    
+  ]
+}

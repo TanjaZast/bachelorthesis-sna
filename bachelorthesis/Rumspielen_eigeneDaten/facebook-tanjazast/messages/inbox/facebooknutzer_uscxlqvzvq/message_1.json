@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1464201867737,
+      "content": "015164810786 \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1464201853950,
+      "content": "Hier mal mein Nummer Facebook meldet viele Nachrichten nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1463526430255,
+      "content": "Mir eigentlich egal (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463512867377,
+      "content": "Ja klar wann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1463378286864,
+      "content": "Hey (: \n\n\nHast dj mal lust was zu machen? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449267843225,
+      "content": "Doch hast du wohl schon den Dome!! Das war meine gro\u00c3\u009fe Liebe \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449266259301,
+      "content": "Hahahaha Shit ich wei\u00c3\u009f es selber nicht - als ob ich dir jemals einen Typen weggenommen habe \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449220463003,
+      "content": "Wer auch immer Dome is \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449220455605,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449220426258,
+      "content": "Hahahah hab n Weihnachtsbrief von dir gefunden \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449145874593,
+      "content": "Klar (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449145829634,
+      "content": "Wir k\u00c3\u00b6nnten uns ja mal treffen oder so? \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1448986384337,
+      "content": "Eben deswegen mein ich ja \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448986050005,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448986045869,
+      "content": "Finde ich ehrlich gesagt auch \u00f0\u009f\u0098\u009e haben uns ja damals so gut verstanden!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1448918155545,
+      "content": "Tanja (: \n\nWollt dir nur mal sagen dass ichs schade find dass der Kontakt zwischen und v\u00c3\u00b6llig verloren gegangen ist.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1439996427980,
+      "content": "kennst du ne wg wo n zimmer frei is?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439995811133,
+      "content": "Hey Hey, ja ganz gut. Dir? Ja,warum? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1439995334735,
+      "content": "du studierst doch in Karlsruhe oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1439995322346,
+      "content": "hey tanja (: \n\nwie gehts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_uscxlqvzvq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Julii Schlea Potter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330818116030,
+      "content": "Ja eig schon :) ich hatte meinen Spa\u00c3\u009f :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Schlea Potter",
+      "timestamp_ms": 1330817910661,
+      "content": "Mir w\u00c3\u00a4r das egal xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330817789708,
+      "content": "Ja iwie ist mir das dann schon peinlich ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Schlea Potter",
+      "timestamp_ms": 1330817571292,
+      "content": "Thaha das glaub ich auch xD is aber auch egal :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1330817359121,
+      "content": "Kp :) sorry aber ich hab glaub viel Schei\u00c3\u009fe gelabert :P vllt hab ich mir das auch nur eingebildet ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julii Schlea Potter",
+      "timestamp_ms": 1330817276022,
+      "content": "Wer wollte mich klatschen? XD",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julii Schlea Potter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliischleapotter_jbrph-fuxa",
+  "magic_words": [
+    
+  ]
+}

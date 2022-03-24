@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Memocan Memo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Memocan Memo",
+      "timestamp_ms": 1463170649292,
+      "content": "tanjaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Memocan Memo",
+      "timestamp_ms": 1422549702609,
+      "content": "Hey :) \nWie alt bist Du?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Memocan Memo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/memocanmemo_2rckhboota",
+  "magic_words": [
+    
+  ]
+}

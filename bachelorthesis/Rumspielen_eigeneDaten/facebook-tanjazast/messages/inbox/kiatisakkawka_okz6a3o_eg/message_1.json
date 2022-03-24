@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Kiatisak Kawka"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kiatisak Kawka",
+      "timestamp_ms": 1528142498221,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304705599000,
+      "content": "Ja?? Schon :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kiatisak Kawka",
+      "timestamp_ms": 1304691407000,
+      "content": "asoo ja stimmt xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304540334000,
+      "content": "Vornamen?? Ich so wer bist du und du so cop :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kiatisak Kawka",
+      "timestamp_ms": 1304540257000,
+      "content": "h\u00c3\u00b6 ich hab dir nie meinen namen gesagt o.o ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304540225000,
+      "content": "Ich dachte schon.. Der Name kommt mir doch bekannt vor :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kiatisak Kawka",
+      "timestamp_ms": 1304539817000,
+      "content": "ja xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304530433000,
+      "content": "Hab ich Net mal mit dir telefoniert und \u00c3\u00bcber essen geredet?? :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kiatisak Kawka",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kiatisakkawka_okz6a3o_eg",
+  "magic_words": [
+    
+  ]
+}

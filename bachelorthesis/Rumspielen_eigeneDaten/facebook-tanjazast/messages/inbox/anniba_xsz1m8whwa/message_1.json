@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Anni B\u00c3\u00a4"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anni B\u00c3\u00a4",
+      "timestamp_ms": 1375983007803,
+      "content": "Und hast du bestanden? :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anni B\u00c3\u00a4",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anniba_xsz1m8whwa",
+  "magic_words": [
+    
+  ]
+}

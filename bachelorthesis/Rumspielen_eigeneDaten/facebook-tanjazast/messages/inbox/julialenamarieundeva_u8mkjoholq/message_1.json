@@ -1,0 +1,314 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Eva Ohmberger"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1362262862328,
+      "content": "Supiiiii :) Danke Evi :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1362246302341,
+      "content": "Okay danke dir!! :* sehr gut! ;) voll lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1362228454938,
+      "content": "Ich hab die Bescheinigungen zugeschickt bekommen und teile sie euch dann im Laufe der Woche aus :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361123606270,
+      "content": "Also ich finde die Idee gut :) kommt drauf an was besser ist das wir alle einzelnd arufen und nerven oder ein mal und dann f\u00c3\u00bcr alle? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361121081286,
+      "content": "Eine weiter Frage..und zwar h\u00c3\u00a4tte ich bei Hartmann angefragt, ob wir irgendwas haben k\u00c3\u00b6nnten, wo draufsteht, dass wir uns Hartmann angeschaut haben...das k\u00c3\u00b6nnten wir ja dann einfach jeder Bewerbung beilegen!\n\nSoll ich das ganz allgemein f\u00c3\u00bcr uns vier machen oder ist es besser, wenn das jeder einzeln macht!\n\nIch mach das gerne f\u00c3\u00bcr alle :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361120913748,
+      "content": "So...ich hab jetzt alles zusammen...hoffe das passt soweit alles, ich nehme den Bericht jetzt einfach morgen ausgedruckt mit und dann sehen wir schon ob wir ihn angeben sollen/m\u00c3\u00bcssen und wenn nicht heb ich ihn einfach auf bis M\u00c3\u00a4rz :)",
+      "files": [
+        {
+          "uri": "messages/inbox/julialenamarieundeva_u8mkjoholq/files/Praxistagbericht_781275001969501.docx",
+          "creation_timestamp": 1428944747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361118910488,
+      "content": "und Tanja: dein text ist gut :)",
+      "files": [
+        {
+          "uri": "messages/inbox/julialenamarieundeva_u8mkjoholq/files/ArbeitsmarkBerufschancenHartmann_839586289445297.docx",
+          "creation_timestamp": 1428944747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361113556178,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361113402230,
+      "content": "eva, ich mach den letzten punkt gleich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361110357667,
+      "content": "Mach ich :)\nOkay... sch\u00c3\u00b6nen Sonntag dir :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361110311428,
+      "content": "ja das w\u00c3\u00a4re echt gut!! ;) :* ehm verbesserst du es einfach ich hatte nicht gerade viel zeit... -.- und muss dann jetzt auch schon los",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361110222748,
+      "content": "Also ich find das passt soweit, bis auf ein paar Rechtschreibfehler! :)\n\nSoll ich alles formatieren, wenn alle fertig sind? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361109891758,
+      "content": "also schaut es euch an.. wenn es schlecht ist mach ich es heute abend/nacht... fehler einfach verbessern und wenn zu viele emotionen drin sind dann bitte raus tun :D lisa meinte wir m\u00c3\u00bcssen es im M\u00c3\u00a4rz abgeben??",
+      "files": [
+        {
+          "uri": "messages/inbox/julialenamarieundeva_u8mkjoholq/files/praxisberichthartmann_971966449510872.doc",
+          "creation_timestamp": 1428944747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1361109833331,
+      "content": "Scheinbar hat das Herr lang gesagt, die Frau vom BIZ h\u00c3\u00a4tte einen sp\u00c3\u00a4teren Termin genannt... ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361109424103,
+      "content": "kann aber gar nicht sein das wir den morgen abgeben m\u00c3\u00bcssen?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361107108540,
+      "content": "okay ja okay ;) was wollen die eigentlich bei sonstige infos?? :/\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361107028884,
+      "content": "danbmach ich abeitsmarkt (sonstige info k\u00c3\u00b6nnen wir ja vll weg lassen ) ... und du machst, was du machen wolltest, oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106976358,
+      "content": "Und was soll ich jetzt machen?? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361106904516,
+      "content": "Wollt ihr vielleicht \u00c3\u00bcber die anderen Punkte noch dr\u00c3\u00bcber schauen und gegebenenfalls erg\u00c3\u00a4nzen oder verbessern?! Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106815026,
+      "content": "K\u00c3\u00b6nnte ich Dankesch\u00c3\u00b6n noch mehr machen und pers\u00c3\u00b6nliche eindr\u00c3\u00bccke? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361106701245,
+      "content": "morgen m\u00c3\u00bcssen wir des abgeben...\nwas soll bei \"sonstige infos\" rein?\n\u00c3\u00b6ffne die datei von julia..dann siehst dus schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106677797,
+      "content": "Was ist noch alles frei? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361106654644,
+      "content": "Morgen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361106652699,
+      "content": "tanja, welche punkte willst du machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106635359,
+      "content": "Wann m\u00c3\u00bcssen wir es abgeben? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361106419647,
+      "content": "Kein Problem, dass bekommen wir schon noch hin :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361106374403,
+      "content": "Ich muss noch was machen.. Da ich nichts gemacht hab!!! -.- und mir gerade aufgefallen ist das ich echt keinen Plan vom.Leben hab und alles gemacht hab au\u00c3\u009fer das wichtigste -.- diese Bericht man",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361106320061,
+      "content": "Keine Ahnung...okay, gib Bescheid, wenn ich dir was abnehmen soll! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1361106282751,
+      "content": "ehm...ich mach gleich was...oder hat Tanja was gemacht ? \n:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1361106165016,
+      "content": "Wie sieht das jetzt mit unserem Bericht aus...soweit fertig oder muss man noch was machen? \n\nHoffe ihr hattet sch\u00c3\u00b6ne Ferien :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1359650815062,
+      "content": "Ja ich auch.. Ich bin einfach nicht dazu gekommen bis jetzt f\u00c3\u00bcr iwas anzufangen :/ ich schaff das wenn dann in den Ferien ;) sorry okay? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1359649488310,
+      "content": "ich mache n\u00c3\u00a4chste woch weiter ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1359638321941,
+      "content": "Ich hab mal weitergemacht :) \n",
+      "files": [
+        {
+          "uri": "messages/inbox/julialenamarieundeva_u8mkjoholq/files/Praxisbericht2_927011327349769.docx",
+          "creation_timestamp": 1428944747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1359473861064,
+      "content": "So, also ich hab jetzt schon etwas angefangen mit dem Bericht, ihr k\u00c3\u00b6nnt es euch ja einfach mal anschauen und vielleicht hat ja jemand Lust etwas weiter zu machen!! :)",
+      "files": [
+        {
+          "uri": "messages/inbox/julialenamarieundeva_u8mkjoholq/files/Praxistagbericht_781274998636168.docx",
+          "creation_timestamp": 1428944747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1359135746693,
+      "content": "Das sind wir in dem Fall doch alle, oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1359135709832,
+      "content": "Ja die Idee ist super :* :) aber ich bin soooo faul :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1359135378134,
+      "content": "Hey :)\n\nUnd zwar wollt ich euch mal ansprechen, wegen dem Praxistagbericht...hat sich schon einer von euch Gedanken gemacht, wie wir das am einfachsten machen k\u00c3\u00b6nnten?\n\nAlso ich w\u00c3\u00bcrde sagen, dass wir uns das ganze einfach aufteilen, dann ist es f\u00c3\u00bcr jeden nicht zu viel und man kann ja bei den anderen seine Erfahrungen erg\u00c3\u00a4nzen,...oder?!\n\nEuch ein sch\u00c3\u00b6nes Wochenende  :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia, Lena-Marie und Eva",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/julialenamarieundeva_u8mkjoholq",
+  "magic_words": [
+    
+  ]
+}

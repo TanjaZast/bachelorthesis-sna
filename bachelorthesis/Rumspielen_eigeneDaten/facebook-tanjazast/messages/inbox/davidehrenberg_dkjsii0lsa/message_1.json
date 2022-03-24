@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "David Ehrenberg"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1305663909000,
+      "content": "Hey.. Schon lang nichts mehr von dir geh\u00c3\u00b6rt.. Alles klar bei dir.? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431790000,
+      "content": "was ist eig mit dir los????? du bist echt gemein!! wie oft mus ich mich noch entschuldigen???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431689000,
+      "content": "n\u00c3\u00b6\u00c3\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431573000,
+      "content": "okay...... ich h\u00c3\u00b6r auf denn iwie ist des echt gemein von dir und wenn ich w\u00c3\u00bcsste was du f\u00c3\u00bcr probleme hast w\u00c3\u00a4r das echt geil aba sei doch nett und nimm die freundschaftsanfrage an.... Bitte!!!! :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431398000,
+      "content": "du nervst mich gard extrem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431376000,
+      "content": "das ist ech mies!!! Kannst du das verstehen??? Fr\u00c3\u00bcher hettest bock mit mir befreundet zu sein????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431289000,
+      "content": "n\u00c3\u00b6\u00c3\u00b6 kein bock auf dich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431240000,
+      "content": "das tut mir doch leid!!! Bitte!!!! Verzeih mir ich war da auch voll behindert!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431133000,
+      "content": "einfach so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431122000,
+      "content": "warum???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431085000,
+      "content": "du hast mcih einfach angekotzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280431042000,
+      "content": "nur weil ich oft beleidigt war??? Sag doch wenigstens warum???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280431006000,
+      "content": "ja warst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430956000,
+      "content": "?????? wiesooo des jetzt?? War ich sooo schlimm???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280430905000,
+      "content": "kein bokc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430883000,
+      "content": "Warum???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280430843000,
+      "content": "n\u00c3\u00b6\u00c3\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430791000,
+      "content": "nimmsch jetzt an????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280430616000,
+      "content": "aso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430601000,
+      "content": "Weil ich aut STH.Hildegard gehe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Ehrenberg",
+      "timestamp_ms": 1280430557000,
+      "content": "wieso nemme sehen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1280430323000,
+      "content": "Bitte sei nicht mehr mit mir verstritten!!!\n\nIch werd dich nicht mehr aufregen und sonst was,weil wir uns eh fast nicht mehr sehen werden!!! Bitteeee!!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "David Ehrenberg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/davidehrenberg_dkjsii0lsa",
+  "magic_words": [
+    
+  ]
+}

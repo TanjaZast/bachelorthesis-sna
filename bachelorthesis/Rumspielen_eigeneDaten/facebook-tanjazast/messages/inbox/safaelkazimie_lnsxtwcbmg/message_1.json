@@ -1,0 +1,217 @@
+{
+  "participants": [
+    {
+      "name": "Safa Elkazimie"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068611766,
+      "content": "Bis danm\u00f3\u00be\u00ac\u0090",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068594867,
+      "content": "Bis heut Abend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068579580,
+      "content": "Also ich ruf heut Abend an aber es wird alles gut Maus:***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068565904,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068563403,
+      "content": "\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068560861,
+      "content": "Hhhh jaa ich weiss schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068546338,
+      "content": "Wollt sorry schreiben und dann kam Autokorrektur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068535378,
+      "content": "Hhhhh\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068529086,
+      "content": "Sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068527028,
+      "content": "Hhhhh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068521792,
+      "content": "Sex",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068521054,
+      "content": "Bis dann\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068519282,
+      "content": "Also ruf dich so um sieben ca an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068516101,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068515143,
+      "content": "Hhhhh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068512805,
+      "content": "Jajaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068505037,
+      "content": "Boah k\u00c3\u00b6nnt mein Handy gegen die Wand schmei\u00c3\u009fen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068491661,
+      "content": "Asoo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068483730,
+      "content": "Ich schreib vom Handy von ner Freundin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068479185,
+      "content": "Aber warum steht da tanja zast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068470802,
+      "content": "Jaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068465762,
+      "content": "Giebelhaus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068463750,
+      "content": "Hhh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068458603,
+      "content": "H\u00c3\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068450800,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068442756,
+      "content": "Stephi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Safa Elkazimie",
+      "timestamp_ms": 1414068425782,
+      "content": "Wer bist du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414068386534,
+      "content": "Hey Maus mein Handy hat sich aufgeh\u00c4\u0081ngt ich ruf dich heut Abend nochmal an:**",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Safa Elkazimie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/safaelkazimie_lnsxtwcbmg",
+  "magic_words": [
+    
+  ]
+}

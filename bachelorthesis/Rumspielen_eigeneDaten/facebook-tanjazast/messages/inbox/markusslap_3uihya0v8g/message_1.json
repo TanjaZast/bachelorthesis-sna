@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Markus S'lap"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Markus S'lap",
+      "timestamp_ms": 1503811864072,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Markus S'lap",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/markusslap_3uihya0v8g",
+  "magic_words": [
+    
+  ]
+}

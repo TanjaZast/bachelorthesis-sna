@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Martina Schaupp"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419445003095,
+      "content": "Was hat sie denn \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martina Schaupp",
+      "timestamp_ms": 1419442484710,
+      "content": "Dir auch sch\u00c3\u00b6ne Weihnachten mit deiner Familie.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martina Schaupp",
+      "timestamp_ms": 1419442471187,
+      "content": "Ja sie liegt im krankenhaus. Ich richte es ihr aus.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419442408939,
+      "content": "Vielen Dank \u00f3\u00be\u008d\u0095 ihnen noch ein sch\u00c3\u00b6nes Fest und sagen Sie Ihr danke \u00f3\u00be\u00ac\u008f\u00f3\u00be\u0094\u0090\u00f3\u00be\u0094\u0092\u00f3\u00be\u0094\u0093",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Martina Schaupp",
+      "timestamp_ms": 1419441895272,
+      "content": "Hallo, das ist von meiner Tochter.",
+      "photos": [
+        {
+          "uri": "messages/inbox/martinaschaupp_1imosfhdeq/photos/10887848_762622053831016_1190090114_n_762622053831016.jpg",
+          "creation_timestamp": 1419441894
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Martina Schaupp",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/martinaschaupp_1imosfhdeq",
+  "magic_words": [
+    
+  ]
+}

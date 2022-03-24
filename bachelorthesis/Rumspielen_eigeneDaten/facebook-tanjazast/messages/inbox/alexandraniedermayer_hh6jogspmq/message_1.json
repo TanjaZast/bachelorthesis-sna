@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Alexandra Niedermayer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448661493945,
+      "content": "Danke vielmals! Sehr sehr lieb. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexandra Niedermayer",
+      "timestamp_ms": 1448519003668,
+      "content": "MJ hab ich kein Video. Sry. Spice Girls tanzen wir nur bis zu diesem \"Aaah\" bevor der BB Teils kommt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexandra Niedermayer",
+      "timestamp_ms": 1448518957911,
+      "content": "Alexandra hat einen Link gesendet.",
+      "share": {
+        "link": "https://www.dropbox.com/s/sm7nblngvc1tm1c/90er%20Medley_1.wmv?dl=0"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448492187426,
+      "content": "Hey Alex, bin noch nicht ganz fit aber m\u00c3\u00bcsste langsam echt die Chores Intensiv anschauen \u00f3\u00be\u008d\u0095 nur leider finde ich weder f\u00c3\u00bcr Michael Jackson noch f\u00c3\u00bcr die spicegirls das Video in der Gruppe \u00f3\u00be\u008c\u00a3 kannst du es bitte f\u00c3\u00bcr mich reinstellen oder es mir zukommen lassen? Danke! \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexandra Niedermayer",
+      "timestamp_ms": 1392989450576,
+      "content": "Hey. :)\nIch br\u00c3\u00a4uchte deine Schuhgr\u00c3\u00b6\u00c3\u009fe f\u00c3\u00bcr's ratiopharm Outfit. :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alexandra Niedermayer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alexandraniedermayer_hh6jogspmq",
+  "magic_words": [
+    
+  ]
+}

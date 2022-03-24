@@ -1,0 +1,431 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Max Buchenscheit"
+    },
+    {
+      "name": "Louis Schwarzat"
+    },
+    {
+      "name": "Tommi Schmidt"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360365803630,
+      "content": "Ausrede !!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360365771860,
+      "content": "Klar seid ihr!! ;) aber meinem Geldbeutel nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360365478245,
+      "content": "Wir sind dir doch wohl einen kasten werd ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360365416334,
+      "content": "Nein unernst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360365411392,
+      "content": "Ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360365250527,
+      "content": "Im ernst jetzt??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360365239896,
+      "content": "!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360365049631,
+      "content": "Ja klar ich nehm die einladung glaub wieder zur\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364964002,
+      "content": "Echt so !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364952130,
+      "content": "Dann nen kasten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364927324,
+      "content": "Ehm wer hat gesagt das ihr die im Lotus bekommt?? Ich nehm die.von.daheim.mit und die trinkt ihr davor",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364628421,
+      "content": "M\u00c3\u00a4chtig l\u00c3\u00a4sst du dich auch noch auf 6 bier ein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364603211,
+      "content": "Haha geil thomas schon 7\u00e2\u0082\u00ac gespart ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364592210,
+      "content": "Ohh ich lade dich herzlich mit uns ins lotus ein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364581865,
+      "content": "XD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364558463,
+      "content": "Toll -.- Man dann 4!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364518242,
+      "content": "Entweder oder ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364515867,
+      "content": "Jaja jetzt wieder zur\u00c3\u00bcck rudern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364496752,
+      "content": "Neee 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364485751,
+      "content": "2!! Insgesamt!! -./",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364477491,
+      "content": "Hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364456250,
+      "content": "Haha perfekt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364450646,
+      "content": "Also insgesamt 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364445041,
+      "content": "Schon klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364433909,
+      "content": ":) okay 2!! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364403004,
+      "content": "Also tommi & louis gut verhandelt haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364400945,
+      "content": "Wenn dann schon 2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364391403,
+      "content": "Haha das hast gesagt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364371516,
+      "content": "Ihr bekommt ein Bier! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364273216,
+      "content": "Wir auch? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364271740,
+      "content": "Ich auch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364246163,
+      "content": "Sei doch still -.- man ich meine es echt ernst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364188619,
+      "content": "Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364176241,
+      "content": "Was du daf\u00c3\u00bcr gibst (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364156596,
+      "content": "Mal schauen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364119344,
+      "content": "Mal schauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360364102264,
+      "content": "Villeicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360364087377,
+      "content": "Ja oder Nein!? :) beide sollen es sagen nur ein Wort",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364074017,
+      "content": "Sch\u00c3\u00b6n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360364061106,
+      "content": "Ist mir immernoch egal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360364038242,
+      "content": "Also dann ist das au gschw\u00c3\u00a4tzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363985616,
+      "content": "Ich Geh nur zu 20% mit euch nur falls die einen nicht k\u00c3\u00b6nnen m\u00c3\u00bcsste ich mit euch aber glaubt mir ich w\u00c3\u00bcrde fast nie bei euch sein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360363912925,
+      "content": "Ist mir relativ egal?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363895991,
+      "content": "Jetzt seid mal ehrlich und sagst warum?? Also tommi und louis! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360363642335,
+      "content": "Haha ich bin echt nicht dabei :D also mir wayne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363600586,
+      "content": "Okay gut.. ;) mehr wollte ich nicht wissen.. Wart ja wenigstens ehrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360363537132,
+      "content": "Wer will dich schon ihh hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363519968,
+      "content": "Ja anscheinend wollt ihr nicht das ich mit euch Lotus Geh?? :).stimmt das ja oder Nein??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360363494068,
+      "content": "Haha was gibt es denn nicht zu verstehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tommi Schmidt",
+      "timestamp_ms": 1360363440874,
+      "content": "Ich check nichts mehr??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360363166938,
+      "content": "Was denn?! Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363141895,
+      "content": "Wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363139469,
+      "content": "Echt jetzt?? Was soll das alles schon Widder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360363074842,
+      "content": "Ich geh nichtmal mit du eumel haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360363052759,
+      "content": "Das ich am Sonntag mit Lotus wollte und ihr nicht wollt das ich mit euch gehe ;)?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Buchenscheit",
+      "timestamp_ms": 1360362921640,
+      "content": "Hahaha was ist hier los :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1360362848691,
+      "content": "Haha von was redest du \u00c3\u00bcberhaupt ?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360362428132,
+      "content": "Also Jungs ;) jetzt mal im ernst.. Sagt es ruhig warum habt ihr ein Problem damit das ich mit euch gehe?? :/ ich hab jetzt so dumme 8 Euro gezahlt um am Sonntag daheim zu bleiben? :/ also was ist der Grund!?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Max, Louis und Tommi",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/maxlouisundtommi_-9gqcpkeig",
+  "magic_words": [
+    
+  ]
+}

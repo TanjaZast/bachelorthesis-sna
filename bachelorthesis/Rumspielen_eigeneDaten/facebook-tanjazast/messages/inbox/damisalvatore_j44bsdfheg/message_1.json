@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Dami Salvatore"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dami Salvatore",
+      "timestamp_ms": 1403017427297,
+      "content": "Wird wohl so sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403017145137,
+      "content": "Typisch Serbe ernsthaft! :D ist ja egal was h\u00c3\u00a4tte passieren k\u00c3\u00b6nnen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dami Salvatore",
+      "timestamp_ms": 1403016875708,
+      "content": "Ne passt hab kein schlechtes Gewissen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403008196318,
+      "content": "Das du ein bisschen ein schlechtes gewissen hattest und das nicht mehr vorkommt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dami Salvatore",
+      "timestamp_ms": 1402998441579,
+      "content": "Ja und was willst du jetzt von mir h\u00c3\u00b6ren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402992794270,
+      "content": "Klar sorry macht alles gut warte bestes Argument: tanja sorry die zwei kenne ich l\u00c3\u00a4nger... :D naja ich will auch keine zicke sein sollte nur gesagt sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dami Salvatore",
+      "timestamp_ms": 1402962858904,
+      "content": "Ich wei\u00c3\u009f sorry!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402961090255,
+      "content": "Also leicht assi war es schon :(",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dami Salvatore",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/damisalvatore_j44bsdfheg",
+  "magic_words": [
+    
+  ]
+}

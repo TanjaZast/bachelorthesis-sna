@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ha Ta"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ha Ta",
+      "timestamp_ms": 1581693797302,
+      "content": "Hallo Tanja , sorry , dass ich dir einfach so schreibe , aber wollte fragen ob du auch die Ma\u00c3\u009ftheorie-Vorlesung besuchst .    LG  ABu",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ha Ta",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/hata_7deyheciow",
+  "magic_words": [
+    
+  ]
+}

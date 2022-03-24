@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Marcelo Lameira"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402488337242,
+      "content": "Hihi Danke marcelo :* :) ich werde mein bestes geben und mach ich nat\u00c3\u00bcrlich dir nen sch\u00c3\u00b6nen Urlaub und danke das du mir gratuliert hast ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcelo Lameira",
+      "timestamp_ms": 1402487383653,
+      "content": "Hey Tanja \nIch w\u00c3\u00bcnsch dir alles alles liebe und gute zum Geburtstag!!:* \nGenie\u00c3\u009f deinen Tag und lass dich ordentlich feiern! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1386013238565,
+      "content": "Hahah doch doch das passt so :) war aber echt so witzig man",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcelo Lameira",
+      "timestamp_ms": 1385990118474,
+      "content": "Achwas, w\u00c3\u00a4re eigentlich echt nicht n\u00c3\u00b6tig gewesen und war im nachhinein auch lustig hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385989021092,
+      "content": "Bitte bitte :) habs ja versprochen und war ja nicht gerade nett zu dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcelo Lameira",
+      "timestamp_ms": 1385988760623,
+      "content": "Nochmal danke f\u00c3\u00bcr die pl\u00c3\u00a4tzchen :) waren richtig lecker!!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marcelo Lameira",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcelolameira_pvedq8y8oq",
+  "magic_words": [
+    
+  ]
+}

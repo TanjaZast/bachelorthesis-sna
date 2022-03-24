@@ -1,0 +1,2276 @@
+{
+  "participants": [
+    {
+      "name": "Lucas Straida"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411403318514,
+      "content": "Hammer, da freu ich mich drauf :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411330943223,
+      "content": "Alles wir waren am letzten Tag in der spanischen hofreitschule Madame tussaud und am Schloss Sch\u00c3\u00b6nberg oder wie das hei\u00c3\u009ft alles Mega",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411242493688,
+      "content": "Was bietet die so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411241647193,
+      "content": "Also wenn du St\u00c3\u00a4dte gerne anschaust ist die Mega und vor allem bietet die sehr viel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411241626710,
+      "content": "Achso :) dann passt es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411140796588,
+      "content": "Ja nice, da bin ich mal gespannt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411140784833,
+      "content": "20",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411138879875,
+      "content": "Klar immer \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411138873894,
+      "content": "Ja und ist einfach Mega Mega \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411138866433,
+      "content": "Wie alt ist die?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411137532096,
+      "content": "So lang du gut gelaunt bist passts ja ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411137510115,
+      "content": "Warst schon \u00c3\u00b6fter in Wien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411137501080,
+      "content": "Zum ern\u00c3\u00a4hrungswissenschaften studieren.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411136704744,
+      "content": "Ach alles beim alten alles stressig noch keine Wohnung nur Unterwegs aber immer Mega gut gelaunt \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411136671308,
+      "content": "Warum zieht die nach Wien? :( aber egal ne richtige Beziehung h\u00c3\u00a4lt sowas aus vor allem ist Wien Mega geil \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411130621706,
+      "content": "Eig nicht viel. War gestern im sucasa (erstsemesterparty) und bin jetzt am Arsch :D\nSonst halt bissle Uni und saufen und Sport halt ;)\n\nUnd ja meine Freundin zieht jetzt dann nach Wien...\n\nUnd was gibt's bei dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411076531797,
+      "content": ":) was gibt es so neues bei dir erz\u00c3\u00a4hl mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411064677896,
+      "content": "Voll gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411059291351,
+      "content": "Hahaha ich finde es gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411059286017,
+      "content": ":) ja ist okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1411049565702,
+      "content": "nicht schlecht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1411026607543,
+      "content": "1000 mit Abz\u00c3\u00bcgen Glaub 900 in den ersten Semestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410959035073,
+      "content": "Nicht schlecht ;)\nWas verdienst dann so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410948534973,
+      "content": "Aber Karlsruhe beginnt erst ab dem 1. Oktober",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410948521467,
+      "content": "Ich bin schon seit dem 1. September anwesend \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410903394415,
+      "content": "Beginnt erst am 13.10. ;)\nAlso ist's sowas wie ferienarbeit^^\n\nWann geht's bei dir los?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410900224791,
+      "content": "Oha \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 gehst eigentlich dann \u00c3\u00bcberhaupt zu deinen Vorlesungen oder hat das noch nicht angefangen bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410871016718,
+      "content": "Nene^^ \nDa wird noch n Gruppenbild gemacht..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410868273286,
+      "content": "Selfies",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410868267798,
+      "content": "Hahaha musst mal sefies dann mit denen machen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410867039440,
+      "content": "Bisschen Mathe unterrichten. Bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410861941056,
+      "content": "Was geht bei dir so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410716458307,
+      "content": "Dicht halt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410714091065,
+      "content": "Ja wima :) der hat sich einfach hingesetzt und niemand kannte den der war ganz alleine unterwegs Mega komisch einfach der Typ \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607977338,
+      "content": "Stand der einfach auf und hat alle gefragt oder was? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607926149,
+      "content": "So ein komischer..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607908145,
+      "content": "Ja schon aber ich dachte der bezieht des auf das. Der studiert glaub Mathe oder wima",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410607823180,
+      "content": "Ich mach doch kein Wirtschaftsmathe \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 \nEhm im Subway und der hat sich einfach hingesetzt und meine Kumpels und mich von Nachhaltigkeit vollgelabert und gesagt das er Tutor ist und alle dumm sind au\u00c3\u009fer er und rann hat er im Subway Gefragt wer denkt das er dumm ist und nur er hat sich gemeldet so lustig einfach \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607699199,
+      "content": "Wieso ausgelacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607680919,
+      "content": "Ja wirtschaftsmathe is schon krass..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410607647965,
+      "content": "Wo ward ihr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410607093912,
+      "content": "Ja genau \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 so dicht man der hat zu mir gesagt ich schaffe mein Studium eh nicht \u00f3\u00be\u008c\u00b4 und ich nehme den auch noch in Schutz weil den alle ausgelacht haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410596915673,
+      "content": "Ja schon, so n bisschen volumin\u00c3\u00b4serer? ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410580609523,
+      "content": "Ich habe heute glaube einen Kollegen von dir getroffen Albert... Kann das sein? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410580586206,
+      "content": ":) oha voll gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410477316549,
+      "content": "Aber brauch glaub nicht ganz so viele Stunden wie ich bezahlt bekomme und ich lern dabei auch wieder gut was ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410477265233,
+      "content": "9,16\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410476848541,
+      "content": "Stunden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410476845188,
+      "content": "Bist sicher ein guter Lehrer :) was bekommst auf die stinfeB",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410476336257,
+      "content": "Ganz genau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410476247503,
+      "content": "Das gibt es ja f\u00c3\u00bcr wima und wiwi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410476234568,
+      "content": "Dann h\u00c3\u00a4tten wir uns ja gesehen!? \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410475024555,
+      "content": "Nicht schlecht ;)\nJa l\u00c3\u00a4uft ;) mach grad Tutor vom Mathe Trainingscamp f\u00c3\u00bcr die, die jetzt kommendes Semester anfangen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410474749500,
+      "content": "Bei der hypovereinsbank \n\nWie l\u00c3\u00a4uft es bei dir so \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410474369448,
+      "content": "Okay, nicht schlecht ;)\nWo machst des?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410473939663,
+      "content": "Nein ich wollte aber ich mache ein duales Studium BWL Bank und ich mache danach glaub noch wima oder wiwi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1410452743710,
+      "content": "hi, f\u00c3\u00a4ngst jetzt eig wirtschaftsmathe an zu studieren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405186740165,
+      "content": "wie??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405175291182,
+      "content": "Ne Habs viel raffinierter gemacht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405172357220,
+      "content": "Kann dir leider nicht weiter helfen. Musst googeln oder so.. Oder mit der Post :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405166041501,
+      "photos": [
+        {
+          "uri": "messages/inbox/lucasstraida_rv9ltcqawq/photos/10517049_809042779136574_1614308781_n_809042779136574.jpg",
+          "creation_timestamp": 1405166020
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.100.24",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405164631433,
+      "content": "F\u00c3\u00bcr was und wo hast dich so beworben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405164619413,
+      "content": "Sonst musst halt anrufen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405164608655,
+      "content": "Achso, wei\u00c3\u009f ich echt nicht. Hast da n Raum oder so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405161513922,
+      "content": "Ja schon abgeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405161503425,
+      "content": "Doch aber ich kenne mich nicht aus :D ja wollte ich auch aber ich hab zu viel weggeschickt und dann dachte ich mir in Ulm k\u00c3\u00b6nnte ich es ja selber reinwerfen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405161467255,
+      "content": "Hab's glaub damals mit der Post gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405161452775,
+      "content": "Willst du das abgeben oder mit der Post weg schicken ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1405161435792,
+      "content": "L\u00c3\u00a4uft gut ;)\n\nSteht da keine andresse auf?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405161341705,
+      "content": "Ehm wei\u00c3\u009ft du wo ich meine Bewerbung f\u00c3\u00bcr die Uni in Ulm reinwerfen kann? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405161281504,
+      "content": "Hammer :) sorry hab die Nachricht nicht gesehen. Wie l\u00c3\u00a4uft dein Studium?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1404192342236,
+      "content": "Jup, mich auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404140071804,
+      "content": "Freut mich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404140062440,
+      "content": "S\u00c3\u00bc\u00c3\u009f das sind ja mal Neuigkeiten :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1404137627014,
+      "content": "Ja es geht, die letzten Semester war ich effektiver :D\nAber jetzt gehen bald die Pr\u00c3\u00bcfungen los und ich muss langsam mal anziehen :D\nSonst halt auch chilln undso und was mit meiner Freundin machen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404136261701,
+      "content": "Hmm kp :) chillen und alles m\u00c3\u00b6gliche :d du? Lernst flei\u00c3\u009fig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1404130960198,
+      "content": "und was treibst in der freien zeit so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404123994650,
+      "content": "Das freut mich Mega f\u00c3\u00bcr dich :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1404114468521,
+      "content": "Ja bei mir l\u00c3\u00a4uft grad alles sehr gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404079053166,
+      "content": "Immer bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1404069395467,
+      "content": "Hey\nAlles klar? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069331153,
+      "content": "Na du ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1403811131519,
+      "content": "Hab aber nur noch 7min zeit :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1403811108749,
+      "content": "Haha, l\u00c3\u00a4uft ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403811087703,
+      "content": "Bleib noch schnell sitzen dann kommen wir gleich vorbei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1403811031628,
+      "content": "Hast's so eilig? :D\nWohin geht's noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400480002198,
+      "content": "Vielen vielen Dank :))\nUnd ja klar ich bin noch nichtmal in der Bl\u00c3\u00bcte meines Lebens :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400443587414,
+      "content": "Hey du ich w\u00c3\u00bcnsche dir alles alles liebe und gute zum Geburtstag und du bist noch weit davon entfernt alt zu sein melde dich dann mal bei mir wenn du 70 wirst :D oder 60. Ich hoffe du hast geil rein gefeiert :* w\u00c3\u00bcnsche dir nur das beste",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400336833573,
+      "content": "ganz genau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400328699340,
+      "content": "Ja ich wei\u00c3\u009f schon dann ist man 18 und ab da wird man einfach nur jedes jahr um ein Jahr \u00c3\u00a4lter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400274979194,
+      "content": "ne is nicht schei\u00c3\u009fe, aber kp man freut sich voll auf den 18er und dann wirds bisschen anders :D kp wie ichs erkl\u00c3\u00a4ren soll :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400274743884,
+      "content": "Ja klar ist schon Schei\u00c3\u009fe aber lustig? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400274633413,
+      "content": "ja klar ists nicht alt :D\naber wie trotzdem verr\u00c3\u00bcckt wie die zeit vergeht ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400273294607,
+      "content": "Ach quatsch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400258559177,
+      "content": "Ja 22, finds iwie schon krass :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400244109724,
+      "content": "Hahaha ja \u00c3\u00bcbertreib! :D alt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400241095083,
+      "content": "Ja l\u00c3\u00a4uft, find aber mittlerweile immer krass wie alt man eigentlich wird :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400233627754,
+      "content": "Oha voll sch\u00c3\u00b6n :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400224218789,
+      "content": "Ja schon, am Sonntag ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400194268893,
+      "content": "Bin auf nem Geburtstag gewesen ;) deshalb. Hast du nicht eigentlich jetzt demn\u00c3\u00a4chst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400193130838,
+      "content": "*bzw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400193125075,
+      "content": "und ja geh schon, ich bin student kann mir frei nehemn wann ich will :DD \nnzw wie ichs vertreten kann :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400193078243,
+      "content": "war noch mit ner freundin im hemp, aber geh jetzt gleich pennen ^^\nwas machst du noch wach? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400192915871,
+      "content": "Oha ist doch noch hammer lange :o aber was machst noch wach? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400192670374,
+      "content": "h\u00c3\u00b6rt sich mal nicht schlecht an ;)\n\nerst wieder ende august wahrscheinlich, kommt aber drauf an wann ich die pr\u00c3\u00bcfungen schreibe..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400192547619,
+      "content": ":) ja ich will mit meiner mama nach Holland :D und sonst st\u00c3\u00a4ndig weg und schlafen und ja arbeiten ;) wann hast du wieder frei*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400168964237,
+      "content": "unter anderem, aber auch so \u00c3\u00bcber die gesamte zeit\nvon dem einen urlaub wei\u00c3\u009f ich ja schon bescheid ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400105662931,
+      "content": "Hahah meinst Pfingsten? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400103621144,
+      "content": "schon brutal :D\n\nschon was vorgenommen f\u00c3\u00bcr die ferien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400103563272,
+      "content": "?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400103561406,
+      "content": ":) hahaha aber schon \u00c3\u00bcbertrieben gro\u00c3\u009f, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400100299041,
+      "content": "Ja voll, war da erst einmal so n krasses Schnitzel essen - war schon gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400099216446,
+      "content": "Ja war gerade im Schatten und bin so voll -.- :) aber da ist schon hammer geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400086469968,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400086467858,
+      "content": "und dir\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400086463904,
+      "content": "war grad im fitness also bisschen am sack, aber sonst eig voll gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400086388663,
+      "content": "Ja ;) aber das wird dann schon. Wie geht es dir sonst so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400084877629,
+      "content": "Aber dann hast schon noch m\u00c3\u00bcndliches oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400080608362,
+      "content": ":/ oha nicht so geil :D ja noch 5 Tage",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400055148317,
+      "content": "ja genau, wird aber langsam wieder stressiger, wie immer :D\n\nhast du jetzt eigentlich noch schule?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400015644735,
+      "content": "Mit Studium und allem oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1400001739502,
+      "content": "Ja l\u00c3\u00a4uft voll ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1400000702501,
+      "content": "Ja klar bei dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1399986555224,
+      "content": "na, alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399983974127,
+      "content": "Na du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397751848245,
+      "content": "Okay ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397751623232,
+      "content": "L\u00c3\u00a4ufst jetzt zur Kirche? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397750860477,
+      "content": "Ja genau, passt ;)\nWann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397750807181,
+      "content": "Ja wo kann man raus fahren ich denke da gibt's nur einen Weg ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397750515166,
+      "content": "Ne echt nicht :D\nDa wo man in Mummelweg rein f\u00c3\u00a4hrt? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397750451161,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397750445649,
+      "content": "Ich komm zu eurer Kreuzung da du wei\u00c3\u009ft bestimmt nicht was ich meine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397750145715,
+      "content": "Genau ;)\nWo und wann dann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397749784947,
+      "content": "Okay richte dich jetzt halt schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397749747971,
+      "content": "Fahr halt um 7 mit m Bus in die Stadt, aber ok ;)\nBisschen zeit hab ich ja dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397749345860,
+      "content": "Bist spontan? :) wie w\u00c3\u00a4re es in ner halben Stunde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397744796805,
+      "content": "ja sagst dann einfach bescheid, wenn's dir passt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397742222228,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397742218859,
+      "content": "Das Wetter ist auch richtig genial",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397727086742,
+      "content": "ja klar ;) vor allem bei gutem wetter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397702366518,
+      "content": "Findest? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397669674240,
+      "content": "Ja h\u00c3\u00b6rt sich gut an ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397669099877,
+      "content": "Ja verst\u00c3\u00a4ndlich ;) oh ja gerne oder einfach mim Hund auch mal raus :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397662749803,
+      "content": "K\u00c3\u00b6nnen ja auch so mal was essen/trinken gehn ;)\nMuss ja nicht kfc sein :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397662555335,
+      "content": "Ja is aber echt schon voll was anderes wie Mc donalds undso ;) und vegetarisch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397657204089,
+      "content": "Hahahahaha Hamburger sind ja auch kein fast food :D ja okay okay dann nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397653221915,
+      "content": "ja, ich werd da denk ich auch nicht hin gehn :D geh immer weniger so fast food und sowas essen..\nich geh lieber ins hemperium n hanfburger essen :DD der is gut und g\u00c3\u00bcnstig ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397653085651,
+      "content": "Ich mags da eigentlich nicht aber war gut also sag Bescheid wenn du gehst ; D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397652857738,
+      "content": "haha, da war ich schon eeewig nicht mehr^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397652797931,
+      "content": "Voll gut du!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397652792106,
+      "content": "Ja klar kfc :D hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397640668401,
+      "content": "51:47\nund warst noch was essen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397610136709,
+      "content": "Gl\u00c3\u00bcckwunsch. Wie viel? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397603401539,
+      "content": "ja, is dahin verschoben worden glaub ich^^\nwir haben gewonnen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397576722450,
+      "content": "Jetzt erst? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397576518629,
+      "content": "h\u00c3\u00b6rt sich gut an ;)\n\nwir haben heut n ausw\u00c3\u00a4rtsspiel und fahren gleich los ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397576247539,
+      "content": "Ehm keine Ahnung hab Hunger ich glaub ich geh nach ulm iwo was essen :P du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397576224526,
+      "content": "Ja aber hallo! :D das geht viel zu schnell vorbei -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397565331081,
+      "content": "ja kenn ich ;)\naber 2 wochen sind auch echt verdammt schnell vorbei..\noder auch 4 wochen wie bei mir .. \n\nwas geht dann heute noch so? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397564964730,
+      "content": "Hmmm das ist immer so spontan meistens nicht und am abend kommt dann ein Anruf und dann wird egal was gemacht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397560646591,
+      "content": "Voll gut ;)\nWas hast so vor in den Ferien?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397559956194,
+      "content": "Ja ich wei\u00c3\u009f doch :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397559950387,
+      "content": ":D in zwei Wochen hihi. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397556645084,
+      "content": "Ja Tutor nennt sich das dann :D\n\nJa :) am Dienstag geht's dann wieder los.\nWann hast du eig wieder Schule?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397550957136,
+      "content": "Hast eigentlich auch immer noch Ferien? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397550944758,
+      "content": "Dann wirst also Lehrer :) hammer freut mich echt richtig f\u00c3\u00bcr dich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397487031999,
+      "content": "Freu mich auf jeden drauf :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397487015580,
+      "content": "Also die Leute die sowas machen wollen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397486985053,
+      "content": "Hab einfach dem Prof geschrieben und bin dann da nur kurz vorbei und meine Noten haben gepasst undso..\nDas machen immer Studenten, die m\u00c3\u00bcssen die glaub auch \u00c3\u00b6fter mal suchen..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397482685233,
+      "content": "H\u00c3\u00a4 wie hast du das bekommen? :o richtig richtig hammer gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397477038845,
+      "content": "*wie ein lehrer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397476994002,
+      "content": "hab n neuen job und hatte keine lust mehr.. musste halt immer am wochenende arbeiten..\n\njetzt werd ich aber tutor an der uni und bekomm da auch gut geld. da muss ich halt den erst bzw zweitsemestern was bei bringen..\nwie in lehrer eigentlich^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397476387836,
+      "content": "und warum eigentlich jetzt nicht mehr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397476016574,
+      "content": "ja da hab ich jetzt seit dem ich 18 bin gearbeitet..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397475987426,
+      "content": "ja genau, mein dad is da halt chef, aber die geh\u00c3\u00b6rt uns nicht oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397455072528,
+      "content": "Bei deinen Eltern an der Tankstelle? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397403973256,
+      "content": "Oha krasser Abend :D\nWas soll ich erz\u00c3\u00a4hln? :D\n\nHatte grade mein letzten Arbeitstag an der Tanke :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397380967261,
+      "content": "Erz\u00c3\u00a4hl du ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397380960391,
+      "content": "Also der erste war nur wegen essen gut beim zweiten waren alle viel zu dicht die haben nichts mehr kapiert und st\u00c3\u00a4ndig abgerufen. Und auf der Garagenparty wars schon nicht so gut die hatten nicht mal Strom man hat nichts gesehen. Und dann sind wir noch theatro und myers. Im myers gings dsnn schon noch. :D ein sehr spontaner abend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397379527001,
+      "content": "Jetzt is er ja vorbei :D\nWieso war der so schlecht? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397334233497,
+      "content": ":D das ist der schlechteste 18 ner",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397322114924,
+      "content": "Haha, passiert :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397319023999,
+      "content": "Oh sorry mein Handy ist an dem abend abgest\u00c3\u00bcrzt und hat dann keine fb Nachrichten mehr gezeigt :/ :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397160080645,
+      "content": "ja auf jeden fall ;)\nich chill jetzt noch bisschen mit meinem bruder.\nalso bis dann :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397157008712,
+      "content": "Das wird schon ;) bestimmt! Und dann wird das ne richtig gute zeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397151115593,
+      "content": "ja, ich informier mich halt jetzt bissle..\naber ins ausland muss ich auf jeden fall noch!\nnaja, mal sehn was sich da noch so ergibt..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397150945170,
+      "content": "Was auch doof w\u00c3\u00a4re",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397150936587,
+      "content": "Dann gehst du entweder wo anders hin oder du musst da bleiben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397149552274,
+      "content": "nicht mit dem ERASMUS programm.. und das is voll stier.. man kann sich schon alles selber organisieren, aber das ist dann viel zu teuer..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397149477618,
+      "content": "Sondern kann man da jetzt gar nicht hin? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397149376454,
+      "content": "maaaaaaan...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397149329954,
+      "content": "ich wollte eigentlich nach schweden..\naber das abkommen mit schweden gibts jetzt seit diesem jahr nicht mehr wie ich grad gelesen habe..\nund jetzt hab ich kein plan..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397149200120,
+      "content": "Ah cool das mach ich auch mal ;) wo willst hin? Naja dein abend wird auch nicht geiler :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397148570707,
+      "content": "nur noch chilln :D\nmusik h\u00c3\u00b6rn und mich bisschen f\u00c3\u00bcr n auslandssemester informieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397148409030,
+      "content": "Ich langweile mich gerade extrem ich h\u00c3\u00a4tte schon einiges zu tun aber das mach ich ein anderes mal ;D du? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397148043576,
+      "content": "ja voll!\nwas geht bei dir heut noch so? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397147939307,
+      "content": "Das ist eh dss beste an allem. Oder Leute treffen die mal gef\u00c3\u00bchlt 100 Jahre nicht mehr gesehen hat :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397144789657,
+      "content": "Ja mal wieder richtig viele Leute getroffen :)\nWar schon witzig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397144020153,
+      "content": "Ja aber wird hoffentlich gut! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397144011770,
+      "content": "Waaaas :) wars wenigstens gut gestern? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397137526426,
+      "content": "h\u00c3\u00b6rt sich ja schon fast stressig an :DD\nmir reichts grad erstmal wieder mit dem weg gehen :DD grad erst aufgestanden^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397070566707,
+      "content": "Weil ich an dem abend bzw der Nacht auf zwei 18ner eingeladen bin und auf ner anderen Party und da \u00c3\u00bcberall hin muss :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397065026982,
+      "content": "Achso, wieso nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397064966353,
+      "content": "Hab schon aber h\u00c3\u00a4tte nicht kommen brauchen weil ich am Samstag sicher nicht beim spiel tanzen will ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397064365631,
+      "content": "und wann geht bei dir das training los?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397064357010,
+      "content": "ja stimmt..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397064266855,
+      "content": "Hahah ja ich kenns auch nicht mehr soooo lange :D das wird schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397064121366,
+      "content": "stark ;)\nkenn so probleme gar nicht mehr^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397064071117,
+      "content": "Ja meistens kenn ich dann den Chef oder so und so komm ich rein manchmal nehm ich den von ner Freundin :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397063870123,
+      "content": "oder sowas in der art? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397063858998,
+      "content": "haha, ja bestimmt ;)\nhast du eig n ausweis, den du ausleihen kannst um weg zu gehn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397063635967,
+      "content": ":) wie spontan du bist :D ist auch ne gute Entscheidung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397063574578,
+      "content": "und geh wahrscheinlich in die berger ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397063565662,
+      "content": "ne, war nie :DD\nwollt vorher mal, aber naja.. war jetzt nochmal ne kurzfristige umplanung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397063394934,
+      "content": "Ja *-* sooo gut. Bist noch Basketball spielen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397062966855,
+      "content": "achso..\ndu hast n\u00c3\u00a4chste woche ferien ge?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397061572568,
+      "content": "Keine Ahnung ist einfach son Gef\u00c3\u00bchl :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397056680939,
+      "content": "Ja schon aber was findest daran ansteckend? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397056079518,
+      "content": "Sport :) h\u00c3\u00a4 dar\u00c3\u00bcber reden wir gerade? :d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397048314602,
+      "content": "was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397048290168,
+      "content": "Voll ansteckend finde ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397046720095,
+      "content": "ja voll, k\u00c3\u00b6nnte ohne sport gar nicht mehr..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397046317116,
+      "content": "Ja ist dich der perfekte Ausgleich oder nicht? :D  das ist doch ein guter Plan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397045528388,
+      "content": "ja schon, deswegen muss ich mir ja auch unbedingt wieder eins kaufen.. n gebrauchtes oder so..\nwenn ich ins fitness geh hab ich kein bock mehr zu feiern :D zu kaputt dann :D aber geh nachher denk noch paar k\u00c3\u00b6rbe werfen oder sowas ;)\nmach in letzter zeit eig fast jeden tag sport ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397045175460,
+      "content": "Ja weil ich so schneller w\u00c3\u00a4re :D ja ein Fahrrad ist hammer wichtig! Ja das ist auch gut kannst entscheiden zwischen sport und feiern. Mach doch beides? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397044606552,
+      "content": "sportlich ;) weil du sonst nicht mehr zur\u00c3\u00bcckkommst? oder wieso fahrrad?\nich hab leider kein fahrrad mehr.. muss mir unbedingt wieder eins besorgen..\nchill noch, wollt noch so n buch lesen^^ und am abend fitness oder frau berger..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397044322693,
+      "content": "Bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397044310710,
+      "content": "Eigentlich nichts nur am abend Training und dann bin ich so schlau und fahr mim Fahrrad nach ulm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397044010617,
+      "content": "voll gut ;)\nund was geht bei dir heute noch so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397043902776,
+      "content": ":) ja und es interessiert keinen wie laut man ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397043425251,
+      "content": "ja glaub ich, voll ruhig da bestimmt oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397043356540,
+      "content": "Ja ist sogar noch sch\u00c3\u00b6ner! :) das kann man da sehr gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397043029617,
+      "content": "w\u00c3\u00bcrd da grad gern chilln :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397043020589,
+      "content": "oha, voll sch\u00c3\u00b6n ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397042957386,
+      "content": "Das H\u00c3\u00a4uschen mit der \u00c3\u00bcberdachten Terrasse ist es. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397042941331,
+      "content": "bis was fertig is?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397042939201,
+      "photos": [
+        {
+          "uri": "messages/inbox/lucasstraida_rv9ltcqawq/photos/10153545_754468574593995_837725876_n_754468574593995.jpg",
+          "creation_timestamp": 1397042939
+        },
+        {
+          "uri": "messages/inbox/lucasstraida_rv9ltcqawq/photos/10156912_754468567927329_1256913458_n_754468567927329.jpg",
+          "creation_timestamp": 1397042939
+        },
+        {
+          "uri": "messages/inbox/lucasstraida_rv9ltcqawq/photos/974604_754468571260662_94021045_n_754468571260662.jpg",
+          "creation_timestamp": 1397042939
+        },
+        {
+          "uri": "messages/inbox/lucasstraida_rv9ltcqawq/photos/10253295_754468564593996_274712503_n_754468564593996.jpg",
+          "creation_timestamp": 1397042939
+        }
+      ],
+      "type": "Generic",
+      "ip": "79.245.103.150",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397042877694,
+      "content": "Ja aber bis das immer fertig ist :o doch schon einige die \u00c3\u00a4lteren halt nicht so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397042368883,
+      "content": "voll gut ;) k\u00c3\u00b6nnen die da kein englisch?\nbist ja gleich daheim oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397040967676,
+      "content": "Nat\u00c3\u00bcrlich ;) k\u00c3\u00b6nnte mich ja sonst gar nicht verst\u00c3\u00a4ndigen. Oh ja ich hab auch sooo Hunger :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040872410,
+      "content": "voll gut ;)\nkannst du auch serbisch??\nbin schnell was essen..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397040831489,
+      "content": "Ja bekommst es gleich wenn ich daheim bin ;) also von Serbien und ja wir sind mindestens ein mal im jahr da eher 2 mal dieses jahr vllt 3 mal :D ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397040778169,
+      "content": "Hahaha ich seh aus wie eine kriminelle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040541893,
+      "content": "*bist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040534167,
+      "content": "bis eig oft da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040529136,
+      "content": "genauso wie das bild aus serbien ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040473096,
+      "content": "das will ich sehn :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397040379494,
+      "content": "haha, als ob^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397039495710,
+      "content": "Klingt noch akzeptabel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397039486901,
+      "content": "Also mein Bild ist so schlimm das die mich an der Grenze auslachen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397039441202,
+      "content": "Ja da war ich halt 15 oder 16 und noch ziemlich lange haare mit locken undso :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397039294469,
+      "content": "Warum was war mit dem Bild davor? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397039280300,
+      "content": "Jetzt :) spontan aber ich bekomme erst den bus um 1 -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397039198610,
+      "content": "Grad n neuen Perso beantragt und Bilder gemacht. Jetzt hab ich bald n glaubw\u00c3\u00bcrdiges Bild auf m Ausweis :D\nWann hast aus ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397039071690,
+      "content": "Hab noch Wirtschaft ;) bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397038417796,
+      "content": "Hey, na was geht? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397000510905,
+      "content": "Nur meine mama ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397000489914,
+      "content": "Also morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397000484411,
+      "content": "Okay du schreibst dann einfach dann schick ich es noch einmal. Will gerade nicht :D ja ich sollte auch schlafen. Gute Nacht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1397000206742,
+      "content": "hey, ich geh jetzt mal pennen.\nschreib mer morgen oder so einfach weiter ;)\nund ja das bild will ich schon noch sehn :D\nbis dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396999861113,
+      "content": "top ;)\nsind dann deine eltern serben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396999488626,
+      "content": "Ja haben wir warte ich kann dir gleich ein bild von der Aussicht schicken. Das ist au\u00c3\u009ferhalb der Stadt in Serbien bei cacak. Das hei\u00c3\u009ft medjuvrsje da gibt es lauter Restaurants am see bzw Fluss entlang und wir h\u00c3\u00a4tten auch ein boot ein kleines :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396999208950,
+      "content": "wo is das nochmal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396999191569,
+      "content": "ja voll, cool, und ihr habt einfach n haus am see?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396999094886,
+      "content": "Ja das ist auch sehr vern\u00c3\u00bcnftig wobei man sich davor auch an meine fahrk\u00c3\u00bcnste gew\u00c3\u00b6hnen sollte :D siehst ja dann einfach noch also bis jetzt sind 3 Pl\u00c3\u00a4tze weg insgesamt m\u00c3\u00bcssten schon 8 insgesamt unternommen. Kann man ja noch sehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396998853559,
+      "content": "Da wirst bestimmt noch die beste l\u00c3\u00b6sung finden ;) bist ja rechtzeitig dran mit der planung ;)\n\nja h\u00c3\u00b6rt sich schon sehr gut an ;) \nund ich steig auch nicht zu fremden leuten ins auto :DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396998460474,
+      "content": "W\u00c3\u00a4re aber nicht schlecht wenn man sich davor bisschen besser kennen w\u00c3\u00bcrde :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396998437594,
+      "content": "Am 11. Juni ist noch zeit aber wenn ich nen raum mieten will muss ich das schon langsam machen. Also eigentlich will ich ne sehr gro\u00c3\u009fe Party machen. Theoretisch k\u00c3\u00b6nnte ich das auch bei mir daheim in der Garage Terrasse und Garten alles zusammen tun. :D brauch noch kreative Ideen. Bei evobus Buchf\u00c3\u00bchrung aber nur 3 bzw 4 Wochen weil ich davor im Urlaub bin und ich will eigentlich noch den ganzen September was machen. Hmmm also mein Urlaub kostet nichts und wir fahren auch f\u00c3\u00bcr ein paar tage nach Belgrad. Also Platz w\u00c3\u00a4re noch da :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396998054489,
+      "content": "ja bin auch grad immer so am \u00c3\u00bcberlegen :D\naber mach meistens das auf was ich bock hab :D und f\u00c3\u00bcr n urlaub oder so reichts geld eh nicht^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396998000657,
+      "content": "wann hast geburtstag? und was hast so vor?\nwas f\u00c3\u00bcr n job? ;) und wie lang willst denn arbeiten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396997791427,
+      "content": "Und du? F\u00c3\u00bcr deine Semesterferien? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396997774846,
+      "content": ";) oh ja! Ehm eigentlich nur noch so bisschen meinen Geburtstag planen und \u00c3\u00bcberlegen. hab nen Job bekommen und such aber noch einen weil mir das zu kurz ist. :D aber wei\u00c3\u009f nicht wo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396997649824,
+      "content": "ja danach wird wohl die beste zeit ;)\nschon am planen au\u00c3\u009fer dem urlaub? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396997538565,
+      "content": "Ja aber das ist ganz entspannt. Wir haben da jedes mal kaum was zu lernen. :D wir warten nur auf die Ergebnisse, das m\u00c3\u00bcndliche abi und die zeit danach ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396997258721,
+      "content": "haha, voll gut ;)\nschreibt ihr noch arbeiten oder so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396996929187,
+      "content": "Ja die letzten zwei Tage immer nur 2 Stunden wobei man da nur Filme schaut oder so. Also nichts so produktives :D das klingt auch hammer gut! Und entspannend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396996389954,
+      "content": "aber du hast grad schon schule ge?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396996376252,
+      "content": "und war boarden und sowas :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396996338391,
+      "content": "zock grad viel basketball bei dem guten wetter. chill rum und mach was mit freunden ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396996078830,
+      "content": "Doch jeden Mittwoch Freitag Samstag und Sonntag :D dieses Wochende am Freitag auf ner abi Party von ner Freundin aber nur wenn ich nicht besseres finde und Samstag auf zwei 18ner und Sonntag mit Freunden kochen und film schauen bei mir. Du? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396995816557,
+      "content": "wohin gehst am wochenende? und bist nicht am tanzen? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396995483598,
+      "content": "Haha was f\u00c3\u00bcr lernen :) ja eigentlich frag ich mich das auch. Ich langweile mich nach jetzt manchmal Yoga :D und sonst am Wochenende immer weg und ja. Bisschen planen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396994848247,
+      "content": "ja voll. ich hab noch fast 2 wochen komplett frei :) war auch so n\u00c3\u00b6tig^^\n\nund sonst so? was treibst, wenn du nicht mehr am lernen bist? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396994526528,
+      "content": "Sehr sehr gut! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396994518200,
+      "content": "Hammer :o! Ja mathe war so dumm einfach. Nein wir d\u00c3\u00bcrfen immer gehen aber m\u00c3\u00bcssen auch gar nicht. Ich geh wenn ich schlechter als 11 bin wahrscheinlich :) egal Hauptsache alles weg und endlich wieder ein leben haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396994422835,
+      "content": "ja hab geh\u00c3\u00b6rt mathe w\u00c3\u00a4r krass gewesen.\nm\u00c3\u00bcsst ihr auch ins m\u00c3\u00bcndliche wenn ihr mit der pr\u00c3\u00bcfung mehr als 3 punkte von euerer anmeldenote abweicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396994342114,
+      "content": "mathe 2,3\ninfo 1,3 aber das war auch nicht so schwer\nund signale und systeme 2 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396994139155,
+      "content": "Wie sind se? :) naja eigentlich nicht so geil aber wird schon. Ehm erst ende mai",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1396993950823,
+      "content": "Bin voll zufrieden :) Hab ja die noten schon ^^\nwie liefs abi? und wann bekommt ihr die Noten eigentlich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396993487234,
+      "content": "Na wie liefen die Pr\u00c3\u00bcfungen? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394322752761,
+      "content": "Jap geplant war schon ulm aber wie gesagt. Ich setzte mir glaub lieber kleinere ziele. Okay dann gute Nacht & schlaf gut! :) ja klingt auch echt gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394322169939,
+      "content": "Wirtschaft is nicht so mein fall :D\nAlso wiwi is denk ich das leichteste, wima geht mathematisch schon ab - sowas f\u00c3\u00a4nd ich interessanter^^ wipsycho hab ich gar keine Ahnung..\nAber sprech da am besten noch mit Leuten die das auch studieren^^\nIn ulm dann?\n\nAlso ich muss leider pennen..\nBis dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394321741617,
+      "content": "Was kannst du empfehlen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394321734392,
+      "content": "Kannst du gerne gibt noch freie Pl\u00c3\u00a4tze :D naja ist noch alles sehr unorganisiert aber das wird. Musst halt spontan sein! :D ehm WiWi oder WiMathe oder WiPsycho mal schauen wer mich nimmt. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394321476504,
+      "content": "H\u00c3\u00b6rt sich nach nem guten plan an ;) die zeit musst richtig genie\u00c3\u009fen, so viel frei bekommst wahrscheinlich nicht mehr so schnell..\nUnd ich komm mit zu dem Haus am See :D\nWas magst dann studieren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394320873055,
+      "content": "Hahah Spa\u00c3\u009f ich sch\u00c3\u00a4me mich nicht daf\u00c3\u00bcr. Also schreib mein Abi noch mit 17. Hmm also ich werde einen Monat arbeiten das ist fast sicher dann fahr ich mit Freunden oder eigentlich darf jeder mit der will nach meinem Geburtstag nach Serbien wir haben da ein Haus am See und dann wird da gefeiert und eigentlich wollten wir noch so in den Urlaub also mit der Familie ;) und dann fang ich im Oktober ist das glaub wenn alles klappt mit studieren an :) aber vllt Wird auch alles ganz anders ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394319911361,
+      "content": "an der uni ;)\nokay, dann musst die frage mir nicht beantworten ;)\nhast eig schon pl\u00c3\u00a4ne f\u00c3\u00bcr die zeit nach m abi?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394319699917,
+      "content": "Naja :) nicht schlecht machst studierst du an der uni oben oder Hochschule? Wie ich diese Frage hasse. Das ruiniert dann so immer alles :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394319009259,
+      "content": "haha, is doch cool und dein hund freut sich ;)\nElektrotechnik, also voll mathe und physik. Komm jetzt dann auch schon ins 4. Semester.. wie schnell die zeit irgendwie vergeht ..\nwie alt bist du eig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394318776990,
+      "content": "Ja heute schon sonst nicht ich mach es ja gerne :) ich motiviere alle um mich rum. Dann jogg ich nicht so oft nur mit meinem Hund zusammen wie so eine verr\u00c3\u00bcckte. Was studierst du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394318352565,
+      "content": "ja basketball und fitness reicht mir komplett :D f\u00c3\u00a4llts dir nicht schwer dich zum joggen zu motivieren?\nohne witz, aber jedes semester das selbe..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394318135028,
+      "content": "Oder :D ehm \u00c3\u00bcbern\u00c3\u00a4chste Woche hab ich am Dienstag Physik und jetzt Mittwoch f\u00c3\u00a4ngt an :D jaja lieber zocken als joggen. Schon klar! Endlich hast es dann auch hinter dir ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317992053,
+      "content": "wann ist nochmal das schriftliche abi vorbei?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317948295,
+      "content": "geh da lieber basketball zocken oder sowas :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317932854,
+      "content": "freitag, da hab ich meine letzte pr\u00c3\u00bcfung und mein alltag sieht grad wie deiner aus, bis auf des joggen^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317901139,
+      "content": "und ja ich freu mich auch brutal auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317863405,
+      "content": "Odsd??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394317769591,
+      "content": "Also Physik mehr Odsd weniger es macht mir schon Spa\u00c3\u009f aber ich bin nicht sehr gut drin und mathe ist einfach logisch und macht meistens Spa\u00c3\u009f naja eigentlich will ich alles weg haben. Meine Woche lief jeden tag gleich ab: fr\u00c3\u00bch aufstehen, lernen ewig joggen gehen dann weiter lernen :D jaaaa top! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394317095625,
+      "content": "top ;)\nich war auch so froh, dass ich nur in englisch abi schreiben musste und nicht in deutsch :D aber das gl\u00c3\u00bcck hast du ja nicht..\nich kenn so wenig frauen, die mathe und physik gut finden :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394316444524,
+      "content": "Ja ist es :o waren auch immer eher 3. Oder 5. :) ja mathe und Physik schon voll aber deutsch nicht so arg und englisch gar nicht haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394316181108,
+      "content": "aber is doch schon hart da was zu gewinnen oder?\nL\u00c3\u00a4uft die Abivorbereitung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394315625552,
+      "content": "Nein wir haben jetzt gerade mal die outfits gezahlt bekommen und bekommen Pizza bei Meisterschaften gewinnt man schon Geld :D ja bin mit denen in ner Stufe. Ja anstrengend triffts schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394314992611,
+      "content": "stark ;) bekommst da Geld oder sowas f\u00c3\u00bcr das tanzen?\nAh, bist dann bei der Ruth und der Lena in der Klasse?\nJa ich komm mit ihm auch nicht soo klar - spiel halt mit dem Basketball.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394314745981,
+      "content": "Der macht das st\u00c3\u00a4ndig! -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394314738519,
+      "content": "Also Meisterschaften und Auftritte bestimmt schon 3 Jahre obwohl dieses jahr ist meine 3. Also 4 Jahre und ratiopharm seit Juli. Am Hildegard :D hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394314672214,
+      "content": "und wo machst du abi?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394314602135,
+      "content": "haha, der Patrick halt^^\noha, wie lang tanzt du schon?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394314382169,
+      "content": "Naja in donaustetten aber ja genau :) es kanns einfach nicht sein. Das letzte Team hat er schon fertig gemacht und jetzt f\u00c3\u00bchle ich mich auch angegriffen weil ich da auch tanze halt die letzten male nicht wegen abistress :D also das stimmt :D unsere outfits sind schon sehr knapp ihr liegt bestimmt M\u00c3\u00a4nner in kurzen R\u00c3\u00b6cken und sportbh ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lucas Straida",
+      "timestamp_ms": 1394314225438,
+      "content": "Hi,\ndu wohnst doch in g\u00c3\u00b6gglingen, kann des sein? :D\n\nHab gerade dein Kommentar an Patricks Post gesehn und das will echt keiner sehn :DD",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lucas Straida",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lucasstraida_rv9ltcqawq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Cengizhan Korkmaz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cengizhan Korkmaz",
+      "timestamp_ms": 1428178310502,
+      "content": "heyy was gehtttttttttt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cengizhan Korkmaz",
+      "timestamp_ms": 1426504926765,
+      "content": "Hey:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cengizhan Korkmaz",
+      "timestamp_ms": 1415204736926,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Cengizhan Korkmaz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cengizhankorkmaz_rlcukeblja",
+  "magic_words": [
+    
+  ]
+}

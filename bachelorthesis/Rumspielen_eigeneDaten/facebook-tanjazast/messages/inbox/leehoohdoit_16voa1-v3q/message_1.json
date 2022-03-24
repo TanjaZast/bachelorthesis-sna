@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Leehooh Do-it"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1305560854000,
+      "content": "Okay:)) aber Dankee trozdem :)) sorry das ich vllt genervt hab aber es war oder ist voll wichtig aber danke auf jeden Fall:))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leehooh Do-it",
+      "timestamp_ms": 1305560402000,
+      "content": "nee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1305490522000,
+      "content": "Schon okay :)) kennst du aber vielleicht  jemanden der mim Gymnasium voll viel zu tun hat vor allem mit den 9ern?? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leehooh Do-it",
+      "timestamp_ms": 1305489588000,
+      "content": "Ne aus dem gymi kenne ich fast keinen !! sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1305462678000,
+      "content": "Hey <3 ich hab dich ja am Freitag wegen der Schule in pfuhl gefragt..:)) ich wollte dich mal fragen ob du iwelche Jungs aus dem berta von suttner Gymnasium aus der 9c kennst?? So nen braunhaarigen :)) w\u00c3\u00a4r voll nett wenn du antworten w\u00c3\u00bcrdest :)) danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1305462619000,
+      "content": "Hey <3 ich hab dich ja am Freitag wegen der Schule in pfuhl gefragt..:)) ich wollte dich mal fragen ob du iwelche Jungs aus dem berta von suttner Gymnasium aus der 9c kennst?? So nen braunhaarigen :)) w\u00c3\u00a4r voll nett wenn du antworten w\u00c3\u00bcrdest :)) danke",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Leehooh Do-it",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/leehoohdoit_16voa1-v3q",
+  "magic_words": [
+    
+  ]
+}

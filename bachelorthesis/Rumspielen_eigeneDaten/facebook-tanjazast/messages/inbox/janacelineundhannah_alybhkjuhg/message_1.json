@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Jana Blum"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Celine Buschow"
+    },
+    {
+      "name": "Hannah Spiekermann"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368548220375,
+      "content": "Also wollt ihr morgen dann bitte mal alle euren zettel mit in die schule bringen auf dem alle unterschrieben haben also wer f\u00c3\u00bcr den Gong ist? :) ihr sollt dann nur oben hin schreiben wie viele in der jeweiligen klasse sind und dann noch wie viele unterschieben haben okay macht ihr das bitte? :) und hanna schau in deine emails",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jana, Celine und Hannah",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/janacelineundhannah_alybhkjuhg",
+  "magic_words": [
+    
+  ]
+}

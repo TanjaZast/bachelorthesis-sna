@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Salvatore Moscatello"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Salvatore Moscatello",
+      "timestamp_ms": 1626961680759,
+      "content": "Mir gehts auch gut danke dir. Ich sehe du engagierst dich politisch find ich echt gut \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1626877832208,
+      "content": "Hey Salvatore \u00e2\u0098\u00ba\u00ef\u00b8\u008f na klar! Mir geht es bestens und selbst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Salvatore Moscatello",
+      "timestamp_ms": 1626874980849,
+      "content": "Hey Tanja. Kennst mich noch?? Hoffe dir geht es gut. Lg",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Salvatore Moscatello",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/salvatoremoscatello_s0eo0iygbq",
+  "magic_words": [
+    
+  ]
+}

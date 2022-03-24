@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465765108413,
+      "content": "Danke dir \u00f0\u009f\u0092\u0095 ja bin n\u00c3\u00a4chste Woche wieder da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1465646882184,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1465646873426,
+      "content": "Hey s\u00c3\u00bc\u00c3\u009fe, alles alles Liebe zum Geburtstag, genie\u00c3\u009f den tag und feier sch\u00c3\u00b6n. Lass dich reich beschenken und vorallem lass dich nicht stressen, bis hoffentlich bald mal wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1465542715052,
+      "content": "Ja bei mir ist das alles net so einfach und dauert auch alles etwas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465541069614,
+      "content": "Oha \u00f0\u009f\u0098\u00af so extrem gleich? Oh man Ramona... Wir m\u00c3\u00bcssen dann echt beide lernen, runterzufahren und auch mal kurz durchzuatmen. Bin ja die Woche komplett krankgeschrieben und habe jeden Tag bis in die Nacht gelernt oben an der Uni \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1465540862115,
+      "content": "Ja, nervenzusammen bruch, hatte ich am ersten Mai auch. Fazit bei mir, leichte depressionen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465540589161,
+      "content": "\u00f0\u009f\u0098\u0085 immer wieder dasselbe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465540577194,
+      "content": "Huhu liebe Ramona, mittlerweile besser. Ich war so \u00c3\u00bcberlastet mit Uni, Job Familie usw dass ich einfach psychisch fertig war und dann hat meiner \u00c3\u0084rztin gesagt dass ich runterkommen muss und mir bewusst machen wo meine Priorit\u00c3\u00a4ten liegen weil meine Blutwerte schrecklich waren und es so nicht mehr ging",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1465412486207,
+      "content": "Hey meine liebe, wie gehts dir den?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lh1v4cgpxg",
+  "magic_words": [
+    
+  ]
+}

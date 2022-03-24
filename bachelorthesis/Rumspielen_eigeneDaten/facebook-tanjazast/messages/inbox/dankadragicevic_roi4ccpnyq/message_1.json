@@ -1,0 +1,206 @@
+{
+  "participants": [
+    {
+      "name": "Danka Dragicevic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504427462551,
+      "content": "Du hast einen Anruf von Danka verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504427413334,
+      "content": "Du hast einen Anruf von Danka verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504374447842,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504374439983,
+      "photos": [
+        {
+          "uri": "messages/inbox/dankadragicevic_roi4ccpnyq/photos/21297423_1539804906085004_1696027945_o_1539804906085004.jpg",
+          "creation_timestamp": 1504374439
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504374426688,
+      "photos": [
+        {
+          "uri": "messages/inbox/dankadragicevic_roi4ccpnyq/photos/21329754_1539804732751688_1780498145_o_1539804732751688.jpg",
+          "creation_timestamp": 1504374426
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1504374424434,
+      "photos": [
+        {
+          "uri": "messages/inbox/dankadragicevic_roi4ccpnyq/photos/21298896_1539804709418357_1899456864_o_1539804709418357.jpg",
+          "creation_timestamp": 1504374424
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449183093071,
+      "content": "Sta ti radis, ima li neki deckic \u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449183079011,
+      "content": "Hvala na informacijama izvini sto sam ti dosadjivala",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449183054686,
+      "content": "Pa da ,u pravu si",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449183047087,
+      "content": "Aaaa tako \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449183022584,
+      "content": "Ne to je vec dugo tako osim da su to sve smuvali ali sigurno nije bilo legalno \u00f0\u009f\u0098\u0093",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182421522,
+      "content": "Pa ne moze",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182419840,
+      "content": "Ali mozda su sada poostrili zakon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182403776,
+      "content": "Jer ja sam cula da su neki ljudi odavde cuvali u svajcarskoj i do milion evra",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182358398,
+      "content": "Bezveze\u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182329807,
+      "content": "Znaci jedina opcija je preko banke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449182320789,
+      "content": "Aaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449182294027,
+      "content": "Preko grabice samo 9999 a od 10000 se mora prijaviti i onda tra\u00c5\u00bee sva\u00c5\u00a1ta a u \u00c5\u00a0vicarskoj smes 9999 Franka da uvezes a preko se opet treba prijaviti. To sam \u00c4\u008ditala u Njema\u00c4\u008dkoj i u svajcarskoj \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449180413924,
+      "content": "Jer ovde ako uplatis tolike pare u banci odmah ti traze poreklo novca",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449180397126,
+      "content": "A jel postoji jos neki nacin osim da se otvori racun u srbiji ? Pa da se tako prenese",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449179672037,
+      "content": "Nema veze samo sam radila pa se tek sada javljam. Joj to je komplikivanao. Najbolje otvoriti giro ra\u00c4\u008dun u Srbi i onda online prebaciti u svajcarsku. Ali mora\u00c5\u00a1 paziti posto mnogo kotrolisu i sve \u00c4\u0087e se oporezovati po svajcarskom zakonu.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449153779604,
+      "content": "Ja htela da zovem neku banku u svajcarskoj ili nemackoj ili da posaljem mail al reko mozd ati to bolje znas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449153527359,
+      "content": "Jer koliko znam,preko granice ne moze vise od 10.000e ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Danka Dragicevic",
+      "timestamp_ms": 1449153470348,
+      "content": "E tanci sta radis, izvini ako ti smetam, treba mi jedna informacija. Jel mozes da mi se raspitas iki mozda ti znas,kako iz Srbije moze da se prenese novac da se cuva u Nemacku, Svajcarsku banku,ili tako neku zemlju, samo da cuvaju novac. Ali suma oko 300.000e.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Danka Dragicevic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dankadragicevic_roi4ccpnyq",
+  "magic_words": [
+    
+  ]
+}

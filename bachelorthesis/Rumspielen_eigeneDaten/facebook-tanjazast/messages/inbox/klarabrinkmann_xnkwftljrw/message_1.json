@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Klara Brinkmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Klara Brinkmann",
+      "timestamp_ms": 1493662867364,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Klara Brinkmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/klarabrinkmann_xnkwftljrw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309190675822,
+      "content": "okay :) ja ich wei\u00c3\u009f das du so bist h\u00c3\u00b6r ich von mehreren ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309190648866,
+      "content": "ah ok haha :D ja kann sein :D so bin ich haha wir reden noch bb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309190616445,
+      "content": "ja?? du kammst so her hey und das dus wei\u00c3\u009f und so hast mir deinen namen gesagt und gefragt wo ich wohne und so :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309190591963,
+      "content": "sorry schreib mir mal nochamal dann reden wir , ich muss gehn , bis denne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309190573910,
+      "content": "aah ok :) sorry ich kann mich nicht richtig erinnern ,.. habn wir beim fest geredet ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309190542506,
+      "content": "ja?? ein mal haben wir schon fr\u00c3\u00bcher gechattet und dann noch von dem kroatischen fest da ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309190504227,
+      "content": "hey ? kennen wir uns ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309190488677,
+      "content": "hey :P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_dhlraaraew",
+  "magic_words": [
+    
+  ]
+}

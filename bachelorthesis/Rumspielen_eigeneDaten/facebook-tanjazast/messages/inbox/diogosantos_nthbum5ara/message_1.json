@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Diogo Santos"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diogo Santos",
+      "timestamp_ms": 1452543749413,
+      "content": "https://www.youtube.com/watch?v=O9TDUjtUsm8\n\nSupporten!:)",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=O9TDUjtUsm8"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Diogo Santos",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/diogosantos_nthbum5ara",
+  "magic_words": [
+    
+  ]
+}

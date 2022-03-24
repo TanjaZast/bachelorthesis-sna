@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Ralf Schuster"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406741768580,
+      "content": "Da sich bis jetzt immer noch niemand bei mir gemeldet hat gehe ich davon aus, dass es sich leider erledigt hat?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ralf Schuster",
+      "timestamp_ms": 1405487870818,
+      "content": "Leider noch nicht Sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405452084503,
+      "content": "Okay kein Problem also wisst ihr immer noch nicht ob ich genommen bin? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ralf Schuster",
+      "timestamp_ms": 1405451879263,
+      "content": "DANKE",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ralf Schuster",
+      "timestamp_ms": 1405451876080,
+      "content": "Hi Tanja, also ich habe heute mit Matze gesprochen... wir haben noch ein M\u00c3\u00a4del zum Probe arbeiten und dann meldet er sich n\u00c3\u00a4chste Woche bei dir!!! Sorry dass dies so lange dauert!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ralf Schuster",
+      "timestamp_ms": 1405365867042,
+      "content": "Hi Tanja ne wir haben dich nicht vergessen! \u00f3\u00be\u008d\u0087 ich treffe mich morgen mit Matze und dann rede ich nochmal mit ihm... Ich meld mich dann morgen Abend bei dir. Danke Gru\u00c3\u009f Ralf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405358268428,
+      "content": "Hallo Ralf :)\nIch wollte nur fragen, wie es wegen der Probearbeit aussieht und ob ich im Theatro anfangen werde. Hast du mit Matze gesprochen? Du meintest ihr meldet euch egal wie ihr euch entscheidet. Wollte deshalb nur sichergehen, dass ihr mich nicht vergesst. Ganz liebe Gr\u00c3\u00bc\u00c3\u009fe \nTanja ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ralf Schuster",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ralfschuster_s129vmrrpw",
+  "magic_words": [
+    
+  ]
+}

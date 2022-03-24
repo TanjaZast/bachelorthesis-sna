@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ufuk Aras"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ufuk Aras",
+      "timestamp_ms": 1450957388752,
+      "content": "Ja oder ? \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1450948707231,
+      "content": "H\u00c3\u00a4h\u00c3\u00a4h\u00c3\u00a4 danke - beste Filmerin ever \u00f0\u009f\u0098\u0082 und du warst Mega voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ufuk Aras",
+      "timestamp_ms": 1450935969690,
+      "videos": [
+        {
+          "uri": "messages/inbox/ufukaras_ahjwakqsnw/videos/video1450935966_1051143308270457.mp4",
+          "creation_timestamp": 1450935966,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/12323186_1051143314937123_1652181904_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=e797c15deb29c8316e3fecb00d2ae755&oe=61893E46"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ufuk Aras",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ufukaras_ahjwakqsnw",
+  "magic_words": [
+    
+  ]
+}

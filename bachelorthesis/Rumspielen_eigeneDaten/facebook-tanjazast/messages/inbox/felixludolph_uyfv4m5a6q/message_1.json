@@ -1,0 +1,222 @@
+{
+  "participants": [
+    {
+      "name": "Felix Ludolph"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1397056085168,
+      "content": "Gerade noch 16 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397056059773,
+      "content": "Warum wie alt bist du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1397054888947,
+      "content": "Ah okay also bist du ja nicht soo viel \u00c3\u00a4lter als ich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396993431300,
+      "content": "Ne bin erst 17 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396794655938,
+      "content": "Du auch nicht? Oder bist du noch nicht 18? Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396794610602,
+      "content": "Ja so geht es uns gerade auch. Bei mir kommen die kaum noch in die schule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396793899085,
+      "content": "Haha ich hab aber gar kein bock mehr auf schule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396793835833,
+      "content": "So solls sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396792878932,
+      "content": "Hahaha war auch der plan :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396792848435,
+      "content": "Ja dann mach so weiter ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396792748782,
+      "content": "Ah nice, voll \u00c3\u00a4hnlich wie ich bis jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396792723393,
+      "content": "Ich hatte alles 2.0 1.9 der letzte war 1.7 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396791761763,
+      "content": "Was ist dein schnitt so in etwa?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396791733950,
+      "content": "Chillt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396791701673,
+      "content": "Ja :D vor paar Wochen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396791664322,
+      "content": "Ach du hast schon abi geschrieben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396791646349,
+      "content": ":) ja ich zwei Monate",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396788298047,
+      "content": "Hm naja so der wahnsinn ists nicht aber ich bin da ja eh nur noch ein jahr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396786061128,
+      "content": "Wie gef\u00c3\u00a4llt es dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396779238965,
+      "content": "Ja genau ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396775215677,
+      "content": "Gleich nebenan ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396771024768,
+      "content": "Ah okax ich bin auf m scholl..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396771002544,
+      "content": "Ja geh aufs Hildegard :) du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396770964652,
+      "content": "Gehst du aber in ulm zur schule oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396770938218,
+      "content": "Donaustetten :) jap fast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396770918577,
+      "content": "Okay haha. Du wohnst aber schon in ulm oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396770883481,
+      "content": "Ne dachte vllt hast mich iwo gesehen passt schon. Ich entfern dich schnell ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396769880941,
+      "content": "Ich glaub nicht dass wir uns kennen oder?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Ludolph",
+      "timestamp_ms": 1396769839106,
+      "content": "Hey,\nSorry, ich muss da irgendwie gestern abend auf den freunschaftsanfrage Button gekommen sein..",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Felix Ludolph",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/felixludolph_uyfv4m5a6q",
+  "magic_words": [
+    
+  ]
+}

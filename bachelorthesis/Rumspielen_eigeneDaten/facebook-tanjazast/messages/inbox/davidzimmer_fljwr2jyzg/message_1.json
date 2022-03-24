@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "David Zimmer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "David Zimmer",
+      "timestamp_ms": 1369130424256,
+      "content": " Ey yannik (kremer) hatte gestern geburtstag und das wurde bei keinem angezeigt. Der hat jetzt garkeien gr\u00c3\u00bc\u00c3\u009fe. \nPoste dem mal ein nachtr\u00c3\u00a4glichen  gru\u00c3\u009f an die pinnwand\nIch frag noch andere ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "David Zimmer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/davidzimmer_fljwr2jyzg",
+  "magic_words": [
+    
+  ]
+}

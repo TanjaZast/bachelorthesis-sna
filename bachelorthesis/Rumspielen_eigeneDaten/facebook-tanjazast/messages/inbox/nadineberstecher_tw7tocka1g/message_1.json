@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Nadine Berstecher"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nadine Berstecher",
+      "timestamp_ms": 1371153942193,
+      "content": "Vielen Dank! :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371146742043,
+      "content": "Oh Mist :/ dann ne gute Besserung :* danke meine W\u00c3\u00a4re die 015164810786 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nadine Berstecher",
+      "timestamp_ms": 1371143841715,
+      "content": "Hey, meine Handynummer wegen Whatsapp: 01756673721 \n\n:)) \nP.S. Morgen sollte ich um 13.30 Uhr gehen - habe einen Arzttermin (mein Zehen ist gebrochen .. :D) \n\nLiebst ;**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367659809282,
+      "content": "Hallo ;) Tobi hat mir gesagt, dass du am Montag in der 7. Stunde doch nicht kannst. Wann w\u00c3\u00a4re es f\u00c3\u00bcr dich denn am besten (n\u00c3\u00a4chste woche noch). :) wir m\u00c3\u00bcssen uns ja erst einmal nur zusammensetzen und besprechen wann und wo wir uns jede woche treffen vielleicht kannst du mir auch deine mathehefte mitbringen, dann kann ich schauen was ich alles f\u00c3\u00bcr arbeitsbl\u00c3\u00a4tter habe und weitere \u00c3\u009cbungen aufschriebe und so was :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nadine Berstecher",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nadineberstecher_tw7tocka1g",
+  "magic_words": [
+    
+  ]
+}

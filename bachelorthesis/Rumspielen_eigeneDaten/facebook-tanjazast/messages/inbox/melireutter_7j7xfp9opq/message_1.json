@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Meli Reutter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meli Reutter",
+      "timestamp_ms": 1466167839087,
+      "content": "Hat es bei dir gestern noch geklappt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Meli Reutter",
+      "timestamp_ms": 1466167823953,
+      "content": "Ich komm im vier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1466167756957,
+      "content": "Kommst du heute und um wie viel Uhr f\u00c3\u00a4ngst du an? \u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463350275875,
+      "content": "Bitte bitte bis bald :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Meli Reutter",
+      "timestamp_ms": 1463350051531,
+      "content": " Oh super\u00f0\u009f\u0091\u008dlieben Dank, bis bald wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463349983354,
+      "content": "Jap hier ist sie \u00f0\u009f\u0098\u009a gr\u00c3\u00bc\u00c3\u009fle zur\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463349969579,
+      "photos": [
+        {
+          "uri": "messages/inbox/melireutter_7j7xfp9opq/photos/13231013_1218048124902702_2044971956_n_1218048124902702.jpg",
+          "creation_timestamp": 1463349968
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.209.33.68",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Meli Reutter",
+      "timestamp_ms": 1463349903043,
+      "content": "Hallo meine Liebe, hast du zuf\u00c3\u00a4llig die Handynummer von Fr. Edelmann? Gr\u00c3\u00bcssle",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Meli Reutter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/melireutter_7j7xfp9opq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Bo\u00c5\u00a1ko Ma"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414098185996,
+      "content": "Joa passt schon \u00f3\u00be\u008c\u00b4bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bo\u00c5\u00a1ko Ma",
+      "timestamp_ms": 1414098137855,
+      "content": "Alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414098108011,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bo\u00c5\u00a1ko Ma",
+      "timestamp_ms": 1414097678669,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Bo\u00c5\u00a1ko Ma",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/boskoma_rmkdjouhrq",
+  "magic_words": [
+    
+  ]
+}

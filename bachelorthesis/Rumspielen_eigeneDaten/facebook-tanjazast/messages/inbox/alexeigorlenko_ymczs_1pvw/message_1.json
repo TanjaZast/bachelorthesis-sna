@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Alexei Gorlenko"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexei Gorlenko",
+      "timestamp_ms": 1511854985562,
+      "content": "Icch habee' dich inn dieseem Videoo geshen\u00c2\u00b7 Tanja B-)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alexei Gorlenko",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alexeigorlenko_ymczs_1pvw",
+  "magic_words": [
+    
+  ]
+}

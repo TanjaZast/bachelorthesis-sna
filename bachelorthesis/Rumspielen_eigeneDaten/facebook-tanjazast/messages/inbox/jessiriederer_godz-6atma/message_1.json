@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Jessi Rieder\u00c3\u00a9r"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessi Rieder\u00c3\u00a9r",
+      "timestamp_ms": 1346944871768,
+      "content": "Ja sagt sie halt :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346930824282,
+      "content": "achso ;) sicher?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jessi Rieder\u00c3\u00a9r",
+      "timestamp_ms": 1346921799610,
+      "content": "Keine ahnung, sie braucht facebook nicht ;-)\n:-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346919056731,
+      "content": "warum das?? :O :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jessi Rieder\u00c3\u00a9r",
+      "timestamp_ms": 1346902741448,
+      "content": "Die hat kein facebook mehr, sie hat es deaktiviert :-/\n:-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346880978423,
+      "content": "duu was ist mit nina los?? :O ich kann nemme auf deren profil gehn ;( :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jessi Rieder\u00c3\u00a9r",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jessiriederer_godz-6atma",
+  "magic_words": [
+    
+  ]
+}

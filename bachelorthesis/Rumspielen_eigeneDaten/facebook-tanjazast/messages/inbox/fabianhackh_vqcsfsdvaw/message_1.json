@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Fabian H\u00c3\u00a4ckh"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1503486191486,
+      "content": "Hast du mal Lust was trinken zu gehen? \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502710398593,
+      "content": "Auch nicht soo geil oder? \u00f0\u009f\u0098\u0084\n\nChemiepraktikum. Mal sehen wie es wird :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502709037690,
+      "content": "Oh nicht so geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502709030048,
+      "content": "Bei evobus im Lager",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502635325400,
+      "content": "Was arbeitest du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502635320635,
+      "content": "Ich mach gerade Pause. Aber bald hab ich dann wieder Praktikum \u00f0\u009f\u0098\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502631343029,
+      "content": "Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502631306639,
+      "content": "Aber keine Pr\u00c3\u00bcfungen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502631300420,
+      "content": "Ja also ich arbeite gerade. \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502614300677,
+      "content": "Du hast jetzt auch erstmal frei oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502614285571,
+      "content": "Ja, das stimmt. Es st\u00c3\u00b6hnen einige. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502611928165,
+      "content": "Ja, das Studium ist eh nicht ganz ohne \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502611882932,
+      "content": "Glaube ich! \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502491325134,
+      "content": "Ja, auch soweit. :) \nDas Semester war aber ziemlich hart \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1502489152057,
+      "content": "Hey hey \u00f0\u009f\u0098\u008a alles okay und bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502479357662,
+      "content": "Hi Tanja :) \n\nWie l\u00c3\u00a4uft dein Studium bisher so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian H\u00c3\u00a4ckh",
+      "timestamp_ms": 1502479339753,
+      "content": "Fabian winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Fabian H\u00c3\u00a4ckh",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fabianhackh_vqcsfsdvaw",
+  "magic_words": [
+    
+  ]
+}

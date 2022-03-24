@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Steph Anie"
+    },
+    {
+      "name": "Anne Kark"
+    },
+    {
+      "name": "Nina He"
+    },
+    {
+      "name": "Laura Maria"
+    },
+    {
+      "name": "Isabel Lim"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nina He",
+      "timestamp_ms": 1426511376564,
+      "content": "Danke! \u00f3\u00be\u008c\u00b8\u00f3\u00be\u00ae\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1426508324386,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanneninaund2weiterepersonen_jdkaplk4ng/photos/11072278_971657799520512_1621088793_n_971657799520512.jpg",
+          "creation_timestamp": 1426508323
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1426508319202,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanneninaund2weiterepersonen_jdkaplk4ng/photos/11063062_971657766187182_1131361318_n_971657766187182.jpg",
+          "creation_timestamp": 1426508318
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steph, Anne, Nina und 2 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/stephanneninaund2weiterepersonen_jdkaplk4ng",
+  "magic_words": [
+    
+  ]
+}

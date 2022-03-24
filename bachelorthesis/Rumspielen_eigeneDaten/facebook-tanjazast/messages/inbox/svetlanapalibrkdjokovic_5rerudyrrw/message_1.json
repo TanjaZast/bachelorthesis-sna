@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Svetlana Palibrk Djokovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Svetlana Palibrk Djokovic",
+      "timestamp_ms": 1560228988983,
+      "content": "Srecan rodjendan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Svetlana Palibrk Djokovic",
+      "timestamp_ms": 1528726699418,
+      "content": "Srecan rodjendan Tajci,sve najbolje ti zelimo",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Svetlana Palibrk Djokovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/svetlanapalibrkdjokovic_5rerudyrrw",
+  "magic_words": [
+    
+  ]
+}

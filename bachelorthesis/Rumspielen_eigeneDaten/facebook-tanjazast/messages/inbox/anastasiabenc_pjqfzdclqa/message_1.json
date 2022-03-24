@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u0090\u00d0\u00bd\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d0\u00b8\u00d1\u008f \u00d0\u0091\u00d0\u00b5\u00d0\u00bd\u00d1\u0086"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d0\u0090\u00d0\u00bd\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d0\u00b8\u00d1\u008f \u00d0\u0091\u00d0\u00b5\u00d0\u00bd\u00d1\u0086",
+      "timestamp_ms": 1439845779098,
+      "content": "Zeigt sich dann  \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439845578108,
+      "content": "Aber hoffentlich bald! \u00f0\u009f\u0098\u008a w\u00c3\u00a4re so s\u00c3\u00bc\u00c3\u009f!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00d0\u0090\u00d0\u00bd\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d0\u00b8\u00d1\u008f \u00d0\u0091\u00d0\u00b5\u00d0\u00bd\u00d1\u0086",
+      "timestamp_ms": 1439844568128,
+      "content": "Hey Tanja, nein noch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439839803299,
+      "content": "Anastasia, seid ihr verlobt? \u00f3\u00be\u008c\u00a7\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00d0\u0090\u00d0\u00bd\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d0\u00b0\u00d1\u0081\u00d0\u00b8\u00d1\u008f \u00d0\u0091\u00d0\u00b5\u00d0\u00bd\u00d1\u0086",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anastasiabenc_pjqfzdclqa",
+  "magic_words": [
+    
+  ]
+}

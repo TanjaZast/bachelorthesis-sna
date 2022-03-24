@@ -1,0 +1,300 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Spiekermann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370631569901,
+      "content": "Ja passt schon die schickt es mir :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370631365518,
+      "content": "ich hab das jetzt aber nur zu frau ruder- engels geschickt\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370631320784,
+      "content": "Sehr gut :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370631293759,
+      "content": "das mit dem scanen hat jetzt doch funktiniert!:*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370627601685,
+      "content": "Bring sie mir bitte alle am Montag mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370627108701,
+      "photos": [
+        {
+          "uri": "messages/inbox/hannahspiekermann_erbmxqi95g/photos/954842_361123217343088_1015837787_n_361123227343087.jpg",
+          "creation_timestamp": 0
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1370626698856,
+      "content": "Das mit dem scannen funktioniert iwie nicht! Ich Schick dir die Listen jetzt einfach aoo ich hoffe das geht! Also Grade funktioniert es Doch aber ich Schick es die trotzdem!;*",
+      "photos": [
+        {
+          "uri": "messages/inbox/hannahspiekermann_erbmxqi95g/photos/39035567_361121497343260_1106846400_n_361121497343260.jpg",
+          "creation_timestamp": 0
+        },
+        {
+          "uri": "messages/inbox/hannahspiekermann_erbmxqi95g/photos/75240084_361121494009927_758482536_n_361121494009927.jpg",
+          "creation_timestamp": 0
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1368678425617,
+      "content": "Ja wir haben mit Frau wei\u00c3\u009f dar\u00c3\u00bcber gesprochen! T\u00c3\u00a4uschen wir doch dann heute einfach Nummern aus... \nUnd ja kein Ding! Ich mein das ist unsere Gruppe und da hat dann jeder seinen Beitrag zu leisten! Aber am meisten hast immer noch du gemacht!;* ich bring dir heute nochmal die Unterschriften vorbei! Also dann bis nacher!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368650597691,
+      "content": "Ehm Warte machen wirs so kannst du mir deine und celins Nummer geben? ;) dann haben wir leichter Kontakt und ja danke euch beiden das ihr voll viele Umfragen gemacht habt also ausgewertet habt ganz ehrlich ohne euch w\u00c3\u00a4re nie alles bis heute fertig geworden und wenn du magst kann ich dir die Ergebnisse auch noch schicken aber auf jeden fall bin ich echt stolt auf euch und f\u00c3\u00bcr die 72 Stunden Aktion setzt ihr 2 euch auch voll ein. Danke :* aber leider hab ich wieder bisschen Arbeit f\u00c3\u00bcr euch. Sags euch dann morgen okay? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368647928426,
+      "content": "Hat euch frau weiss angesprochen wegen dem treffen morgen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1368560417976,
+      "content": "Die 7a hatte Jana aber was mit der ist wei\u00c3\u009f ich nicht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1368560356535,
+      "content": "Jap kann ich machen!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368530427551,
+      "content": "Schaust du mal bitte schnell in deine emails und antwortest mir dann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367871008814,
+      "content": "Okay ich komm dann schnell noch vorbei:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1367870739330,
+      "content": "Ja ich geb die morgen die Email von der Frau aus dem Behindertenclub!:) \nDa haben wir im Container! Ich glaub das ist C2:D also unten das 2. Zimmer links!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367870626878,
+      "content": "Wo habt ihr morgen 1 und 2. Stunde ich m\u00c3\u00bcsste mal wieder mit euch reden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367870599604,
+      "content": ";) h\u00c3\u00a4 wem? :) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1367869467813,
+      "content": "Okey danke!:) ich geb die aber auch die Email von der dann kannst du ihr auch schreiben!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367869360632,
+      "content": ";) kein Problem ja das ist gut so.. ehm wir hei\u00c3\u009fen yes, Girls can",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1367854742196,
+      "content": "Hey:) ich hab die Umfrage fertig ich bring sie die morgen mit! Sorry f\u00c3\u00bcr die Versp\u00c3\u00a4tung! \nUnd wie hei\u00c3\u009ft wir bei der 72- Stunden- Aktion?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363937377097,
+      "content": "Bin gleich da! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363929357622,
+      "content": "Ok ich bin da!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363902460882,
+      "content": "Ehm ich hab zur 3. Aber komm zur 2. Ehm am besten 5 vor Halb 9 bei den Computer? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363901545963,
+      "content": "Das mit dem kopieren nach ich noch vor der ersten Stunde und dir geben dann nach der ersten! Wo h\u00c3\u00a4ttest du den Unterricht?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363901372029,
+      "content": "Wann und wo ?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363901336147,
+      "content": "Nee Sorry unsere Computer ist immer noch besetzt ich bring das morgen auf nem Stick mit!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363901280824,
+      "content": "Hast du jetzt geschrieben? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363895979118,
+      "content": "Nee ich hab dir noch nicht geschrieben weil meine Mama am Computer sa\u00c3\u009f! Kann ich aber noch machen!\nOk!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363895369416,
+      "content": "Okay machen wir es so aber du hast mir keine Mail geschrieben?? :o also ich hab morgen zur 3...aber ich fahr zur 2. Dann kann ich alles in die Umschl\u00c3\u00a4ge jeweils tun und dann kann ich das schnell glaub ausdrucken oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363895283288,
+      "content": "Kann ich ihn auch einmal morgen mitbringen und dann sollen das die Lehrer kopieren!?:* oder ich ziehst auf nen Stick und dann k\u00c3\u00b6nnen wir noch was dran bearbeiten...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363894862053,
+      "content": "Du ich hab kein Internet :/ das geht gerade bei uns daheim nicht kannst du den Zettel 30 mal ausdrucken ??? :* bitte das ist ganz wichtig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363886112309,
+      "content": "Danke:* ich Schick es dir dann!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363885997750,
+      "content": "tanja.zast@gmx.de ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363885457615,
+      "content": "willst du mir vllt deine email geben... auf facebook kann ich das iwie nicht schicken! oder ich frag cele nach deiner email wenns ok ist!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363885032386,
+      "content": "ich kann dir jetzt einfach mal den entwurf schicken und du sagst dann ob du es dir soo vorgestellt hast und wenn nicht dann mach ich es nochmal neu!:):*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363884952735,
+      "content": ":) ehm wie du magst vllt nur unterstreichen sonst nichts :* oder??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363884805869,
+      "content": "und soll ich da linien drauf machen oder denkst du das geht so?:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hannah Spiekermann",
+      "timestamp_ms": 1363884775407,
+      "content": "was genau soll ich den auf das blatt schreiben? einfach nur: unterschrieftenaktion f\u00c3\u00bcr den pausengong? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hannah Spiekermann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hannahspiekermann_erbmxqi95g",
+  "magic_words": [
+    
+  ]
+}

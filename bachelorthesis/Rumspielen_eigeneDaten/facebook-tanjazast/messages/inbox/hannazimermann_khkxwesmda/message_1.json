@@ -1,0 +1,1006 @@
+{
+  "participants": [
+    {
+      "name": "Hanna Zimermann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346668978300,
+      "content": "was f\u00c3\u00bcr einer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346668949312,
+      "content": "son typ ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346668933263,
+      "content": "\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346668932127,
+      "content": "wer is steph troy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346616463419,
+      "content": "^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346616458003,
+      "content": "klar sport geht immer und ich bin ja nur erk\u00c3\u00a4ltet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616416349,
+      "content": "und dann gehst auch noch joggen?? :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616403947,
+      "content": "oh -.- dass ist immer doof ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346616379235,
+      "content": "bin auch krank aber naja ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616354504,
+      "content": "ich wei\u00c3\u009f -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346616301206,
+      "content": "geil :) bei uns voll schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616236650,
+      "content": "ja voll :) gestern war nicht soo aber heute voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346616141753,
+      "content": "is bei euch gutes wetter ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346616125894,
+      "content": "ehm auf der terasse chillen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346615143579,
+      "content": "was macchst du grad so ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346615136076,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346615042135,
+      "content": ";) achso :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346614785204,
+      "content": "unten und musst noch was aufr\u00c3\u00a4umen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346614772687,
+      "content": "achso :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346614327951,
+      "content": "ich mein jetzt gerade ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346614305558,
+      "content": "2x in italien eimal in ostia, das is bei rom am meer, und rimini <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346614070470,
+      "content": ":* wo warst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346613957318,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346613732239,
+      "content": "nein sorry war nicht an dich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346613720865,
+      "content": ";) okay freut mich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346613706743,
+      "content": "oke versteh ich :D  bin f\u00c3\u00bcr ne zeit kurz weg :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346613369257,
+      "content": ";) wenn dann pers\u00c3\u00b6nlich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346613287297,
+      "content": "haha :D \nsehr nice :* dann leg los beim ersten urlaub oder willst dus mir wann anders erz\u00c3\u00a4hlen ? :) \nich war auch 2 mal in italien und in dem einen urlaub war partyurlaub mit ner freundin ..  aiaiaai , da gings auch ab :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346613227400,
+      "content": "jaaaaa ;) gerne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612763088,
+      "content": "ahaa :D erz\u00c3\u00a4hl ich will alle geschichten h\u00c3\u00b6rn vorallem die dreckigen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612744616,
+      "content": "echt nich ? oke bei mir wars bombe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346612679791,
+      "content": "oh da war viiiiieeeeel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346612673897,
+      "content": ":) nein eig nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612669098,
+      "content": "nich schlecht :) und was ging da so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612653484,
+      "content": "haha ;D du gehst ja ab wie ein schnitzel <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612641096,
+      "content": "ohaa <3 wo genau ? das hab ich auch mal gemacht  is richtig geil ne ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346612427289,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346612423021,
+      "content": "ehm erst 3 wochen mit ner sprachreise alleine in england :* und dann 1 tag in deutschland und dann 1 woche serbien und jetzt  noch ne woche kroatien +",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346612060046,
+      "content": "brauch ich einfach heute hab wieder nur stress zu hause aber durch den sport vergess ich das dann immer und ich war heut in step up. <3 alter der film is einfach nur hart geil ;D\noke und wo ? mit deiner familie? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611963718,
+      "content": "oh ;) sportlich ja bin ich aber davor war ich wo anders und so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346611930552,
+      "content": "hammer :D wo ? kroatien ? <3 wirst sch\u00c3\u00b6n braun ? \nbin wieder daheim seit ner woche und war grad joggen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611587394,
+      "content": "bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611583804,
+      "content": "ja ;) bin noch im urlaub und so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346611165377,
+      "content": "oke w\u00c3\u00a4re cool :) sonst auch alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346611142271,
+      "content": "ja mal schauen ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346611115287,
+      "content": "hast du zuf\u00c3\u00a4llig auch lust am 14.09. in donauturm zu kommen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1346611098002,
+      "content": "hey :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343501193040,
+      "content": "Okay dann sieht man sich :) tschau :** und viel Spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343501129936,
+      "content": "bei nem kumpel zocken :) deshalb geh ich jetz auch raus :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343501093003,
+      "content": ":) eig nichts.. Bei dir?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343500959250,
+      "content": "okey wenn du meinst ;) was geht bei dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343500943737,
+      "content": "Nein eig nicht :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343500907925,
+      "content": "oke strange <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343498810966,
+      "content": ":) keine ahnung :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343498515577,
+      "content": "s\u00c3\u00bc\u00c3\u009f ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343497010360,
+      "content": "Achso S\u00c3\u00bc\u00c3\u009f :",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343496806732,
+      "content": "von ner freundin ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343496784193,
+      "content": "Okay :) woher kennst du die? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343496318118,
+      "content": "kp nur so :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343496302570,
+      "content": "Warum?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343495827770,
+      "content": "aha okey :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343495804175,
+      "content": "David kenne ich weil ich dachte er sei daniel und daniel kenn ich dann von david und mit daniel hab ich auch schon mal was gemacht bevor er dann zum spanischlernen iwo hin gefahren isrt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343495606276,
+      "content": "nur so ich dachte :) oder woher kennst du den`?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343495574861,
+      "content": "Nein :) eig nicht warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343495358438,
+      "content": "na denn ;) biste jetz voll gut mit denen von bertha von suttner ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343495096120,
+      "content": "Doch klar :) der ist voll nett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343494906927,
+      "content": "okey, magst du den nich? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343486408895,
+      "content": "nein :) echt nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343486334401,
+      "content": "ich dachte nur weil ich gesehn hab das du den kennst und so kp ich dachte nur :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343486196698,
+      "content": "warum?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343486157991,
+      "content": "okey :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343470697493,
+      "content": "Neeeein!! :D echt nicht ;) <3 daniel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1343468619953,
+      "content": "hey <3 wer war nochmal der von der bertha von suttner auf den du standest ? nicht david grobecker oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316204026021,
+      "content": "kp was du jetzt machen willst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316203985700,
+      "content": "bei was :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316203976099,
+      "content": ":) okay :* <3 viel spa\u00c3\u009f!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316203959052,
+      "content": "ding ich geh ma raus ) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316203658690,
+      "content": "echt?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316203639648,
+      "content": "ich meins frei ernst man.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316203515831,
+      "content": ":) O.o schrecklich!! :d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316203496159,
+      "content": "ich wei\u00c3\u009f ;D aber alles aus langweile sag ich dir .D: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316203460374,
+      "content": ":) haha hast du probleme!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316202676884,
+      "content": "ich w\u00c3\u00bcrd jetz ja gern iwas trinken aber wir haben nur wein und ich hab grad kein bock ne ganze flasche wein zu saufen.allein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316202646718,
+      "content": "nein eben nich ich sag dir wenn ich heute nix mehr hinkrieg rast ich aus, weil in unterweiler kannsch nix gescheites machen.. :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316202569878,
+      "content": "oha sei froh!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316202507602,
+      "content": "ja, aber das nervt man, ich bin grad vol in partyystimmung :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316202446909,
+      "content": "weil ich net mehr darf kennsch eltern?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316202353835,
+      "content": "wieso ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316202252649,
+      "content": "ja aber das geht leider nemme :( :* <3 glaub ich dir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316202203019,
+      "content": "wieso ? komm einfach biite. mir is totlangweilig, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316201988448,
+      "content": "w\u00c3\u00bcrde ich aber ich bin voll am ende :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316201962594,
+      "content": "jo dann komm du ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316201859662,
+      "content": "<3 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316201856358,
+      "content": "ach mit den richtigen leuten ist das kein problem ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316201822924,
+      "content": "mir ios so laangweilig &/ ich will grad iwas erleben ,und in unterweiler is heut so ein oktoberfest, aber die feste in unterweiler sind einfach nie so richtig geil..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316201772657,
+      "content": "ich chatte und du?? :) hey <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316201750700,
+      "content": "& was amchst du grad so  ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1316201745478,
+      "content": "hey <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310221618303,
+      "content": "findest du ich kann mein jetztiges profilbild lassen?? :D ist das gut?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310221457743,
+      "content": "doch erst sp\u00c3\u00a4ter :D ich geh jetzt erst mal grillen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1310221430999,
+      "content": "bist du nicht bei donausommer? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309964732327,
+      "content": ":D okay die k\u00c3\u00b6nnen das nicht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309964655605,
+      "content": "frag deine eltern oder so weil ich muss jetz dich ,achn pr\u00c3\u00a4sentation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309964430996,
+      "content": "ja hab ich auch und so aber ich find da so viel wichtig und so :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309964385191,
+      "content": "also du musst als einleitungssatz halt immer schreiben.. ja das is ein artikel und wann der geschrieben wurde und von wem und wor\u00c3\u00bcber er geht..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309964288048,
+      "content": "jap ich weiss ich find das so schwer -.- ich kann so was agr nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309963852246,
+      "content": "hinten im buch stehen tipps dirn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309963843669,
+      "content": "ja aber ihc hab schon alle abgegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309963770618,
+      "content": "\u00c3\u00bcber so ne zeitung?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309963218580,
+      "content": "ja aber ich wei\u00c3\u009f nicht mehr welche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309962816368,
+      "content": "habt ihr mal in englisch solche zusammenfassungen schreiben m\u00c3\u00bcssen?? :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364882827,
+      "content": "<3 bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364865905,
+      "content": "b<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364828424,
+      "content": "okay <3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364790185,
+      "content": "ich juck dann mal .\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364592853,
+      "content": ":D jaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364450289,
+      "content": "is ja s\u00c3\u00bc\u00c3\u009f :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364434052,
+      "content": "jap :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364375347,
+      "content": ":) ich geh jetz gleich off.. aber wir sehn uns ja :) is linnea immer noch mit ding zusamen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364326571,
+      "content": "glaub ich dir :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364253291,
+      "content": "es war so hammer ! ich sags dir .\u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364229633,
+      "content": ":D solang das so war ist ja gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364192095,
+      "content": "es war eni geiler abend :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364178579,
+      "content": "schei\u00c3\u009fee..aber naja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364156719,
+      "content": "ja schon :( doof!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364134090,
+      "content": "ich vermiss ihn , weil es hat iwo die verabschiedung gefehlt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309364110223,
+      "content": "oh :( das ist schei\u00c3\u009fee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309364045278,
+      "content": "naj.a. weil ich ihn nur durch zufall kennengelernt hab & das war am mittwoch & ich hab ihn den rst der tage gesucht, aber niemand hat den gefunden der war halt tags\u00c3\u00bcber immer iwo arbeiten weil er war mitarbeiter aer wo wei\u00c3\u009f ich nich & am letzten tag hab ich ihn einfach ewig & \u00c3\u00bcberall gesucht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363926664,
+      "content": "oh egal .P .D und warum nur an einem??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363906788,
+      "content": "mit dem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363902075,
+      "content": ":D ich find der is so hammer, aber die schei\u00c3\u009fe is . ich denk von morgens bis abends nur an den . aber es is komisch weil ich halt nur an einem abend was hatte. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363830372,
+      "content": "ja passt :D ich find auch das er wie 23 aussieht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363807684,
+      "content": "wie findest du ? also ich find ihn hammer .\u00e2\u0099\u00a5 aber geschmackssache",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363791255,
+      "content": "ich find er sieht aus wie 23 ? :D aber er is 18.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363789663,
+      "content": "jap :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363771982,
+      "content": "hast du gefunden ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363751215,
+      "content": "wie alt ist der?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363600942,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363599601,
+      "content": "okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1309363577189,
+      "content": "also der hat freundschaftsanfrage noch nich best\u00c3\u00a4tigt. aber du musst auf : mahinth Alonso Markandu ( bei mir in der liste ) & dann bei dem seinen freunden : Hussein Gheidan (also nachnamen bin ich mir nich so sicher aber mit g f\u00c3\u00a4ngts an :) ) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309363199970,
+      "content": "wie hei\u00c3\u009ft der typ mit dem du was hattest?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hanna Zimermann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hannazimermann_khkxwesmda",
+  "magic_words": [
+    
+  ]
+}

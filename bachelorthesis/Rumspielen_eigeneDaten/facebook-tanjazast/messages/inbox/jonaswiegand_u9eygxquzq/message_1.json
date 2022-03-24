@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Wiegand"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonas Wiegand",
+      "timestamp_ms": 1499231321403,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Wiegand",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonaswiegand_u9eygxquzq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Diana Hanelotxomphou"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1285849723000,
+      "content": "hat dir meine Postkarte gefallen???\n\nund meine Handynummer:  016091874938\nich hab deine ja auch...",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Diana Hanelotxomphou",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dianahanelotxomphou_wbclnbcqsa",
+  "magic_words": [
+    
+  ]
+}

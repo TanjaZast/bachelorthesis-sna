@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Marina"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarah Marina",
+      "timestamp_ms": 1286899616000,
+      "content": "nein, bin ich nicht..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1286862035000,
+      "content": "also ich glaub du bist die schwester von jannik....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sarah Marina",
+      "timestamp_ms": 1286470993000,
+      "content": "Hey, wer bist du?\nWeil du hast mir ne Freundschaftsanfrage geschickt.. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sarah Marina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sarahmarina_cllxed0wiw",
+  "magic_words": [
+    
+  ]
+}

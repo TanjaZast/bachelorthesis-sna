@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sabah Dernekci"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367952773393,
+      "content": "Warum? ; 0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sabah Dernekci",
+      "timestamp_ms": 1367921683741,
+      "content": "hi ich gr\u00c3\u00bc\u00c3\u009fe dich darf ich dir ein freundschaftsanfrage dir zuschicken.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sabah Dernekci",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sabahdernekci_wymyamxd1w",
+  "magic_words": [
+    
+  ]
+}

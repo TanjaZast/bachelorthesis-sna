@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333117686255,
+      "content": "Hast du abgestimmt was dir lieber ist?? Am bodensee dann ein mal zu \u00c3\u00bcbernachten und daf\u00c3\u00bcr in ner jugendherberge zu schlafen oder 2 mal aber daf\u00c3\u00bcr auf nem campingplatz im zelt?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317066357970,
+      "content": "Naja aber jetzt ist gut (:\r\nEr macht so was nicht von sich aus!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317061451313,
+      "content": "ich wusste auch nich wie ichs sagen soll...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317061393227,
+      "content": "naja weil andere es mir net sagen w\u00c3\u00bcrden um mich net zu verletzen oder so :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317061343801,
+      "content": "haha wieso WENIGSTENS ich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317061330581,
+      "content": "nee ist er net!!! du hast den test bestanden!! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317061252954,
+      "content": "alter ich dachte grade dein typ w\u00c3\u00a4r voll der arsch! :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317061180293,
+      "content": "was okay?? naja ich wolllte halt mal schauen wie du reagierst und ob wenigstens du so ne freundin bist dies mir dann sagt -.- naja bist du ja auch :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317061112429,
+      "content": "was geht da grade?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317061105598,
+      "content": "ehm ok...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317061088004,
+      "content": "sorry was der dir gerade geschrieben hat meinte er net so!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317060929373,
+      "content": "ich cam mit dem xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317060917023,
+      "content": "schreibst du grade mit dem?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317060893505,
+      "content": "und??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317060886517,
+      "content": "..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317060885568,
+      "content": "hey dein typ hat mich grade angeschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317060836931,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1317060828722,
+      "content": "heey:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317060815967,
+      "content": "hey :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_uz3ka2b23a",
+  "magic_words": [
+    
+  ]
+}

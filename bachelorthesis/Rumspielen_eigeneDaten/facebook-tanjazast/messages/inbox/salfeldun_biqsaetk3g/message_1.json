@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Salfel Dun"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Salfel Dun",
+      "timestamp_ms": 1403526927543,
+      "content": "ja nein???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Salfel Dun",
+      "timestamp_ms": 1403347685738,
+      "content": "hmmm hey eh kennen wir uns?\nseit wann sind wir freunde?\nund kommst du aus ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Salfel Dun",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/salfeldun_biqsaetk3g",
+  "magic_words": [
+    
+  ]
+}

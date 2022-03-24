@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Jelena Radovanovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332440032,
+      "content": "cao :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332410229,
+      "content": "caooooo idem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332402566,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332399364,
+      "content": "dobro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332387058,
+      "content": "gleda tv :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332354763,
+      "content": "sta radi Liza",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332337150,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332333149,
+      "content": "dobro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332303301,
+      "content": "ne mi nismo skoro nikad bili u cacku samu u meduvrsje i sad un germany :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332262252,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332260269,
+      "content": "jeste li  u cacku",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332246035,
+      "content": "nista",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332215706,
+      "content": "evo sad idem da se istusiram i tako a ti?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315332155124,
+      "content": "sta radis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315331926067,
+      "content": "cao :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315331876863,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Radovanovic",
+      "timestamp_ms": 1315331873431,
+      "content": "caoo",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jelena Radovanovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jelenaradovanovic_i4h1jzdj3g",
+  "magic_words": [
+    
+  ]
+}

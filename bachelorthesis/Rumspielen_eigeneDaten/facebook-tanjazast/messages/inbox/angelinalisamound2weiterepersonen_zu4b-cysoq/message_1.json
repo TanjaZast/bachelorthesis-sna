@@ -1,0 +1,295 @@
+{
+  "participants": [
+    {
+      "name": "Angelina Scott Pilgrim"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349979649028,
+      "content": "ja wann willst es dann machen weil ich sollt des schon langsam wissen ob ich daf\u00c3\u00bcr geld baruch oder nicht. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1349979624430,
+      "content": "Haha, ich bin jetzt auch anwesend.. Ich w\u00c3\u00bcrde erst sp\u00c3\u00a4ter gehen, weil sonst ist er so genrrvt von uns.. Ich w\u00c3\u00a4r' f\u00c3\u00bcr nach den ferien :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349979595628,
+      "content": "Ehm ja aber da ist nicht so gut wenn wir bei der wlaz zu sp\u00c3\u00a4t kommen...!? Wir schaffen es doch eh nicht allen recht zu machen.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349979452465,
+      "content": "Mo Ne hat Lisa Je zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Lisa Je"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349978258024,
+      "content": "perfekt bis dann :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349978150653,
+      "content": "Ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349978106924,
+      "content": "okay dann treffen wir uns da vorm rektorat? die wos wissen k\u00c3\u00b6nnens ja den anderen weiter sagen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349978057710,
+      "content": "Muesste gehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349978007711,
+      "content": "okay hast recht also ende gro\u00c3\u009fe pause?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349977978997,
+      "content": "Nicht in der 10 min pause bitte.. Ich hab' danach die f\u00c3\u00bcller und davor muss ich eine rauchen sonst krieg ich echte mordgel\u00c3\u00bcste bei dem weib. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349977927837,
+      "content": "ja :) also wie siehts aus? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349977823577,
+      "content": "Stimmt !! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349977814982,
+      "content": "Achso xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349977800297,
+      "content": "passt schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349977794923,
+      "content": "ja alle wirtschaftsleute sind bei der ;) weil lisa meine freundschaftsanfrage nicht annimmt und ich ihr deswegen die nachricht net schicken kann und rebekka will ja net mit nach berlin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349977771619,
+      "content": "Verfluchtes autocorrect. XD *reli und *eig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349977725118,
+      "content": "Habrn wir echt alle telo bei frau walz? Wieso ist lisa eog nicht in dem chat und rebekka?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349977557305,
+      "content": "okay dann in reli weil wir w\u00c3\u00a4ren ja alle bei fr. walz oder 10 min pause nach der 4. oder gibts sonst noch ne m\u00c3\u00b6glichkeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349977486405,
+      "content": "Wann? In der ersten gro\u00c3\u009fen pause kann ich nicht weil ich da sp\u00c3\u00a4ter kommen w\u00c3\u00bcrde :0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349977184330,
+      "content": "okay und wann? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349977050527,
+      "content": "Kp.. Morgen vll..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349976872585,
+      "content": "vorschl\u00c3\u00a4ge wann wir ihn fragen sonst wird des nie was? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349899486456,
+      "content": "XD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349899468917,
+      "content": "mir ists au egal war nur n vorschlag..;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1349899364729,
+      "content": "mir egal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349899361638,
+      "content": "Eieso immrr mrine raucherpause opfern fuer den spasten?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349899315414,
+      "content": "okay morgen oder freitag gro\u00c3\u009fe pause? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349884964285,
+      "content": "Okay dann schreib ich auch mal ich auch hier hin ;) :* ach Kirsten!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1349884870027,
+      "content": "ich auch!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349884854412,
+      "content": "Echt so. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1349884847317,
+      "content": "also, ich w\u00c3\u00bcrde auch nochmal zum Jucker gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1349884837289,
+      "content": "s\u00c3\u00bc\u00c3\u009f :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349884826671,
+      "content": "Haha Kirsten! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1349884812210,
+      "content": "haha, ich wollt den \"smily\" schon immer mal machen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1349884797255,
+      "content": "(y) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angelina Scott Pilgrim",
+      "timestamp_ms": 1349884782885,
+      "content": "W\u00c3\u00bcrd' ich auch sagen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1349874571432,
+      "content": "hey :* wir sollten vllt nochmal zu herr jucker wegen berlin? \n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Angelina, Lisa, Mo und 2 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/angelinalisamound2weiterepersonen_zu4b-cysoq",
+  "magic_words": [
+    
+  ]
+}

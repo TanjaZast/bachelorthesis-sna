@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Borho"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonas Borho",
+      "timestamp_ms": 1560271069421,
+      "content": "Alles Gute zum Geburtstag\u00e2\u009c\u008c\u00ef\u00b8\u008f\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Borho",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonasborho_zjrwqvjf2q",
+  "magic_words": [
+    
+  ]
+}

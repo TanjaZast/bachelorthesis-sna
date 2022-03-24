@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ami Go"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ami Go",
+      "timestamp_ms": 1502613169265,
+      "content": "Hey\u00e2\u0098\u00ba\u00ef\u00b8\u008f\nSch\u00c3\u00b6ne Photos, deine Ausstrahlung..\u00f0\u009f\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ami Go",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/amigo_ovrp3fhazg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Max Altergott"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469019168902,
+      "content": "Hahaha gut dass ich die Nachricht erst jetzt gesehen habe \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469019145040,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Altergott",
+      "timestamp_ms": 1448759775791,
+      "content": "Lidia musste spucken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Altergott",
+      "timestamp_ms": 1448759760275,
+      "content": "M\u00c3\u00bcller Passage",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Altergott",
+      "timestamp_ms": 1448759756329,
+      "content": "Hey wir sind an der list",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Max Altergott",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maxaltergott_x3r50f19na",
+  "magic_words": [
+    
+  ]
+}

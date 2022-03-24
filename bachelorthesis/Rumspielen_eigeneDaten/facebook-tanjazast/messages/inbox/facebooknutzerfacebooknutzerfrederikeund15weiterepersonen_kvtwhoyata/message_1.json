@@ -1,0 +1,257 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Frederike Leona"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Hanna Zimermann"
+    },
+    {
+      "name": "Caroline Rieker"
+    },
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Lea Swensson"
+    },
+    {
+      "name": "Stefanie Charlotte"
+    },
+    {
+      "name": "Tanja Schraivogel"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Johannes M\u00c3\u00bcller"
+    },
+    {
+      "name": "Philipp Lindermeir"
+    },
+    {
+      "name": "Nagyill\u00c3\u00a9s Martin"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Carmen Frey"
+    },
+    {
+      "name": "Maddin S'wirdscho"
+    },
+    {
+      "name": "Annika Eiinfaach So"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1406600607132,
+      "content": "Madeleine Merz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Madeleine Merz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bernadett Bond\u00c3\u00a1r",
+      "timestamp_ms": 1406294619478,
+      "content": "Bernadett Bond\u00c3\u00a1r hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Bernadett Bond\u00c3\u00a1r"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1400778530484,
+      "content": "Julia Kosta hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Julia Kosta"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annika Buchwald",
+      "timestamp_ms": 1400739283249,
+      "content": "Annika Buchwald hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Annika Buchwald"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "D\u00c3\u00b3ra Gila",
+      "timestamp_ms": 1400704445314,
+      "content": "D\u00c3\u00b3ra Gila hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "D\u00c3\u00b3ra Gila"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Wi",
+      "timestamp_ms": 1400704197038,
+      "content": "Stefan Wi hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Stefan Wi"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Adelmann",
+      "timestamp_ms": 1400697084918,
+      "content": "Julia Adelmann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Julia Adelmann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ina Kl",
+      "timestamp_ms": 1400696430548,
+      "content": "Ina Kl hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ina Kl"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yalin Korukoglu",
+      "timestamp_ms": 1400695570116,
+      "content": "Yalin Korukoglu hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Yalin Korukoglu"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Larissa Victoria",
+      "timestamp_ms": 1400695155815,
+      "content": "Larissa Victoria hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Larissa Victoria"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1400694612651,
+      "content": "Nina Brandt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nina Brandt"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Walter",
+      "timestamp_ms": 1400693768445,
+      "content": "Fabian Walter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Fabian Walter"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Krn Nivek",
+      "timestamp_ms": 1400693498497,
+      "content": "Krn Nivek hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Krn Nivek"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Petra Kiss",
+      "timestamp_ms": 1400693488339,
+      "content": "Petra Kiss hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Petra Kiss"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Krisztii Szab\u00c3\u00b3",
+      "timestamp_ms": 1400693476815,
+      "content": "Krisztii Szab\u00c3\u00b3 hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Krisztii Szab\u00c3\u00b3"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1400693459567,
+      "content": "Wow, schauen Sie her, habe gerade meins erhalten! http://t.co/KKUbc1jCyw",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Facebook-Nutzer, Frederike und 15 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerfacebooknutzerfrederikeund15weiterepersonen_kvtwhoyata",
+  "magic_words": [
+    
+  ]
+}

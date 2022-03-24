@@ -1,0 +1,376 @@
+{
+  "participants": [
+    {
+      "name": "Bene Pfisterer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353594839361,
+      "content": "jaha ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353533379406,
+      "content": "Achso na dann ;) haha ist es bestimmt gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353533243910,
+      "content": "ne da ist es eigentlich schon immer chillig wenn viel leute da sind ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353533150258,
+      "content": "Oh was neues ;) ne Spa\u00c3\u009f wird das nicht langweilig nach ner Zeit? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353532440839,
+      "content": "ich wei\u00c3\u009f noch nicht wahrscheinlich geh ich in den jugendraum ;)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353531150173,
+      "content": "Du?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353530385583,
+      "content": "aso ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353530295972,
+      "content": "Ehm Samstag bin ich kaputt weil ich den ganzen Tag in Ulm bin und Sonntag bekomme ich den ganzen Tag besuch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353529951967,
+      "content": "ok was geht bei dir dieses wochenende ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353529584125,
+      "content": "Ich wei\u00c3\u009f doch ;) aber die letzten male schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353529527958,
+      "content": "ja mahatma ist eh nie so gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353529426429,
+      "content": "Schlecht :D!! Nichts los und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353528513968,
+      "content": "und wie wars ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353513787092,
+      "content": "Okay sehr gut ;) und ich war da im Mahatma :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353508098159,
+      "content": "mach nichts ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353499252242,
+      "content": "Oh mist sorry habs voll verpeilt gehabt :o!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353168402055,
+      "content": "und was geht dann heut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353015057755,
+      "content": "Hmm ja mal schauen bi dahin ist ja noch etwas Zeit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353013300864,
+      "content": "mir ist es egal wir k\u00c3\u00b6nnen auch ins mahatma gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353013161618,
+      "content": "Samstag geht auch was in Mahatma ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1353011606022,
+      "content": "ich wei\u00c3\u009f noch nicht wer alles mitkommt \nich kann ja mal rene oder so fragen wenn du willst ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352993873813,
+      "content": "Ich wei\u00c3\u009f halt noch nicht bis wann wir am Samstag Training haben und ob wir als Gruppe schon was trinken gehn ;) wer w\u00c3\u00bcrde alles mitkommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352992059740,
+      "content": "also wenn du willst k\u00c3\u00b6nnen wir am samstag in eine bar gehen ins chillys oder so ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352655470291,
+      "content": "ja mach ich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352655404251,
+      "content": "Okay machen  wir ;) meldest dich??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352655350922,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352655340897,
+      "content": "reden wir dann nochmla in der laufe der woche ,)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352655248743,
+      "content": "Was ich m\u00c3\u00b6chte ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352654971246,
+      "content": "wie du hast keine Ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352654920250,
+      "content": "Hmm hab keine Ahnung ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352654196110,
+      "content": "ja ok sagst galt bescheid ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352654143176,
+      "content": "Hmm keine Ahnung ;) ich bin da spontan ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352654045498,
+      "content": "vllt in jura gehen oder so oder nach ulm gehen in ne bar ;) wie du willst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352653972756,
+      "content": "Was denn?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352653377190,
+      "content": "hast du lust da dann was zu machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352653349632,
+      "content": "Heei ;) :* ehm au\u00c3\u009fer Training noch nichts warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352653209637,
+      "content": "was geht bei dir n\u00c3\u00a4chstes wochenende",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1352653164787,
+      "content": "heii ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351117560010,
+      "content": "ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351111406999,
+      "content": "Sorry war nicht am Handy meine Freundin hat was von mit gewollt :o gehst du diese Woche noch mal was trinken?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351098205409,
+      "content": "und ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351093027522,
+      "content": "Kp ich denk mal so um halb acht oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351092805664,
+      "content": "Sag ich dir in ner haben Stunde :) wann w\u00c3\u00bcrdest du/ ihr dann gehn??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351092709174,
+      "content": "Kommst dann mit oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351092586405,
+      "content": "Okay :) auch gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351092544831,
+      "content": "Ka vllt cocktails trinken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351091947343,
+      "content": "Achso der hei\u00c3\u009ft so ;) ups ;) haha was geht da heute?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351091881472,
+      "content": "Des ist der jugendraum an der halle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351090687448,
+      "content": "Heei was ist das?? ;) oder wo ist das? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351089830300,
+      "content": "kommst dann heute mit in jura",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Bene Pfisterer",
+      "timestamp_ms": 1351089821962,
+      "content": "hei ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Bene Pfisterer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/benepfisterer_uxgxixooza",
+  "magic_words": [
+    
+  ]
+}

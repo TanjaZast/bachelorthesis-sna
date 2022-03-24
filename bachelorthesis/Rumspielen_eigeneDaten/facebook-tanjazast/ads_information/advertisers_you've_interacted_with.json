@@ -1,0 +1,39 @@
+{
+  "history_v2": [
+    {
+      "title": "{{product.name}}",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1635066923
+    },
+    {
+      "title": "Jetzt HipHop tanzen lernen",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1634909704
+    },
+    {
+      "title": "{{product.name}}",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1633174902
+    },
+    {
+      "title": "Startseite: FRISCH AUF!",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1632643991
+    },
+    {
+      "title": "{{product.name}}",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1632391255
+    },
+    {
+      "title": "Verdammt guter Hummus",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1631988118
+    },
+    {
+      "title": "{{product.name}}",
+      "action": "Klick auf Werbeanzeige",
+      "timestamp": 1631262819
+    }
+  ]
+}

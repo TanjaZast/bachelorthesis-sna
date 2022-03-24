@@ -1,0 +1,299 @@
+{
+  "participants": [
+    {
+      "name": "Christian Teske"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1406611846953,
+      "content": "Dann lass uns n\u00c3\u00a4chste Woche machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406590075534,
+      "content": "Diese Woche ist Mega schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1406551810127,
+      "content": "Wann kannst denn die woche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406550705132,
+      "content": "Leider nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1406539351029,
+      "content": "? :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1406522461742,
+      "content": "Auch sehr gut morgen abend zeit f\u00c3\u00bcr ein date?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406517235127,
+      "content": "Gut und dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1406471705315,
+      "content": "Hey :-) wie geht's dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405967211815,
+      "content": "Wei\u00c3\u009f noch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405965470788,
+      "content": "Und wie schaut aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405890114335,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405870326562,
+      "content": "Ok :-). Also sagst morgen  dann ob es passt ja?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405870088591,
+      "content": ":) was wieso nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405868129033,
+      "content": "Wieso haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405867862809,
+      "content": "Was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405851761829,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405851706537,
+      "content": ":) haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405791126447,
+      "content": "Sch\u00c3\u00b6n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405790606412,
+      "content": "Jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405790552720,
+      "content": "Aber mein Vorschlag is ok? :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405790515070,
+      "content": "Sp\u00c3\u00a4ter :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405790177591,
+      "content": "W\u00c3\u00bcrde dich zum essen und kino ausf\u00c3\u00bchren :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405790164274,
+      "content": "Ja das passt. Soll.ich dir mal meine Nummer geben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405790145988,
+      "content": "Montag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405790136721,
+      "content": "Bis wann sagst es mir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405790108492,
+      "content": ":) kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405789889654,
+      "content": "Also klappt das ja?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405789875614,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405789873494,
+      "content": ":) oka",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405789846262,
+      "content": "Dienstag w\u00c3\u00a4re halt echt perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405789809550,
+      "content": ":) Achso stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405789725224,
+      "content": "Dienstag oder Mittwoch abend?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405789700964,
+      "content": ":) wann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405788916734,
+      "content": "Wollt nur wissen ob unser date steht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405787625054,
+      "content": "H\u00c3\u00a4 was ist?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405761770763,
+      "content": "Oder magst net mehr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405735692941,
+      "content": "Doch ;-). Also steht unser date dann Dienstag oder mittwoch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405714835721,
+      "content": "Nein :\u00e2\u0082\u00ac!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405709399667,
+      "content": "Wow wie gesagt wundersch\u00c3\u00b6n ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Teske",
+      "timestamp_ms": 1405709117162,
+      "content": "Hey Sch\u00c3\u00b6ne frau :-)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Christian Teske",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/christianteske_h4yaekimvq",
+  "magic_words": [
+    
+  ]
+}

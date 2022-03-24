@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Jozo Mrkva"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348348375230,
+      "content": "ajd videt cmo se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348348030744,
+      "content": "vide cu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347812475,
+      "content": "et super kad do\u00c4\u0091es mozemo se upoznat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348347663869,
+      "content": "pa po nekad...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347649553,
+      "content": "jel ti dolazis u sl.brod",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348347570168,
+      "content": "ko si ti?? e se znamo??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347553598,
+      "content": "<3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347547132,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347543525,
+      "content": "jednom rukom mislim na tebe a drugom tipisem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347523615,
+      "content": "odlicno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348347510670,
+      "content": ";) dobro a ti??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348347481830,
+      "content": "pa sta imasta nema,,kako si ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348347015266,
+      "content": "?? Ee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jozo Mrkva",
+      "timestamp_ms": 1348346548195,
+      "content": "eeee",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jozo Mrkva",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jozomrkva_fqrvls4qia",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588526399360,
+      "content": "whats app meinte Sarah?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588526392144,
+      "content": "hoffe es klappt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588526386504,
+      "content": "handy geht gerade wieder an aber irgendwie spinnt das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1588526367874,
+      "content": "Wie pass es dir dann? Handy geht noch immer nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1588526234059,
+      "content": "Ein Messenger-Nutzer hat deinen Videochat verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588525945832,
+      "content": "Facetime/Skype ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588525937295,
+      "content": "wie macht ihrs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588525931859,
+      "content": "mein Handy l\u00c3\u00a4dt gerade komischerweise ned",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1588525916998,
+      "content": "Heyhey, seid ihr schon im Call?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576924310058,
+      "content": "So genau bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576917590392,
+      "content": "Sorry bin Joggen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576917577136,
+      "content": "Klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576914001303,
+      "content": "Guten Morgen , Steht noch alles ? Sarah geht\u00e2\u0080\u0099s gut ? Dann mach ich mich sp\u00c3\u00a4ter auf\u00e2\u0080\u0099n weg zum Bahnhof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576784121860,
+      "content": "ich nehm den der um 10:38 ankommt der andere ist dann zu sp\u00c3\u00a4t . Ich w\u00c3\u00bcrd dann zum Caf\u00c3\u00a9 laufen \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576783156382,
+      "content": "Ich bin auch ganz sch\u00c3\u00b6n im Stress ! Kann ich sehr gut nachvollziehen und nimm dir das nicht b\u00c3\u00b6se \u00f0\u009f\u0098\u0098 ich freu mich riesig . Suche nachher den Zug raus und meld mich dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782864016,
+      "content": "Samstag klappt also",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782860465,
+      "content": "Gerne doch \u00f0\u009f\u0098\u009a schreibe nur so komisch/genervt weil ich mega im Stress bin aber liegt nicht an dir.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782833175,
+      "content": "11:30 Uhr ist reserviert. Caf\u00c3\u00a9 Einstein in Ulm. Vielleicht k\u00c3\u00b6nnen wir dich iwie am Bahnhof abholen. Wann genau w\u00c3\u00a4rst du da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576782514305,
+      "content": "Okay super ! Danke Tanja !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782471192,
+      "content": "Ich kl\u00c3\u00a4re es nur mit den M\u00c3\u00a4dels ab falls 11:30 dort auch passt reserviere ich sonst gehen wir ins choclet in Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576782437821,
+      "content": "Alles gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576782428821,
+      "content": "Ja \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782281730,
+      "content": "Ist anscheinend alles voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782277245,
+      "content": "Glaub da f\u00c3\u00a4hrt ja auch was oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576782269529,
+      "content": "W\u00c3\u00a4re 11:30 f\u00c3\u00bcr dich ok?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576782149960,
+      "content": "Also von mir aus klappt es um 10:30",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576782128754,
+      "content": "Okay dann machen wir es um 10:30 ! Ich f\u00c3\u00a4nds auch super schade wenn es nicht klappt ! Aber ich mag halt auch ned dass ihr deswegen jetzt alle n Stress habt !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576779451453,
+      "content": "Es w\u00c3\u00a4re halt echt etwas doof. Wir machen es wegen dir vormittags und wir werden Sarah selten nochmals f\u00c3\u00bcr uns haben \u00e2\u0098\u00b9\u00ef\u00b8\u008f\u00f0\u009f\u0098\u00ad ich will es nicht ausfallen lassen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576779404937,
+      "content": "Sag einfach ob es klappt oder nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576779399324,
+      "content": "Ne f\u00c3\u00bcr uns w\u00c3\u00a4re es nicht stressig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576779306928,
+      "content": "Ne dann lassen wir es glaub eh ganz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576776618032,
+      "content": "hey Tanja, macht es so wie urspr\u00c3\u00bcnglich geplant in Biberach ! Ich glaube sonst ist es f\u00c3\u00bcr alle super stressig , das mag i Au ned ! \u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0098 ich bin euch da nicht b\u00c3\u00b6se !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576776407378,
+      "type": "Generic",
+      "is_unsent": true
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576771098977,
+      "content": "Also falls es nicht fr\u00c3\u00bcher geht passt es schon. Ich muss am Samstag vielleicht doch noch arbeiten daher w\u00c3\u00a4re mir halb 10 auch etwas lieber aber sonst halb 11",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576771063415,
+      "photos": [
+        {
+          "uri": "messages/inbox/x630ud1umq/photos/80701347_800102777070123_5332265051183120384_n_800102733736794.jpg",
+          "creation_timestamp": 1576771061
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576769296942,
+      "content": "Okay, kannst du mir bitte heute noch Bescheid geben wegen reservieren? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576768729605,
+      "content": "ich kl\u00c3\u00a4rs mal mitm Stefan ab. Haben am  Tag vorher noch n Weihnachtsfeier \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u00ac meld mich \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576768073824,
+      "content": "Da gibt es ja einen Zug um 08:35 oder? \u00f0\u009f\u00a4\u0094\u00f0\u009f\u0098\u009a ich wei\u00c3\u009f, mega fr\u00c3\u00bch aber f\u00c3\u00bcr Mona und mich w\u00c3\u00a4re das angenehmer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576767402233,
+      "content": "Geht es fr\u00c3\u00bcher bitte? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576763179399,
+      "content": "10:30 ? das w\u00c3\u00a4re perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576759719601,
+      "content": "Wann k\u00c3\u00b6nntest du dort sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576759710396,
+      "content": "Ulm passt \u00f0\u009f\u0099\u0082!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576755422210,
+      "content": "perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576755373368,
+      "content": "Ich melde mich \u00f0\u009f\u0099\u0082! Schreibe mit dem Rest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576754971707,
+      "content": "ja vor Weihnachten ist immer n richtiger Stress\u00f0\u009f\u0098\u0082das stimmt auch wieder! Also wie gesagt w\u00c3\u00bcrde mich rie\u00c3\u009fig freuen euch wieder zu sehen, aber wenns zu kompliziert wird dann ist es so (;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576754182011,
+      "content": "Aber wir bekommen das hin. Sarah wird glaub nie wieder so spontan sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576754163096,
+      "content": "Ist ja kein Stress :) falls es keinen passt dann lassen wir es und verschieben es aufs neue Jahr \u00f0\u009f\u0098\u0085 bei mir ist gerade auch Landunter und wei\u00c3\u009f langsam nicht mehr wann was ansteht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753736189,
+      "content": "aber machts euch keinen Stress. Wir schaffen es irgendwann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753715183,
+      "content": "danke dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753708342,
+      "content": "Bekomme wir hin! Ich melde mich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753701351,
+      "content": "ich glaube dann muss ich euch leider absagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753642069,
+      "content": "meine eltern brauchen an dem Tag selber ihr Auto, deswegen hab ich nur die M\u00c3\u00b6glichkeit zug",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753489540,
+      "content": "biberach w\u00c3\u00a4ren 2:30h fahrt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753480563,
+      "content": "verdammt ja. ich hab leider kein Auto \u00f0\u009f\u0098\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753440337,
+      "content": "Und Sarah ist halt hoch schwanger \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753428024,
+      "content": "Wir m\u00c3\u00bcssen halt Sarah fahren deshalb ist Ulm doof weil Mona dann sie holen muss und alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753372314,
+      "content": "Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753370529,
+      "content": "9:30 Uhr? Auch okay f\u00c3\u00bcr zinc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753144967,
+      "content": "w\u00c3\u00bcrde ulm auch gehen ? Biberach w\u00c3\u00a4re mitm Zug sehr schwierig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576753059915,
+      "content": "okay dann schaue ich mal wie ich da am besten hinkomme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576753015309,
+      "content": "Sieht momentan ganz nach Biberach aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576752937978,
+      "content": "Weil ich mitm Zug fahre \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576752923603,
+      "content": "Und wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576752917064,
+      "content": "fahre von Kempten los (;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576752904328,
+      "content": "wann ca?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576752864261,
+      "content": "Wir w\u00c3\u00bcrden dann fr\u00c3\u00bchst\u00c3\u00bccken gehen? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576497510370,
+      "content": "danke dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1576495717712,
+      "content": "Huhu :) alles klar. Schicke mal deine Nachricht in die Gruppe und halte dich auf dem laufenden :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1576494578922,
+      "content": "Hey hey, alles klar ? Wie gehts dir? Habe gerade leider kein Handy. Deswegen schreibe ich dir hier (; Habt ihr schon was wegen Sasmtag ausgemacht. Ich muss bereits um 17 Uhr auf einer Weihnachtsfeier in Memmingen sein. Richtig bl\u00c3\u00b6d, dass das zusammen f\u00c3\u00a4llt. Wann habt ihr Zeit? W\u00c3\u00bcrde euch total gerne sehen !!! Vllt klappts ja schon gegen Vormittag/Mittag ??? Bringe gerne etwas zum essen/snakcen mit",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/x630ud1umq",
+  "magic_words": [
+    
+  ]
+}

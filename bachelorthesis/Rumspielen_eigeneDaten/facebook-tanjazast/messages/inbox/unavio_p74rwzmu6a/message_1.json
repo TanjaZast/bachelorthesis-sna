@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Una Vio"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Una Vio",
+      "timestamp_ms": 1352235606496,
+      "content": "jaman :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352235571311,
+      "content": "Wie ich es wusste!! ;) haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Una Vio",
+      "timestamp_ms": 1352235301884,
+      "content": "ja hat er auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352235267483,
+      "content": "Hei wetten dieser leveau hat dein profil geheckt !? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Una Vio",
+      "timestamp_ms": 1304108257000,
+      "content": "jah (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304108057000,
+      "content": "Das kommt bestimmt alles noch :)) aber gut dass es ihre Eltern erlaubt haben <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Una Vio",
+      "timestamp_ms": 1304107872000,
+      "content": "sie machts ;) obwohl sie i.wie kein bock hat :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304107834000,
+      "content": "Was ist jetzt eig mit Marie?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Una Vio",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/unavio_p74rwzmu6a",
+  "magic_words": [
+    
+  ]
+}

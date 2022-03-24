@@ -1,0 +1,411 @@
+{
+  "participants": [
+    {
+      "name": "Oliver Schick"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1410581242235,
+      "content": "Danke f\u00c3\u00bcr's fahren. Hat mich gefreut zu sehen dass es dir gut geht \u00f3\u00be\u008c\u00b8 Wir sehen uns die n\u00c3\u00a4chsten Wochen mal! Melde sich einfach auf whatsapp \u00f3\u00be\u008c\u00b5 Gute Nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1410577643065,
+      "content": "017632801371",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318787030811,
+      "content": "Achsoo okay ;D danke ich auch net :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1318786848210,
+      "content": "Ne ich bin bei meinem Dad. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318780951809,
+      "content": "Schau mal auf dein aldi handy!! :) gehst du heute jugendkirche? (: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316636377016,
+      "content": "H\u00c3\u00a4 was geschafft?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633780116,
+      "content": "geschaft :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633769589,
+      "content": "schei\u00c3\u009fe ich packs nicht mehr ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633753803,
+      "content": ",9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633747638,
+      "content": "ciao ;)+",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633740505,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316633499910,
+      "content": "gut :) haha du oli muss off :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633438597,
+      "content": "wie l\u00c3\u00a4ufts mit andrew?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316633250862,
+      "content": "haha oaky ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316633122241,
+      "content": "achsoo okay :) :P wie dumm halt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316633105125,
+      "content": "training und HAUSAUFGABEN obwohl wir keine haben... offiziell :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316633017431,
+      "content": "du?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316633014988,
+      "content": "gelernt und bei meiner oma ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316632898993,
+      "content": "Assi!! :D Was hast du dann den ganzen Tag gemacht?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316632805153,
+      "content": "achsoo :) stimmt habs gesehn ne nur weil lehrer fehlen xD und morgen zur 3. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316632742127,
+      "content": "geil hast du immer so fr\u00c3\u00bch?? weil bei uns der platz neu einges\u00c3\u00a4ht wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316632685003,
+      "content": "warum bei portugiesen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316632672627,
+      "content": "um 11.15 :) du?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316632110556,
+      "content": "Gut wir trainieren jetzt bei den Portugiesen. Wann hattest heut aus??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316632036673,
+      "content": "und wie wars??\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316631984951,
+      "content": " war gerade im training :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316631946969,
+      "content": "mir gehts gut und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316631927285,
+      "content": "gehts :D :D mein ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316631924762,
+      "content": "nicht viel und bei dir?? servus ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1316631913497,
+      "content": "sers was geht?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311710910147,
+      "content": "mach du aber ich sag der das es langsam reicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710781580,
+      "content": "soll ich morgen fragen oder macht die des?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311710720932,
+      "content": "ja okay ich weis.... langsam nervt es :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710579564,
+      "content": "aber ich find die sollte vllt  selber fragen aber ich kanns schon machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710548043,
+      "content": "jap dann sag ich des morgen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311710353050,
+      "content": "okay sie hat sie nemme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710299996,
+      "content": "Du hast die doch. Aber egal ich sags ihm morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311710248214,
+      "content": "ja aber woher die nummer?? er soll sie ihr \u00c3\u00bcber fb geben oder so!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710198991,
+      "content": "Telefon kennsch? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311710172205,
+      "content": "wie denn?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311710095699,
+      "content": "Ja ich geh. Warum ruft Julia nicht an?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311709966835,
+      "content": "ja sagen son tip von junge zu junge!!?? der soll die dann nach der nummer fragen oder so ?? lukas fr\u00c3\u00a4gt gerade ob du zeltlager gehst!!?? ich hab ja gesagt?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311709899831,
+      "content": "was soll ich da machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311709864247,
+      "content": "lukas julia :D??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311709815829,
+      "content": "Wen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311709796681,
+      "content": "beim anschreiben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1311709741988,
+      "content": "Bei was brauchst du noch Hilfe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1309893225290,
+      "content": "naja ich muss jetzt two and a hlaf men anschauen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309892995900,
+      "content": ":D lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1309892953849,
+      "content": "Ja die sind mir aber zu gro\u00c3\u009f ich wusst nicht dass die sich weiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309892908171,
+      "content": "nicht viel gechillt :D und an deine coolen schuhe gedacht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1309892744032,
+      "content": "Cool bei uns is am Freitag. Was hast heut dann so gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309892642555,
+      "content": "bis 16.15 aber wir hatten viel pausee :D abi streich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1309892619942,
+      "content": "Auch. Wie lang hattesch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309892521857,
+      "content": "cool ;D bei dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Schick",
+      "timestamp_ms": 1309892405261,
+      "content": "HEy und wie war schule?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Oliver Schick",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/oliverschick_ckmsmeqcmw",
+  "magic_words": [
+    
+  ]
+}

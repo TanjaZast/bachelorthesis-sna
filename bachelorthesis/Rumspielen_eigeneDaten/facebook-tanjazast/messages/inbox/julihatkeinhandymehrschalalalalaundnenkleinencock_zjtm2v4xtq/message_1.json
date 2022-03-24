@@ -1,0 +1,354 @@
+{
+  "participants": [
+    {
+      "name": "Okan Kizilarslan"
+    },
+    {
+      "name": "Lars Frindt"
+    },
+    {
+      "name": "Till Steinhart"
+    },
+    {
+      "name": "Tobias Wallisch"
+    },
+    {
+      "name": "Julian Collisi"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Kim Kicherer"
+    },
+    {
+      "name": "Luigi Cariglia"
+    },
+    {
+      "name": "Veith Tlu"
+    },
+    {
+      "name": "Umut Aras"
+    },
+    {
+      "name": "Ufuk Aras"
+    },
+    {
+      "name": "Hakki Can Ayaz"
+    },
+    {
+      "name": "Jens St\u00c3\u00b6ckle"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Markus Kling"
+    },
+    {
+      "name": "\u00c3\u0096mer K\u00c3\u00bcser"
+    },
+    {
+      "name": "Jonas Konanz"
+    },
+    {
+      "name": "Matze Laible Jr."
+    },
+    {
+      "name": "Hakan D\u00c3\u00bczg\u00c3\u00bcnkaya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andr\u00c3\u00a9 Kappelmeyer",
+      "timestamp_ms": 1462261153825,
+      "content": "Andr\u00c3\u00a9 Kappelmeyer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Andr\u00c3\u00a9 Kappelmeyer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1409527664576,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1409258190359,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "H\u00c3\u00bcso Ar\u00c4\u00b1c\u00c4\u00b1",
+      "timestamp_ms": 1409257616892,
+      "content": "H\u00c3\u00bcso Ar\u00c4\u00b1c\u00c4\u00b1 hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "H\u00c3\u00bcso Ar\u00c4\u00b1c\u00c4\u00b1"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sabine Weiss",
+      "timestamp_ms": 1409251377115,
+      "content": "Sabine Weiss hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sabine Weiss"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Konanz",
+      "timestamp_ms": 1409251326939,
+      "content": "Voll w\u00c3\u00a4ssrig aber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jessi Vanny",
+      "timestamp_ms": 1409244585907,
+      "content": "Jessi Vanny hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jessi Vanny"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ray Steelrock",
+      "timestamp_ms": 1409242276872,
+      "content": "Ray Steelrock hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ray Steelrock"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex Klavehn",
+      "timestamp_ms": 1409242020370,
+      "content": "Alex Klavehn hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alex Klavehn"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schmidt",
+      "timestamp_ms": 1409241989872,
+      "content": "Jonas Schmidt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jonas Schmidt"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tahres Riwi Altun",
+      "timestamp_ms": 1409241988097,
+      "content": "Tahres Riwi Altun hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tahres Riwi Altun"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1409241975171,
+      "content": "Lisa Je hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Je"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schmidt",
+      "timestamp_ms": 1409241967244,
+      "content": "Wieso?\u00f3\u00be\u008c\u00af\u00f3\u00be\u008d\u0081\u00f3\u00be\u008c\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Wallisch",
+      "timestamp_ms": 1409241952817,
+      "content": "Tobias hat die Gruppe Juli hat kein handy mehr schalalalala(und nen kleinen Cock) genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cihan Ci",
+      "timestamp_ms": 1409241948581,
+      "content": "Cihan Ci hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Cihan Ci"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julian Collisi",
+      "timestamp_ms": 1409241947599,
+      "content": "In 3 wochen lebt es wieder :D h\u00c3\u00b6rt jetzt bitte auf hier zu schreiben nur nummer nehmen und rausgehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saskia Tebbe",
+      "timestamp_ms": 1409241930650,
+      "content": "Saskia Tebbe hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Saskia Tebbe"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schmidt",
+      "timestamp_ms": 1409241919158,
+      "content": "L\u00c3\u00a4uft bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ray Steelrock",
+      "timestamp_ms": 1409241898097,
+      "content": "Das 5s ist baden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julian Collisi",
+      "timestamp_ms": 1409241760460,
+      "content": "Hab ein S3 und 5S \u00f3\u00be\u008c\u00a8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Stader",
+      "timestamp_ms": 1409241705035,
+      "content": "Max Stader hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Max Stader"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Von Ulm",
+      "timestamp_ms": 1409241680853,
+      "content": "Von Ulm hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Von Ulm",
+      "timestamp_ms": 1409241674256,
+      "content": "Komisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ray Steelrock",
+      "timestamp_ms": 1409241645120,
+      "content": "Ray hat die Gruppe Juli hat kein handy mehr schalalalala genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julian Collisi",
+      "timestamp_ms": 1409241632205,
+      "content": "Neues Gl\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ray Steelrock",
+      "timestamp_ms": 1409241610836,
+      "content": "Neue Liebe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Schmidt",
+      "timestamp_ms": 1409241587304,
+      "content": "Neue Nummer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00b6rn Rommel",
+      "timestamp_ms": 1409241580746,
+      "content": "J\u00c3\u00b6rn Rommel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "J\u00c3\u00b6rn Rommel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1409241571000,
+      "content": "Neues Handy? \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julian Collisi",
+      "timestamp_ms": 1409241529310,
+      "content": "Neue Nummer 0157 37995042 ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Juli hat kein handy mehr schalalalala(und nen kleinen Cock)",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/julihatkeinhandymehrschalalalalaundnenkleinencock_zjtm2v4xtq",
+  "magic_words": [
+    
+  ]
+}

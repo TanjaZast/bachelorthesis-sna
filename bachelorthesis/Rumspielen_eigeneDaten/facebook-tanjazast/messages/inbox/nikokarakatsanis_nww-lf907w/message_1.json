@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Niko Karakatsanis"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Niko Karakatsanis",
+      "timestamp_ms": 1428269377173,
+      "content": "Das gleiche :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428260971843,
+      "content": "Wie meinst nichts \u00f3\u00be\u008c\u00b5 chillen du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niko Karakatsanis",
+      "timestamp_ms": 1428254258396,
+      "content": "was machst du jz so?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niko Karakatsanis",
+      "timestamp_ms": 1428157448875,
+      "content": "jaa bassd scho:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428157430749,
+      "content": "gut dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niko Karakatsanis",
+      "timestamp_ms": 1428157096851,
+      "content": "wie gehts soo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1428157083574,
+      "content": "hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niko Karakatsanis",
+      "timestamp_ms": 1428156895889,
+      "content": "heiiiiiii",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Niko Karakatsanis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nikokarakatsanis_nww-lf907w",
+  "magic_words": [
+    
+  ]
+}

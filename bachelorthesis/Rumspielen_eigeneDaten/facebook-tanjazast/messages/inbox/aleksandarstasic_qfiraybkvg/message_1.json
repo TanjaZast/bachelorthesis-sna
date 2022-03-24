@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Aleksandar Stasic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034396176,
+      "content": "Hvala puno \u00f3\u00be\u008c\u00b4\u00f3\u00be\u0094\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleksandar Stasic",
+      "timestamp_ms": 1434012582857,
+      "content": "Sve najlepse Tanja :-D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Aleksandar Stasic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/aleksandarstasic_qfiraybkvg",
+  "magic_words": [
+    
+  ]
+}

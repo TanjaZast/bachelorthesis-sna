@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Melanie Lipinski"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349898401162,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349898398539,
+      "content": "okay :) sehr gut :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349893881907,
+      "content": "Okay :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349888503652,
+      "content": "Lisa hat noch nichts gesagt ;) aber ich hoffe mal :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349887707058,
+      "content": "Freitag klappt? <3 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349643285734,
+      "content": "Schreib du sonst vergesse ich es noch :0 :* gute Nacht <3 ich dann auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349643227001,
+      "content": "Ich schlaf jetzt sorry bin m\u00c3\u00bcde :D \nGute Nacht <3 schreib dann wegen Freitag :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349643170106,
+      "content": "<3 gut was machst du so<?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349641127859,
+      "content": "Ja okay <3 :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349640949761,
+      "content": "Schreiben wir dann noch mal so Mittwoch oder Donnerstag ich muss auch noch mit Lisa reden ;) :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349636224421,
+      "content": "Okay gut <3 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349636178653,
+      "content": "Okay dann gehts ;) :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349636150729,
+      "content": "Ja kla ich kann auch nur bis 5 :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349636104862,
+      "content": "Kommt drauf an ;) :** aber bis 5 ja.. <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1349635621831,
+      "content": "Haben Lisa und du am Freitag bisschen Zeit? :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1318765583778,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318765567682,
+      "content": ":) ja ich weiss doch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1318765450670,
+      "content": "haha ok :) bitte :D gut das du aldi hast.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318765366524,
+      "content": "Ja okay :) haha dann schreibt sie dir von meinem handy :D ich hab aldi :P okay danke (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Lipinski",
+      "timestamp_ms": 1318765071669,
+      "content": "hey ja ich gib sie dir: 015774613049 :) ich hab nur gerade kein geld mehr drauf, ausser lisa hat aldi wegen der flat :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318758994775,
+      "content": "Hey duuu :) ehm ich soll von lisa nach deiner handynummer fragen weil die dir ne sms schreiben will um dich nach iwas mit der firmung zu fragen also lg :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Melanie Lipinski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/melanielipinski_ekqh_55mnq",
+  "magic_words": [
+    
+  ]
+}

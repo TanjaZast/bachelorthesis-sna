@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Marcel Morlok"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcel Morlok",
+      "timestamp_ms": 1570652740487,
+      "content": "Marcel winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marcel Morlok",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcelmorlok_cjlfzurzsw",
+  "magic_words": [
+    
+  ]
+}

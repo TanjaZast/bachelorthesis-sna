@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Dimitra Bitsikas"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dimitra Bitsikas",
+      "timestamp_ms": 1358447439008,
+      "content": "okay.hahahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358447170309,
+      "content": "Dimi sag deinem kumpel der eure Gruppe erstellt hat mit 7b sie ist nicht geschlossen sondern offen.. ;) also alle d\u00c3\u00bcrfen so zu sagen in sie rein... :/ der soll die mal schlie\u00c3\u009fen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dimitra Bitsikas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dimitrabitsikas_irbc0mihhg",
+  "magic_words": [
+    
+  ]
+}

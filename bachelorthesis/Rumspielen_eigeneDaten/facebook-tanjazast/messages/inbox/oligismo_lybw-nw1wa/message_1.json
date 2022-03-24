@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Oli Gismo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oli Gismo",
+      "timestamp_ms": 1453727791998,
+      "content": "F\u00c3\u00bcrs Gesch\u00c3\u00a4ft :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1453546199166,
+      "content": "Hahahaha ja stimmt das war echt komisch. \u00f0\u009f\u0098\u0082 wof\u00c3\u00bcr so viel Milch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oli Gismo",
+      "timestamp_ms": 1453485372993,
+      "content": "ich hab 36 gekauft und fast eine vergessen ja :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1453485345138,
+      "content": "Warst du der komische der dann eine von den 12 einfach liegen lassen hat \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oli Gismo",
+      "timestamp_ms": 1453485305839,
+      "content": "(hab viel milch letztens bei dir gekauft, deswegen, aber gut :D)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oli Gismo",
+      "timestamp_ms": 1453485258740,
+      "content": "war nur ein Spa\u00c3\u009f :D sry nvm^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1453485195059,
+      "content": "Was f\u00c3\u00a4llt dir ein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1453485184909,
+      "content": "Geht's noch?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oli Gismo",
+      "timestamp_ms": 1453465473512,
+      "content": "Hey Tanja \nMal Lust ne warme Milch zu trinken...  Ich h\u00c3\u00a4tte noch welche \u00c3\u00bcbrig ;-) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Oli Gismo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/oligismo_lybw-nw1wa",
+  "magic_words": [
+    
+  ]
+}

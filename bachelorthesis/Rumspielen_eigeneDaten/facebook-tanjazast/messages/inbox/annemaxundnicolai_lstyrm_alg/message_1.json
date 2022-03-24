@@ -1,0 +1,180 @@
+{
+  "participants": [
+    {
+      "name": "Anne Kark"
+    },
+    {
+      "name": "Max Ritter"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Nicolai Wnd"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Ritter",
+      "timestamp_ms": 1432052488717,
+      "content": "Im 7er raum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432052278277,
+      "content": "Ja ich komme nach muss noch paar Bl\u00c3\u00a4tter durchgehen \u00f3\u00be\u008c\u00b5 wo seid ihr dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicolai Wnd",
+      "timestamp_ms": 1432051706537,
+      "content": "Max & ich w\u00c3\u00bcrden jetzt in so n Gruppenraum gehen und mal beide klausuren durchsprechen und so allgemein bisschen durchreden. W\u00c3\u00a4rt ihr dabei ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432050359116,
+      "content": "Ja es stimmt ja alles nur dass es nicht Mindestlohn hei\u00c3\u009ft sondern Gleichgewichtslohn. Der Mindestlohn ist immer niedriger als der Gleichgewichtslohn. Ja gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432049970287,
+      "content": "So um 19 Uhr Essen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432049947295,
+      "content": "Ja das ist falsch \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432048655997,
+      "content": "Lesen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432048654628,
+      "content": "ah Shit vergessen \u00e2\u0098\u00ba\u00ef\u00b8\u008f stimmt so nicht zu 100%! Sorry nicht \u00c3\u0096sen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432047416749,
+      "content": "Und ja essen \u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7 ich muss eh noch Schulden begleichen war bei der Bank \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432047398620,
+      "content": "Zu der Aufgabe 5 max und Anne: ich hab die mir gerade durchlesen Stichwort ist nicht Rivalit\u00c3\u00a4t sondern Mindestlohn \u00f3\u00be\u008d\u0087 das ist ja das nach Keynes. Markt wird ger\u00c3\u00a4umt hei\u00c3\u009ft dass gleich viel Arbeit wie Nachfrage besteht. Deshalb Mindestlohn. Mit dem Argument: Konkurrent um die Arbeit f\u00c3\u00bchrt dazu dass die Arbeitnehmer auch weniger Lohn akzeptieren ist gemeint dass die ja je h\u00c3\u00b6her der Lohn ist desto eher arbeiten wollen aber die Arbeitgeber nicht so viel anbieten wollen zu dem Preis (Nachfrage\u00c3\u00bcberschuss). Wenn die aber Arbeit angeboten bekommen wollen gehende sie nen niedrigeren Lohn ein l* und schon sind mehr Arbeitgeber bereit die Leute einzustellen f\u00c3\u00bcr den Lohn. Also Stichwort Mindestlohn. Macht das so Sinn? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432046695419,
+      "content": "Sollen wir nachher zum MC Dinalds ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432046522888,
+      "content": "Ergo wir haben wenige \u00c3\u009cbungen \u00f3\u00be\u008d\u0083 wird schon Hahahaha merkt euch: wenn ich nicht wisst was zu tun ist eine Gleichung aufstellen hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432046474426,
+      "content": "Im ersten hat er noch weniger gegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432046399088,
+      "content": "Ja im 2. haben wir echt nicht so viele \u00c3\u009cbungen gemacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432045813088,
+      "content": "Ja und sind das jetzt alle \u00c3\u009cbungen die er ausgegeben hat?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicolai Wnd",
+      "timestamp_ms": 1432045769690,
+      "content": "Habe nen Kollegen aus der bank gefragt, der meinte, wir sollen die \u00c3\u009cbungen die wir von ihm bekommen haben k\u00c3\u00b6nnen, so \u00c3\u00a4hnlich kommts in der klausur dran.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432045726446,
+      "content": "Einzigste \u00c3\u009cbungen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432045703692,
+      "photos": [
+        {
+          "uri": "messages/inbox/annemaxundnicolai_lstyrm_alg/photos/11289609_1004861562866802_1858053052_n_1004861562866802.jpg",
+          "creation_timestamp": 1432045702
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432045697474,
+      "photos": [
+        {
+          "uri": "messages/inbox/annemaxundnicolai_lstyrm_alg/photos/11292671_1004861559533469_1583875919_n_1004861559533469.jpg",
+          "creation_timestamp": 1432045696
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432045694402,
+      "photos": [
+        {
+          "uri": "messages/inbox/annemaxundnicolai_lstyrm_alg/photos/11304206_1004861546200137_203544058_n_1004861546200137.jpg",
+          "creation_timestamp": 1432045693
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anne, Max und Nicolai",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/annemaxundnicolai_lstyrm_alg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Mateusz Komza"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mateusz Komza",
+      "timestamp_ms": 1507926971590,
+      "content": "Hi, wir haben uns gestern kennen gelernt",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mateusz Komza",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/mateuszkomza_kpzuvsllgq",
+  "magic_words": [
+    
+  ]
+}

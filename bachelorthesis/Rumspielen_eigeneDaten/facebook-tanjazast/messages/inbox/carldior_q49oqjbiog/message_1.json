@@ -1,0 +1,334 @@
+{
+  "participants": [
+    {
+      "name": "Carl Dior"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1586299746971,
+      "content": "Wir haben uns ja auch in Facebook \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1504820180662,
+      "content": "Hey \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1496783128464,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1496748455283,
+      "content": "\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1496747876266,
+      "content": "Super, das freut mich!\nIrgendwie kamst du mir in Kopf und dann musste ich dir schreiben. Sag mal bist du single?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1496745094836,
+      "content": "Hey, gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1496700378466,
+      "content": "Hey Tanja,\nwie geht's dir? \u00f0\u009f\u0098\u008c",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374434486815,
+      "content": "haha okay das ist bitter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374434096074,
+      "content": " Ich hab Theorie am n\u00c3\u00a4chsten tag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374433810770,
+      "content": "gehst nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374433550994,
+      "content": "Wegen weg gehen Morgen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374433281769,
+      "content": "ich wei\u00c3\u009f grad nicht von du sprichst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374433234857,
+      "content": "Hab am n\u00c3\u00a4chsten tag Theorie :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374098773878,
+      "content": "willst mitkommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374090623418,
+      "content": "ja ich kann dich da trotzdem reinbringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374090446796,
+      "content": "H\u00c3\u00a4 wie meinst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374070010931,
+      "content": "ich k\u00c3\u00b6nnte dir aber so ein B\u00c3\u00a4ndchen geben dann w\u00c3\u00bcrdest du reinkommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374069751501,
+      "content": "Toll Nein ich bin nicht 18 :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374068320507,
+      "content": "wir haben da ein VIP Tisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374068312659,
+      "content": "sonst h\u00c3\u00a4ttest du mit uns am schw\u00c3\u00b6rmontag ins Theatro mitgehen k\u00c3\u00b6nnen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374068168104,
+      "content": "Nein im Juni 17 geworden ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374067820259,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1374067818291,
+      "content": "wie alt bist du eigentlich?\nbist schon 18!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373755860949,
+      "content": "Ja warum? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373744092656,
+      "content": "k\u00c3\u00b6nnen wir uns mal treffen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373743711057,
+      "content": "Es war ja nicht mit absichtlich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373743326254,
+      "content": "was laberst du?! Alsob ich dich schlagen w\u00c3\u00bcrde\nspinnst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373743277968,
+      "content": "Doch im bus wolltest dich strecken und bist mit der Faust in mein Gesicht :) war aber anscheinend nicht mit Absicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373743186927,
+      "content": "was laberst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373743127430,
+      "content": "was geschlagen? wann?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373743028519,
+      "content": "Hast mich beleidigt und ein mal geschlagen da hat dich dann mein Cousin gedroht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373742971679,
+      "content": "was hab ich gemacht damals",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373742823028,
+      "content": "assi zu dir? ich wei\u00c3\u009ft nicht mal was ich da gemacht haben soll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373742761492,
+      "content": "Nein du warst ne zeit lang echt assi zu mir :) da mochte ich dich null. Und du wei\u00c3\u009ft doch nicht mal ob ich h\u00c3\u00bcbsch bin oder nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373735318710,
+      "content": "bist voll h\u00c3\u00bcbsch, w\u00c3\u00bcrde gerne mal was mit dir machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373713700202,
+      "content": "wei\u00c3\u009f nicht, glaub nicht das du mich schon immer so gut Leiden konntest?\nhast du einen Freund?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373713623085,
+      "content": "Warum sollte ich nicht wollen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373709793290,
+      "content": "willst du? ;)\nhast du ein Freund?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373709664037,
+      "content": "Ja gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373709176088,
+      "content": "und was zusammen machen oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373709017259,
+      "content": "weil ich gestern viel zu viel getrunken habe haha :D\nwir m\u00c3\u00bcssen uns mal treffen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373708956063,
+      "content": "Warum am arsch Hahahah :)? Oh ja aber von dir auch nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373708852293,
+      "content": "naja auch noch ein bisschen am Arsch :D\nSchon ewig nichts mehr von dir geh\u00c3\u00b6rt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1373708821207,
+      "content": "Gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carl Dior",
+      "timestamp_ms": 1373708705511,
+      "content": "wie geht's dir?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carl Dior",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carldior_q49oqjbiog",
+  "magic_words": [
+    
+  ]
+}

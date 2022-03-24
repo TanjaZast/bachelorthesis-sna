@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Anne Monument"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356385649237,
+      "content": "Oh thank you Anne very much :) this are really nice wishes and it's nice to see you all remembering me ;) I wish you and your family a lovely christmas time, too and enjoy this one... Have you see my message before ?? I hope you have ... Say nice greetings to torin and Eden. you must know how nice they are *-* and nice greetings to pete you have a lovely family ;) thank you very much yours Tanja <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Monument",
+      "timestamp_ms": 1356383155427,
+      "content": "Merry Christmas Tanya :) We hope you and your family have a lovely time. Best Wishes Anne, Pete, Torin and Eden x ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349809549000,
+      "content": "Heei ;) how are YOU?? What are you doing? Did you have a nice trip Top wales ?? ;) the weather in germany is horrible and it's cold :o often we are talking about our nice time in england ... I will never forget these time ;) how are the kids ?? ;) i tried to text you earlier but I forgot it every time ... :( I'm sorry about this.. Lovely greatings from Ulm... <3 and thank you for everything.. You have a nice family ! I hope you will answer me :* Tanja ( sorry for my gramatical und writing mistakes) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anne Monument",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annemonument_u0_mcktf2g",
+  "magic_words": [
+    
+  ]
+}

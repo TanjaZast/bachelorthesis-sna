@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Niina Aqua Culinares"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Niina Aqua Culinares",
+      "timestamp_ms": 1550509380018,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Niina Aqua Culinares",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/niinaaquaculinares_bfkqotq8qa",
+  "magic_words": [
+    
+  ]
+}

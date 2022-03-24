@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Benjamin Kl\u00c3\u00b6ppel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Benjamin Kl\u00c3\u00b6ppel",
+      "timestamp_ms": 1573133146648,
+      "content": "Vielen Dank \u00f0\u009f\u0099\u008f \n\nPS falls mehrer Handys in die Hand bekommst kannst dir auch mehrere lose ergattern ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573128286805,
+      "content": "Habe abgestimmt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1573128263794,
+      "photos": [
+        {
+          "uri": "messages/inbox/benjaminkloppel_0bg1n7cbdg/photos/74670811_1456957871128845_7908384725926936576_n_1456957807795518.jpg",
+          "creation_timestamp": 1573128262
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Benjamin Kl\u00c3\u00b6ppel",
+      "timestamp_ms": 1573118350336,
+      "content": "Morgen Tanja \u00f0\u009f\u0099\u0082\n\nMein Verein macht gerade an einem Voting mit, zu gewinnen gibt es bis zu 3.000 \u00e2\u0082\u00ac f\u00c3\u00bcr die Vereinskasse. \n\nAls dank verlosen wir unter allen die uns unterst\u00c3\u00bctzen Teambekleidung von uns und \neinen Startplatz f\u00c3\u00bcr den ZUGSPITZ ULTRATRAIL \n\nwenn du f\u00c3\u00bcr uns Lotest und einen Screenshot davon an mich oder WeRun4Fun e.V sendest bist mit dabei \u00f0\u009f\u0099\u0082\n\n\n\nhttps://region-bewegen.de/scheine-fuer-vereine/contributors/werun4fun-e-v-diverse-anschaffungen-fuer-unsere-laufveranstaltungen/?item=1497",
+      "share": {
+        "link": "https://region-bewegen.de/scheine-fuer-vereine/contributors/werun4fun-e-v-diverse-anschaffungen-fuer-unsere-laufveranstaltungen/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Benjamin Kl\u00c3\u00b6ppel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/benjaminkloppel_0bg1n7cbdg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tiziana Tizi"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1469768068375,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tiziana Tizi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tizianatizi_gapndwig_a",
+  "magic_words": [
+    
+  ]
+}

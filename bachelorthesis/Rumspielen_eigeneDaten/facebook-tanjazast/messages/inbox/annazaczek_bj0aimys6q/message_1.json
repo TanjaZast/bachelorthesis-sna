@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Anna Zaczek"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna Zaczek",
+      "timestamp_ms": 1284927629000,
+      "content": "dann ischs zeimlich unlogisch dass wir uns schon mal gesehen ham. ich komm aus dr n\u00c3\u00a4he von aalen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1284707119000,
+      "content": "ja. ich wohne in Donaustetten.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Zaczek",
+      "timestamp_ms": 1282241204000,
+      "content": "du wohnst aber in ulm? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1282203819000,
+      "content": "nur vom sehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Zaczek",
+      "timestamp_ms": 1281999327000,
+      "content": "kennen wir uns?(:",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anna Zaczek",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annazaczek_bj0aimys6q",
+  "magic_words": [
+    
+  ]
+}

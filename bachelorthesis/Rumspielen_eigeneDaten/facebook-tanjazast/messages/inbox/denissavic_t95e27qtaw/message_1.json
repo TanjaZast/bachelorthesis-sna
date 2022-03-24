@@ -1,0 +1,682 @@
+{
+  "participants": [
+    {
+      "name": "Denis Savic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1624527422388,
+      "content": "Hallo :) ja und bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1624038128253,
+      "content": "Eee komsince, alle gut bei dir\u00f0\u009f\u0091\u00bb\u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0089\u00f0\u009f\u0091\u00bb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623513994521,
+      "content": "Warum den keiner hat, was gesagt \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623513868067,
+      "content": "Warum hat niemand was gesagt? Oh man jetzt f\u00c3\u00bchle ich mich schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623513809268,
+      "content": "Hitze",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623513803251,
+      "content": "Hahah warum den, ich dachte ich komme auf einen Guten Wein vorbei \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0082\u00f0\u009f\u00a4\u00a3 ich konnte sowieso nicht schlafen von der Hit\u00f0\u009f\u00a5\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623513308294,
+      "content": "Ja, bin echt tot hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623513302624,
+      "content": "Schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623513299358,
+      "content": "Warum habt ihr nicht geklingelt oder so? Tut mir leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623513017963,
+      "content": "Ne ne \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3 Kater oder?\u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623500846203,
+      "content": "Naja wieder besser \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623500834276,
+      "content": "Wars arg laut? \u00f0\u009f\u00a5\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623486754434,
+      "content": "Vazii komsince\u00f0\u009f\u00a5\u00b3 ich hab\u00e2\u0080\u0099s schon gem\u00c3\u00a4rkt.\u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080 wie gehts dir so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1623483368687,
+      "content": "Hey \u00e2\u0098\u00ba\u00ef\u00b8\u008f komsinice molim te! \u00f0\u009f\u0098\u0082 da, bas sam ljepo proslavila. Jel ni\u00c5\u00a1e \u00c4\u008duo? \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1623482611381,
+      "content": "Eee komsija alles gute zum geburstag nachtr\u00c3\u00a4glich \u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0083 jel si lepo proslavila",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618645031554,
+      "content": "Bin noch kein usain bolt\u00f0\u009f\u0098\u0082 von neu Ulm und wieder zur\u00c3\u00bcck, Denkmal ca. 8km",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618644170374,
+      "content": "Wow, echt? Wie schnell und wie weit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618643190365,
+      "content": "Ganz gut , bin grad bissle jogen\u00f0\u009f\u0099\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618599940000,
+      "content": "Hey :) gut und selbst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618598951805,
+      "content": "Wie gehts Tesla \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618077895225,
+      "content": "Evo ich bin grad mit meinem kumom an der tanke und trinken ein Bier und dann gehts nach Hause.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618077824496,
+      "content": "Net schlecht \u00f0\u009f\u00a4\u0099",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618076753210,
+      "content": "Klar, sagt mir was :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618076742004,
+      "content": "Gehe jetzt zu einer Freundin Pizza essen und Wein trinken. Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618075926909,
+      "content": "Was machst du so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618075919232,
+      "content": "Haha ne Ich bin ganz Normal ein Logistik Leiter wenn es dir was sagt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618074631708,
+      "content": "Okay dann habe ich das wohl falsch verstanden. Dachte du w\u00c3\u00a4rst in so einer Position",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1618074610806,
+      "content": "H\u00c3\u00a4 ich chille sehr selten \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0082 das stimmt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618054117857,
+      "content": "Du bist nur am chillen \u00f0\u009f\u0098\u008e wie l\u00c3\u00a4uft dein Studium so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618054084064,
+      "content": "Evo ich jetzt kurz zum Rewe\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1618054056037,
+      "content": "Nein, bin der Logistik das geht um einen gro\u00c3\u009f Kunden.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617997347077,
+      "content": "Ich chille und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617997305656,
+      "content": "Hast du so eine Produktion? Wow!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617995904881,
+      "content": "Was machst du noch so heut ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617995838975,
+      "content": "Da gebe ich dir recht, aber das geht net so leicht wen du eine F\u00c3\u00bchrungs Position hast \u00f0\u009f\u0098\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617995201138,
+      "content": "Mir geht es super :) dir? Liegt nicht an mir hahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617995184869,
+      "content": "Oh nein! Regel Nummer 1: immer frei nehmen am Geburtstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617990499314,
+      "content": "Wie geht dir so, man sieht nicht mehr so!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617989918249,
+      "content": "Ve\u00c4\u008deras\u00f0\u009f\u0099\u0082 bin noch am Arbeit und sehe kein Ende. Drecks Projekt \u00f0\u009f\u0098\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617977554825,
+      "content": "Kad? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617974396570,
+      "content": "Ajd na pivo \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1617974352901,
+      "content": "Hi Tanja, hvala ti puno\u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1617971838699,
+      "content": "Hey Denis, \u00c5\u00beelim ti sve najbolje za rodjendan \u00e2\u0098\u00ba\u00ef\u00b8\u008f ljepo proslavi!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1602599386045,
+      "content": "\u00c5\u00a0ta se radi kod tebe, kako si mi?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1602599371023,
+      "content": "Evo ja zam jo\u00c5\u00a1 na poslu, moram jo\u00c5\u00a1 da radim\u00f0\u009f\u0098\u0091",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602586600596,
+      "content": "\u00c5\u00a0ta se radi? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601669203872,
+      "content": "Leider nicht \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u00ad ja wann triffst du dich mit Jasmina?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601668562904,
+      "content": "Ist es nicht genug 24/5 zu lernen. Frag nur, ich hab dich schon Lang nicht mehr gesehen\u00f0\u009f\u0098\u009b\u00f0\u009f\u0098\u009b",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601666545054,
+      "content": "Lernen 24/7. warum? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601662766683,
+      "content": "Was machst du so \u00c3\u00bcbers WE au\u00c3\u009fer lernen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601662404391,
+      "content": "Iz vini \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085 ich glaub wir sollten uns besser auf DE unterhalten!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601661848355,
+      "content": "\u00c5\u00a0ta misli\u00c5\u00a1? Ne razumijem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601661769578,
+      "content": "Ti vra\u00c4\u0087a\u00c5\u00a1 zamo u\u00c4\u008denje ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601661062864,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601661058591,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601661054640,
+      "content": "Da sutra u\u00c5\u00beivancija \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601661048162,
+      "content": "Bila kod pizze",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601661026549,
+      "content": "Pa je tra\u00c5\u00beim u rewe \u00f0\u009f\u0098\u0082 gdje je",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601660991601,
+      "content": "Pa sutra praznik \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601660975379,
+      "content": "Evo bas sam ti vidjela mamu :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601660931154,
+      "content": "Ja sam ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601660709445,
+      "content": "Evo i ja sam sad u rewe, bas je gu\u00c5\u00beva \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601660424358,
+      "content": "\u00c5\u00a0ta radi\u00c5\u00a1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601660410861,
+      "content": "Evo dobro :) idem u Rewe pa dalje u\u00c4\u008dim :) a ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601659757672,
+      "content": "Jel si mi dorbro?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1601659746574,
+      "content": "Eej Einstein wie gehts, \u00c5\u00a1ta ima kod teb? \u00f0\u009f\u0099\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601035364278,
+      "content": "Ja sam ok a ti? Ima\u00c5\u00a1 li vikenda",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1601035349208,
+      "content": "E odli\u00c4\u008dno! Bas me raduje. Mislim ne mora to kod vas na kraju biti ne\u00c5\u00a1to ozbiljno ali mo\u00c5\u00beda se ljepo sprijateljite. To je isto jako dobro :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600976916752,
+      "content": "Kako si mi ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600976898260,
+      "content": "Bi\u00c4\u0087e date \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600976530365,
+      "content": "Ejjj Einstein ne zezaj \u00f0\u009f\u0098\u0085 ni\u00c5\u00a1ta ne planiram...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600940263463,
+      "content": "Pa bas mi je drago! Evo ona upravo kod mene na doru\u00c4\u008dku bila. Mora\u00c5\u00a1 je pitati za Date",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600940230021,
+      "content": "Da, ja studiram",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600940205897,
+      "content": "A joj Denis ja tvoj srpski ne razumijem \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085 pa ljepo! G\u00c4\u0091e planira\u00c5\u00a1 da ode\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600792322094,
+      "content": "Jel ti jo\u00c5\u00a1 studira\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600792259749,
+      "content": "Pa vidigemo jel \u00c5\u00beeli da se upsnamo \u00f0\u009f\u00a7\u0090",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600792162799,
+      "content": "Ne, ja nisam jo\u00c5\u00a1 imao godi\u00c5\u00a1nje ali planiram krei Septembera",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600791993562,
+      "content": "Ohh Einstein \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600720953405,
+      "content": "Ne radim. A ti nema\u00c5\u00a1 godi\u00c5\u00a1nje?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600720938567,
+      "content": "Ima\u00c5\u00a1 Einsteina u komsiluku hahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600720912961,
+      "content": "Znam \u00f0\u009f\u0098\u0082 pa kad moram! E odli\u00c4\u008dno. Bas bi me radovalo da se upoznate",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600707353130,
+      "content": "Jel ne radi\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600707255090,
+      "content": "Eto sad sam noj po\u00c5\u00a1lo prijateljski na face\u00f0\u009f\u0098\u008e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600707131781,
+      "content": "Ti zamo u\u00c4\u0087is \u00f0\u009f\u0098\u008a izgleda da imam teslu u kosiluku \u00f0\u009f\u00a4\u00aa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600687367344,
+      "content": "Drago mi je da si dobro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600687356568,
+      "content": "Pa mislila sam vam malo pripomo\u00c4\u0087i da se upoznate \u00f0\u009f\u0098\u0082 \u00c5\u00a1ta misli\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600687334092,
+      "content": "Pa dobro sam :) u\u00c4\u008dim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600681452108,
+      "content": "Ho\u00c4\u0087e\u00c5\u00a1 me verkuppeln \u00f0\u009f\u00a4\u00aa\u00f0\u009f\u00a4\u00aa Jel si makar nesto dobro o meni pri\u00c4\u008dala?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600681323464,
+      "content": "\u00c5\u00a0ta ima kod tebe, kako si ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Denis Savic",
+      "timestamp_ms": 1600681291507,
+      "content": "Ejj pa gdje si\u00f0\u009f\u0098\u0080 ja sam super.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600678599871,
+      "content": "Kako ti se \u00c4\u008dini? \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600631453333,
+      "content": "Ako ima\u00c5\u00a1 volje mo\u00c5\u00bee\u00c5\u00a1 joj se javiti \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600631434678,
+      "content": "Ne\u00c5\u00a1to sam bezveze sestri mojoj pri\u00c4\u008dala o tebi i bas bi ste se slo\u00c5\u00beili. Evo njen profil: https://www.facebook.com/jasmina.vojinovic.58",
+      "share": {
+        "link": "https://www.facebook.com/jasmina.vojinovic.58"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1600631393225,
+      "content": "Eeej cao :) kako si?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Denis Savic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/denissavic_t95e27qtaw",
+  "magic_words": [
+    
+  ]
+}

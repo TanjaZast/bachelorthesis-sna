@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Pia Mall"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pia Mall",
+      "timestamp_ms": 1550509382137,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Pia Mall",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/piamall_1xopw9_hig",
+  "magic_words": [
+    
+  ]
+}

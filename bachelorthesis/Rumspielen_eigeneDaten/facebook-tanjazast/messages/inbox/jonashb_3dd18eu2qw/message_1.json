@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Jonas HB"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268937010000,
+      "content": "Was geht???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas HB",
+      "timestamp_ms": 1268936677000,
+      "content": "hallo ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268854336000,
+      "content": "Hallo Jonas",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas HB",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonashb_3dd18eu2qw",
+  "magic_words": [
+    
+  ]
+}

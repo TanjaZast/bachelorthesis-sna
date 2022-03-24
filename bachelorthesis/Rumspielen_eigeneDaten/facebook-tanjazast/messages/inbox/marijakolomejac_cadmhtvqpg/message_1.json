@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Marija Kolomejac"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315082788105,
+      "content": "Ej :) stigli smo u pola 7 bio je dobar put na granici guzva ali inace super!! Poz familija zast",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marija Kolomejac",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marijakolomejac_cadmhtvqpg",
+  "magic_words": [
+    
+  ]
+}

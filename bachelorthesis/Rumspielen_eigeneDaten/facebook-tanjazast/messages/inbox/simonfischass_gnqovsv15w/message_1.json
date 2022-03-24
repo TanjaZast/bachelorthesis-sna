@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Simon Fisch\u00c3\u00a4\u00c3\u009f"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360702130305,
+      "content": "Wo soll ich denn sein? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Fisch\u00c3\u00a4\u00c3\u009f",
+      "timestamp_ms": 1360701540830,
+      "content": " wo bist du ich bin nit raoul sch\u00c3\u00b6ttle ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Simon Fisch\u00c3\u00a4\u00c3\u009f",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonfischass_gnqovsv15w",
+  "magic_words": [
+    
+  ]
+}

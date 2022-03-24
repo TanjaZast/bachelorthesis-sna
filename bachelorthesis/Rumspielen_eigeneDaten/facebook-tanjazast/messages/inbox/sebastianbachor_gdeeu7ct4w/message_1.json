@@ -1,0 +1,329 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Bachor"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1506193731500,
+      "content": "hab da keinen eindeutigen Favorti. Wichtiger als der Rahmen alleine sind z.B. die Schaltkomponenten der Schaltung. Aber da bin ich kein Experte. \nFahrradschuhe hab ich von Sidi, gibts aber auch unz\u00c3\u00a4hlige Anbieter. \nW\u00c3\u00bcrde ich mich einfach mal im Laden beraten lassen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1506025333517,
+      "content": "Werde aber erstmal eh nur auf die kleineren trainieren also 0.5 20 5 oder wie die von den Distanzen her genau sind",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1506025284942,
+      "content": "Gibt es da ne Marke oder so die du empfehlen w\u00c3\u00bcrdest? \u00f0\u009f\u00a4\u0094 und vielleicht auch so zur Ausr\u00c3\u00bcstung (Schuhe usw) \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505916481847,
+      "content": "Rennrad macht am meisten Sinn, w\u00c3\u00bcrde mir aber nicht gleich eine Zeitmaschine besorgen. Also ein normales Stra\u00c3\u009fenrennrad. \n\nFahrrad Flohm\u00c3\u00a4rkte sind nat\u00c3\u00bcrlich auch eine super Gelegenheit. Kannst das Rad gleich anschauen und probefahren.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505849687493,
+      "content": "Okay, muss ich mal schauen oder was h\u00c3\u00a4ltst du von so Fahrrad Flohm\u00c3\u00a4rkten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505849648377,
+      "content": "Ja hab ich auch vor bzw ist nicht sooooo leicht, wenn man etwas kleiner ist \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085 werde es aber die Tage probieren. Das wei\u00c3\u009f ich, hab daf\u00c3\u00bcr auch extra in den Semesterferien gearbeitet also meine das ganze schon ernst. Muss man eig beim Triathlon wirklich ein richtiges Rennrad haben? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505822976876,
+      "content": "Cool, dass du das mal ausprobieren willst. Ich empfehle dir erstmal ein Rennrad bei Freunden oder Bekannten auszuleihen, um mal auszuprobieren, ob dir das Spa\u00c3\u009f macht. Weil selbst f\u00c3\u00bcr ein (gescheites) gebrauchtes Rad wirst du ein paar 100\u00e2\u0082\u00ac in die Hand nehmen m\u00c3\u00bcssen. \nF\u00c3\u00bcr gebrauchte R\u00c3\u00a4der empfiehlt sich Ebay Kleinanzeigen. Da muss man dann halt individuell schauen was das jeweilige Rad nocht taugt.\n\nGerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505816538787,
+      "content": "Und Danke f\u00c3\u00bcr deine Ratschl\u00c3\u00a4ge \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0098\u008a machst das ganze halt schon etwas l\u00c3\u00a4nger mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505816501340,
+      "content": "Oki. Ja, das mit zwei mal pro Woche laufen mache ich eigentlich schon. Manchmal fehlt mir nur die Motivation Intervalltraining zu machen bzw das Tempo zu steigern. Wo wir schon dabei sind (wollte dich deshalb eh schon anschreiben): hab vor n\u00c3\u00a4chstes Jahr mal bei einem Triathlon mitzumachen. Schwimmen l\u00c3\u00a4uft so okay aber versuche jetzt im Winter wieder dran zu bleiben. Hab nur ein Problem: hab kein Fahrrad bzw ein Rennrad. Kannst du mir da eins empfehlen? W\u00c3\u00bcrde zun\u00c3\u00a4chst erstmal ein gebrauchtes kaufen. Die Rahmenh\u00c3\u00b6he m\u00c3\u00bcsste 48 oder 50 sein.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505813360497,
+      "content": "https://www.runme.de/laufkalender/baden-wuerttemberg/",
+      "share": {
+        "link": "https://www.runme.de/laufkalender/baden-wuerttemberg/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505813189265,
+      "content": "Naja um schneller zu werden muss man erstmal kontinuierlich dran bleiben, also am besten 2 mal die Woche laufen. Und dann je nach Distanz spezifisch drauf trainieren. Das wichtigste ist, dass das Fundament stimmt, also die Grundausdauer vorhanden ist, danach kann man spezifisch drauf aufbauen auch mit Intervalltraining. \n\nDer Silvesterlauf war in Gie\u00c3\u009fen, aber es gibt \u00c3\u00bcberall in Deutschland Silvesterl\u00c3\u00a4ufe.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505760176582,
+      "content": "Hast du Tipps um schneller zu werden oder wie man gut trainiert? Und noch ne Frage: du hast doch letztes Jahr bei nem Silvesterlauf bei Freiburg mitgemacht oder? Wo genau ist das und wie hei\u00c3\u009ft der genau? \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505760107822,
+      "content": "Naja halt so f\u00c3\u00bcr mich bisschen gelaufen aber war die Woche davor krank und hatte ne Muskelentz\u00c3\u00bcndung also weniger gelaufen. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505760038022,
+      "content": "Ja, das stimme auch. Hast recht \u00f0\u009f\u0099\u0084\u00f0\u009f\u0098\u0085 ja aber jetzt hab ich Zeit, richtig zu trainieren.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505756477141,
+      "content": "Hab grad deine Zeit nachgeschaut. 1:45 ist ordentlich! Hast du viel daf\u00c3\u00bcr gemacht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505756410760,
+      "content": "Die Zeit ist doch egal, Hauptsache Spa\u00c3\u009f an der Sache und ohne Verletzung ins Ziel kommen. \n\nhaha da hast dir jetzt aber was vorgenommen ;) \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505749004255,
+      "content": "Ja aber sehr viel langsamer als du \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u0084 aber n\u00c3\u00a4chstes Jahr versuche ich dir mehr Konkurrenz zu machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1505746543121,
+      "content": "haha vielen Dank :) Bist du auch gelaufen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1505650549106,
+      "content": "Gl\u00c3\u00bcckwunsch Sebastian! \u00f0\u009f\u0098\u0087\u00f0\u009f\u0098\u008a hast ja richtig Gas gegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1479418443934,
+      "content": "Bin gleich zum Helfen da \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479418429458,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479418425951,
+      "content": "Die sind abgelaufen Sebastian! \u00f0\u009f\u0098\u00af die m\u00c3\u00bcssen gegessen werden, heute Abend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479418405341,
+      "photos": [
+        {
+          "uri": "messages/inbox/sebastianbachor_gdeeu7ct4w/photos/15152869_1421142404593272_943965554_o_1421142404593272.jpg",
+          "creation_timestamp": 1479418404
+        }
+      ],
+      "type": "Generic",
+      "ip": "2a01:598:8183:cdba:61b7:6dea:7cfb:1ba2",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473334396978,
+      "content": "Ich hoffe es klappt alles und sein Handy bleibt bis Kambodscha am Leben \u00f0\u009f\u0098\u00a2 sonst musst du fr\u00c3\u00bcher gehen \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473325228001,
+      "content": "Gene :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473324870278,
+      "content": "Und danke nochmal :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473324852617,
+      "content": "Viel Spa\u00c3\u009f mit den Kindern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473324847626,
+      "content": "Hat alles geklappt. Musst halt schauen ob der kleine Karton in den Koffer oder Rucksack passt. Sonst musst es halt rausholen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473322298815,
+      "content": "Oder du schreibst kurz wenn du da bist, dann komm ich kurz runter.\nHab heute Vormittag kurz Zeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473321238534,
+      "content": "Dann gebe es im B\u00c3\u00bcro ab, weil ich mit meiner Gruppe unterwegs bin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473320570214,
+      "content": "Fahre jetzt erst los weil ich das Handy noch l\u00c3\u00b6schen musst \u00f0\u009f\u0098\u0094 bis gleich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473249781571,
+      "content": "0900 ist eine gute Zeit. \nWenn du mich nicht findest, dann leg es bei den Mitarbeitern im B\u00c3\u00bcro ab. Die wissen dann Bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473249571246,
+      "content": "Okay ehm ne, wei\u00c3\u009f ich nicht aber ich google es \u00f0\u009f\u0098\u0085 wann dann so ca morgens",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473249519103,
+      "content": "Wei\u00c3\u009ft du wo das Ruhetal ist?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473249505585,
+      "content": "Ja das ist auch kein Problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473232831304,
+      "content": "Hmmmm arbeite halt immer ab 17 Uhr. Ich k\u00c3\u00b6nnte es Immer morgens fr\u00c3\u00bch vorbeibringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1473200236547,
+      "content": "Ja kriegen wir hin. Du kannst auch gerne mal um 1700 im Ruhetal vorbei schauen. \nAnsonsten wirds stressig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473199100866,
+      "content": "Huhu wir m\u00c3\u00bcssen uns noch treffen bevor du nach Kambodscha fliegst! \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u008f Jonas Handy neigt sich dem Ende zu und meine Schwester gibt ihm dann ihrs. W\u00c3\u00a4rst du so lieb und nimmst es f\u00c3\u00bcr ihn mit? Danke dir!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1470318441454,
+      "content": "Bei schlechtem Wetter dann ein Kaffee aufsuchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1470318411931,
+      "content": "Wei\u00c3\u009f nicht, bei gutem Wetter ein Picknick aber euch M\u00c3\u00a4nnern ist das ja immer zu doof aber ich hab das mal gemacht und das war die sch\u00c3\u00b6nste \u00c3\u009cberraschung weil da kein M\u00c3\u00a4dchen mit rechnet und es gibt da ne mega stelle (an der Donau und immer zusammen flie\u00c3\u009fen \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1470318182451,
+      "content": "wenn man drau\u00c3\u009fen sitzt ist es doch ganz cool oder?\nja gem\u00c3\u00bctlich was trinken gehen und ein bisschen quatschen.\n\nWas w\u00c3\u00a4re denn in deinen Augen das perfekte Date?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1470317777270,
+      "content": "Hmmmm \u00f0\u009f\u00a4\u0094 aber an der xLounge ist nichts besonderes. H\u00c3\u00a4tte an eine sch\u00c3\u00b6ne Aussicht gedacht wie z.B. Choklet die Terrasse oder etwas im Fischerviertel.\n\nWas trinken gehen dann oder? \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1470317373796,
+      "content": "Jooo  Tanne, was geht ab Brudi? \u00f0\u009f\u0098\u0081\n\nIch lag die ganze letzte Nacht wach und hab mir ein paar Gedanken wegen Natalia gemacht. \n\nAlso ich freue mich auf das Date n\u00c3\u00a4chste Woche Samstag. \n\nTreffpunkt: Xinedome unten, danach Xlounge\nUhrzeit: 1800\nDresscode: smart casual wear \n\nDeine Meinung?\n\nGr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sebastian Bachor",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sebastianbachor_gdeeu7ct4w",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Farris Bhatty"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501514971,
+      "content": "ooooh thats nice :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Farris Bhatty",
+      "timestamp_ms": 1345501497904,
+      "content": "Yeah I am good thanks :) :) :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501445846,
+      "content": "i\u00c2\u00b4m fine :) andyou? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Farris Bhatty",
+      "timestamp_ms": 1345501248365,
+      "content": "so how are you mate?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345500696497,
+      "content": ":) oooh you know my name :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Farris Bhatty",
+      "timestamp_ms": 1345500674136,
+      "content": "hey tanja x",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345500622207,
+      "content": "ooh :) hi farris",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Farris Bhatty",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/farrisbhatty_yqgz5tw6ba",
+  "magic_words": [
+    
+  ]
+}

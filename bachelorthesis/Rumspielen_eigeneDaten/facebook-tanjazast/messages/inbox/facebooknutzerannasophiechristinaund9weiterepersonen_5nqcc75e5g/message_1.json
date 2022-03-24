@@ -1,0 +1,317 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Anna-Sophie Schl\u00c3\u00bcter"
+    },
+    {
+      "name": "Christina Luisa"
+    },
+    {
+      "name": "Fabian Ludwig"
+    },
+    {
+      "name": "Anica Scheck"
+    },
+    {
+      "name": "Anni B\u00c3\u00a4"
+    },
+    {
+      "name": "David Schick"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Marc Engelhardt"
+    },
+    {
+      "name": "Hanno Hoch"
+    },
+    {
+      "name": "Sarah Esperanza"
+    },
+    {
+      "name": "Ana-Celina Alurralde"
+    },
+    {
+      "name": "Simon Wahl"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Frenzel",
+      "timestamp_ms": 1336025924406,
+      "content": "Max Frenzel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Max Frenzel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Velvet de Malik",
+      "timestamp_ms": 1335984276176,
+      "content": "Velvet de Malik hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Velvet de Malik"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manu Frank",
+      "timestamp_ms": 1335982811597,
+      "content": "Manu Frank hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Manu Frank"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Wa",
+      "timestamp_ms": 1335982670441,
+      "content": "Anna Wa hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anna Wa"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Pinto",
+      "timestamp_ms": 1335962747315,
+      "content": "Sara Pinto hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sara Pinto"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nata\u00c5\u00a1a Jo\u00c4\u008di\u00c4\u0087",
+      "timestamp_ms": 1335962470994,
+      "content": "Nata\u00c5\u00a1a Jo\u00c4\u008di\u00c4\u0087 hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nata\u00c5\u00a1a Jo\u00c4\u008di\u00c4\u0087"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Frenzel",
+      "timestamp_ms": 1335962155249,
+      "content": "Ja mach das ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erinna Mich Dran",
+      "timestamp_ms": 1335959289243,
+      "content": "Erinna Mich Dran hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Erinna Mich Dran"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1335957709987,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335957167577,
+      "content": "Ehm wenn du willst kann ich es dir beibringen.. Also ich hab da ne arbeit dar\u00c3\u00bcber geschreiben und hab es voll vielen auch schon erkl\u00c3\u00a4rt :P :** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ana-Celina Alurralde",
+      "timestamp_ms": 1335956068419,
+      "content": "Schreibst du am Mittwoch erst?! Ich irgendwie schon morgen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kai James Wagner",
+      "timestamp_ms": 1335954208258,
+      "content": "Kai James Wagner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kai James Wagner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Klex",
+      "timestamp_ms": 1335954149837,
+      "content": "Alexander Klex hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Schick",
+      "timestamp_ms": 1335954129434,
+      "content": "Nullstellen etc...s\u00c3\u00bc\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "David Schick",
+      "timestamp_ms": 1335954062707,
+      "content": "Was is hier eich los?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leandro Soarez",
+      "timestamp_ms": 1335953050236,
+      "content": "Leandro Soarez hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Leandro Soarez"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335953044694,
+      "content": "Alisa Braun hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alisa Braun"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335952991338,
+      "content": "Kay warte wir kl\u00c3\u00a4rens privat :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kai James Wagner",
+      "timestamp_ms": 1335952915891,
+      "content": "Immer :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335952871260,
+      "content": "Ja man. Wann hast zeit? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kai James Wagner",
+      "timestamp_ms": 1335952741650,
+      "content": "Das ganze thema ist billig, ich kanns (noch) :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335952667392,
+      "content": "Verdammt. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christina Luisa",
+      "timestamp_ms": 1335952643582,
+      "content": "Ich hab des alles schon wieder vergessen xD sorry.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335952563805,
+      "content": "Was is billig?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335952555945,
+      "content": "Ja schon. War ja in ungarn und jetzt m\u00c3\u00bcssen wir schon mittwoch nachschreiben -.- \nUnd warum ich dich frag? K\u00c3\u00b6nnt ja sein du kannst es ! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kai James Wagner",
+      "timestamp_ms": 1335952518080,
+      "content": "Das ist billig^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leandro Soarez",
+      "timestamp_ms": 1335952071507,
+      "content": "Das thema hab ich zwar grad auch aber warum schreia ihr das mir? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Frenzel",
+      "timestamp_ms": 1335951956163,
+      "content": "Ehm also Das kommt allllles dran!!!!!!!!!! :****",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335951861737,
+      "content": "Ehm.. kann jemand vielleicht mathe? \nAlso \nNullstellen,\nExtremstellen,\nVerhalten f(x)-> unendlich,\nWaagerechte und senkrechte asymptoten,\nUnd nachweisen ob ein bestimmter punkt auf dem graphen f liegt. \n\nKann mir jemand helfen? ist dringend :(\n\nAlisa :*",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008e",
+          "actor": "Marc Engelhardt"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Anna-Sophie, Christina und 9 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerannasophiechristinaund9weiterepersonen_5nqcc75e5g",
+  "magic_words": [
+    
+  ]
+}

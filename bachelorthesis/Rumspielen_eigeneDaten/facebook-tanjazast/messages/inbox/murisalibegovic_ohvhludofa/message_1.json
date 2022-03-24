@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Muris Alibegovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Muris Alibegovic",
+      "timestamp_ms": 1454510817040,
+      "content": "Hey \u00f3\u00be\u008c\u00b5 alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Muris Alibegovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/murisalibegovic_ohvhludofa",
+  "magic_words": [
+    
+  ]
+}

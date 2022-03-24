@@ -1,0 +1,360 @@
+{
+  "participants": [
+    {
+      "name": "Sinem Sine"
+    },
+    {
+      "name": "Julia Dumler"
+    },
+    {
+      "name": "Isabella Engel"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Sarah Marina"
+    },
+    {
+      "name": "Caroline Roy"
+    },
+    {
+      "name": "Lini Julie"
+    },
+    {
+      "name": "Jessii B\u00c3\u00b6sl"
+    },
+    {
+      "name": "Saskia van Leeuwen"
+    },
+    {
+      "name": "Franziska Binder"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Linnea Pauline"
+    },
+    {
+      "name": "Wilma Sofie"
+    },
+    {
+      "name": "Sofie Bauer"
+    },
+    {
+      "name": "Marvin Dickmann"
+    },
+    {
+      "name": "Paul Dumler"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Magdalena Oberlander"
+    },
+    {
+      "name": "Charlotte Kast"
+    },
+    {
+      "name": "Seija Knorr-K\u00c3\u00b6ning"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1338719239999,
+      "content": "Hanna Kramer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Hanna Kramer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Gessler",
+      "timestamp_ms": 1338537231588,
+      "content": "Michael Gessler hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michael Gessler"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruth Pele",
+      "timestamp_ms": 1338513901140,
+      "content": "Ruth Pele hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ruth Pele"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Gimpy Baier",
+      "timestamp_ms": 1338505735020,
+      "content": "Alexander Gimpy Baier hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johnny Straub",
+      "timestamp_ms": 1338498819347,
+      "content": "Johnny Straub hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Johnny Straub"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1338498194960,
+      "content": "Nina Ansch\u00c3\u00bctz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nina Ansch\u00c3\u00bctz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1338497818560,
+      "content": "wtf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marvin Dickmann",
+      "timestamp_ms": 1338494976120,
+      "content": "Hahaha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paul Dumler",
+      "timestamp_ms": 1338494948987,
+      "content": "Gruppenchat ist so ein schei\u00c3\u009f !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ramona Renz",
+      "timestamp_ms": 1338494493154,
+      "content": "Ramona Renz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ramona Renz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1338488376345,
+      "content": "Raphael Schwer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Raphael Schwer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Migena Dukaj",
+      "timestamp_ms": 1338487266949,
+      "content": "Migena Dukaj hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Migena Dukaj"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jones Mah",
+      "timestamp_ms": 1338486913520,
+      "content": "Jones Mah hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jones Mah"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruth Pele",
+      "timestamp_ms": 1338486913099,
+      "content": "Yip...schule fickt!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Robin Dickmann",
+      "timestamp_ms": 1338486865728,
+      "content": "Robin Dickmann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Robin Dickmann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338486860456,
+      "content": "ja okay dann nicht ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruth Pele",
+      "timestamp_ms": 1338486794157,
+      "content": "Weiss nicht ob ich wieder eins kauf...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338486755326,
+      "content": "im sommer dann wieder, nur dass du s eben wei\u00c3\u009ft <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruth Pele",
+      "timestamp_ms": 1338486701682,
+      "content": "Ich hab kein deutschen handy mehr. &neuer geht nicht nach europe!...sry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marvin Dickmann",
+      "timestamp_ms": 1338483471430,
+      "content": "hdf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338483372103,
+      "content": "schatz! ;D tut mir leid ... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Seija Knorr-K\u00c3\u00b6ning",
+      "timestamp_ms": 1338483371795,
+      "content": "mimimi :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marvin Dickmann",
+      "timestamp_ms": 1338483352919,
+      "content": "wollt ihr euch das als privat nachricht schrieben\n\ngeht n\u00c3\u00a4hmlich ziemlichb auf n sacke die ganzen benachrichtigungen am iphone!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338482911974,
+      "content": "glaub das 3 er oder so .. ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caroline Roy",
+      "timestamp_ms": 1338482883012,
+      "content": "Was hast f\u00c3\u00bcr eins?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338482818082,
+      "content": "wo sind die nummern ? ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Seija Knorr-K\u00c3\u00b6ning",
+      "timestamp_ms": 1338482697499,
+      "content": "s\u00c3\u00bc\u00c3\u009f :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338482650991,
+      "content": "f\u00c3\u00bcr mich neu! ;D und besser als das alte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Seija Knorr-K\u00c3\u00b6ning",
+      "timestamp_ms": 1338482631602,
+      "content": "dein ALTES iphoe :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338482625969,
+      "content": "jaaa ;D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Migena Dukaj",
+      "timestamp_ms": 1338482613814,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Migena Dukaj",
+      "timestamp_ms": 1338482611779,
+      "content": "Hast du jetzt deib iphone ? :\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Linnea Pauline",
+      "timestamp_ms": 1338482570468,
+      "content": "Hab ne neue Nummer: 01627592742\nw\u00c3\u00a4re hammer wenn ihr mir ne sms schreiben w\u00c3\u00bcrdet, weil beim \u00c3\u00bcbertragen leider alle nummern weg waren, (+ name)\ndanke <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sinem, Julia, Isabella und 17 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/sinemjuliaisabellaund17weiterepersonen_muzcsdqlvq",
+  "magic_words": [
+    
+  ]
+}

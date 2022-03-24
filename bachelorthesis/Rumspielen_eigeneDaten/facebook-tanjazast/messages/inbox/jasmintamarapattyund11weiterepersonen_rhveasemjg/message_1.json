@@ -1,0 +1,292 @@
+{
+  "participants": [
+    {
+      "name": "Jasmin Huber"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Tamara Pletz"
+    },
+    {
+      "name": "Patty Lipp"
+    },
+    {
+      "name": "Felix St\u00c3\u00bcckle"
+    },
+    {
+      "name": "Lucas Goldmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Melina M\u00c3\u00bcller"
+    },
+    {
+      "name": "Carolin Flaig"
+    },
+    {
+      "name": "Carsten Stahl Initiator"
+    },
+    {
+      "name": "Iris Hofman"
+    },
+    {
+      "name": "Lena Hammer"
+    },
+    {
+      "name": "Josh Montii"
+    },
+    {
+      "name": "Julia Lenkeit"
+    },
+    {
+      "name": "Anna Ze"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ren\u00c3\u00a9 Drewes",
+      "timestamp_ms": 1411369221499,
+      "content": "Ren\u00c3\u00a9 Drewes hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ren\u00c3\u00a9 Drewes"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1408840920478,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jasmin Kaiser",
+      "timestamp_ms": 1408525746966,
+      "content": "Jasmin Kaiser hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jasmin Kaiser"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianni Gianni",
+      "timestamp_ms": 1404136794890,
+      "content": "Gianni Gianni hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Gianni Gianni"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan W\u00c3\u00b6lfl",
+      "timestamp_ms": 1403970739544,
+      "content": "Stefan W\u00c3\u00b6lfl hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Stefan W\u00c3\u00b6lfl"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kai Rittberger",
+      "timestamp_ms": 1403703469236,
+      "content": "Kai Rittberger hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kai Rittberger"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ines Tek",
+      "timestamp_ms": 1403632164577,
+      "content": "Ines Tek hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ines Tek"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Ritlewski",
+      "timestamp_ms": 1403290861499,
+      "content": "Marcel Ritlewski hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marcel Ritlewski"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jannik Hartberger",
+      "timestamp_ms": 1403178800990,
+      "content": "Jannik Hartberger hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jannik Hartberger"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Taktboss Pfitzer",
+      "timestamp_ms": 1403117247055,
+      "content": "Sebastian Taktboss Pfitzer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sebastian Taktboss Pfitzer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mina Petrovi\u00c4\u0087",
+      "timestamp_ms": 1403111622315,
+      "content": "Mina Petrovi\u00c4\u0087 hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mina Petrovi\u00c4\u0087"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403103832528,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gianni Gianni",
+      "timestamp_ms": 1403099145278,
+      "content": "What the",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Pawlak",
+      "timestamp_ms": 1403074840860,
+      "content": "Anne Pawlak hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anne Pawlak"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luisa Gro\u00c3\u009fsteinbeck",
+      "timestamp_ms": 1403038287040,
+      "content": "Luisa Gro\u00c3\u009fsteinbeck hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Luisa Gro\u00c3\u009fsteinbeck"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ebru Kilic",
+      "timestamp_ms": 1403038273855,
+      "content": "Ebru Kilic hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ebru Kilic"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicki Huber",
+      "timestamp_ms": 1403038268187,
+      "content": "Nicki Huber hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nicki Huber"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403038258305,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sammii Miiep",
+      "timestamp_ms": 1403037267705,
+      "content": "Sammii Miiep hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sammii Miiep"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403037210450,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jannik Hartberger",
+      "timestamp_ms": 1403037194588,
+      "content": "Lol, erinnerst du dich daran?\r\n http://t.co/MCgjc98fz3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jasmin, Tamara, Patty und 11 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/jasmintamarapattyund11weiterepersonen_rhveasemjg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Saskia Debelt"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saskia Debelt",
+      "timestamp_ms": 1591865170660,
+      "content": "huhu \u00e2\u0098\u00ba\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc alles Liebe und Gute zu deinem Geburtstag \u00f0\u009f\u008e\u0082\u00f0\u009f\u0098\u008a Ich hoffe du hast einen wundersch\u00c3\u00b6nen Tag und feierst ihn so wie du ihn Dir genau vorstellst \u00f0\u009f\u0099\u0082 Ich w\u00c3\u00bcnsche dir viel Gl\u00c3\u00bcck, Gesundheit, Erfolg und das alles was du dir vornimmst auch erreichst \u00f0\u009f\u0099\u0082 Genie\u00c3\u009f deinen Tag \u00f0\u009f\u008e\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saskia Debelt",
+      "timestamp_ms": 1588527209416,
+      "content": "\u00f0\u009d\u0097\u0097\u00f0\u009d\u0097\u00b2\u00f0\u009d\u0097\u00bf \u00f0\u009d\u0097\u00a6\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00ba\u00f0\u009d\u0097\u00ba\u00f0\u009d\u0097\u00b2\u00f0\u009d\u0097\u00bf \u00f0\u009d\u0098\u0080\u00f0\u009d\u0098\u0081\u00f0\u009d\u0097\u00b2\u00f0\u009d\u0097\u00b5\u00f0\u009d\u0098\u0081 \u00f0\u009d\u0098\u0083\u00f0\u009d\u0097\u00bc\u00f0\u009d\u0097\u00bf \u00f0\u009d\u0097\u00b1\u00f0\u009d\u0097\u00b2\u00f0\u009d\u0097\u00bf \u00f0\u009d\u0097\u00a7\u00c3\u00bc\u00f0\u009d\u0097\u00bf\u00f0\u009f\u008f\u009d\u00f0\u009f\u00a6\u008b\u00f0\u009f\u008c\u00bb\nWie sieht es bei dir aus? Bist du schon ready? \nIch hab aktuelle wieder Platz und viele rocken ihre Challenge schon, m\u00c3\u00b6chtest du dabei sein? \u00f0\u009f\u0092\u00af\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saskia Debelt",
+      "timestamp_ms": 1565540927220,
+      "content": "Ist meine Nachricht untergegangen? \u00f0\u009f\u00a4\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saskia Debelt",
+      "timestamp_ms": 1565366684280,
+      "content": "Hola Tanja \u00e2\u0098\u00ba Ich bin auf der suche nach Menschen, die gerne fitter/ges\u00c3\u00bcnder leben wollen, abnehmen/zunehmen oder Muskeln aufbauen m\u00c3\u00b6chten \u00f0\u009f\u0098\u008a Kennst du denn jemand? Liebe Gr\u00c3\u00bc\u00c3\u009fe Saskia \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Saskia Debelt",
+      "timestamp_ms": 1565347622946,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Saskia Debelt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/saskiadebelt_vvsnh8vn8a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Franziska Gnann"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Selina Scho"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Sophie Witte"
+    },
+    {
+      "name": "Ang Joe Bra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1404480495698,
+      "content": "Beste gr\u00c3\u00bc\u00c3\u009fe ausm delitscher krankenhaus wo ich kaum verstehe was die eig von mir wollen. ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1404480484763,
+      "content": "Axh ja und VIEL SPASS EUCH! :)\nGenie\u00c3\u009ft dwn abend und denkt an mich ;p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404480438307,
+      "content": "Klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1404480050760,
+      "content": "Der rotstift geile idee xDDDD\nKann ich dir das geld aucz bringen? Ich w\u00c3\u00bcrd gerne mitzahlen aber bin ja nicht da.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404473899143,
+      "content": "Ne torte nen rotstift zum wegradierrn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1404473816911,
+      "content": "Was schenken wir denn eig? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina Scho",
+      "timestamp_ms": 1404471715854,
+      "content": "okay :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404426232964,
+      "content": "Alle die mitschenken mir morgen zwei euro mitbringen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1404426164061,
+      "content": "Franziska hat die Gruppe heizelmann Geschenk genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "heizelmann Geschenk",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/heizelmanngeschenk_ubxnxw3awg",
+  "magic_words": [
+    
+  ]
+}

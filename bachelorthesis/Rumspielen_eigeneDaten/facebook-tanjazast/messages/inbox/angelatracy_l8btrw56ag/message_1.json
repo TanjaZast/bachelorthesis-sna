@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Angela Tracy"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1543989610040,
+      "content": "Mein Beileid \u00f0\u009f\u0098\u0095 ich w\u00c3\u00bcnsche dir viel Kraft f\u00c3\u00bcr diese Zeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angela Tracy",
+      "timestamp_ms": 1506203758860,
+      "content": "Angela Tracy ist neu im Messenger! Sende eine Begr\u00c3\u00bc\u00c3\u009fungsnachricht oder einen Sticker.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Angela Tracy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/angelatracy_l8btrw56ag",
+  "magic_words": [
+    
+  ]
+}

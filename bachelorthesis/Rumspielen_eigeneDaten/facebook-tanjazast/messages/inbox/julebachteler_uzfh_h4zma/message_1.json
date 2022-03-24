@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jule Bachteler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jule Bachteler",
+      "timestamp_ms": 1578473568021,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jule Bachteler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/julebachteler_uzfh_h4zma",
+  "magic_words": [
+    
+  ]
+}

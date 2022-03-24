@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Laura Walter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421098827391,
+      "content": "Fangs sch\u00c3\u00b6n dich mal nach ner gef\u00c3\u00bchlten Ewigkeit gesehen zu haben \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421098799124,
+      "content": "Ja dachte du willst die Bilder mit dem kleinen s\u00c3\u00bc\u00c3\u009fen \u00f3\u00be\u008d\u0095\u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Laura Walter",
+      "timestamp_ms": 1421022932471,
+      "content": "Hey :)\nHaha cool danke \u00f3\u00be\u008c\u00b8\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014422613,
+      "content": "Dachte du willst die Bilder vielleicht haben \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014395824,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10867212_920482937992557_109271_n_920482937992557.jpg",
+          "creation_timestamp": 1421014394
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014393364,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10904339_920482921325892_342560329_n_920482921325892.jpg",
+          "creation_timestamp": 1421014392
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014390299,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10904315_920482884659229_27447687_n_920482884659229.jpg",
+          "creation_timestamp": 1421014389
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014387912,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10933346_920482817992569_1452055366_n_920482817992569.jpg",
+          "creation_timestamp": 1421014386
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014384967,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10912927_920482761325908_78953235_n_920482761325908.jpg",
+          "creation_timestamp": 1421014383
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014382770,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10913493_920482754659242_376794724_n_920482754659242.jpg",
+          "creation_timestamp": 1421014381
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1421014379737,
+      "photos": [
+        {
+          "uri": "messages/inbox/laurawalter_y2_yjulvpa/photos/10877836_920482727992578_717998339_n_920482727992578.jpg",
+          "creation_timestamp": 1421014378
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.106.165",
+      "is_unsent": false
+    }
+  ],
+  "title": "Laura Walter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/laurawalter_y2_yjulvpa",
+  "magic_words": [
+    
+  ]
+}

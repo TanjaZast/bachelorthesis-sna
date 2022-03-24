@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Dejo Jovo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343125424790,
+      "content": "Wie hei\u00c3\u009ft das eine video von freitag?? Das hast du mir gezeigt mit so nem typen der alles mit dem mund macht :) und so zeugs :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338903421405,
+      "content": ":) okay ja ist gut bis dann :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dejo Jovo",
+      "timestamp_ms": 1338903394326,
+      "content": "also bye bye am sieht sich am 7ten :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338903354101,
+      "content": "sagst ihr nen gaaaanz lieben gru\u00c3\u009f?? :)  freut mich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dejo Jovo",
+      "timestamp_ms": 1338903230567,
+      "content": "einbahnfrei :D ich geh gleich zur baba ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338903168894,
+      "content": "ja hallo dejo :) ja klar sind wir und wie gehts dir da unten? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dejo Jovo",
+      "timestamp_ms": 1338903131182,
+      "content": "was geht denn ab? seit ihr gut angekommen? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dejo Jovo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dejojovo_gt0mpm9vsa",
+  "magic_words": [
+    
+  ]
+}

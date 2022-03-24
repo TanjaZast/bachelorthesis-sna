@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Anja Theresa H\u00c3\u00bcbner"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anja Theresa H\u00c3\u00bcbner",
+      "timestamp_ms": 1458678125922,
+      "content": "Danke Tanja, total lieb von dir!! \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458678017991,
+      "content": "Hey Hey meine Liebe Anja! Ich w\u00c3\u00bcnsche dir von Herzen alles Liebe und Gute zum Geburtstag\u00f3\u00be\u008c\u00ad Feier heute noch ganz arg sch\u00c3\u00b6n und hab nen sch\u00c3\u00b6nen Abend! Lass mal wieder von dir h\u00c3\u00b6ren - w\u00c3\u00bcrde mich freuen \u00f3\u00be\u008d\u0095\u00f3\u00be\u0081\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anja Theresa H\u00c3\u00bcbner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anjatheresahubner_wqgay7coqg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353610095216,
+      "content": "Okay sehr gut!! :* ;) freut mich und danke!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1353605028829,
+      "content": "He :) also ich kann auch weil ich Mittagspause hab von daher. :) muss mir hlat davor noch was zu essen holen :) ansonsten ja :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1353597078007,
+      "content": "hey ;), ja, gute Idee! Ich schau, dass ich kommen kann, aber ich kanns nicht versprechen, weil an dem Tag mein Bruder Geburtstag hat und ich nicht wei\u00c3\u009f, ob ich meiner Mum helfen muss, wenn wir G\u00c3\u00a4ste haben :D, aber eigentlich ists kein Problem :) \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353526927059,
+      "content": "also hei ihr beiden ;) :* ich soll euch fragen ob ihr beide oder eine von euch beiden am 29. November in der 7. stunde also in der mittagspause auch zu der besprechung wegen den automaten mitkommen wollt??? fr lamprecht meinte das w\u00c3\u00a4re nicht schlecht ;) naja wir wollen reden wie wir den geschmack \u00c3\u00a4ndern k\u00c3\u00b6nnen von dem zeugs im automaten (das mit den normalen sachen klappt ja nicht und das dann halt um wenigstens was machen) ;) :* w\u00c3\u00a4re das okay?? kussi an euch beiden <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hanna und Charlotte",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/hannaundcharlotte_vi7a1hsu8g",
+  "magic_words": [
+    
+  ]
+}

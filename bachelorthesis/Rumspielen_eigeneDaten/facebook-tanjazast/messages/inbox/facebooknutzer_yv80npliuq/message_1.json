@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341908652764,
+      "content": "Ja okay stimmt :D oh man das stelle ich mir voll stressig vor :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341907802334,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341907799564,
+      "content": "haha jaa bei dem muss man echt aufpassen der l\u00c3\u00a4uft mit seinem handy rum und macht von allem ein bild und normal versteck ich mich immer aber da gings ja schlecht :F",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341907661584,
+      "content": ":) haha der hat halt auch voll die hobbys :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341907478776,
+      "content": "ja mein onkel hat die bilder gleich nach dem ich wieder in meinem zimmer war die bilder gemacht ich war da noch voll in der narkose :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341906440465,
+      "content": ":) bitte bitte :* ich bin voll erschrocken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341906370687,
+      "content": "ja :) aber danke das du gefragt hast :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341894136171,
+      "content": "Okay gut :) das freut mich :* oh \u00e2\u0082\u00acam du arme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1341869306137,
+      "content": "ja m\u00c3\u00a4usle man hat mir die mandeln entfernt und da musste ich 7 tage im krankenhaus bleiben und dann hats nachgeblutet und deswegen war ich dann f\u00c3\u00bcr 10 tage im krankenhaus aber jz gehts mir wieder besser :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341861978485,
+      "content": "was ist los s\u00c3\u00bc\u00c3\u009fe?? du warst im krankenhaus??",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_yv80npliuq",
+  "magic_words": [
+    
+  ]
+}

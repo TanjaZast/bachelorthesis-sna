@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Murat Celik"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Murat Celik",
+      "timestamp_ms": 1414529304873,
+      "content": "Heyy :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Murat Celik",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/muratcelik_5ofg8ycwgg",
+  "magic_words": [
+    
+  ]
+}

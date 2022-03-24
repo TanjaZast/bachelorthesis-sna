@@ -1,0 +1,266 @@
+{
+  "participants": [
+    {
+      "name": "Anne Kark"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460586752777,
+      "content": "Danke Maus \u00f0\u009f\u0092\u0095 ne bis jetzt mal nicht ich denke das reicht mir zum vorarbeiten \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1460576629787,
+      "content": "Hier das skript Mausi. M\u00c3\u00b6chtest du dieses Semester auch haben? (Bankrechnungslegung und Konzernabschluss)",
+      "files": [
+        {
+          "uri": "messages/inbox/annekark_fgybcmrc1a/files/TechnikderFinanzbuchfuhrung_1195181417168148.pdf",
+          "creation_timestamp": 1460576595
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432846098796,
+      "content": "Aber sieht mega aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432844368194,
+      "content": "Jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432836449120,
+      "content": "Halt anders kombiniert?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1432836431654,
+      "content": "Sch\u00c3\u00b6n \u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432835227036,
+      "content": "Wie findest? Hb den eben gekauft. W\u00c3\u00bcrde ihn hinten zubinden.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432835212301,
+      "photos": [
+        {
+          "uri": "messages/inbox/annekark_fgybcmrc1a/photos/11271961_1008773309142294_475148868_n_1008773309142294.jpg",
+          "creation_timestamp": 1432835211
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1432835210860,
+      "photos": [
+        {
+          "uri": "messages/inbox/annekark_fgybcmrc1a/photos/11287107_1008773295808962_1532399235_n_1008773295808962.jpg",
+          "creation_timestamp": 1432835210
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1431900400878,
+      "content": "Nachti muss mir noch paar Sachen anschauen Hahahah \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1431900355321,
+      "content": "Nachti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1431900236043,
+      "content": "\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1431900201687,
+      "content": "Hahahahahahahahhhahaha OMG \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1431899610407,
+      "content": "No problemo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1431899575088,
+      "content": "Sorry ich lach mich gerade kaputt und alleine ist es bl\u00c3\u00b6d! I need to share! \u00f3\u00be\u008c\u00ad\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1431899560208,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1431899544889,
+      "content": "Geht nicht wenn du Tanja kennst \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1431899535606,
+      "content": "Der Moment wenn du dir noch was f\u00c3\u00bcr nehmen durchlesen willst...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1431899515428,
+      "content": "Freak hahhahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430847369946,
+      "content": "Doofkopfiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430847090340,
+      "content": "LESSSEEEEN",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430847014136,
+      "content": "wer zu wem geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430847011802,
+      "content": "schere stein papier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430847007726,
+      "content": "schnick schnak schnug",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430846995027,
+      "content": "hahah ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430846983307,
+      "content": "Okay der kommt aber fr\u00c3\u00bch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430846975864,
+      "content": "Hahahah :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430846953324,
+      "content": "niclai kommt noch so um 9e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430689514748,
+      "content": "Gut so!!! Viel spass! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430689408076,
+      "content": "ja klingelt gerade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1430689397647,
+      "content": "Kommt adis noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430689311458,
+      "content": "cutie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430689308773,
+      "content": "schau das neue Bild von Thomas an :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anne Kark",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annekark_fgybcmrc1a",
+  "magic_words": [
+    
+  ]
+}

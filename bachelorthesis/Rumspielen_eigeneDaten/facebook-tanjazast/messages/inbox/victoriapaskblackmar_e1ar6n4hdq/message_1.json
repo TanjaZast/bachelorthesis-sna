@@ -1,0 +1,684 @@
+{
+  "participants": [
+    {
+      "name": "Victoria Pask Blackmar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342870710385,
+      "content": "ich komme jetzt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342870704582,
+      "content": "im coming now?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342812026628,
+      "content": "No you wasn't there :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342808485820,
+      "content": "nein die ist in brussel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342791022384,
+      "content": ":) ehm i came to velvet but you wasn't there?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342735386078,
+      "content": "okiiee doke :* hehee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342733386741,
+      "content": "Okay bis morgen dann :) :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342729823624,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342729819067,
+      "content": "okayyy :p *",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342729443305,
+      "content": "Ehm heute hab ich echt keine zeit gehabt :P :* aber ich versuche es morgen dann ganz sicher!! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342728264747,
+      "content": "nein ich hab gefragt was fur ne zeit du forbei kommen voltest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342727486839,
+      "content": "Oh you don't understand?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342726478213,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342726476068,
+      "content": "heh?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342673869088,
+      "content": "Ehm in meiner schule um 19.30 :) :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342647242680,
+      "content": "WOOOO :* okayy wie weil uhr ungefarh?nein nien geht schon :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342646721097,
+      "content": "Okay sehr gut :** also wenn ich es schaffe komme ich morgen kurz vorbei :* :) aber nur vielleicht weil ich morgen nen auftritt hab. We will present our musical wich we write together (only my class) :** i hope you understand my english sentences.. (Sometimes very bad) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342646344964,
+      "content": "jaaa sicher!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342646334526,
+      "content": "Dann machen wir ja was also wenn du willst? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342646126061,
+      "content": "habe wast kiene weil vellie geht nach brusseln gel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645822254,
+      "content": "Ehm auch :) :* das freut mich.. Na was sind so deine Pl\u00c3\u00a4ne f\u00c3\u00bcr die n\u00c3\u00a4chsten tage?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342645759604,
+      "content": "gehts gut und dir? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342645752918,
+      "content": "mir get",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645709161,
+      "content": "Na wie geht es dir? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1342645628826,
+      "content": "heyy :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342645614559,
+      "content": "Heeei du :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333473028739,
+      "content": "Ahh she should help you then xD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333472619675,
+      "content": "Yeah :) she has ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333472549616,
+      "content": "Does your friend have it?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333472274136,
+      "content": "But I hope it will work.. I will ask my friend :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333472171581,
+      "content": "Ahhh man :/ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333471448433,
+      "content": "This all is so complicate :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333471266330,
+      "content": "Okayy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333470415630,
+      "content": ":) okay I will check it ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333470119090,
+      "content": "Nopee I didn't get anything",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333470025391,
+      "content": "i have send you a message.. have you read it or have yu accept me? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333469946969,
+      "content": "yeah it says its a code, but you haven't accepted, its waiting for the approval ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333469854871,
+      "content": "can you bb find this code?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333469835110,
+      "content": "2220514F ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333469726493,
+      "content": "Ohhh damn :/ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333469674503,
+      "content": "okay but i can`t see it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333469593678,
+      "content": "I've sent it you just need to accept ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333469427560,
+      "content": "I think 2220514F :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333469169775,
+      "content": "Mm give me you're code..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333468780098,
+      "content": "okay:) i have ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333468677484,
+      "content": "Click the blackberry button when you're on it, and scroll down to 'invite to bbm' then you have to put in...271EB0CE that's my code you'll have one of your own!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333468352263,
+      "content": "okay i think i have it now and how can i invite you?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333463429027,
+      "content": "Well then you should be able to have it ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333462740983,
+      "content": "Yes :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333462086721,
+      "content": "ermm I don't know x_x but you have internet right?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333462006557,
+      "content": ":) okay oh man but what can O do when it doesn't work? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333461882162,
+      "content": "Okiee doke!I hope so too ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333461230756,
+      "content": "Okay I think I will try it today ;) I hope it will work  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333459774048,
+      "content": "noo you don't :/ you should be able to just download it ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333458514602,
+      "content": "I can't download it... Must I use the CD (the blackberry programm)??  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333458293712,
+      "content": "Ohh no I don't have that, have you got bbm yet?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333400961076,
+      "content": "Whatsapp is a program for iphones or blackberrys to chat or to comunicate without paying money like bbm but for all smartphones? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333400672988,
+      "content": "den was app?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333400660529,
+      "content": "Hast du die whatsapp auf deinem blackberry? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1333400610710,
+      "content": "was???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333398962185,
+      "content": "Duu :) hast du eigentlich whatsapp?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332024642181,
+      "content": "ahh danke du auch!!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332024598038,
+      "content": "Okay :) also vici :) ich geh jetzt schlafen.. Gute nacht und schlaf du auch gut :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332024292483,
+      "content": "Nichts ich bin jetze zu hause :p ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332024145479,
+      "content": "Was machst du dann heute noch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332023743937,
+      "content": "Hahaaa :') ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332023487188,
+      "content": ":) sch\u00c3\u00b6n ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332022093821,
+      "content": "Grad fertig ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332020635428,
+      "content": "Und schaust du immer noch twilight? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332019443598,
+      "content": "Hahaaa xD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332018911620,
+      "content": "Ja finde ich schon :)\r\n\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332018555711,
+      "content": "Ahhh giel!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332017734668,
+      "content": "Ja x faktor gibt es bei uns auch noch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332017255773,
+      "content": "Ja wier habben eins in england es hist x factor ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332016776082,
+      "content": "Schon :) ich finds okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332016630789,
+      "content": "ahhh giel :3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332016540317,
+      "content": "Ich schau deutschland sucht den superstar :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332016393589,
+      "content": "Voll man!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332016137045,
+      "content": ":) oha cooler film *_*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332015537209,
+      "content": "Ich bin bei freuden, wir kucken twilight an :') ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332015318125,
+      "content": ":) was machst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332014926055,
+      "content": "thehee yes ist!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332014749098,
+      "content": "Ja :) schon geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1332013487417,
+      "content": "Ahhhh :') ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332012373587,
+      "content": "Nein :) aber kann ich mir holen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331998165922,
+      "content": "hast du ineternet auf dein tarif?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331997899750,
+      "content": "Okay :) ich glaub dann werde ich mir ne internetflat holen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331997793884,
+      "content": "komt drauf an tarif",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331997760129,
+      "content": "nee mir nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331997596589,
+      "content": "Okay dann google ich es mal und lad es mir runter :P kostet das was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331997507987,
+      "content": "jaaa :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331997444227,
+      "content": "Muss man sich das runter laden? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331997252102,
+      "content": "ermm so wie ein chat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331997200757,
+      "content": "Ja ich hab auch ein blackberry :) was ist eine bbm?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Victoria Pask Blackmar",
+      "timestamp_ms": 1331996052553,
+      "content": "du hast ein blackberry? hast du auch bbm?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Victoria Pask Blackmar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/victoriapaskblackmar_e1ar6n4hdq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "participants": [
+    {
+      "name": "Michelle Pfeifer"
+    },
+    {
+      "name": "Benno Grimminger"
+    },
+    {
+      "name": "Patrick PA"
+    },
+    {
+      "name": "Vale Va"
+    },
+    {
+      "name": "Kevin Simme"
+    },
+    {
+      "name": "Annette Heu"
+    },
+    {
+      "name": "Marcel Ulm"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Samir Dema"
+    },
+    {
+      "name": "Samantha Zeisberg"
+    },
+    {
+      "name": "Max Imal"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa-Marie Welz",
+      "timestamp_ms": 1553004832844,
+      "content": "Lisa-Marie Welz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa-Marie Welz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco R'ose",
+      "timestamp_ms": 1532692580049,
+      "content": "Marco R'ose hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marco R'ose"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carolin Sauter",
+      "timestamp_ms": 1527187150908,
+      "content": "Carolin Sauter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Carolin Sauter"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c3\u0084nni Kehr",
+      "timestamp_ms": 1527175134629,
+      "content": "\u00c3\u0084nni Kehr hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "\u00c3\u0084nni Kehr"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manu Frank",
+      "timestamp_ms": 1527172113747,
+      "content": "Manu Frank hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Manu Frank"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samir Dema",
+      "timestamp_ms": 1527170983085,
+      "content": "Samir hat gespielt. Du bist dran!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philippe Petit",
+      "timestamp_ms": 1403095993986,
+      "content": "Philippe Petit hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Philippe Petit"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jasmin Patrick",
+      "timestamp_ms": 1403093985888,
+      "content": "Jasmin Patrick hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jasmin Patrick"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402779557228,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna Strobel",
+      "timestamp_ms": 1402763673710,
+      "content": "Anna Strobel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anna Strobel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maxi Obermeier",
+      "timestamp_ms": 1402762396146,
+      "content": "Maxi Obermeier hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Maxi Obermeier"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mary Lou",
+      "timestamp_ms": 1402762227429,
+      "content": "Mary Lou hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Mary Lou"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Natalie",
+      "timestamp_ms": 1402760096664,
+      "content": "Nina Natalie hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nina Natalie"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402758993257,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lukas Merke",
+      "timestamp_ms": 1402752850180,
+      "content": "Lukas Merke hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lukas Merke"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Una Vio",
+      "timestamp_ms": 1402751464658,
+      "content": "Una Vio hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Una Vio"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Emslander",
+      "timestamp_ms": 1402751067941,
+      "content": "Kevin Emslander hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kevin Emslander"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jean Luc Sagna",
+      "timestamp_ms": 1402750609434,
+      "content": "Jean Luc Sagna hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jean Luc Sagna"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anastasia Krupke",
+      "timestamp_ms": 1402749792656,
+      "content": "Anastasia Krupke hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anastasia Krupke"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jacqueline Schenk",
+      "timestamp_ms": 1402748624741,
+      "content": "Jacqueline Schenk hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jacqueline Schenk"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gergis Merke",
+      "timestamp_ms": 1402748574741,
+      "content": "Gergis Merke hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Gergis Merke"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alex Kynigopoulos",
+      "timestamp_ms": 1402748307425,
+      "content": "Alex Kynigopoulos hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alex Kynigopoulos"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andy Bndgns",
+      "timestamp_ms": 1402747738210,
+      "content": "Andy Bndgns hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Andy Bndgns"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maxi Obermeier",
+      "timestamp_ms": 1402747712188,
+      "content": "Eine tolle Art, ein neues iPad zu gewinnen ...\r\n http://t.co/1cudh14uNc",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Michelle, Benno, Patrick und 8 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/michellebennopatrickund8weiterepersonen_05dbvlyycq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Nico Amann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nico Amann",
+      "timestamp_ms": 1608323780348,
+      "content": "Nico hat einen Anhang gesendet.",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nico Amann",
+      "timestamp_ms": 1455280897573,
+      "content": "Hey Frau Zast\u00f0\u009f\u0098\u008a\nWie wars arbeiten noch am Dienstag.?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nico Amann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicoamann__uzc3jiovg",
+  "magic_words": [
+    
+  ]
+}

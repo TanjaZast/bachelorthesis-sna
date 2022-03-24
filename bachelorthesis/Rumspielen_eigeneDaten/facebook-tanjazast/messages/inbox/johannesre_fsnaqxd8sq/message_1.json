@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Johannes Re"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1548085043855,
+      "content": "Johannes hat dich eingeladen, Quiz Planet zu spielen",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1440167228054,
+      "content": "Seid ihr gut heimgekommen?\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438234391223,
+      "content": "Okay aber 2 Tage reichen bei so was dann schon vollkommen aus \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438234374697,
+      "content": "Dann fang mal an mit trainieren! \u00f0\u009f\u0098\u0089 ich wollte wenn dann den halben. Aber ja keine Ahnung. Ne ich hasse \u00c3\u0084rzte immer mehr ich geh da nicht hin.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1438197814893,
+      "content": "Kein problem, bin dir nicht b\u00c3\u00b6se\u00f3\u00be\u008c\u00b0\nVoll bl\u00c3\u00b6d!! Musst mal danach schauen lassen\u00f3\u00be\u008d\u0087\nIch m\u00c3\u00b6chte die 10 km laufen... Oder jedenfalls versuchen.\nNaja es ging, 2 tage hat es mich voll zerlegt, dann wars einigerma\u00c3\u009fen gut\u00f3\u00be\u008d\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438116882081,
+      "content": "Sorry hatte voll vergessen zu antworten... \u00f0\u009f\u0098\u009e naja wollte aber bekomme immer Knieschmerzen wenn ich joggen gehe zur Zeit. Du? Oha so schlimm gleich bei dir? Sehr gut!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1437686681696,
+      "content": "Freut mich\u00f0\u009f\u0098\u008a\nMachst du beim einstein marathon mit ?\n\nMich hatte es erwischt gehabt\u00f0\u009f\u0098\u0083 hatte bisschen fieber, gliederschmerzen...\nAber jetzt passt es auch wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603147710,
+      "content": "Ja doch fast zu 100% wieder \n\nGeht es dir auch gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603131204,
+      "content": "Ne bin im easy Sports und Mc fit :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1437523023620,
+      "content": "Super ! \nbist du beim TSG im fitness ?\n\nSchon wieder gesund jetzt ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908483758,
+      "content": "Sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908482585,
+      "content": "Nein bestimmt nicht \u00f3\u00be\u00b0\u0080 alles m\u00c3\u00b6gliche von tanzen bis zu Gewichte alles \n\nMuss halt dein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1436905027575,
+      "content": "Voll komisch, dann werd schnell wieder fit\u00f3\u00be\u008c\u00b5\nWas machst eigentlich f\u00c3\u00bcr sport?\nDie hitze wird auch unter anderem ein grund gewesen sein meinst?\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436890586537,
+      "content": "Nicht so ganz bin seit ner Woche krankgeschrieben aber will wieder Spot machen \u00f3\u00be\u008d\u0080\u00f3\u00be\u0093\u00b5 \n\nHaha ja zu dem Zeitpunkt war es nicht wirklich ,,nur''",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1436755903577,
+      "content": "\u00f3\u00be\u008c\u00b3\nWenns nur deswegen war, dann gehts ja...\u00f3\u00be\u008c\u00b1\nJetzt ist alles wieder gut oder wie\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436723441520,
+      "content": "Bitte bitte gerne doch lieber Hannes \u00f3\u00be\u008c\u00ad\u00f3\u00be\u008c\u00b5\n\nDanke ja war von Montag bis Donnerstag hab wahrscheinlich beim bankdr\u00c3\u00bccken \u00c3\u00bcbertrieben. \u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johannes Re",
+      "timestamp_ms": 1436719653565,
+      "content": "Vielen dank f\u00c3\u00bcrs gratulieren, hab mich gefreut\u00f3\u00be\u008c\u00b5\r\ndir w\u00c3\u00bcnsch ich ne gute besserung, dejo hat mir erz\u00c3\u00a4hlt du warst im krankenhaus.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Johannes Re",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/johannesre_fsnaqxd8sq",
+  "magic_words": [
+    
+  ]
+}

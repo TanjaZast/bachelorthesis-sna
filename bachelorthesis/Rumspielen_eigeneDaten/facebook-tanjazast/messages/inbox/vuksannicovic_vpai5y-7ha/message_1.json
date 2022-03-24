@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Vuksan Nicovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1407752705612,
+      "content": "\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1407752703492,
+      "content": "Ej Dobro a ti? Da naravno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vuksan Nicovic",
+      "timestamp_ms": 1407728044568,
+      "content": "Eej, kako si? :-)\nOdgovara li ti majica? :-P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vuksan Nicovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/vuksannicovic_vpai5y-7ha",
+  "magic_words": [
+    
+  ]
+}

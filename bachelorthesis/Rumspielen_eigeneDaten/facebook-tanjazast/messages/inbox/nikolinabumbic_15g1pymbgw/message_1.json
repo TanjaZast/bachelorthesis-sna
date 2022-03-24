@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Nikolina Bumbi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1293380801000,
+      "content": "zelim i tvojoj obiterlji!!!! da se najedete i da se veselite!!! :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikolina Bumbi\u00c4\u0087",
+      "timestamp_ms": 1293302134000,
+      "content": "Sretan Bo\u00c5\u00bei\u00c4\u0087 tebi i tvojoj obitelji od obitelji Zarezovski!!!!!! :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nikolina Bumbi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nikolinabumbic_15g1pymbgw",
+  "magic_words": [
+    
+  ]
+}

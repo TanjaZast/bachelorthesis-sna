@@ -1,0 +1,671 @@
+{
+  "participants": [
+    {
+      "name": "Natalia Bartos"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Jonas Broleen"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Sanja Gutjahr"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Max Sch\u00c3\u00b6mig"
+    },
+    {
+      "name": "Max L\u00c3\u00b6wlein"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388834916285,
+      "content": ": D unser cooles hintergrundbild : D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sanja Gutjahr",
+      "timestamp_ms": 1388830325178,
+      "content": "Hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388829976533,
+      "content": "Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388829972750,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1533244_642550862475949_156977907_n_642550862475949.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1558688_642550889142613_709935273_n_642550889142613.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1501978_642550872475948_199468354_n_642550872475948.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1600188_642550865809282_156789720_n_642550865809282.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1558829_642550869142615_161972028_n_642550869142615.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1492946_642550895809279_1428195423_n_642550895809279.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1488342_642550892475946_251509190_n_642550892475946.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1558830_642550885809280_507214872_n_642550885809280.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1533306_642550879142614_227572434_n_642550879142614.jpg",
+          "creation_timestamp": 1388829972
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1488552_642550875809281_148821166_n_642550875809281.jpg",
+          "creation_timestamp": 1388829972
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388753889623,
+      "content": "(Y)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388753858847,
+      "content": "her damit =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388753355022,
+      "content": "die strippti bilder hab ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sanja Gutjahr",
+      "timestamp_ms": 1388752282556,
+      "content": "Haha stimmt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388748400583,
+      "content": "Oh ja :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388748378280,
+      "content": "z.B. :D oder der \"Heiratsantrag\" an dich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388748351695,
+      "content": "Ja, die mit dem strippti von euch :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388748074122,
+      "content": ":D also eins fehlt noch das wweis ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747710158,
+      "content": "so, das sind so ziemlich alle : D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747695400,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548352_560931773988487_1737946709_o_560931773988487.jpg",
+          "creation_timestamp": 1388747695
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551994_560931777321820_2146379146_o_560931777321820.jpg",
+          "creation_timestamp": 1388747695
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1556926_560931770655154_48147585_o_560931770655154.jpg",
+          "creation_timestamp": 1388747695
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551909_560931780655153_1063507864_o_560931780655153.jpg",
+          "creation_timestamp": 1388747695
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747586555,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548231_560930033988661_1442562180_o_560930033988661.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1537632_560930050655326_858121084_o_560930050655326.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1559079_560930037321994_660232733_o_560930037321994.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1546725_560930053988659_288644340_o_560930053988659.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552345_560930043988660_1083901158_o_560930043988660.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1529338_560930060655325_2084160680_o_560930060655325.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1559081_560930040655327_1164815444_o_560930040655327.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548290_560930047321993_1909363661_o_560930047321993.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1596533_560930063988658_373488168_o_560930063988658.jpg",
+          "creation_timestamp": 1388747586
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551955_560930057321992_967866296_o_560930057321992.jpg",
+          "creation_timestamp": 1388747586
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388747528895,
+      "content": "Danke Max :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747405930,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552295_560929140655417_1824511424_o_560929140655417.jpg",
+          "creation_timestamp": 1388747405
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548450_560929127322085_482892157_o_560929127322085.jpg",
+          "creation_timestamp": 1388747405
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1557125_560929137322084_748405551_o_560929137322084.jpg",
+          "creation_timestamp": 1388747405
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548388_560929130655418_1775315109_o_560929130655418.jpg",
+          "creation_timestamp": 1388747405
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1529486_560929133988751_936220635_o_560929133988751.jpg",
+          "creation_timestamp": 1388747405
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1603651_560929123988752_942850827_o_560929123988752.jpg",
+          "creation_timestamp": 1388747405
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747299967,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1556557_560928660655465_436360385_o_560928660655465.jpg",
+          "creation_timestamp": 1388747299
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548405_560928670655464_91659104_o_560928670655464.jpg",
+          "creation_timestamp": 1388747299
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1596322_560928667322131_1506669114_o_560928667322131.jpg",
+          "creation_timestamp": 1388747299
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551804_560928657322132_506060060_o_560928657322132.jpg",
+          "creation_timestamp": 1388747299
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552027_560928673988797_726096271_o_560928673988797.jpg",
+          "creation_timestamp": 1388747299
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1538027_560928663988798_317719634_o_560928663988798.jpg",
+          "creation_timestamp": 1388747299
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388747216281,
+      "content": "(Y)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388747204992,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1556863_560928043988860_893507625_o_560928043988860.jpg",
+          "creation_timestamp": 1388747204
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552270_560928053988859_393899807_o_560928053988859.jpg",
+          "creation_timestamp": 1388747204
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1596516_560928050655526_246177426_o_560928050655526.jpg",
+          "creation_timestamp": 1388747204
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551949_560928047322193_566453891_o_560928047322193.jpg",
+          "creation_timestamp": 1388747204
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388690309957,
+      "content": "Franziska Schiller hat Sanja Gutjahr zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Sanja Gutjahr"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388690250328,
+      "content": "Danke <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388690154073,
+      "content": "(Y)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388690144391,
+      "content": "ja mach ich morgen ; )",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388655712142,
+      "content": "w\u00c3\u00a4r echt cool :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388655312188,
+      "content": "kannst du noch mehr fotos schicken ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388608525477,
+      "content": "Dir auch :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388605625891,
+      "content": "Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388605242917,
+      "content": "Allen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388605226557,
+      "content": "Euch alles auch noch ein gutes neues :) wie man auf den Bildern sieht hattet ihr ne sch\u00c3\u00b6ne Party ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388604815581,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388604781617,
+      "content": "Frohes Neues! Hier sind die Bilder : D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388604752091,
+      "photos": [
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1556852_560194997395498_686295816_o_560194997395498.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548333_560194984062166_2089109271_o_560194984062166.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1548451_560195040728827_172578299_o_560195040728827.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1525920_560195030728828_200447328_o_560195030728828.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1479374_560194987395499_953516630_o_560194987395499.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1556965_560194970728834_966764828_o_560194970728834.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1529599_560194980728833_550864568_o_560194980728833.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1546746_560195020728829_1190627948_o_560195020728829.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1558916_560194977395500_1294563277_o_560194977395500.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1538088_560195037395494_292625281_o_560195037395494.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1559192_560195000728831_592561399_o_560195000728831.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1525938_560194974062167_1481831905_o_560194974062167.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1529216_560195010728830_289962269_o_560195010728830.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552307_560194994062165_1350597443_o_560194994062165.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1596399_560195024062162_1794295708_o_560195024062162.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1479154_560195014062163_441557002_o_560195014062163.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551996_560195007395497_1236379370_o_560195007395497.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1537402_560195034062161_48298181_o_560195034062161.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1525833_560194967395501_2046973669_o_560194967395501.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1551974_560195017395496_142207675_o_560195017395496.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1596436_560194990728832_538619115_o_560194990728832.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1552039_560195027395495_900879621_o_560195027395495.jpg",
+          "creation_timestamp": 1388604752
+        },
+        {
+          "uri": "messages/inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq/photos/1525950_560195004062164_44799650_o_560195004062164.jpg",
+          "creation_timestamp": 1388604752
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Sch\u00c3\u00b6mig",
+      "timestamp_ms": 1388569498632,
+      "content": "Von mir auch! ; )",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1388544624462,
+      "content": "Von mir auch :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Broleen",
+      "timestamp_ms": 1388544253530,
+      "content": "Dir auch nenn frohes Neues !!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388534819518,
+      "content": "Ja, wir dir auch :-D feier sch\u00c3\u00b6n :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalia Bartos",
+      "timestamp_ms": 1388533909117,
+      "content": "Leutw ich wunach euch nur dss aller beste. Schoene momente \u00e2\u0099\u00a5\u00e2\u0099\u00a5\u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751085311,
+      "content": "F\u00c3\u00bcr alle die wollen, bestellen wir am Abend noch Pizza :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387655738336,
+      "content": "jonas auch  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1387655720737,
+      "content": "Ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387655379233,
+      "content": "bitte gebt bescheid wer mit ins Kino kommt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387654617020,
+      "content": "also, f\u00c3\u00bcr alle nochmal, f\u00c3\u00bcr alle die mit ins Kino kommen, wir treffen uns um 16.45 Uhr am Donau Bad, wo alle ihr Sachen ablegen k\u00c3\u00b6nnen und dann laufen wir ins Kino. Der film geht um 17.15 Uhr los. wir sind dann um 20.30 Uhr wieder in der h\u00c3\u00bctte. so viel zur Planung =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387654068941,
+      "content": "Max L\u00c3\u00b6wlein hat Natalia Bartos zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Natalia Bartos"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1387632527232,
+      "content": "Franziska Schiller hat Julia Moond und Max Sch\u00c3\u00b6mig zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Julia Moond"
+        },
+        {
+          "name": "Max Sch\u00c3\u00b6mig"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387631926167,
+      "content": "Okay perfekt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387630061577,
+      "content": "Ich komm gegen 19 Uhr vom Sport wieder zur\u00c3\u00bcck und dann schreib ich alle in die Gruppe :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387629223064,
+      "content": "Passt das?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1387629197529,
+      "content": "ok :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387629104021,
+      "content": "Xinedome 17 Uhr ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1387629016112,
+      "content": "hey :) wie machen wir das am montag ins kino? dietrich oder xinedom? und welche uhrzeit",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Natalia, Jonas, Julia und 4 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/nataliajonasjuliaund4weiterepersonen_t51l-a5ryq",
+  "magic_words": [
+    
+  ]
+}

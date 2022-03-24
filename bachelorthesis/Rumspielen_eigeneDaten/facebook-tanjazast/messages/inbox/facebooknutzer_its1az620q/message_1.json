@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319981000,
+      "content": "Ako odas na moj profil i onda na (6) slike",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319802000,
+      "content": "sacekaj!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270319771000,
+      "content": "nisam...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319660000,
+      "content": "Dali si videla moju sliku sa drugaricama???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319613000,
+      "content": "dobroooo\n\nKako mi tata sneza????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270319570000,
+      "content": "aaa...pa pozz swe pynoo...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319548000,
+      "content": "Lisa super i tata i mama isto \nGladoju televisor i mama pere sudove",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270319486000,
+      "content": "dobro je,ewo sminka se...tebi lisa,mama,tata??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270319420000,
+      "content": "a pa bas lepooooo....\nKako ti Jasmina???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270318768000,
+      "content": "axa...:DD \u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270318696000,
+      "content": "A vi idete u disco :DD :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270318568000,
+      "content": "aaa,pa lepooo...:DD :** \u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270318535000,
+      "content": "A mi idemo y 11 u crkvu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270318236000,
+      "content": "ne sad,nego y 11...nego se sad spremamo..:)))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270318144000,
+      "content": "A sad idete u grad???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270317811000,
+      "content": "ma nishta...ewo kyci...jasmina i ja se spremamo za grad i tako...:DD :** \u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270317755000,
+      "content": "A sta vi radite????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270317620000,
+      "content": "a jooj,ma prestace te..pozz swe i ljybim was pynoo...:** \u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270317398000,
+      "content": "Evo nista samo chattam maloooooo\n\nNema nista novo i dobro smo samo sto me boli grlo.....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1270317130000,
+      "content": "tanjice,shta mi radis??sta ima nowo??kako ste??:* \u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268853841000,
+      "content": "evo nista\n\n,,ucim\"\nkao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1268853016000,
+      "content": "eee...gde si tanjice,sta radis??i ti si naprawila fb...ljybim te pynoo...\u00e2\u0099\u00a5\u00e2\u0099\u00a5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_its1az620q",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1308764401000,
+      "content": "Hallo Leute,\n\njetzt ist es nicht mehr lange hin zu unserem Ratiopharm Ulm Dance Team Casting. Sonntag, 26.6. ab 10 Uhr gehts los. Wenn ihr 15 Jahre alt seid, ist das auch ok.\nfreuen uns drauf,\n\nInes und Patrick\n",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzer_hmwlywscoq",
+  "magic_words": [
+    
+  ]
+}

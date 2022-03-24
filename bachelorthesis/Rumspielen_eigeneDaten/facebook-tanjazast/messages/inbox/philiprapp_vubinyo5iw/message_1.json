@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Philip Rapp"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270322128000,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Philip Rapp",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/philiprapp_vubinyo5iw",
+  "magic_words": [
+    
+  ]
+}

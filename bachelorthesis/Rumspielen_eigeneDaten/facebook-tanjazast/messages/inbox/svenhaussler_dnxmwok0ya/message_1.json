@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Sven H\u00c3\u00a4u\u00c3\u009fler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sven H\u00c3\u00a4u\u00c3\u009fler",
+      "timestamp_ms": 1406609307946,
+      "content": "Ne glaub auch net :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406590019686,
+      "content": "Nein glaub nicht oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven H\u00c3\u00a4u\u00c3\u009fler",
+      "timestamp_ms": 1406582724976,
+      "content": "Wir kennen uns net oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406550606653,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven H\u00c3\u00a4u\u00c3\u009fler",
+      "timestamp_ms": 1406549752349,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sven H\u00c3\u00a4u\u00c3\u009fler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/svenhaussler_dnxmwok0ya",
+  "magic_words": [
+    
+  ]
+}

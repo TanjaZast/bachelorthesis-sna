@@ -1,0 +1,471 @@
+{
+  "participants": [
+    {
+      "name": "Stefan Boss"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413985366362,
+      "content": "Die Ironie hab ich raus geh\u00c3\u00b6rt ;D \nNa das ist dann mega schlecht ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413893834127,
+      "content": "hahah das war auch Ironie :) ja entweder bin ich verletzt oder krank und so kommt es dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413805699269,
+      "content": "*wie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413805694242,
+      "content": "Wo kommt's?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413803944613,
+      "content": "Ja aber ich bin vom Gl\u00c3\u00bcck gesegnet und kann kaum hin \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413541277825,
+      "content": "Dann macht's Sinn ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413540100996,
+      "content": "Weil Es das auch bei mir daheim gibt bzw wo meine Filiale ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413526179116,
+      "content": "Aber gehst da trainieren? Hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413489342595,
+      "content": "Hahahah als ob ich da wohne \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413482333308,
+      "content": "Achso \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413477897538,
+      "content": "Nein musste ins Fitness denen sagen das ich in n\u00c3\u00a4chster Zeit nicht kommen kann \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413474969267,
+      "content": "Wohnse in Ettlingen? \u00f3\u00be\u008c\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413474947388,
+      "content": "Jaaaa \u00f3\u00be\u008d\u0094\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413474146275,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413474144682,
+      "content": "Hahaha haben die dir das echt erz\u00c3\u00a4hlt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413468571594,
+      "content": "Ach quatsch \u00f3\u00be\u008d\u0087\nImmerhin waren die ja auf der Damentoilette wenn ich das so richtig verstanden habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413467904554,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413467900224,
+      "content": "Voll gemein \u00f3\u00be\u008c\u00b9 jetzt denken alle ich h\u00c3\u00a4tte sie nicht mehr alle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413467418414,
+      "content": "Und in Steuerlehre erst recht Nicht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413467389257,
+      "content": "Nein in der Pause nicht wirklich :b",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413466968778,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413466967888,
+      "content": "Habt ihr nichts anderes zu tun als mich auszulachen \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413466798648,
+      "content": "Der fand es trotzdem lustig :b",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413466407239,
+      "content": "Haha warum der kennt das doch schon \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413465402417,
+      "content": "Haha weil du das Bild geschickt hast und ich das gezeigt habe \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413465355338,
+      "content": "Kenn ich nicht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413465235282,
+      "content": "Warum feiern die mich \u00f3\u00be\u008d\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413465229242,
+      "content": "Von Alessandro \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413464263616,
+      "content": "Der wg Mitbewohner von dem anderen auf dem Bild \u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413463932879,
+      "content": "\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4 und wer ist baran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413463926382,
+      "content": "Hahahaha warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413463348449,
+      "content": "Hab dem und baran gerade das Bild geschickt .. der feiert dich \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413463067123,
+      "content": "Best Friends \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413463059936,
+      "photos": [
+        {
+          "uri": "messages/inbox/stefanboss_dprrrotqwq/photos/10728909_863301313710720_482443906_n_863301313710720.jpg",
+          "creation_timestamp": 1413463059
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413462625100,
+      "content": "Woher kennst du den denn? \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413462519364,
+      "content": "Ja das stimmt allerdings \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413462411570,
+      "content": "Haha ja der ist doch bei mir im Kurs :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413461749475,
+      "content": "Kennst den",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413461736191,
+      "content": "Doch J\u00c3\u00bcrgen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413460744181,
+      "content": "Aber sei mal ehrlich .. Du hattest keinen anderen der es dir f\u00c3\u00bcr 15 gegeben h\u00c3\u00a4tte oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413460714296,
+      "content": "Ach gerne ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413458383013,
+      "content": "Danke f\u00c3\u00bcr das Buch \u00f3\u00be\u00ae\u0097 Mega lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413454169837,
+      "content": "Dann um kurz nach halb vor der Mensa?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413377064159,
+      "content": "Okay sonst meldest dich einfach nochmals \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413376862893,
+      "content": "Ja das ist doch optimal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413376747056,
+      "content": "12:30 bin ab da an der Mensa :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413376403707,
+      "content": "Das ist mein Plan morgen .. wann hast du Zeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413376377670,
+      "photos": [
+        {
+          "uri": "messages/inbox/stefanboss_dprrrotqwq/photos/10577664_742305122505575_687910448_o_742305122505575.jpg",
+          "creation_timestamp": 1413376376
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413375983639,
+      "content": "Okay ja muss Schauen iwo Geld abzuheben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413375314101,
+      "content": "perfekt \u00f3\u00be\u00ae\u009fJa w\u00c3\u00a4re am einfachsten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413375030970,
+      "content": "ja okay :) wie machen wir es mit dem geld? auch direkt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413369149097,
+      "content": "Haha \u00f3\u00be\u008c\u00b4\nJa gut dann 15 Euro und ich bring das morgen mit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413368032778,
+      "content": "Hab aber einen der gibt es mir auch umbeschrieben f\u00c3\u00bcr 15 und Mega neu nie benutzt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413367838151,
+      "content": "17\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367517568,
+      "content": ":) 15 \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413363931558,
+      "content": "Nicht unterstrichen und nichts ne ;)\nJa dann sag du deine Vorstellung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413362032194,
+      "content": "F\u00c3\u00bcr 20? Das ist aber schon was \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413302123932,
+      "content": "ja ist klar :P  Neu kostet das bei amazon 30\u00e2\u0082\u00ac. ich w\u00c3\u00bcrde es f\u00c3\u00bcr 20 anbieten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413292625447,
+      "content": "Ja okay :) schau du mal \u00f3\u00be\u008c\u00b4 aber denk an den Wertverlust (wie bei nem Auto halt) hast das Buch ja genutzt \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413292552114,
+      "content": "Ich guck nachher mal nach was das gekostet hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413292473240,
+      "content": "Sehr gut :)\nNe \u00c3\u00bcber den Preis noch nicht .. aber der Zustand ist fast wie neu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413291848142,
+      "content": "Ja klar wie hatten wir uns nochmal mit dem Preis geeinigt?\u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Boss",
+      "timestamp_ms": 1413291009225,
+      "content": "Heey :D \nWir hatten nach der erstis Party \u00c3\u00bcber das VWL Buch gesprochen .. bist du daran noch interessiert?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefan Boss",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefanboss_dprrrotqwq",
+  "magic_words": [
+    
+  ]
+}

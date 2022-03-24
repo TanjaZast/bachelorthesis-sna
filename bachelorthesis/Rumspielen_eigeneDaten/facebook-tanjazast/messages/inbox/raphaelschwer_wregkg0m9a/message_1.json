@@ -1,0 +1,411 @@
+{
+  "participants": [
+    {
+      "name": "Raphael Schwer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370989101517,
+      "content": "Ich doch auch also bin ich null b\u00c3\u00b6se ;) gute Nacht :* bis bald sicherlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1370989062115,
+      "content": "Ja :) sei mir nicht b\u00c3\u00b6se, aber ich geh jetzt schlafen, weil ich total kaputt bin :) gute Nacht :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370988973722,
+      "content": "Okay dann eben s\u00c3\u00bc\u00c3\u009f ;) hihi immer wieder gerne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1370988881152,
+      "content": "So halt :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370988236805,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370988232246,
+      "content": "Warum s\u00c3\u00bc\u00c3\u009f? ^)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1370987124732,
+      "content": "S\u00c3\u00bc\u00c3\u009f :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370986800858,
+      "content": "Danke dir von ganzem Herzen <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1370976670165,
+      "content": "Hee, alles Liebe zum Geburtstag :* ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369522511294,
+      "content": "Ja normal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369520675015,
+      "content": "Was euch beiden alles einfach so auff\u00c3\u00a4llt :o :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515960396,
+      "content": "okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369515950849,
+      "content": "Hahaha also minimal und das ist noch miniger :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515859993,
+      "content": "der kennt dich ein kleines bisschen sagt er :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369515839750,
+      "content": "Warum kennt er mich? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515769673,
+      "content": "der war da mal der ist dann auf die realschule gewechselt :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369515668497,
+      "content": "Kai Reise warte ich kenn den. Geht er AEG? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515515999,
+      "content": "weil der gerade neben mir steht und er dich kennt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369515498876,
+      "content": "Nein warum fragst du das alles? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515465496,
+      "content": "hast du mal in schnurpflingen gewohnt ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369515449419,
+      "content": "H\u00c3\u00a4 keine Ahnung von wo \u00c3\u00bcberhaupt? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1369515249698,
+      "content": "he :) \nkennst du noch n kai reise ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357247024369,
+      "content": "Wenn du meinst.. ;) \nMach ich, warte kurz :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357246966483,
+      "content": "Schau mal ob se stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357246956273,
+      "content": ";) Nein kann nicht sein..  okay warte 015164810786 :* also.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357245593013,
+      "content": "Okay, glaub mir es lag wirklich an dir :* auch :) gib mir mal deine Handynummer ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357245359845,
+      "content": "Nein nicht egal ;) haha tv schauen.. Du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357245294385,
+      "content": "Haha , egal :D was machst gerade so ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357245192154,
+      "content": "Okay okay :D dann nicht :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357245111159,
+      "content": "Ja bei mir :D glaub mir am alk lags nich :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357245059026,
+      "content": "Bei dir? ;) jo :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244986918,
+      "content": "Haha, du denkst es lag am alk oder ?! :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244927454,
+      "content": "Nein kann es nicht.. Also nicht wenn man.logisch denkt :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244783974,
+      "content": "Dann kann es eben doch wegen dir sein ! ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244734354,
+      "content": "Nein leider gar nicht!! :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244699364,
+      "content": "Was besseres ist dir nich eingefallen ? :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244626763,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244622005,
+      "content": "Weil es nicht so sein kann ;) :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244547410,
+      "content": "Warum sollte es nicht so sein ? :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244527101,
+      "content": "Ach quatsch echt nicht ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244437730,
+      "content": "Ja schon :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244403475,
+      "content": "Als ob wirklich? :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244319844,
+      "content": "Naja doch ohne dich w\u00c3\u00a4r's nur halb so lustig gewesen :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244156472,
+      "content": "Da hab ich aber nicht viel mit zu tun eigentlich ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357244124165,
+      "content": "Keine Ahnung ;) war einfach ein geiler Abend ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357244077895,
+      "content": "Als ob ;) warum wegen mir brudi ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357243999717,
+      "content": "Wegen dir ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357243955252,
+      "content": "Warum das? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357243834952,
+      "content": "Seit Silvester auch :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357243768188,
+      "content": "Mir geht es ganz gut.. Dir? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357243661833,
+      "content": "Haha sieht so aus ;) und wie gehts dir ? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357243580146,
+      "content": "Warst halt schneller ;) also als ich hihi :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357243520047,
+      "content": "Also an dich ! :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357243511863,
+      "content": "Haha s\u00c3\u00bc\u00c3\u009f :) ging mir aber auch so :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357243264112,
+      "content": "Brudi ich musste heute voll an dich denken!! ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Raphael Schwer",
+      "timestamp_ms": 1357242909032,
+      "content": "Schwester :D :* ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Raphael Schwer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/raphaelschwer_wregkg0m9a",
+  "magic_words": [
+    
+  ]
+}

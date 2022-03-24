@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Gerold Bausch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465765082494,
+      "content": "Danke dir \u00f0\u009f\u0098\u008a!!! Sind im Finale. N\u00c3\u00a4chstes Wochenende in Bottrop dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gerold Bausch",
+      "timestamp_ms": 1465632598340,
+      "content": "Hey Tanja, alles Gute zum Geburtstag! \nWie lief eigentlich der Wettbewerb nach dem Geburtstag vom Gatscher?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gerold Bausch",
+      "timestamp_ms": 1461454240118,
+      "content": "Dann viel Spa\u00c3\u009f beim packen, ich gehe dann mal schlafen. Gute Nacht und viel Erfolg morgen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461454193857,
+      "content": "Kann aber nicht schlafen \u00f0\u009f\u0098\u0082 weil ich noch packen muss und zu fit bin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gerold Bausch",
+      "timestamp_ms": 1461453876874,
+      "content": "Daf\u00c3\u00bcr hast du nun umso mehr schlaf \u00f0\u009f\u0098\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461453769091,
+      "content": "Ja aber nu zwei Minuten einwirken lassen \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u0082 musste Umdenken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gerold Bausch",
+      "timestamp_ms": 1461452329336,
+      "content": "Haare schon shampooniert? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Gerold Bausch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/geroldbausch_hixlitkahg",
+  "magic_words": [
+    
+  ]
+}

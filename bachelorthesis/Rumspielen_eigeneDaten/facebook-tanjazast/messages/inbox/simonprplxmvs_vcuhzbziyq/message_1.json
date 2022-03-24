@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Simon Prplx'mvs"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371158374780,
+      "content": "Okay versuch dich zu beeilen ja ich hab tobi gesagt morgen fr\u00c3\u00bch ich wei\u00c3\u009f nicht wo er seinen Kopf hatte :) bis dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1371158314363,
+      "content": "H\u00c3\u00a4tte doch alles geklappt blo\u00c3\u009f sagst du mir jetzt das ich morgen fr\u00c3\u00bch da sein soll um zu helfen ... Woher soll ich das wissen ? \nBis morgen Peace ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371158164966,
+      "content": "Okay ;) man ihr zwei seid nicht sehr schlau h\u00c3\u00a4ttest einfach bei tobi gepennt -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1371157853412,
+      "content": "ich komm morgen so fr\u00c3\u00bch ich kann ... Kann halt blo\u00c3\u009f nichts Versprechen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371157790096,
+      "content": "Ja das w\u00c3\u00bcrde auch gehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1371157763522,
+      "content": "Sorry geht nicht, wenn in in Ulm wohnen w\u00c3\u00bcrde w\u00c3\u00a4r's kein Problem ... Ich dachte auch bis vorhin das ich mit Tobi erst ab 13:30 Uhr kommen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371157618774,
+      "content": "Ja du pennst Bis 10 und gehst jetzt schon ins Bett dann bist du fit ;) das w\u00c3\u00a4re so hammer wichtig und liebe ,)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1371157570390,
+      "content": "Ich Penn morgen erstmal aus :D\nUnd mein Bus f\u00c3\u00a4hrt voll schwul weist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371157534803,
+      "content": "Kannst du nicht versuchen schon um 12 da sein?  Wir brauchen paar starke Jungs ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Prplx'mvs",
+      "timestamp_ms": 1371157493747,
+      "content": " Ich schreib Tobi morgen um 12 wann ich komm :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371157453025,
+      "content": "Wann willst du morgen eigentlich kommen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371157436738,
+      "content": "Heei du ;) na alles gut bei dir?  ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Simon Prplx'mvs",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonprplxmvs_vcuhzbziyq",
+  "magic_words": [
+    
+  ]
+}

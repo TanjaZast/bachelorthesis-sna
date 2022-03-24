@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Jan Myer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jan Myer",
+      "timestamp_ms": 1468249170260,
+      "content": "Ja stimmt da waren wir glaube ich in Ulm beim Public Viewing und sind danach zu dir gefahren. Aber ist echt eine Ewigkeit her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1468249033115,
+      "content": "Hahahah das ist eine gef\u00c3\u00bchlte Ewigkeit her. Da hat sogar Deutschland an dem Tag gespielt \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Myer",
+      "timestamp_ms": 1468241058413,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\nDoch Michi und ich waren mal auf deinem 18er oder so aber auch nicht so lang",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1468178983499,
+      "content": "Daran konnte ich mich nicht mal mehr erinnern \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 ich dachte Charlottes Geburtstag und den werde ich niemals vergessen \u00f0\u009f\u0098\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Myer",
+      "timestamp_ms": 1468162613951,
+      "content": "Jo ich glaub des war an deinem Geburtstag kann das sein. Ich \u00c3\u00bcberlege gerade ob wir uns \u00c3\u00bcberhaupt mal n\u00c3\u00bcchtern gesehen haben. \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1468156509743,
+      "content": "Okay sehr gut. Vor allem ist unsere letzte Begebung eine Ewigkeit her und ich war nicht soooo N\u00c3\u00bcchtern glaub \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Myer",
+      "timestamp_ms": 1468121519245,
+      "content": "Hahhahaha \nKein Problem ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1468104644009,
+      "content": "Oh man, tut mir richtig leid \u00f3\u00be\u008c\u00b1 ich wusste zwar, dass wir uns kennen aber konnte dich einfach nicht richtig zuordnen. \u00f3\u00be\u008d\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jan Myer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/janmyer_poi5uyr-kq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Nadine Rei\u00c3\u009f"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nadine Rei\u00c3\u009f",
+      "timestamp_ms": 1493449300916,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nadine Rei\u00c3\u009f",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nadinereiss_6hdjqmm-cw",
+  "magic_words": [
+    
+  ]
+}

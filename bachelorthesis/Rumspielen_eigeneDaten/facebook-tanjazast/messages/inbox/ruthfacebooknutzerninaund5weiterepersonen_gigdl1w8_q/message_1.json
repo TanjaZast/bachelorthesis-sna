@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Pele"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Nina Ansch\u00c3\u00bctz"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Linnea Pauline"
+    },
+    {
+      "name": "Karina Weiler"
+    },
+    {
+      "name": "Anika von Kuntzsch"
+    },
+    {
+      "name": "Kia Na"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karina Weiler",
+      "timestamp_ms": 1298667355000,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kia Na",
+      "timestamp_ms": 1298646924000,
+      "content": ":) manche jungs sind einfach nur schei\u00c3\u009fe!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Karina Weiler",
+      "timestamp_ms": 1298638449000,
+      "content": "me too :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kia Na",
+      "timestamp_ms": 1298570355000,
+      "content": "bin auch grad singel!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1298119975000,
+      "content": "Wir machen ein Spiel. Jemand hat angek\u00c3\u00bcndigt, dass wir M\u00c3\u00a4dels wieder was besonders auf Facebook machen, um auf Brustkrebs aufmerksam zu machen. Es ist ganz einfach und ich freue mich, wenn du hilfst, das weiterzuverbreiten. Letztes Jahr ging es darum, die Farbe deines BH\u00e2\u0080\u0099s, den du tr\u00c3\u00a4gst, in den Status zu posten. Die M\u00c3\u00a4nner wunderten sich alle tagelang dar\u00c3\u00bcber, was das sollte. Dieses Jahr geht es um deinen Beziehungsstatus. Poste einer der Codes unten in deinen Status (nur das Getr\u00c3\u00a4nk, nicht, was er bedeutet\u00e2\u0080\u00a6). Kopiere das Mail und sende es dann an deine Freundinnen weiter:\n\nTequila: Ich bin Single\nJack Daniels: Es ist kompliziert\nRum: ich bin ein riskantes M\u00c3\u00a4dchen\nChampagner: Verlobt\nRed Bull: In einer Beziehung\nBier: Ich bin verheirate\nVodka: Ich bin \u00e2\u0080\u009edie andere\u00e2\u0080\u009c\nSprite: Ich kann den Richtigen nicht finden\nLikeur: Ich w\u00c3\u00bcnschte, ich w\u00c3\u00a4re Singl\nGin: ich will verheiratet sein\n\nDas BH-Spiel kam ins Fernsehen. Llass es uns noch mal versuchen, zeigen wir allen, wie stark wir Frauen sind! . .",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ruth, Facebook-Nutzer, Nina und 5 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ruthfacebooknutzerninaund5weiterepersonen_gigdl1w8_q",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403185354602,
+      "content": "Die zwei jungs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403185329056,
+      "content": "Hahaha stimmt. Welche Freunde meinst du jetzt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403185290282,
+      "content": "Danke sinnvolle sind nicht schlecht :) was ich dich fragen wollte ... Ist zwischen dir und deinen Freunden alles Gut ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403185154820,
+      "content": "Okay gute Prinzipien hast du ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403119267621,
+      "content": "Allgemein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403119252299,
+      "content": "Haha naja ich bin kummpels treu ... Wenn man mich Gut behandelt bin ich auch Gut zu dennen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403116376337,
+      "content": "Weil du die so in Schutz genommen hast :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403014138518,
+      "content": "Warum hats dich interessiert woher ich die jungs kenne ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403013990982,
+      "content": "Achso ja dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403013841712,
+      "content": "Ja die jungs sind Ganz cool ... Ich kenne michi schon ein Jahr hab die jungs aber vor einer Woche kennengelernt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403013450207,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403013446406,
+      "content": "Achso nicht schlecht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403010356075,
+      "content": "Der Michael ist ein guter Freund wir sind in der selben Klasse ... Und die jungs kennt er halt ... Somit durch ihn kennengelernt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403010227584,
+      "content": "Jap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403010047770,
+      "content": "Wie ich die jungs kennengelernt hab ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403009954034,
+      "content": "Wie bist du eigentlich zu den allen gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403009722750,
+      "content": "Nichts zu danken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403009711911,
+      "content": "Dann ist alles Gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403008160055,
+      "content": "Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403008157381,
+      "content": "Dame",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403008153312,
+      "content": "Jap alles gut. Geht schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403004559248,
+      "content": "Hey wollt fragen ob alles in Ordnung ist ... Hoffe bist Gut Heim gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_zzltb9ygng",
+  "magic_words": [
+    
+  ]
+}

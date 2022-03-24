@@ -1,0 +1,383 @@
+{
+  "participants": [
+    {
+      "name": "Erman Kayra"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307443046427,
+      "content": "hello :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374337566,
+      "content": "yeah see us or whrite us?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374305108,
+      "content": "godbyee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374300299,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374298296,
+      "content": ":/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374255031,
+      "content": ":D oh ja shure okay sorry but now i must go!! :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374226678,
+      "content": "funny thnig of course :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374212378,
+      "content": ":D?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374209289,
+      "content": ":D?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374205686,
+      "content": "what do you min a joke ?? a funny thing or you go jogging, do sport\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374159792,
+      "content": "joking :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374090825,
+      "content": "liar?\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374076596,
+      "content": "liar :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307374070129,
+      "content": "yeah i come :D i promise :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307374036225,
+      "content": "you must come here is beautiful ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373972589,
+      "content": "no :( but i wish to come ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373955831,
+      "content": "have you ever been in turkey ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373937372,
+      "content": "h\u00c3\u00a4?? was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373923351,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373921434,
+      "content": "Niemals in die T\u00c3\u00bcrkei kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373905457,
+      "content": "bey ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373882577,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373862642,
+      "content": ":D okay bis bald ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373851537,
+      "content": "ja ich verstehe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373795185,
+      "content": "ja echt so :D dann verstehst du mich also :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373776673,
+      "content": "widerlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373772286,
+      "content": "mathe iist widerlivh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373757312,
+      "content": "oo??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373741217,
+      "content": "oo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373516550,
+      "content": "okay ich geh dann mal mathe lernen :( bis bald :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373194553,
+      "content": "okay :D ja i know :D\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373161612,
+      "content": "sorry :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373159612,
+      "content": "i understood you wrong",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373142189,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373140086,
+      "content": "just a year",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307373138813,
+      "content": "du verstehst mich einfach nicht! :D in 5 days 15 :D ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373130190,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373123255,
+      "content": "sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373085795,
+      "content": "du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307373082492,
+      "content": "18 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307372970757,
+      "content": "wie viele jahre? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372943026,
+      "content": "Mid-Level ausreichend :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307372838383,
+      "content": "wie lange lernst du schon deutsch? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372809142,
+      "content": "gut :D danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307372797129,
+      "content": "gut und dir?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372777550,
+      "content": "wie gehts :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372775065,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372773593,
+      "content": "hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307372316155,
+      "content": "okay hallo :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Erman Kayra",
+      "timestamp_ms": 1307372277422,
+      "content": "some ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307372017484,
+      "content": "do you speak german??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307288614194,
+      "content": "hey eine frage",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Erman Kayra",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ermankayra_agkneuiv3w",
+  "magic_words": [
+    
+  ]
+}

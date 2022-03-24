@@ -1,0 +1,200 @@
+{
+  "participants": [
+    {
+      "name": "Steph Anie"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1416432811788,
+      "content": "Ja regeln das morgen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1416432802617,
+      "content": "Ja \u00c3\u00bcberlegen wir morgen h\u00c3\u00a4ngt davon ab was du erg\u00c3\u00a4nzen willst an dem was ich dir geschickt habe. Und ja oder am we mal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416432580918,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416432579166,
+      "content": "ja sag mal wie wir es einteilen sollen weil ich dann meinen teil am Wochenende mache und die powerpoint und am Dienstag treffen wir uns noch kurz zum besprechen oder? :",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1416432493788,
+      "content": "Ist bissle veraltet aber hab das meiste ja schon was fehlt kannste ja erg\u00c3\u00a4nzen oder?:) hab das nich komplett zu ende angeschaut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416432225347,
+      "content": "das ist mega gut :*!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416432214994,
+      "content": "https://www.youtube.com/watch?v=3dgr4lgmQow",
+      "share": {
+        "link": "http://www.youtube.com/watch?v=3dgr4lgmQow"
+      },
+      "type": "Share",
+      "ip": "84.163.10.157",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414352657918,
+      "content": "So jetzt kannst deinen Dady fragen ob er es bekommen hat und die \u00c3\u009cberschriften hast jetzt auch :) bis wann brauchst du mein Zeug?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414335440935,
+      "content": "kein ding danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414335423175,
+      "content": "Okay aber erst heute Abend sorry :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334863355,
+      "content": "konstantin-giebelhaus@t-online.de",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334848688,
+      "content": "an die mail:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334843602,
+      "content": "w\u00c3\u00a4re super lieb :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334839534,
+      "content": "kannst du das skript bwl esser von marcels schwester vlt an meinen dad schicken? kann ja zur zeit word nicht \u00c3\u00b6ffnen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414158945289,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414158942137,
+      "content": "https://www.youtube.com/watch?v=OaKR9Ew0okE",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367572654,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanie_p4obhbh1ta/photos/10717474_862713267102858_1243895537_n_862713267102858.jpg",
+          "creation_timestamp": 1413367572
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367569725,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanie_p4obhbh1ta/photos/10735829_862713240436194_1584773106_n_862713240436194.jpg",
+          "creation_timestamp": 1413367569
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367567537,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanie_p4obhbh1ta/photos/10723133_862713233769528_799957802_n_862713233769528.jpg",
+          "creation_timestamp": 1413367566
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367565631,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanie_p4obhbh1ta/photos/10719264_862713223769529_381183839_n_862713223769529.jpg",
+          "creation_timestamp": 1413367564
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413367548767,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephanie_p4obhbh1ta/photos/10719352_862713107102874_552823194_n_862713107102874.jpg",
+          "creation_timestamp": 1413367548
+        }
+      ],
+      "type": "Generic",
+      "ip": "193.196.7.170",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steph Anie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stephanie_p4obhbh1ta",
+  "magic_words": [
+    
+  ]
+}

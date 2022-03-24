@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Djurdja \u00d0\u0082\u00d1\u0083\u00d1\u0080\u00d1\u0092\u00d0\u00b0 Stefanovi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298957833000,
+      "content": "U \u00c5\u00a1koli je bilo naporno :( danas pi\u00c5\u00a1em matemati\u00c4\u008dki i engleski :( ljubimo i Mi tebe :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Djurdja \u00d0\u0082\u00d1\u0083\u00d1\u0080\u00d1\u0092\u00d0\u00b0 Stefanovi\u00c4\u0087",
+      "timestamp_ms": 1298930709000,
+      "content": "Caooooo, \nkako ste mi? Kako je danas bilo u skoli?\n\nLjubim vas puno. \nIzljubi mi Lizu :****",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Djurdja \u00d0\u0082\u00d1\u0083\u00d1\u0080\u00d1\u0092\u00d0\u00b0 Stefanovi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/djurdjadurdastefanovic_oeikqktz8a",
+  "magic_words": [
+    
+  ]
+}

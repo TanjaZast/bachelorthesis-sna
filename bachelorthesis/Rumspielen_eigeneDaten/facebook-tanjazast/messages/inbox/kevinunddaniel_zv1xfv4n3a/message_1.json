@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Kevin Escalona Hernandez"
+    },
+    {
+      "name": "Daniel Wechter"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Wechter",
+      "timestamp_ms": 1354571589895,
+      "content": "hay ich muss dan off ich chill jetz pool hiihi viel spass und boarden soo einfach :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354571546953,
+      "content": "Im Juni 16 geworden oh Gott dann bin ich ja schon 16 1/2 -.- zu alt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Escalona Hernandez",
+      "timestamp_ms": 1354571489275,
+      "content": "Wie alt bist du tanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354571405404,
+      "content": ";) Daniel du bist ja so alt wie ich!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Escalona Hernandez",
+      "timestamp_ms": 1354571381279,
+      "content": "Okk ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Wechter",
+      "timestamp_ms": 1354571370399,
+      "content": "weiss ich noch nicht mal kucken :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Escalona Hernandez",
+      "timestamp_ms": 1354571324200,
+      "content": "Was fier eins ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Escalona Hernandez",
+      "timestamp_ms": 1354571302416,
+      "content": "Haha !! :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Wechter",
+      "timestamp_ms": 1354571284983,
+      "content": "27.12.96",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354570830398,
+      "content": "Wann hast du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Wechter",
+      "timestamp_ms": 1354570675191,
+      "content": "ja so was oder zum geburts tag :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354570612320,
+      "content": "Wann zu weihnachten dann?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Wechter",
+      "timestamp_ms": 1354570302295,
+      "content": "kriege diesen monat ein neues handy :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Escalona Hernandez",
+      "timestamp_ms": 1354560338337,
+      "content": "015787083798",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354560059612,
+      "content": "Also ihr beiden haut mal eure Nummern her!! ;) bitte :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kevin und Daniel",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/kevinunddaniel_zv1xfv4n3a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Louiz Stiel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334940511796,
+      "content": "Ich jetzt auch endlich :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334935227954,
+      "content": "So endlich fertig:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334928614537,
+      "content": "Echt? :D oha alle typen haben bis jetzt gesagt das ich kein tattoos voll doof sind bei frauen :D okay mach das und wehe wenn nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334928519111,
+      "content": "Du ich geh mal schnell duschen und dann schreib ich wieder :)\nVersprochen dass ichs nicht vergess ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334928490379,
+      "content": "Es gibt einfach nichts besseres als tattoos bei frauen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334928432544,
+      "content": "Okay du musst das machen! :) oha krass wie geil das bild ist ich will auch so ein geiles am arm wie die am arm hat *-* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334928243854,
+      "content": "Sorry das bild sollte woanders hin :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334928219083,
+      "content": "Okay ich versuchs :D",
+      "photos": [
+        {
+          "uri": "messages/inbox/louizstiel_gtolhfiibq/photos/10872563_856908191027732_828088142_n_856908191027732.jpg",
+          "creation_timestamp": 1421124507
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334928190748,
+      "content": "Okay :) krass :O musst dir wenigstens bei mir abgew\u00c3\u00b6hnen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334927978540,
+      "content": "Sollte man glauben :D\n\nJa sorry aber ich vergess das immer ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334927911965,
+      "content": "Achso :) naja soll man das glauben?? Armer junge... Ne aber VERGESSEN zur\u00c3\u00bcck zu schreiben ist schon krass ;DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louiz Stiel",
+      "timestamp_ms": 1334927197765,
+      "content": "Ja schon :D\n\nNe erst hab ich vergessen zur\u00c3\u00bcck zu schreiben dann ist meine flat abgelaufen und momentan hat mein lehrer mein handy -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1334921590208,
+      "content": "Jaja :) mir mal ab und zu schreiben ist zu viel verlangt :P oder? :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Louiz Stiel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/louizstiel_gtolhfiibq",
+  "magic_words": [
+    
+  ]
+}

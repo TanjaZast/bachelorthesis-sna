@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Franzii Wehr Dich"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1445352982795,
+      "content": "Hey. Vielen Dank f\u00c3\u00bcr die Gl\u00c3\u00bcckw\u00c3\u00bcnsche heute. Ich hatte es sehr eilig sonst h\u00c3\u00a4tte ich schnell mit f\u00c3\u00bcr gequatscht. Ich finde es selbst sehr schade.. Danke nochmals, w\u00c3\u00bcnsche ich dir auch \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Franzii Wehr Dich",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/franziiwehrdich_e9bubvsnhg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Beni Ait El Abed"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1449526801113,
+      "content": "Wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1449526778464,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1436446872371,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1430170412709,
+      "content": "Wollen wir uns kennenlernen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1430170360865,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1430170297469,
+      "content": "Wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1430170153200,
+      "content": "Hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1423692273521,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Beni Ait El Abed",
+      "timestamp_ms": 1422833417762,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Beni Ait El Abed",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/beniaitelabed_yxmm4gdztw",
+  "magic_words": [
+    
+  ]
+}

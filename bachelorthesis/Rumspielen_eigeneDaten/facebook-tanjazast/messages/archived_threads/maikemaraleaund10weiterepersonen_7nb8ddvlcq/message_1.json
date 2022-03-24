@@ -1,0 +1,618 @@
+{
+  "participants": [
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Angelina Scott Pilgrim"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    },
+    {
+      "name": "Charlotte Kast"
+    },
+    {
+      "name": "Ang Joe Bra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363073513,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1420304915717,
+      "content": "Lena-Marie Ptz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lena-Marie Ptz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420280107400,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1371323070812,
+      "content": "Ich k\u00c3\u00b6nnte noch schnell zum Rewe bei uns. Der hat bis 24 Uhr offen. Was f\u00c3\u00bcr Eis?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371322605815,
+      "content": "Hm, irgendeiner von denen die Morgen kommen? Also der in der blaubeurer Stra\u00c3\u009fe hat auf.jeden Fall bis.12 auf.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1371322568869,
+      "content": "ja aber ich immer noch g\u00c3\u00a4ste da :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371322510422,
+      "content": "Kaufland hat bis 10 oder 12 auf.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1371322490946,
+      "content": "ne leider nicht :( kann ich nicht mehr besorgen :( haben dir 5 l von heut nicht gereicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371322423883,
+      "content": "Kannst nicht Eis mitbringen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1371322370576,
+      "content": "ich w\u00c3\u00bcrd och nen kuchen mirbringen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371318007055,
+      "content": "Wir brauchen welche um 9 morgens und welche um 3 mittags :* :) am besten von 9 bis 3 bleiben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1371317019330,
+      "content": "wann sollen wir morgen da sein und wie lange geht das?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371313511156,
+      "content": "1 2-kg pack crush ice reicht. Wir haben heute auch nur 1 1/2 ca gebraucht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371313249206,
+      "content": "Vanilleeis w\u00c3\u00a4re gut kann das jemand besorgen und bisschen Crash Eis ich hab noch einiges an exotischen S\u00c3\u00a4ften umsonst bekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1371312528526,
+      "content": "ich kann morgen auch noch ne uchen mitbringen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1371309612264,
+      "content": "wir von der Oase ham ausgemacht um halb 9, hoff mal das stimmt immer noch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1371306948920,
+      "content": "Ich komm auch. Wie viel Uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371306432143,
+      "content": "Denke. Schau mal gegen 7 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1371306345621,
+      "content": "ich bin da :D... reichen die S\u00c3\u00a4fte/Obst noch f\u00c3\u00bcr morgen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371306092283,
+      "content": "Also wer kommt morgen eigentlich alles? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371305697644,
+      "content": "Ja back mal einen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371305692596,
+      "content": "Hab ich doch alles? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371296562938,
+      "content": "wenn f\u00c3\u00bcr morgen noch jemand ananassaft, mango und maracujasaft mitbringen k\u00c3\u00b6nnte w\u00c3\u00a4rs gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1371293546104,
+      "content": "Braucht man morgen noch Kuchen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1371282632980,
+      "content": "Mir gehts wieder besser. Bin so um 10 da ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371281294264,
+      "content": "Okax beeilen dich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371280218026,
+      "content": "Sorry ich komm erst halb 10. Mein Vater war nicht wachzukriegen. -,-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1371279535699,
+      "content": "ich komm erst morgen, aber schon wie ausgemacht um halb 9?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371275807976,
+      "content": "okay :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371275798924,
+      "content": "Ich hol den so um 15 nach 8/ halb 9 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371275745051,
+      "content": "wann holst du den kuchen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371248025759,
+      "content": "Also alle die kommen gr\u00c3\u00bcnes oder wei\u00c3\u009fes tshirt okay? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371234108241,
+      "content": "Ulm S\u00c3\u00b6flingen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371234104426,
+      "content": "Krausstra\u00c3\u009fe 17 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371234099944,
+      "content": "hab ich auf die R\u00c3\u00bcckseite geschrieben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371234089776,
+      "content": "Wo genau? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371233942591,
+      "content": "Ich hab einen Kuchen gemacht, und es w\u00c3\u00a4re gut wenn den jemand abholen k\u00c3\u00b6nnte .. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1371233490257,
+      "content": "Schaut euch bitte genau an, meine mama hat gerade eine Zecke bei mir rausgemacht.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371232489277,
+      "content": "Ja klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371231974947,
+      "content": "Passt das mit dem Saft?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371231969833,
+      "content": "Ich glaub Franziska Renner.. Charlotte.. Und sonst.. Keine Ahnung sorry.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371231946585,
+      "content": "Wei\u00c3\u009ft du noch wer? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371231630744,
+      "content": " ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371231241974,
+      "content": "Wer kommt morgen alles? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371230811512,
+      "content": "Ja sag ich morgen gleich wenn ich mich mit dem treffe sag ichs ihm:) bringt den Kuchen geschnitten mit und kurz anziehen Bitte es wir hei\u00c3\u009f :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1371230669447,
+      "content": "hast du benedikt beschwid gesagt dass er bei mir als letztes vorbei kommen soll wegen dem eis ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371230255688,
+      "content": "Aber kein spray und das ist ja nicht f\u00c3\u00bcr die preise gedacht (das soll sch\u00c3\u00b6n sauber aussehen)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371230202201,
+      "content": "wir hatten doch die gr\u00c3\u00bcne rolle vorhin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1371229326713,
+      "content": "Ich bring mal mangosaft mit und ananassaft, ok?\nPlakat wollte doch franzi Renner machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371229262185,
+      "content": "Leute wie sieht es aus kann jemand ein Plakat machen f\u00c3\u00bcr die Cocktails also jeweils 1 \u00e2\u0082\u00ac und eben 50ct Spie\u00c3\u009f ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371225263522,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat Ang Joe Bra zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Ang Joe Bra"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371225009659,
+      "content": "Ja sonst im Notfall machen wir es so oder ich bettel wieder ;) ach und morgen m\u00c3\u00bcsst ihr euch bei mir melden denn ich hab so Gutscheine f\u00c3\u00bcr jeden mit essen und Getr\u00c3\u00a4nke damit ihr versorgt seid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371224900942,
+      "content": "ja war nur ne Idee :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371224851558,
+      "content": "Lisa wenn jeder 1-2 Liter mitbringt der morgen vorbei kommt m\u00c3\u00bcsste das reichen. Preis pro Saft ist 1 \u00e2\u0082\u00ac also pro Glas und 50ct pro Spie\u00c3\u009f ;) und wechsel geld hab ich dann geb ich euch das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371224776472,
+      "content": "und was dann an Geld noch \u00c3\u00bcbrig ist k\u00c3\u00b6nnen wir denen ja spenden :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371224772554,
+      "content": "Wer backt morgen alles Kuchen? ;) und kann es jeder selber vorbei bringen oder muss ich es holen? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1371224755631,
+      "content": "verlangen wir jetzt Geld f\u00c3\u00bcr unsere s\u00c3\u00a4fte oder nicht? weil dann k\u00c3\u00b6nnten wir von dem Geld was wir Samstag einnehmen am Abend noch f\u00c3\u00bcr Sonntag einkaufen dann haben wir auf jeden Fall genug :) ich kann mal meine Mama fragen vielleicht h\u00c3\u00a4tten wir dann ein Auto :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1371222442308,
+      "content": "okay gut ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371222420418,
+      "content": "Um 8 am besten :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1371222266170,
+      "content": "Wann sollen die Fu\u00c3\u009fballspielerinnen morgen da sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1371217010743,
+      "content": "K\u00c3\u00b6nnten alle, die am Samstag in der letzten Schicht sind schauen, dass wir noch gen\u00c3\u00bcgend S\u00c3\u00a4fte/Obst f\u00c3\u00bcr Sonntag haben, weil die Gesch\u00c3\u00a4fte da geschlossen haben. Danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371209996271,
+      "content": "Also jeder der morgen kommt Bitte 1-2 Liter exotische Getr\u00c3\u00a4nke mitbringen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371190358482,
+      "content": "Okay aber Punkt 9.20 Uhr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371188687591,
+      "content": "Ich hab verschlafen, sch\nschaffs erst um 9:20 uhr ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371161813344,
+      "content": "Wiblingen saulgauer Stra\u00c3\u009fe 3 ;) f\u00c3\u00bcr diejenigen die die Adresse nicht wissen wo ihr aber aus dem 3 er aussteigen m\u00c3\u00bcsst (Haltestelle) )wei\u00c3\u009f ich nicht auswendig da m\u00c3\u00bcsst ihr Fragen oder so :* bis morgen fr\u00c3\u00bch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371160137313,
+      "content": "Ja okay dann eben wenn du in Zukunft vorbei kommst wenn es geht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1371160105240,
+      "content": "Ich hab leider kein passendes t-Shirt dabei...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371158499710,
+      "content": "Bitte fragt eure Kumpel freunde beste Freunde usw ob die zeit haben uns zu helfen das w\u00c3\u00a4re ganz arg lieb :* :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371154973576,
+      "content": "Ist okay aber wenn es dir an einem tag besser geht dann komm bitte :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1371150244057,
+      "content": "ich komm morgen nicht, bin ja krank .. ist das arg schlimm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1371147246973,
+      "content": "Achsoo oke :) ich komm wahrscheinlich eher Samstag oder Sonntag :) oder beides. Morgen reichts mir nicht..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371147164869,
+      "content": "Weil wir einheitlich sein sollen und wir Aufkleber hanen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1371147132806,
+      "content": "Warum? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371147111439,
+      "content": "Morgen wei\u00c3\u009fes oder gr\u00c3\u00bcnes Oberteil anziehen okay? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371146707359,
+      "content": "Genau morgen fr\u00c3\u00bch 9 in der Mensa im tannenhof ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1371144535462,
+      "content": "hey ihr ;*! also ich war heut mittag ja nicht da... steht das mit morgen fr\u00c3\u00bch um 9 am Tannenhof immer noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371062885520,
+      "content": "Also neue Info: morgen 15.50 Uhr vor dem eiscaf\u00c3\u00a9 beim Brunnen wisst ihr wo? Da beim ratskeller oder wie das Restaurant hei\u00c3\u009ft und bitte p\u00c3\u00bcnktlich sein wer fr\u00c3\u00bcher ausm Unterricht muss geht einfach :* bis morgen das ganze kann waa werden! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371054912194,
+      "content": "So ihr lieben morgen geht es los ich gebe euch allen mal am besten meine Handy Nummer also falls was sein sollte ihr k\u00c3\u00b6nnt jeder zeit schreiben, anrufen was auch immer okay? :) tretet dem Chat nicht aus denn hier schreibe ich immer alle Nachrichten die wichtig werden rein und kann jemand laura Scharpf alina heinemann oder belinda st\u00c3\u00a4b immer Bescheid geben? Meine Nummer: 015164810786 :* Bis bald",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maike, Mara, Lea und 10 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/maikemaraleaund10weiterepersonen_7nb8ddvlcq",
+  "magic_words": [
+    
+  ]
+}

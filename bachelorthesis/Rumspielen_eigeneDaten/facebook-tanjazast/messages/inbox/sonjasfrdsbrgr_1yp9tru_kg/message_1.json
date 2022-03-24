@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Sonja Sfrdsbrgr"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317327296905,
+      "content": "Ah okay danke :) ja ein kumpel hat das gleiche problem.. Also kann ich da anrufen und mein geld das ich bis jetzt gezahlt hab zur\u00c3\u00bcck bekommen?? :D du hast da also nur angerufen und nach 1 tag wars wieder normal??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sonja Sfrdsbrgr",
+      "timestamp_ms": 1317326973505,
+      "content": "Ehm Ja ich hab da angerufen und dann haben die gemeint die Leute die das Problem haben m\u00c3\u00bcssen anrufen dann bekommen die das Geld auch zur\u00c3\u00bcck und nachdem der angerufen hat so nen tag sp\u00c3\u00a4ter oder so mussten die nichts mehr zahlen, wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sonja Sfrdsbrgr",
+      "timestamp_ms": 1317326891122,
+      "content": "015785727951;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1317319440703,
+      "content": "Hey :) gibst du mir mal bitte noch mal deine aldi nr!!?? Die fehlt iwie :P naja und ich wollte fragen wie du das dann wieder mit deinem handy hin bekommen hast weil alles die dir geschrieben haben doch was gezahlt haben und jetzt nicht mehr oder?? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sonja Sfrdsbrgr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sonjasfrdsbrgr_1yp9tru_kg",
+  "magic_words": [
+    
+  ]
+}

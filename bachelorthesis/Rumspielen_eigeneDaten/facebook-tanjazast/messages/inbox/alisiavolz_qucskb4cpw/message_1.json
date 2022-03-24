@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Alisia Volz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alisia Volz",
+      "timestamp_ms": 1537878316144,
+      "content": "Danke dir meine Liebe! War echt sch\u00c3\u00b6n dich zu sehen gestern! \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1537865204727,
+      "content": "Ach wie cool! Du hast heute auch noch Geburtstag \u00f0\u009f\u0098\u008d\nIch w\u00c3\u00bcnsche dir von Herzen alles alles Liebe und Gute zum Geburtstag \u00f0\u009f\u008e\u0081 \nFeier sch\u00c3\u00b6n und lass es krachen! \u00f0\u009f\u008e\u0089\u00f0\u009f\u008d\u00be",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisia Volz",
+      "timestamp_ms": 1456303249779,
+      "content": "Bl\u00c3\u00b6d\u00f3\u00be\u008c\u00ba\u00f3\u00be\u008c\u00bahab grad deutsch wir machen Gedichte hahah was machst du?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1456299549036,
+      "content": "Ja und dir? Wie ist es in der Schule \u00f0\u009f\u0099\u008a\u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisia Volz",
+      "timestamp_ms": 1456264274170,
+      "content": "Oki ja jetzt hats ja geklappt \u00f0\u009f\u0099\u0084geht's dir gut?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1456263798495,
+      "content": "Ich auch nicht aber das hat mir mal ne Freundin erz\u00c3\u00a4hlt dass es mal Passieren kann dass die Nachrichten als Spam markiert werden \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisia Volz",
+      "timestamp_ms": 1456263399112,
+      "content": "Yay \u00f0\u009f\u008c\u00b7ich wusste nicht dass man das nicht sieht wenn man nicht befreundet ist \u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1456261203004,
+      "content": "So jetzt sehe ich deine Nachricht \u00f3\u00be\u008c\u00b1\u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisia Volz",
+      "timestamp_ms": 1455275171121,
+      "content": "Hey du na wie geht's dir? :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alisia Volz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alisiavolz_qucskb4cpw",
+  "magic_words": [
+    
+  ]
+}

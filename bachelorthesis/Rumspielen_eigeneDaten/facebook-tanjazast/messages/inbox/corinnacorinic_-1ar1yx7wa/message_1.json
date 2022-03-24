@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Corinna Corinic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Corinna Corinic",
+      "timestamp_ms": 1575115906635,
+      "content": "Du und Corinna Corinic feiert eure 11-j\u00c3\u00a4hrige Freundschaft auf Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Corinna Corinic",
+      "timestamp_ms": 1309206861000,
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Corinna Corinic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/corinnacorinic_-1ar1yx7wa",
+  "magic_words": [
+    
+  ]
+}

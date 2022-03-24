@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310216391317,
+      "content": "hey he y:D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309979130152,
+      "content": "Ja stimmt :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309979042505,
+      "content": "Ich mach gar nichts mit dir .. Also kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309978900270,
+      "content": "Achso :D und willst dann auch nemme annehmen oder hinzu tun :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1309978736346,
+      "content": "Ne ich hab nur ausgemistet und so !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309978638279,
+      "content": "Bist du sauer auf mich dass du mich als freundin in fb entfernt hast?? :O wenn ja! Warum was hab ich getan?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309978611546,
+      "content": "Bist du sauer auf mich dass du mich als freundin in fb entfernt hast?? :O wenn ja! Warum was hab ich getan?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307206686921,
+      "content": "hey warum hast du mich als freundin entfernt?? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1291014763000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_g2uu--kara",
+  "magic_words": [
+    
+  ]
+}

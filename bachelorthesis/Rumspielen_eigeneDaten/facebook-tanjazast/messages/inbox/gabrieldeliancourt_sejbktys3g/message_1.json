@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel Deliancourt"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel Deliancourt",
+      "timestamp_ms": 1584310519623,
+      "content": "Ja dann, wann gehst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584310476773,
+      "content": "*in meinen passt du nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584310469404,
+      "content": "Warte ich schau doch mal und teste die.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584310457328,
+      "content": "Ich kenne da so Leute \u00f0\u009f\u00a4\u00ad besorge dir dann schon einen. Ich meinen passt du glaub leider nicht au\u00c3\u009fer du bist 1,64 \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gabriel Deliancourt",
+      "timestamp_ms": 1584310193036,
+      "content": "Strange, habe da keine SMS von dir bekommen. Naja, meine Nummer ist aufjedenfall die +49 176 84085038",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gabriel Deliancourt",
+      "timestamp_ms": 1584309699432,
+      "content": "Hab schon bock auf so ne Aktion aber ohne neo komm ich nicht weit bin ja nicht der iceman",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584308826530,
+      "content": "Echt? Also ich habe noch die als ich dir mal im august drauf geschrieben habe. Also eigentlich \u00f0\u009f\u0098\u0082\u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1584308801339,
+      "content": "Du wirst lachen. Wollte die Woche bei meinen Eltern vorbei und meinen Neo holen. Sollte mir nur so eine neo Kappe holen und vielleicht so eine Boje f\u00c3\u00bcr alle F\u00c3\u00a4lle. Kommst mit? \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gabriel Deliancourt",
+      "timestamp_ms": 1584308532191,
+      "content": "Und ich habe unh\u00c3\u00b6flicherweise vergessen zu antworten.. \nNein ich hab keine neue Nummer aber du hast eine neue, wie mir scheint.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Gabriel Deliancourt",
+      "timestamp_ms": 1584308410875,
+      "content": "Ich dachte mir gerade, eigentlich k\u00c3\u00b6nntest du Anfangen im Baggersee zu Baden :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1564044285949,
+      "content": "Hast du eine neue Nummer? \u00f0\u009f\u00a4\u0094 manchmal ist das so faszinierend wie klein die Welt einfach ist!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Gabriel Deliancourt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/gabrieldeliancourt_sejbktys3g",
+  "magic_words": [
+    
+  ]
+}

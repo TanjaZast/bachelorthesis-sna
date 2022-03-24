@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Annika Mak"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Annika Mak",
+      "timestamp_ms": 1502529347132,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Annika Mak",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annikamak__4iwobwgfa",
+  "magic_words": [
+    
+  ]
+}

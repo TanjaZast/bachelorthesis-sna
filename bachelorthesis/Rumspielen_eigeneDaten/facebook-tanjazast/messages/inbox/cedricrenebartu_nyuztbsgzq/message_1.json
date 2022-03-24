@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Cedric Rene Bartu"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cedric Rene Bartu",
+      "timestamp_ms": 1493570182167,
+      "content": "Hey was geht ?;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Cedric Rene Bartu",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cedricrenebartu_nyuztbsgzq",
+  "magic_words": [
+    
+  ]
+}

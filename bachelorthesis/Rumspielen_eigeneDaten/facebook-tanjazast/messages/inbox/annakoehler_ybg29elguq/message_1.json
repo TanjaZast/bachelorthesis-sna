@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Anna Koehler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna Koehler",
+      "timestamp_ms": 1554842959590,
+      "content": "Du und Anna Koehler feiert eure 9-j\u00c3\u00a4hrige Freundschaft auf Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404459034690,
+      "content": "Damit ich das auf die Karte schreibe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404459019009,
+      "content": "Duuu kannst du so lieb sein und dir ein paar S\u00c3\u00a4tze \u00c3\u00bcberlegen f\u00c3\u00bcr Milinski und Dmochi?:* w\u00c3\u00a4re Mega",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anna Koehler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annakoehler_ybg29elguq",
+  "magic_words": [
+    
+  ]
+}

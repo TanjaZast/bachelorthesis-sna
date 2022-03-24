@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jay Ell' Do"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320619273838,
+      "content": "Was meint noni damit?? Ich wills auch wissen :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jay Ell' Do",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jayelldo_dprnxzavjg",
+  "magic_words": [
+    
+  ]
+}

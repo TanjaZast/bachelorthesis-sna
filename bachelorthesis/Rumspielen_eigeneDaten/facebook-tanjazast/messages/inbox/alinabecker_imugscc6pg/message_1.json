@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Alina Becker"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1353173873100,
+      "content": "ich weis nicht wann die ist?!! aber ich glaube bald.. :* :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353155470826,
+      "content": "Ich auch!! ;) :* wann habt ihr eure n\u00c3\u00a4chste smv Sitzung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1353152084581,
+      "content": "jaa denk ich auch :* hoffentlich klappts :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353151876791,
+      "content": "Eben und wenn wir die ganzen Unterschriften unseren Direktoren zeigen werden die bestimmt was machen ;) :* danke dir dann wird das bestimmt was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1353151544581,
+      "content": "okeei.. alsoo unsere Lehrer haben halt schon gesagt das man auf keinen fall den schulgong zur\u00c3\u00bcck haben m\u00c3\u00b6chte aber wir k\u00c3\u00b6nnens ja mal probieren weil ich denke alle sch\u00c3\u00bcler wollen den schulgong zur\u00c3\u00bcck.! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353087524755,
+      "content": "Ja genau ;) wir wollen von der smv aus eine unterschriftensammlung planen halt mit der real Schule ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1353082533838,
+      "content": "heei ;D\ndeine schwester hat mir gesagt ich soll dich mal anschreiben wegen dem Schulgong oder soo?!!\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1320599630145,
+      "content": "hei :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1320599617056,
+      "content": "heii :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alina Becker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alinabecker_imugscc6pg",
+  "magic_words": [
+    
+  ]
+}

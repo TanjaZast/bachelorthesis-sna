@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jonny Ag"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonny Ag",
+      "timestamp_ms": 1537269115493,
+      "content": "Hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonny Ag",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/jonnyag_owaak_j2kq",
+  "magic_words": [
+    
+  ]
+}

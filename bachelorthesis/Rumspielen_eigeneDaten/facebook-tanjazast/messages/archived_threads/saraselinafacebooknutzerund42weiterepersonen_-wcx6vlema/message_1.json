@@ -1,0 +1,218 @@
+{
+  "participants": [
+    {
+      "name": "Sara Can"
+    },
+    {
+      "name": "Selina Reinhardt"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tarik \u00c3\u0096zt\u00c3\u00bcrk"
+    },
+    {
+      "name": "Samet \u00c3\u0096zcan"
+    },
+    {
+      "name": "Sefa Karadeniz"
+    },
+    {
+      "name": "Tamer Tezcan"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Selina Ute Sch\u00c3\u00b6nke"
+    },
+    {
+      "name": "Valentina LaItaliana"
+    },
+    {
+      "name": "Semih Paydas"
+    },
+    {
+      "name": "Sascha Filler"
+    },
+    {
+      "name": "Serdar G\u00c3\u00bcney"
+    },
+    {
+      "name": "Sabrina Geisel"
+    },
+    {
+      "name": "Robin Daiberr"
+    },
+    {
+      "name": "Sandra B\u00c3\u00b6ttcher"
+    },
+    {
+      "name": "Sanndraa Bae"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Orhan Keskin"
+    },
+    {
+      "name": "Selina Karabasak"
+    },
+    {
+      "name": "Theresa Anna M\u00c3\u00bcller"
+    },
+    {
+      "name": "Syni Byt"
+    },
+    {
+      "name": "Vanessa Wagner"
+    },
+    {
+      "name": "Skander Koen Bauweraerts"
+    },
+    {
+      "name": "Dilan O\u00c3\u00a9z"
+    },
+    {
+      "name": "Vicky Camora"
+    },
+    {
+      "name": "Shindy Supp"
+    },
+    {
+      "name": "Robert Frese"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Sophie Heuschmid"
+    },
+    {
+      "name": "Theo Elisseos"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tim Blubb"
+    },
+    {
+      "name": "Tugay Cetiner"
+    },
+    {
+      "name": "Sandy Malkovice"
+    },
+    {
+      "name": "Senta Melinz"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Sandy Sandyke"
+    },
+    {
+      "name": "Patric Schiele"
+    },
+    {
+      "name": "Sandy Sandyk\u00c3\u00a9"
+    },
+    {
+      "name": "Samy Sanchez"
+    },
+    {
+      "name": "Tiim Hohler"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449526662619,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Selina \u00c3\u0096zkan",
+      "timestamp_ms": 1449526659365,
+      "content": "Selina \u00c3\u0096zkan hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Selina \u00c3\u0096zkan"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449526649813,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1449526646055,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "S\u00c3\u00bcmeyye K\u00c3\u00bcc\u00c3\u00bckyarma Demircan",
+      "timestamp_ms": 1449526635816,
+      "content": "S\u00c3\u00bcmeyye K\u00c3\u00bcc\u00c3\u00bckyarma Demircan hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "S\u00c3\u00bcmeyye K\u00c3\u00bcc\u00c3\u00bckyarma Demircan"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dilan O\u00c3\u00a9z",
+      "timestamp_ms": 1449526609172,
+      "content": "Nein? Ahahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Orhan Keskin",
+      "timestamp_ms": 1449526584354,
+      "content": "hey, bist du das auf dem VIDEO? ? -http://smarturl.it/ix2mfz?IQid=google m6GVP0",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sara, Selina, Facebook-Nutzer und 42 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/saraselinafacebooknutzerund42weiterepersonen_-wcx6vlema",
+  "magic_words": [
+    
+  ]
+}

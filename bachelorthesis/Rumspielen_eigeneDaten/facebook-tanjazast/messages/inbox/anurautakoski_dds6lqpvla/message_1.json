@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Anu Rautakoski"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anu Rautakoski",
+      "timestamp_ms": 1449211518764,
+      "content": "Ohje Tanja ich hab gar nichts dar\u00c3\u00bcber geh\u00c3\u00b6rt und sehe deine Nachricht erst jetzt! Kannst du bitte mir schreiben oder anrufen (0176 35869113) wenn du mehr wei\u00c3\u009ft :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449183223280,
+      "content": "Ups meinte Anu\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449183211083,
+      "content": "Ansi, was ist mit Anne? Sie musste ins Krankenhaus? Ist es schlimm? Ich mache mir furchtbare Sorgen bitte antworte so schnell du kannst \u00f3\u00be\u008d\u0095\u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anu Rautakoski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anurautakoski_dds6lqpvla",
+  "magic_words": [
+    
+  ]
+}

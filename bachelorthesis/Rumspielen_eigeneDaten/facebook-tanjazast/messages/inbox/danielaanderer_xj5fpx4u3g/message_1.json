@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Daniela Anderer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniela Anderer",
+      "timestamp_ms": 1544460729678,
+      "content": "Oh du bist ja s\u00c3\u00bc\u00c3\u009f :) hat mich auch gefreut. Um kurz nach 9 ist dann direkt ein IRE gefahren und um 10.40 war ich dann auf der Arbeit :D\nHattest du einen entspannten Tag? Wenn du m\u00c3\u00b6chtest kannst du mir auch gerne \u00c3\u00bcber Whatsapp schreiben: 015772936486",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1544436186141,
+      "content": "Hat mich echt gefreut dich heute zu sehen \u00f0\u009f\u0099\u0082! Hoffe du bist schon gut zur Arbeit gekommen?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daniela Anderer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/danielaanderer_xj5fpx4u3g",
+  "magic_words": [
+    
+  ]
+}

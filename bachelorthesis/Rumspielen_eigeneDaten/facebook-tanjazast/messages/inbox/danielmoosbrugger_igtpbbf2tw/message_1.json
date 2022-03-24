@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Moosbrugger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Moosbrugger",
+      "timestamp_ms": 1549860627662,
+      "content": "Wie gehts dir ? Was gibts neues ? \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Moosbrugger",
+      "timestamp_ms": 1549860607330,
+      "content": "Danke \u00f0\u009f\u00a4\u0093hab ich mir schon gedacht \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1549833999019,
+      "content": "Ja hab ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1549833995928,
+      "content": "Spa\u00c3\u009f \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1549833991367,
+      "content": "Neeee hab dich blockiert \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Moosbrugger",
+      "timestamp_ms": 1549828606431,
+      "content": "Hast du ne neue Nummer ? \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1549828271655,
+      "content": "Ja? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Moosbrugger",
+      "timestamp_ms": 1549635083342,
+      "content": "Tanja ? \u00f0\u009f\u0099\u008b\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465283625280,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Moosbrugger",
+      "timestamp_ms": 1463333624576,
+      "content": "Tanja ? \u00f3\u00be\u008d\u0091\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daniel Moosbrugger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/danielmoosbrugger_igtpbbf2tw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Dennis Khan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1430128936850,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404303457122,
+      "content": "Ne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404303263939,
+      "content": "St\u00c3\u00b6r ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404303249707,
+      "content": "Haha ich auch:-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404302871314,
+      "content": "Juni",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404302390422,
+      "content": "Wann bist 18 geworden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404302378000,
+      "content": "17:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404302367691,
+      "content": "18 du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404301786509,
+      "content": "Wie alt bist du :)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404283678406,
+      "content": "Nicht schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404256092479,
+      "content": ":))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404256088756,
+      "content": "Auch,)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404255676081,
+      "content": "Ich chille und du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404254747619,
+      "content": ".:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404254742909,
+      "content": "Auch und was machst du so Hahap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404254592776,
+      "content": "Gut und dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404254129219,
+      "content": "Wie Gehts :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404253748733,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dennis Khan",
+      "timestamp_ms": 1404253672962,
+      "content": "Hey :))",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dennis Khan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/denniskhan_ex8do21aua",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357173931646,
+      "content": "Wir schreiben gleich whats app weiter ja?<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357173828528,
+      "content": "Voll richtig! ;) :* also meine 015164810786 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357173760219,
+      "content": "Ja auch warte meine nummer : 015739113637\nJaaaaaa ? Haha :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357173702312,
+      "content": "Ja hab ich und du s\u00c3\u00bc\u00c3\u009fe? :) :* haha was lese ich da du hast einen geilen arsch ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1357173650325,
+      "content": "Hallo ;*\nHast du whats app?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_swmx6lo8tw",
+  "magic_words": [
+    
+  ]
+}

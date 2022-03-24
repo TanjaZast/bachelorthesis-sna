@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Myer's Club Ulm"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479133111858,
+      "photos": [
+        {
+          "uri": "messages/inbox/myersclubulm_ckbifqbqmg/photos/15045437_1416824581691721_1554226722_o_1416824581691721.jpg",
+          "creation_timestamp": 1479133110
+        }
+      ],
+      "type": "Generic",
+      "ip": "134.60.149.62",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Myer's Club Ulm",
+      "timestamp_ms": 1479133103883,
+      "content": "Vielen Dank f\u00c3\u00bcr deine Nachricht. Wir versuchen so gut und so schnell wie m\u00c3\u00b6glich zu antworten.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479133103694,
+      "content": "Kann man dieses Bild bitte rausmachen? Ich schreibe jetzt bereits zum 3. mal. Ich habe ausdr\u00c3\u00bccklich gesagt gehabt, dass ich es nicht hochgeladen haben m\u00c3\u00b6chte. W\u00c3\u00a4re super nett, wenn es jetzt endlich raus kommt. \nDanke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479031845490,
+      "content": "Hallo Myer's Team, \r\n\r\nK\u00c3\u00b6nnt ihr bitte ganz schnell das Bild einfach entfernen? Ich m\u00c3\u00b6chte dass es so wenig Menschen wie m\u00c3\u00b6glich sehen.\r\nVielen Dank",
+      "type": "Generic",
+      "ip": "2a02:8070:d1a8:fa00:ece6:11d9:9a30:f107",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Myer's Club Ulm",
+      "timestamp_ms": 1479021158997,
+      "content": "Vielen Dank f\u00c3\u00bcr deine Nachricht. Wir versuchen so gut und so schnell wie m\u00c3\u00b6glich zu antworten.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479021158662,
+      "content": "Hey Myers-Team,\r\nEs war ein wirklich guter Abend gestern, jedoch h\u00c3\u00a4tte ich dem Fotografen ausdr\u00c3\u00bccklich gesagt, er soll bitte keines der Bilder von mir hochladen. W\u00c3\u00a4re super, wenn ihr das Foto entfernt! Danke euch :)",
+      "type": "Generic",
+      "ip": "2a01:598:b044:1232:c158:5e53:3f28:7610",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Myer's Club Ulm",
+      "timestamp_ms": 1433712834058,
+      "content": "Hi Tanja \nDoch da ist auch unsere Studentenparty :) wir freuen uns auf dich \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1433712270395,
+      "content": "Hallo liebes Myers-Team, \n\nIch h\u00c3\u00a4tte ein kleine Frage: findet am 11. Juni, also n\u00c3\u00a4chste Woche Donnerstag, wie sonst immer die Studentenparty statt oder ist da etwas anderes oder gar nichts? \u00e2\u0098\u00ba\u00ef\u00b8\u008f\nVielen Dank im Voraus",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Myer's Club Ulm",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/myersclubulm_ckbifqbqmg",
+  "magic_words": [
+    
+  ]
+}

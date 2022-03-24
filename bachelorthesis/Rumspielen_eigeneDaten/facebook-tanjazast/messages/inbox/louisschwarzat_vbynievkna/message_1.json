@@ -1,0 +1,2595 @@
+{
+  "participants": [
+    {
+      "name": "Louis Schwarzat"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342503741724,
+      "content": "Kein problem :P ist okay... Wenigstens hast trotzdem dran gedacht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1342474385340,
+      "content": "Oh man sorry ist vllt bisschen sp\u00c3\u00a4t :( aber ich hatte heute viel um die ohren :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1342385961679,
+      "content": "Nein tu ich nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342385899557,
+      "content": "Okay :) aber vergess es nicht!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1342385755727,
+      "content": "Sorry ich kann grad nicht schreiben aber schreiben wir morgen wieder ok ? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342382515472,
+      "content": "Kleiner :) schreib mir halt nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340892271895,
+      "content": "Doch doch. Bitte :) f\u00c3\u00bcr mich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340892122241,
+      "content": "Wird nix leider :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340892103402,
+      "content": "Und ihr bleibt bissle l\u00c3\u00a4nger!! Ich \u00c3\u00bcberrede euch schon noch dazu!! :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340891972510,
+      "content": "Ok gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340891712640,
+      "content": "Um 5 bin ich da :) okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340891655396,
+      "content": "Ach so wann kommst du jetzt eig ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340883122862,
+      "content": ":) nein!? Du nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340882214536,
+      "content": "Und ich nicht oder ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340882163493,
+      "content": ":) ja sag ich doch!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340878518281,
+      "content": "Haha ja klar :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340878423615,
+      "content": ":) ja eig schon.. Haha doch wir haben schon fast die gleiche meinung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340872493467,
+      "content": "Ich kann dir nicht immer ganz zustimmen ;)\nKhedira ist richtig gut und Boateng ist einfach der coolste und besser als Bender und M\u00c3\u00bcller ist richtig schlecht und Schweinsteiger ist richtig gut nur bei der EM l\u00c3\u00a4uft es halt noch nicht und Lahm ist auch richtig gut !! Und ja Neuer ist echt der beste Torwart :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340858645741,
+      "content": "Halt sch\u00c3\u00b6nste tore mach echt khedira.. Naja und noateng ist eh f\u00c3\u00bcrn arsch.. Der soll mal heute was zeigen!! Dann mueller ist okay aber der war weltmeisterschaft so viel besser :D und schweini kann auch nicht viel aber gute tore vorbereiten und ja lahm hat manchmal nur Gl\u00c3\u00bcck kanns aber auch nicht :D aber neuer ist und bleibt ein gott!! :D\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340831491058,
+      "content": "Ist doch bisschen langweilig oder ? :)\nWir feiern lieber mit nem Bier am m\u00c3\u00bcnsterplatz :)\nHaha wer ist f\u00c3\u00bcr dich der beste von Deutschland ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340831339285,
+      "content": ":) oh gott wie stressig ich chill mich da lieber mit meinem bier daheim hin und schau ganz genau hin und verbessere jede bewegung :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340831206122,
+      "content": "Doch das war so richtig geil gegen Griechenland da standen wir fast in der ersten Reihe :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340831131400,
+      "content": ":) okay aber ich versteh euch nicht warum tut ihr euch das an !? Ihr werdet eh nichts sehen am donnerstag dort sind so viele menschen!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340830962441,
+      "content": "Ja wahrscheinlich schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830926653,
+      "content": "Bis dahin werden wir vllt nicht mal ankommen :) also hat es sich erledigt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340830877845,
+      "content": "Ja wir m\u00c3\u00bcssen leider schon wieder um 17:30 Uhr gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830431313,
+      "content": "Also ich kurz nach 5 aber ihr k\u00c3\u00b6nnt gehn wann ihr wollt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340830323153,
+      "content": "Ok gut :)\nWann gehen wir \u00c3\u00bcberhaupt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830286448,
+      "content": ":) ja schon.. Ach egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340830168415,
+      "content": "Nein da hast dich get\u00c3\u00a4uscht ich hab doch gesagt das wir zum schwimmen gehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830090751,
+      "content": "Keine ahnung :) kam so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340830055285,
+      "content": "Warum sollte ich mich nicht trauen ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340829994437,
+      "content": ":) eben.. So wies aussieht traust dich jetzt auf baggersee!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340829742233,
+      "content": "Ja genau so ist es :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340829698690,
+      "content": "Ja war es doch schon immer :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340829527132,
+      "content": "Dann ist ja alles gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340829450812,
+      "content": ":) ja mich auch haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340829279004,
+      "content": "Ok freut mich zu h\u00c3\u00b6ren :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340829225447,
+      "content": "Okay :) passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340829117835,
+      "content": "Ja sorry aber ich bin halt nicht so kreativ :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340828913036,
+      "content": ":) haha und dann gleich mit so was super gutem :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340828178981,
+      "content": "Gerne muss mich ja revanchieren :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340828088886,
+      "content": "Danke f\u00c3\u00bcrs kompliment !?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340827966780,
+      "content": "Nein du bist nat\u00c3\u00bcrlich kein Granit :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340827730689,
+      "content": "Ich weiss :) aber ich hab mal NACHGEGEBEN und mich entschuldigt :P ich bin kein granit!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340827613253,
+      "content": "Ich sag doch nein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340827553389,
+      "content": "Bitte sei dewegen nicht sauer :) ich hab kurz nicht nachgedacht und duu bist nett und nicht doof :) okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340827339755,
+      "content": "Nein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340827319720,
+      "content": "Sauer!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340827307680,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340826821724,
+      "content": ":) nein das war weil du meintest so: mit wem ich geh (als wenn ich keine freunde h\u00c3\u00a4tte!!) Spa\u00c3\u009f sorry ich h\u00c3\u00b6r auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340826313256,
+      "content": "Kannst mir vllt sagen was du genau f\u00c3\u00bcr ein Problem hast ?!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340826135367,
+      "content": "Geht's noch ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340825618582,
+      "content": "Boah halt die fressen! -.- ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340825410353,
+      "content": "Und wen wenn ich fragen darf :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340825384816,
+      "content": "Ich hab jetzt andere freunde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340823612050,
+      "content": "Okay !! :) hast angst mit mir alleine zu gehen? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340823475815,
+      "content": "Dann frag halt timmi ob er mitgeht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340823353669,
+      "content": "Okay :P naja wird eh nichts jungs sind unzuverl\u00c3\u00a4ssig morgen wird geiles wetter und ich geh da .. So punkt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340823247804,
+      "content": "Ok ja schauen wir mal wenn das Wetter gut ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340823108718,
+      "content": "Das auf jeden fall!? :) davon geh ich jetzt mal aus ach der kann immer! :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340823050006,
+      "content": "Ach so :)\nKp mal sehen dann k\u00c3\u00b6nnen wir ja noch timmi fragen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340822955373,
+      "content": ":) okay:) cool..  mit vellie :)\r\nAber wann gehst du mal!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340822775697,
+      "content": "Mit wem warst du \u00c3\u00bcberhaupt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340822752689,
+      "content": "Ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340822730996,
+      "content": "Ich meins ernst! -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340822703395,
+      "content": "Gell :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340822392822,
+      "content": "Wei mit mir baden gehn!? :D ja schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340822253653,
+      "content": "Ja nat\u00c3\u00bcrlich hab ich das weil lernen ist ja nicht so spannend :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340822163188,
+      "content": "Jaja mich anl\u00c3\u00bcgen :D ne Spa\u00c3\u009f ich bin echt kein bisschen b\u00c3\u00b6se aber du hast schon echt was verpasst!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340822006859,
+      "content": "Mach ich doch was soll ich denn machen wenn ich lernen muss und Training hab ?!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340821831146,
+      "content": ":) oh doch sag doch wenn dann wenigstens die wahrheit!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340821477199,
+      "content": "Nicht freiwillig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340821355961,
+      "content": "Weil du absagst!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340821296367,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340821291586,
+      "content": "Das ich gemein bin ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340821152307,
+      "content": ":) auf was!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340820981702,
+      "content": "Wie kommst darauf ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340820829065,
+      "content": "Auch nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340820673413,
+      "content": "Aber trotzdem gemein :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340819837204,
+      "content": "Ja so seh ich des auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340811036817,
+      "content": "Okay dann halt nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340809204182,
+      "content": "\u00c3\u0084h NEIN !!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340809169405,
+      "content": "Du bist doof!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340808948016,
+      "content": "Aber ich hab es nicht ernst gemeint :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340808908832,
+      "content": "Ja das du damit nicht leben kannst :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340804353939,
+      "content": "???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340803996990,
+      "content": "Was hast du ernst gemeint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340803956066,
+      "content": "Ich habs aber gerade ernst gemeint :) :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340803342438,
+      "content": "Nein gar nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340803295126,
+      "content": "Gell du kannst damit eben nicht leben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340802992512,
+      "content": "Doch klar deswegen war ja auch \" :P \" am Ende :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340802921071,
+      "content": "Das war ein Spa\u00c3\u009f!! :) du kapierst es nicht so mit was ich ernst meine und was nicht oder? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340802808523,
+      "content": "Ok damit kann ich auch leben :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340802715588,
+      "content": ":) doch klar geh ich ich hab dich nur als Spa\u00c3\u009f gefragt um zu schauen wir du reagierst :P tja da will ich dich nemme dabei haben!?\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340802070710,
+      "content": "Beim n\u00c3\u00a4chsten mal bin ich dabei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340802046192,
+      "content": "Echt wieso nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340802005474,
+      "content": "ach doof!! -.- dann geh ich nicht!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340801711820,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340801706850,
+      "content": "Ja aber du hast ja danach nicht noch um 17 Uhr Training",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340801671791,
+      "content": "Na und ich lerne auch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340801366140,
+      "content": "Ja sorry ich w\u00c3\u00bcrde echt auch lieber baden gehen als zu lernen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340801312063,
+      "content": "Erbach!? :) oha du doofi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340801138107,
+      "content": "Aber sag mir das n\u00c3\u00a4chste mal Bescheid wenn du wieder gehst ok ???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340800970821,
+      "content": "Echt wo gehst du hin ?\nEs tut mir echt leid ich w\u00c3\u00bcrde so gerne mitkommen aber ich kann heute nicht weil ich noch f\u00c3\u00bcr die Pr\u00c3\u00bcfung lernen muss und um 17 Uhr Fu\u00c3\u009fball Training hab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340800736716,
+      "content": "Ach nein!! :) ach und ich geh baden.. Du kommst mit mir mit okay!? Bitte du darfst und kannst nicht nein sagen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340800482491,
+      "content": "Nein die Pr\u00c3\u00bcfung ist so unn\u00c3\u00b6tig und voll schwer :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340796545747,
+      "content": "Achso :) ist doch okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340796478501,
+      "content": "So ein Referat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340795229553,
+      "content": ":) achso was f\u00c3\u00bcr eine!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340794886329,
+      "content": "Hab n\u00c3\u00a4chste Woche noch so ne Gammelpr\u00c3\u00bcfung da muss ich noch bisschen was machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340794757852,
+      "content": ":) du hast doch keine schule mehr!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340794694823,
+      "content": "Nachher muss grad noch was f\u00c3\u00bcr die Schule machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340794655238,
+      "content": "Dann geh doch mal raus!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340794584804,
+      "content": "Keine Ahnung war noch gar nicht drau\u00c3\u009fen :)\nAch so na dann :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340794505427,
+      "content": ":D doch das schon.. Und au\u00c3\u009ferdem ist bei uns daheim baustelle und so. Also ists zu laut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340794380446,
+      "content": "Ich w\u00c3\u00bcrde glaub auch nicht gehen ich finde es nichtmal so richtig hei\u00c3\u009f :)\nHaha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340794289257,
+      "content": ":) ich geh glaub nicht so .. :D weiss nicht mit wem da ich ja keine freunde hab xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340792766461,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340792716754,
+      "content": "Aber richtig!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340792420887,
+      "content": "Das ist bl\u00c3\u00b6d :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340792404443,
+      "content": "Ja!? :( sogar ein gro\u00c3\u009fes!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340792340003,
+      "content": "Tja dann hast du wohl ein kleines Problem oder ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340792295242,
+      "content": ":) ich auch nicht!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340792244229,
+      "content": "Kann ich echt nicht sagen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340792206813,
+      "content": "Keine ahnung :) vielleicht eher nicht oder!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340792093482,
+      "content": "Kann ich dir auch nicht sagen geh halt einfach mal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340791898222,
+      "content": ":) naja heute ists so warm.. Ich weiss nicht ob ich baden gehn soll ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340791428754,
+      "content": "Gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340791342547,
+      "content": ":) ja eig schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340791299133,
+      "content": "Oha wie geil :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340791163893,
+      "content": "Eig sollten wir 5 und 6 schule haben aber dann kann erst von der direktorin wir sollen in unsere klassen gehen und dann haben die die T\u00c3\u00bcr nicht aufbekommen und dann hat der direktor gesagt wir haben aus :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340791055626,
+      "content": "Echt geil und jetzt habt ihr Schule aus oder ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340790974767,
+      "content": ":D wir hatten gerade abi streich :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340787645150,
+      "content": "Ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340787607872,
+      "content": ":) haha dooch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340786019526,
+      "content": "Nein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785976445,
+      "content": ":) nein!? Ich hab ahnung!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340785844528,
+      "content": "Sagt ja genau die richtige !!!\n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785768695,
+      "content": "Nein ist sie nicht!! :D haha du hast ja so was von keine ahnung!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340785639340,
+      "content": "Die Diskussion hatten wir schon und die hat ja damit geendet das ich Ahnung hab :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785599631,
+      "content": "Du hast doch keine ahnung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340785525919,
+      "content": "NEIN !!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785452290,
+      "content": ":) doch!! Schau mal!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340785319085,
+      "content": "Warte..... NEIN :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785277791,
+      "content": ":) ja mist!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340785242788,
+      "content": "Was laber ich denn ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340785217930,
+      "content": ":) du laberst nur voll!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340784801180,
+      "content": "Doch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340784757116,
+      "content": ":) nein waren es nicht du Betr\u00c3\u00bcger und L\u00c3\u00bcgner :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340783886803,
+      "content": "Waren leere Worte :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340774511429,
+      "content": ":) doch!! Ich weiss es doch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746990824,
+      "content": "Auch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340746963522,
+      "content": "Aber gemeint! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746918831,
+      "content": "Hab ich das gesagt ??\nNEIN :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340746868213,
+      "content": "Okay :) ich bin so fett das ich schon unsportlich aussehe :) okay danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746816370,
+      "content": "Nein du wolltest es wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340746774029,
+      "content": "Im ernst?? Das wolltest sagen!? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746644981,
+      "content": "Ah die Erleuchtung \u00f0\u009f\u0099\u008f :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340746568096,
+      "content": "Geht's schon um das eine mit sportlich!? :) denn dann wolltest du sagen das ich nicht sportlich bin :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746407004,
+      "content": "Und wie sieht es aus ???????????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746165075,
+      "content": "Schau es dir erst nochmal an vllt klingelt ja doch noch was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340746131658,
+      "content": "Oh man wenn es dich gl\u00c3\u00bccklich macht...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340744645335,
+      "content": "Ich mach viel Spa\u00c3\u009f und so zeugs aber wenn du es mir nicht sofort sagst dann rede ich echt nicht mehr mit dir!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340744501566,
+      "content": "Was f\u00c3\u00bcr ein Argument :D\nAber Hey bekommst :** 2 wenn ich es dir nicht sag :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340744382704,
+      "content": ":) doch! Jetzt bitte louis bitte bitte bitte :) :* (bekommst auch nen :* smile)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340744277125,
+      "content": "Nein echt nicht !!!!\n:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340744249879,
+      "content": "Es ist schlimm!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340744106142,
+      "content": "Ich dachte es w\u00c3\u00a4r was schlimmes :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340744069224,
+      "content": "Ja ist es auch!? Was dachtest du!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340743930023,
+      "content": "Ach so dachte schon das es was ernstes ist :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743868372,
+      "content": "Nichts!? Ich reg mich nur voll \u00c3\u00bcber dich auf :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340743784013,
+      "content": "Hey was ist los ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743730781,
+      "content": "Boaaah -.-!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340743383868,
+      "content": "Doch leider schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743269643,
+      "content": ":) nein! Tust du nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340743155781,
+      "content": "Ich brauch einen guten Grund :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743113259,
+      "content": "Darum!!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340743105149,
+      "content": "????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340742973382,
+      "content": "Warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742865299,
+      "content": "Nein!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340742658230,
+      "content": "W\u00c3\u00a4r aber besser so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742592206,
+      "content": ":) nein!! Darfst du nicht!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340742528320,
+      "content": "Darf ich es dir auch ein anderes mal sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340742306326,
+      "content": "Hey ganz ruhig ist da etwa jemand Aggro :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742082513,
+      "content": "Boah louis wenn dus mir jetzt nicht sofort sagst dann rede ich nie mehr wieder mit dir!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340742018769,
+      "content": "Aber ich muss es ja nicht zu Ende bringen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340741961880,
+      "content": "Jetzt hast du schon angefangen!! :) raus damit ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340741684510,
+      "content": "Nein lieber nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340741587789,
+      "content": ":) boaaaah ne sag jetzt!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340741452867,
+      "content": "Sorry mein Handy Akku war leer :((\nAch nichts war nichts so wichtig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340721939160,
+      "content": ":) haha was soll das hei\u00c3\u009fen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340721709576,
+      "content": "...... :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340721058491,
+      "content": ":D ja klar dann bin ich ja auch sportlich :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340720902791,
+      "content": "Ist so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340720860854,
+      "content": "Jaja :) das w\u00c3\u00bcrde ich auch sagen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340720776373,
+      "content": "Ja ich seh mich und da seh ich einen Spitzensportler :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340720007811,
+      "content": "Weil dus bist!? :D schau dich an!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340719795913,
+      "content": "Warum bin ich faul ?? \n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340719413038,
+      "content": ":) nein du bist faul ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340715480331,
+      "content": "Ich tu was ich kann :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340714148855,
+      "content": ":) musst du!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340713859778,
+      "content": "Ok ich werds versuchen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340713825212,
+      "content": ":) ja musst dich daran gew\u00c3\u00b6hnen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340713525513,
+      "content": "Haha ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340713463257,
+      "content": ":) nein echt nicht! Der war noch geschmeichelt!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340713350244,
+      "content": "Wer ist jetzt gemein :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340713314021,
+      "content": ":) weil ich dich verarscht hab :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340713163849,
+      "content": "Jetzt versteh ich gar nichts mehr ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340713125465,
+      "content": "Nichts :) das ist ja auch das problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340712990990,
+      "content": "Wieso was hab ich getan :O ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340712949405,
+      "content": ":) dooooch!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340712899099,
+      "content": "Ich bin doch nicht gemein !!!\nIch hab dir doch nur recht gegeben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340712813059,
+      "content": "Warum so gemein!??? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340711294710,
+      "content": "Ok dann halt nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340702468754,
+      "content": ":) nein! Man echt net! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340696201263,
+      "content": "Eben deswegen Granit :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340696130573,
+      "content": "Nein konntest du nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340694405492,
+      "content": "Nein nat\u00c3\u00bcrlich nicht ich konnte ja bisher immer ganz locker meine Meinung durchsetzen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340687568380,
+      "content": "Bei mir bei\u00c3\u009ft du doch nicht auf granit!? :D geht's  noch? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340659242664,
+      "content": "Nein nur Diskussionen wo ich wei\u00c3\u009f das ich auf Granit bei\u00c3\u009fe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340659161114,
+      "content": "Du gehst diskussionen ausm weg!? :D ist ja goldig!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340658946542,
+      "content": "Gut dann lassen wir auch das mal im Raum stehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340658869428,
+      "content": "Jaaa :) hahahaha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340658678211,
+      "content": "Haha ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340658650099,
+      "content": "Keine ahnung :D einfach soo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340658532965,
+      "content": "Wie kommst drauf ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340658460147,
+      "content": "Doch schon!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340658320846,
+      "content": "So happy macht es mich jetzt auch wieder nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340658261576,
+      "content": "Ja okay :) dann tu das wanns dich happy macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340657630600,
+      "content": "Ich seh es aber als eins das reicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340657059375,
+      "content": "Sehs als kompliment wenn du magst :D aber du weisst nicht obs eins ist :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340656389929,
+      "content": "Haha danke :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340656341980,
+      "content": ":) ja wenns sooooo ist :D haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340655980955,
+      "content": "Danke H\u00c3\u00b6r ich \u00c3\u00b6fters :P\n:DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340655931741,
+      "content": ":) ja schon! Bingo! Du bist voll schlau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340655413543,
+      "content": "Nat\u00c3\u00bcrlich nicht weil die Idee ja von dir kam das thema zu wechseln :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340655370567,
+      "content": "Ich auch nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340655132180,
+      "content": "Ok klar hab ich nichts dagegen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340655103622,
+      "content": "Bitte nemme \u00c3\u00bcber franz reden :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340654845132,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340654807294,
+      "content": "Hoffe ich doch :O! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340653737291,
+      "content": "Haha wird schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340653550748,
+      "content": "Nee :) oder kp.. Mach schauen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340652654069,
+      "content": "Schaffst ne 3,5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340652584592,
+      "content": ":) ehm naja geht aber eig nicht so gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340651827158,
+      "content": "Ach so :)\nWie war eigentlich Franz\u00c3\u00b6sisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340651433431,
+      "content": ":) weil mein handy spinnt und mein fb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340651265901,
+      "content": "Wei\u00c3\u009f ich nicht mehr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340651236243,
+      "content": "Warum schreibst du immer alles 2 mal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340647538914,
+      "content": "Auf wessen mist dann!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340647516117,
+      "content": "Auf wessen mist dann!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340647313694,
+      "content": "Weswegen ich es nicht sagen wollte !!\nAber es ist nicht auf meinem Mist gewachsen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340646746785,
+      "content": "Ich weiss ich weiss :) aber das ist gemein!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340646285335,
+      "content": "Naja wir haben alle Fu\u00c3\u009fball angeschaut und als nur pepe kam haben wir paar Witze Gemacht weil so ja auch ein portugiesischer Spieler hei\u00c3\u009ft :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340646134181,
+      "content": ":) sag bitte!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340643915161,
+      "content": "Schwer zu sagen und du f\u00c3\u00a4ndest es glaub eh nicht so witzig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340641256028,
+      "content": "Sorry war grad weg :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340629282240,
+      "content": "Bitte bitte jetzt!!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340629103067,
+      "content": "Haha nein ich erz\u00c3\u00a4hl es dir vllt ein anderes mal ok ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340628434730,
+      "content": "Beschreib mal bitte eure reaktion auf meins :D bitte! :D ja und ich war doch dabei! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340628339408,
+      "content": "Ich war dabei!? :D haha!! Ja okay kann ich mir vorstellen.. Beschreib mal bitte eure reaktion \u00c3\u00bcber meins :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340627144827,
+      "content": "Na alles da h\u00c3\u00a4ttest du dabei sein sollen dann f\u00c3\u00a4ndest du des auch lustig :D\nDeins war halt einfach lustig was soll ich dazu sagen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340625903984,
+      "content": "Was fandest du an seinem unterhaltsam? :O und was an meinem? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340625517375,
+      "content": "Haha ich fand beides sehr unterhaltsam :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340625273558,
+      "content": ":) haha ja genau das war soo cool gell ihr habt mir das voll geglaubt (vor allem timmi) :D seins war eher schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340623776340,
+      "content": "Aber das von timmi doch auch ein bisschen oder :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340623558761,
+      "content": "Ja war durchaus kreativ :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340623393605,
+      "content": "Auf so ne idee muss man ja auch erst mal kommen!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340622194425,
+      "content": "Doch war es sag ich doch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340622121680,
+      "content": ":) ja ja klar.. Aber also ob das mit pepe nicht lustig war!? Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340615882785,
+      "content": "Ich fand es doch auch lustig :D\nUnd ich hab es mir schon fast gedacht das so dein hund hei\u00c3\u009ft :)\nJa timmi wollte dich dann auch verarschen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340615657384,
+      "content": ":) warum ?? Das war doch nett also das mit pepe!? Ist doch nicht b\u00c3\u00b6se!? Und ich dachte ihr wusstet es :D und ich weiss!! Ich habs mir gedacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340614397829,
+      "content": "Nein weil ich ihn nicht mal\nRausgeworfen hab der timmi wollte sich f\u00c3\u00bcr die aktion mit pepe r\u00c3\u00a4chen :D\nAch so macht nichts xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340601366331,
+      "content": ":) doch klar tut er das! :D ehm sorry ich schlaf immer ein xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340573974768,
+      "content": "So formuliert h\u00c3\u00b6rt sich das echt hart an aber ich kann dich beruhigen der weint nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340573774251,
+      "content": "Doch klar willst du etwa sagen ich L\u00c3\u00bcge!? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340573731489,
+      "content": "Eben :)\nHaha das kommt nicht so ganz realistisch r\u00c3\u00bcber :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340573643267,
+      "content": "Ja doch schon :) aber es tut ihm voll leid und der heult jetzt und so :O aber er traut sich nicht bei dir zu entschuldigen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340573565467,
+      "content": "Klar h\u00c3\u00a4ttest den nicht rausgeworfen des freche B\u00c3\u00bcble :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340572313268,
+      "content": "Was geht eig!? :D schmei\u00c3\u009ft timmi einfach aus deinem haus :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340556717883,
+      "content": ":) naja fast aber f\u00c3\u00bcr mich fast nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340556655352,
+      "content": "Das ist doch machbar oder :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340556326602,
+      "content": "Ich kann ne 3,5 bekommen und krieg noch ne 3 aber nicht schlechter :O!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340556235069,
+      "content": "Nein ich dachte jetzt kommt sowas wie 2,5 oder so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340555957933,
+      "content": "Ist das ironisch gemeint!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340555800661,
+      "content": "Deine Anspr\u00c3\u00bcche halten sich ja echt in Grenzen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340555753992,
+      "content": "3- oder 3-4 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340555675797,
+      "content": "Nein niemals :)\nMit welcher Note w\u00c3\u00a4rst du zufrieden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340555629449,
+      "content": "Vllt :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340555555458,
+      "content": "Als ob du ne 5 schreibst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340554752087,
+      "content": "Ja echt so :( ich schreib da ne 5 :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340553428035,
+      "content": "Franz\u00c3\u00b6sisch ist auch das schlimmste Fach :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340552164506,
+      "content": "Ja aber ich bin selbst zu dumm daf\u00c3\u00bcr!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340552083464,
+      "content": "Ich konnte auch gar nichts in Franz aber es hat auch immer f\u00c3\u00bcr ne 2 oder 3 gereicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340551723186,
+      "content": ":) ja ich hoffe es!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340551468800,
+      "content": "Naja wird schon klappen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340551290854,
+      "content": "Naja f\u00c3\u00bcr franz heute und ich schreib morgen aber ich kanns nicht und den rest noch nicht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340551217555,
+      "content": "Haha na dann viel Gl\u00c3\u00bcck :)\nHast schon gelernt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340551073522,
+      "content": "Ja eig schon aber mal schauen was ich am ende bekomme wenn ich diese woche noch englisch und franz verhau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340550808913,
+      "content": "Ist doch gut bist auch zufrieden mit den noten ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340550332130,
+      "content": "Ehm in mathe gerede steh ich auf ner 2.1 in englisch 2.2 und deutsch 2.7 und sonst eig gut halt ausser deutsch 3 franz 3 und spanisch 3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340549917811,
+      "content": "Was hast du eigentlich so f\u00c3\u00bcr Noten ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340549800407,
+      "content": "Voll gut :) ja das w\u00c3\u00bcrde ich auch an deiner stelle :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340549561684,
+      "content": "Ja ich dachte auch das ich ne 4 bekomm deswegen hab ich mich auch richtig gefreut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340549489784,
+      "content": "Oha wie gut!! :) alle haben doch in mathe so ne 4 oder schlechter :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340549408918,
+      "content": "Aber ich hab \u00c3\u00bcberall noch ne 2 bekommen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340549380151,
+      "content": "Mathe 2,9\nEnglisch 2,5\nDeutsch 2,2",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340549307664,
+      "content": "Was f\u00c3\u00bcr welche hast in dEr Pr\u00c3\u00bcfung!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340549259113,
+      "content": "Die Pr\u00c3\u00bcfungen an sich nicht ganz so gut aber weil ich so gute Anmeldenoten hatte hab ich \u00c3\u00bcberall ganz gute Noten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340548936670,
+      "content": "Ja ist mir auch eingefallen :P wie waren eig deine pr\u00c3\u00bcfungen also wie sind se ausgefallen!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340548875550,
+      "content": "Am Sonntag gibt es nichts zu tun :)\nKann nicht lernen weil ich keine Schule mehr hab bin fertig mit der Schule :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340548731619,
+      "content": "Dann such dir hobbys? Lern was!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340548462527,
+      "content": "Ja leider :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340548139021,
+      "content": ":) ist dir eig immer noch lw!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340547639614,
+      "content": "*:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340547633117,
+      "content": "Ok mach ich :\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340547603512,
+      "content": ":) dddoch schon na und dann mach was anderes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340547327601,
+      "content": "W\u00c3\u00bcrde ich gerne aber heute ist Sonntag :)\nNein noch nicht ganz :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340547152219,
+      "content": "Dann kauf dir ein eis und ess das! :) dann m\u00c3\u00bcsste alles wieder okay sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340546877819,
+      "content": "Ok das lassen wir jetzt echt im Raum stehen weil so ne hitzige Diskussion ist echt anstrengend :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340546375531,
+      "content": ":) nein du hast wenn dann die falsche einstellung!? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340545922238,
+      "content": "Falsche Einstellung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340545609863,
+      "content": "Ja klar tu ich das!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340545260148,
+      "content": "Glaubst du :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340545158273,
+      "content": "Du weisst doch nichts!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340545008742,
+      "content": "Ich glaub es nicht ich wei\u00c3\u009f es :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340544861284,
+      "content": ":) das glaubst auch nur DU!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340544627916,
+      "content": "Glaub ich gerne :)\nAber bei mir klappt das leider nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340544543432,
+      "content": "Dich :) ich kann menschen gut \u00c3\u00bcberreden!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340544356164,
+      "content": "Und auch das kann ich nur verneinen :P\nIch glaub bei der Diskussion kommen wir nicht zum Ende :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340544256065,
+      "content": "Nein :D du kannst es nur best\u00c3\u00a4tigen aber du traust dich nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340544156685,
+      "content": "Also das kann ich nur bestreiten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340544104376,
+      "content": "Von allem :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340543938955,
+      "content": "Von was hab ich denn keine Ahnung ?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340543786518,
+      "content": "Von was denn bittesch\u00c3\u00b6n?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340543579052,
+      "content": "Ok ich hab doch Ahnung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340543528249,
+      "content": "Okay :) also fangen wir an!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340542849968,
+      "content": "Ok gerne :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340541432760,
+      "content": ":) nein das wird jetzt ausdiskutiert!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340540776945,
+      "content": "Das lassen wir jetzt mal so im Raum stehen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340540300728,
+      "content": ":) ja schon du hast keine ahnung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340539912545,
+      "content": "Haha gell :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340538588836,
+      "content": "Ach doch!! :) klar!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340538114293,
+      "content": "Sonst lohnt es sich ja nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340537902781,
+      "content": "Warum nur zu denen!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340537511430,
+      "content": "Ja genau so hatte ich das geplannt :D\nAber halt nur zu denen die richtig weit weg wohnen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340537371169,
+      "content": ":) okay also werde ich ab jetzt jedes mal gerufen wenn man mitten in der nacht jdn abholen muss!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340536812680,
+      "content": "Ja tut es auch :) ja fand ich auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340536663551,
+      "content": "Doch kann es :) es war echt lustig!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340536333003,
+      "content": "Das tut mir leid wird nicht nochmal vorkommen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340536253728,
+      "content": "Zu viel gelaufen!! Und niemand hat mich getragen!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340536112699,
+      "content": "Oh nein hast zuviel getanzt oder sind wir zuviel gelaufen :D\nJa das ist echt schlimm :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340536020935,
+      "content": "Iwie tut mir alles weh so F\u00c3\u00bc\u00c3\u009fe und so zeugs :P oh du armer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340535918576,
+      "content": "Ja ganz gut mir ist halt voll langweilig :D\nWie geht's dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340535858615,
+      "content": ":) wie geht's dir!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340534636726,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340531964255,
+      "content": "Haha :) jaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340497683027,
+      "content": "Gut so :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340497608246,
+      "content": "Ja das ganz sicher!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340497512208,
+      "content": "Ja ich war auch nur bis 12 :) aber dieses Jahr wird es schon l\u00c3\u00a4nger :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340497420794,
+      "content": "Ja okay :) hast ja recht ehm ich glaube nicht so lange :D nur bis halb 1 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340497351199,
+      "content": "*:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340497343235,
+      "content": "Oh ja das war richtig hammer :) wie lange warst du letztes Jahr \nTrotzdem hoff ich das es dieses mal nicht regnet :S",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340497262632,
+      "content": ":) ja ich glaub schon. Letztes jahr war es ja so geil weil es einfach so gut geregnet hat!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340497160835,
+      "content": "Nein jetzt hab ich Vodafone \nJa das ist doch was :P \nWann ist Donausommer \u00c3\u00bcberhaupt am 7.7 oder ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340497000143,
+      "content": "Doch aber nur flat von aldi zu aldi :D und du hast ja kein aldi!? Aber Daf\u00c3\u00bcr hab ich ja fb :P jaaaa wird es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Louis Schwarzat",
+      "timestamp_ms": 1340496932918,
+      "content": "Ja das wird richtig gut :D\nHast du keine flat :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Louis Schwarzat",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/louisschwarzat_vbynievkna",
+  "magic_words": [
+    
+  ]
+}

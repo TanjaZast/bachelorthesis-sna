@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Zlatan-Goca Vasi\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602700571219,
+      "content": "Nadam se da ce mi test biti negativan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602700534388,
+      "content": "A ti sigurno dolazi\u00c5\u00a1? Bas me raduje \u00f0\u009f\u00a5\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602700515648,
+      "content": "Bas je dobro! Hvala puno \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602700393404,
+      "content": "Je li ok ovako ili da ka\u00c5\u00beemo samo Stefan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602700308765,
+      "videos": [
+        {
+          "uri": "messages/inbox/zlatangocavasic_mg9-yte0ka/videos/video1602700307_922238928267928.mp4",
+          "creation_timestamp": 1602700301,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/120932709_922239024934585_7149048387589491350_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=f279905905dec19bb8fb478437f60489&oe=618904BF"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602698581245,
+      "content": "Da ne bude da Stefan nema kolege nego samo Lisa \u00f0\u009f\u0098\u0082\u00f0\u009f\u00a4\u00aa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602698560576,
+      "content": "Da ipak :) ne znam dali onda tvoja \u00c5\u00beena sa djecom ho\u00c4\u0087e da snimi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602698552136,
+      "content": "Pisem scenario",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602695675247,
+      "content": "Nije problem da nesto snimim smislicu nesto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602695640910,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zlatan-Goca Vasi\u00c4\u0087",
+      "timestamp_ms": 1602695640823,
+      "content": "Jer moram i ja to da radim jer planiram doci na svadbu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1602685034591,
+      "content": "Dobar dan :) kako ste vi? Nadam se da i ako nije najbolja situacija ipak ostajete pozitivni i bi\u00c4\u0087e to sve. Pi\u00c5\u00a1em zbog jednog video za svadbu. Imam malo iznanidjenje za lisu i Stefana a posto sam malo zaboravna sam kolege od Stefana skroz zaboravila pitati. \nRadi se o tobe da kratko sebe snimi\u00c5\u00a1 i da im \u00c4\u008destita\u00c5\u00a1 za svadbu i po\u00c5\u00beeli\u00c5\u00a1 sve najbolje za budu\u00c4\u0087nost. Ne mora biti ne\u00c5\u00a1to pretjerano dugo. Ako mo\u00c5\u00bee onda najbolje jo\u00c5\u00a1 danas ili sutra :) hvala puno!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Zlatan-Goca Vasi\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zlatangocavasic_mg9-yte0ka",
+  "magic_words": [
+    
+  ]
+}

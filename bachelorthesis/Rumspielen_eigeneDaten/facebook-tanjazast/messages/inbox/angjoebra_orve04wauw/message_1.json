@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Ang Joe Bra"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1413110093421,
+      "content": "Ja auch. :) was macht studium/fsj/..? (Was tust du eigentlich?! :D)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413108906009,
+      "content": "Hey du gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1413103662176,
+      "content": "Eeeh! Duu! Wie geht's dir! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1396380409897,
+      "content": "Marcelo h\u00c3\u00b6rt nicht auf mich. Der tut nur so :DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396380216342,
+      "content": "Hahah naja marcello ja immer ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1396380154286,
+      "content": "cool, einmal h\u00c3\u00b6ren alle auf mich xDDDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396380082766,
+      "content": "Okay also meine Nummer: 015164810786 und melde dich dann einfach und dann kommen alle raus ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1396379900534,
+      "content": "dann komm ich einfach so ca um 12.05 uhr ans schubart?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1396379890974,
+      "content": "okay, kannst du mir nochmal deine handynummer geben, dann schreib ich dir morgen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396379852262,
+      "content": "Oh ja das w\u00c3\u00a4re perfekt. Wei\u00c3\u009ft du was,  du kommst wann du kannst und dann werden die Bilder gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1396372376357,
+      "content": "Hey du, ich werd morgen nicht kommen, ich bin immernoch krank,aber ich kann zum Foto machen kommen, wann genau willst du die machen.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ang Joe Bra",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/angjoebra_orve04wauw",
+  "magic_words": [
+    
+  ]
+}

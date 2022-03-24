@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1613567578866,
+      "content": "Wann war dieses Video",
+      "share": {
+        "link": "https://wateusac.agilecrm.com/landing/5040560497819648"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/9jmwpxm4xq",
+  "magic_words": [
+    
+  ]
+}

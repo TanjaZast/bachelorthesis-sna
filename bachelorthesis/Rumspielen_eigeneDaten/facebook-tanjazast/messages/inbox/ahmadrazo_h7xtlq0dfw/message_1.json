@@ -1,0 +1,1140 @@
+{
+  "participants": [
+    {
+      "name": "Ahmad Razo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405969306316,
+      "content": "W\u00c3\u00a4re das m\u00c3\u00b6glich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405967545760,
+      "content": "Du da ist Gerde ne Mega Schlange kannst du mich in 10 Minuten schnell rein lassen bitte w\u00c3\u00a4re Mega denn Lisa ist schon drin und dann m\u00c3\u00bcsste ich ganz alleine eine Stunde anstehen :/ :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1405201919122,
+      "content": "Vor die nia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405201805987,
+      "content": "Wo bist du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1405198177677,
+      "content": "alle fruaen plus bgleitung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1405198170773,
+      "content": "bis 0 uhr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405192776304,
+      "content": "Super und wie ist das wegen Eintritt? Wer bekommt alles freien Eintritt? ;) auf fb ist das nicht so offensichtlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1405187610476,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405183546650,
+      "content": "Hey ich schon wieder :D \nHeute bin ich mit ein paar Freunden im Theatro die eine feiert ihren 18ner. Ich wollte eigentlich nur fragen ob es m\u00c3\u00b6glich w\u00c3\u00a4re das ich etwas fr\u00c3\u00bcher komme und ein paar Wunderkerzen dir abkaufen k\u00c3\u00b6nnte. W\u00c3\u00a4re Mega lieb und die w\u00c3\u00bcrde sich da sicherlich freuen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404523509056,
+      "content": "Saxobeat? :) kann sie es nicht von nem Handy abspielen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404523413312,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404523411293,
+      "content": "Anders lied",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404523372137,
+      "content": "Sie hat es nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404523128152,
+      "content": "Und?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404522562798,
+      "content": "Genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404522562134,
+      "content": "Ich frag mal ob die das hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404522549176,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404522546537,
+      "content": "Andreas bourani auf uns",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404522523500,
+      "content": "Klappt das? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404520920181,
+      "content": "W\u00c3\u00bcrdest du das machen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404520631067,
+      "content": "Andreas bourani auf uns",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404520594985,
+      "content": "Hei\u00c3\u009ft das Lied so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404520579330,
+      "content": "Ein hoch auf uns :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404520545332,
+      "content": "Sag es mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404520537198,
+      "content": "Beim dj :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404520513995,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404520503943,
+      "content": "K\u00c3\u00b6nnen wir f\u00c3\u00bcr unseren Jahrgang ein Lied aussuchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404513922325,
+      "content": "Komme hoch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404513696195,
+      "content": "Wo bist du ich brauch dich schnell :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404510716651,
+      "content": "Duu kannst du schnell so leuchtst\u00c3\u00a4be besorgen? Zwei haben heute Geburtstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404509942860,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404509885166,
+      "content": "Und ich sag dir wann du raus musst ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404509851051,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404509811664,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404509809166,
+      "content": "Soll ich die Drinks vorbereiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404509772920,
+      "content": "Wir sind aufm Weg :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404479062219,
+      "content": "ja k\u00c3\u00b6nnen wir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404478969703,
+      "content": "Und das mit dem mischzeug machen wir direkt heute Abend oder? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404478564915,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404478324961,
+      "content": "Ja genau :) das meinte ich dann jeweils also 20 Bull",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404478012989,
+      "content": "dann 5 x 4 bull dosen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404477986854,
+      "content": "ja w\u00c3\u00bcrde gehen. nur bull gibt es nict als flaschen sonder nur als dose",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404476924480,
+      "content": "Also wir h\u00c3\u00a4tten gerne 3 Flaschen Bacardi mit Cola dann 2 Flaschen jacky mit Cola dann 2 Gin mit Cola und 2 Havana mit Cola \nWir h\u00c3\u00a4tten gerne 10 Flaschen 42 below mit f\u00c3\u00bcr 5 Flaschen Bull zum mischen und 3 osaft und f\u00c3\u00bcr 2 bitterlemon.\nDann haben wir ja noch Geld \u00c3\u00bcbrig und das w\u00c3\u00bcrden wir gerne in mischzeug investieren geht das? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404470101068,
+      "content": "alles klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404470098449,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404470004474,
+      "content": "Klar! ;) \u00c3\u00bcbertreib noch so bisschen sehr hei\u00c3\u009fe Miezen vom Hildegard oder so :D ich bin gerade dabei die Getr\u00c3\u00a4nke aufzuschreiben die wir gerne h\u00c3\u00a4tten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404469963983,
+      "content": "miezen ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404469950487,
+      "content": "passt zu motto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404469937366,
+      "content": "ist es ok dass ich nachher poste dass ihr bei uns feiert?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404227171749,
+      "content": "10min",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404227161860,
+      "content": "Wartet ich komm runter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404227138062,
+      "content": "Wir sind da :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404214434196,
+      "content": "Ja lass uns das nachher besprechen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404208170231,
+      "content": "Du das mit heute steht alles und so? Wir haben nur ein Problem da wir keine schule mehr haben ist das Geld einsammeln richtig kompliziert geworden. Es haben schon fast alle gezahlt aber ein Paar sehe ich erst am Freitag. K\u00c3\u00b6nnten wir das iwie noch am Freitag kl\u00c3\u00a4ren das w\u00c3\u00a4ren maximal 5-10 die da noch zahlen m\u00c3\u00bcssten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404147192671,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404147167196,
+      "content": "Wir sind dann morgen zwischen 17 und 18 Uhr da okay?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404147123046,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404146352916,
+      "content": "Maximal 5 eher 4. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404142082546,
+      "content": "Wieviele sind es?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404140112179,
+      "content": "Soll ich dann mit denen vorbeikommen die noch nicht 18 sind du wolltest sie dir ja anschauen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1404136860435,
+      "content": "Ja. Ab 17 Uhr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404136838761,
+      "content": "Also hast du morgen zeit?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403699347483,
+      "content": "Ja okay. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1403699308615,
+      "content": "komm wenn du alles hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403698934492,
+      "content": "Morgen? \u00c3\u009cbermorgen? :) ich hab schon von vielen das Geld bekommen aber von einigen auch nicht dann dachte ich mir komme ich eben diese und n\u00c3\u00a4chste Woche :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1403697519147,
+      "content": "Wann kannst du vorbei kommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403693995680,
+      "content": "Ahmad wie machen wir es mit den B\u00c3\u00a4ndchen? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403136477783,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403136475192,
+      "content": "Ja ich rede mal mit meinen Jungs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1403136114281,
+      "content": "Aber du kannst gerne kommen \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1403136104038,
+      "content": "Nicht so??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403134729981,
+      "content": "Ist im theatro viel los? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402698749245,
+      "content": "60 p?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402698731898,
+      "content": "geht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402692356933,
+      "content": "Also meine Stufe will am Freitag (4. Juli) vip im theatro. Geht das? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402079800889,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402079136697,
+      "content": "Warte ich frag schnell :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402078126686,
+      "content": "gibts du mir noch beschei wegen den 4.7. oder sollen wir das safe machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402062811674,
+      "content": "Sei einfach du selbst \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402061040357,
+      "content": "Okay mach ich danke :) kommen viele? Und muss ich was spezielles drauf haben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402060426113,
+      "content": "Ja zwischen 17 und 18 Uhr. Da kommen auch andere. Frag nach Matze.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402060265193,
+      "content": "Okay perfekt :) dann bis Dienstag 17 Uhr passt das? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402060125403,
+      "content": "Ok maxhen wir das so. Ich schau dass ihr alleine bleibt. \nDu brauchst nichts mitbringen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402059579168,
+      "content": "Okay was muss ich mitbringen (Bewerbungsunterlagen, Bild, Zeugnis? ) okay dann machen wir es lieber mit den 20 \u00e2\u0082\u00ac pro Person ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402059299587,
+      "content": "Du kannst dich gerne Dienstag vorstellen kommen. Zwischen 17 und 18 Uhr.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1402059278495,
+      "content": "Also unter 2000 EUR mindestumsatz kann ich das nicht komplett her geben.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402057986654,
+      "content": "Einen frage sucht ihr im theatro eigentlich jemanden der an der bar arbeitet Garderobe oder sonstiges? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402057952046,
+      "content": "Und gibt es schon was neues? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401905816296,
+      "content": "Checke ich ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401905743772,
+      "content": "Aber ganzen vip Bereich mieten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401905702335,
+      "content": "20,- mindestverzehr pro Person",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401905693253,
+      "content": "Du hast doch den Preis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401905663752,
+      "content": "Ja okay kein Problem :) fragen kostet ja nichts. :P schaust du dann wegen dem preis? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401905556150,
+      "content": "Sorry. Das geht leider nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401905302449,
+      "content": "Ja genau vllt 5-10 Jungs noch. Also ich sch\u00c3\u00a4tze wir sind so 50-60 maximal 65 und von uns sind alle mindestens 18 :) aber wenn du das iwie regeln k\u00c3\u00b6nntest g\u00c3\u00a4be es schon 5 die unbedingt mit wollen w\u00c3\u00bcrden aber erst ende juli 18 werden ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401902124365,
+      "content": "und alle \u00c3\u00bcber 18?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401902120075,
+      "content": "ihr seid dann nur m\u00c3\u00a4dels?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401902108822,
+      "content": "dann schau ich dass ihr die komplette vip bekommt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401902099064,
+      "content": "jetzt sag mir erst mal wieviele ihr seid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401897484795,
+      "content": "Wie meinst das jetzt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401897279440,
+      "content": "Wenn ihr 80 seid gebe ich euch alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401897267034,
+      "content": "Bei der personenanzahl habt ihr fast alles",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401895797644,
+      "content": "Und eine frage wie viel w\u00c3\u00bcrde es kosten wenn wir den ganzen vip Raum mieten? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401872062845,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401834361220,
+      "content": "Danke :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401834356502,
+      "content": "Okay perfekt ich gebe es weiter :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401824996429,
+      "content": "Also ich mach euch 20... Darunter kann ich nicht gehen, sonst mach mir mein Chef die H\u00c3\u00b6lle hei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401824953635,
+      "content": "Ja aber nicht f\u00c3\u00bcrs VIP",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401824658865,
+      "content": "Ist da der eintritt nicht eh umsonst f\u00c3\u00bcr die M\u00c3\u00a4dels :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401823824768,
+      "content": "Discomiezen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401823663942,
+      "content": "Okay wir kl\u00c3\u00a4ren das mal mit den M\u00c3\u00a4dels ab :) was f\u00c3\u00bcr eine Veranstaltung ist an dem Freitag \u00c3\u00bcberhaupt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401823209433,
+      "content": "ja klar. w\u00c3\u00a4re ja schlimm wenn nicht. an ein abiball!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822958636,
+      "content": "Okay jetzt sch\u00c3\u00a4tze mal bitte ein. Was denkst du wie viel so ein Hildegard M\u00c3\u00a4dchen h\u00c3\u00b6chstens trinken kann. Kommt man da \u00c3\u00bcberhaupt auf 25 Euro? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822820182,
+      "content": "bzw Flaschen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822812467,
+      "content": "getr\u00c3\u00a4nke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822809352,
+      "content": "mindestumsatz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822791688,
+      "content": "Also 25 Euro sozusagen nur f\u00c3\u00bcr Getr\u00c3\u00a4nke und eintritt w\u00c3\u00a4re frei? ;) ja klar bekommt niemand mit. Was ist in den 25 dann mit eingegriffen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822728219,
+      "content": "darfst aber nicht weiter erz\u00c3\u00a4hlen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822692485,
+      "content": "den eintritt w\u00c3\u00bcrd ich euch schenken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822685202,
+      "content": "ok. der mindestverzehr liegt bei 30 ,- normal. ich w\u00c3\u00bcrde es euch f\u00c3\u00bcr 25 geben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822625215,
+      "content": "Wir k\u00c3\u00b6nnten uns erst einmal zusammensetzen und den Preis ausmachen und den Rest abkl\u00c3\u00a4ren damit wir es mit den anderen besprechen k\u00c3\u00b6nnen. :) sonst gibt es wieder unn\u00c3\u00b6tig zickenkrieg. Verstehst mich da oder? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822533443,
+      "content": "dann w\u00c3\u00bcrd ich dir alles erkl\u00c3\u00a4ren und dir auch gleich die b\u00c3\u00a4ndchen geben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822517737,
+      "content": "kannst du zu mir ins office kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822506572,
+      "content": "klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822490883,
+      "content": "Also wir w\u00c3\u00a4ren 60 bis maximal 70 ;) also 60 h\u00c3\u00bcbsche Weiber vom Hildegard. Da l\u00c3\u00a4sst sich sicher einiges machen ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822430002,
+      "content": "mach euch auch ein special price ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822422209,
+      "content": "wieviele seid ihr denn max.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1401822408697,
+      "content": "hi tanja, bis jetzt ist noch alles frei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401822344933,
+      "content": "Hey du. Wir vom Hildegard w\u00c3\u00bcrden gerne am 4. Juli nach unserem Abiball ins theatro gehen wollen. Wie sieht es an dem tag mit vip aus und wie viel w\u00c3\u00bcrdest du f\u00c3\u00bcr uns (wir h\u00c3\u00a4tten auch nichts gegen einen special Preis ;) ) verlangen. Danke schon mal im voraus :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398893000437,
+      "content": "Na du was geht Im theatro?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397394814177,
+      "content": "Easy \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397392901710,
+      "content": "Also ich wollte mich herzlich daf\u00c3\u00bcr bedanken, dass es gestern geklappt hat. War echt hammer nett von dir und cool im theatro. Konnten halt nicht so lang bleiben aber auf jeden Fall vielen Dank! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397346956074,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397346684865,
+      "content": "Alles okay sorry und danke ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397346597409,
+      "content": "Kommst du raus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397346569244,
+      "content": "Sind nicht drauf anscheinend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397346554938,
+      "content": "Sind da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397345241390,
+      "content": "Okay wir w\u00c3\u00a4ren in 15 Minuten da die Freundin hei\u00c3\u009ft lidia muhur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397345208310,
+      "content": "ich schreib euch auf die g\u00c3\u00a4steliste unten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397345195750,
+      "content": "aber nicht waiter sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397345190813,
+      "content": "ja gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397345055774,
+      "content": "Also zwei 19 und meine Freundin und ich haben beide im Juni unseren 18ner wir zahlen auch mehr und rauchen beide nicht. Bitte :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344955844,
+      "content": "nur du bist nicht 18?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397344947124,
+      "content": "4 insgesamt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344920743,
+      "content": "wieviele leute w\u00c3\u00a4rt ihr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344900956,
+      "content": "das geht leider nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344896693,
+      "content": "sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397344837824,
+      "content": "Ja das w\u00c3\u00a4re so wie letztes mal das ist das Problem -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344790344,
+      "content": "bist du schon 18?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1397344784536,
+      "content": "hey ja bin ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397344732881,
+      "content": "Hey bist du heute da also im theatro? Das ich zahle und rein komme? W\u00c3\u00a4re hammer lieb aber ich verstehe es total wenn es nicht geht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1395266978482,
+      "content": "Ja kommt vor",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395266928210,
+      "content": "Wir laufen zur Schlange kommst du raus? Wo sollen wir warten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395076819916,
+      "content": "Mach ich nicht :) danke! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1395076603333,
+      "content": "aber bitte nicht weiter sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395076096960,
+      "content": "Okay Dankesch\u00c3\u00b6n 1000 mal ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1395075759394,
+      "content": "besprechen dass dann am mittwoch bei der abrechnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ahmad Razo",
+      "timestamp_ms": 1395075749559,
+      "content": "hi tanja, ja ich mach bei dir eine ausnahmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395075606084,
+      "content": "Hey Ahmad. Ich h\u00c3\u00a4tte eine Frage ist nat\u00c3\u00bcrlich verst\u00c3\u00a4ndlich wenn du sagst das es gar nicht geht aber fragen kostet nichts. Bei mir ist ja das Problem das ich nicht 18 bin (hab ich ja beim ersten Meeting schon zugegeben). Und dann wollte ich nett fragen ob es denn irgendwie eine M\u00c3\u00b6glichkeit g\u00c3\u00a4be das ich trotzdem rein komme. Ich w\u00c3\u00bcrde das dann auch nicht verbreiten von wegen man kommt auch mit 17 rein und so ein zeug. Also ich rauche nicht (hab ich auch noch nicht und habs nicht vor) und im Club selbst trinke ich auch nicht h\u00c3\u00b6chstens dann bei Freunden falls diese Infos helfen. Es ist halt echt doof weil meine ganzen Freundinnen 18 sind und ich gar nicht die M\u00c3\u00b6glichkeit hab mit denen sch\u00c3\u00b6n zu feiern,  tanzen und was wei\u00c3\u009f ich. Meine Eltern w\u00c3\u00bcrden auch sicher mit dir in Kontakt treten oder egal was unterschreiben. W\u00c3\u00a4re da irgendwas zu machen? ;) Dankesch\u00c3\u00b6n schon im voraus :* ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ahmad Razo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ahmadrazo_h7xtlq0dfw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Celine Buschow"
+    },
+    {
+      "name": "Daniela Ge"
+    },
+    {
+      "name": "Hannah Spiekermann"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363385771418,
+      "content": "Okay ja ich hab die email geschrieben und alles nur noch nicht abgeschickt morgen dann gmx hat heute voll dumm getan Hahahaha -.- ;) :* danke dir und ich machs gleich morgen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1363382234973,
+      "content": "Heii Tanja! Sorry dass ich jetzt erst schreib bin nicht dazu gekommen aber vergess nicht die Umfrage an Frau wei\u00c3\u009f zu schicken :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361823501012,
+      "content": "Ehm ich wei\u00c3\u009f es gar nicht :/ aber ich kann mal am Mittwoch Charlotte und so fragen :*??  also soll ich es so Frau lamprecht gehen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniela Ge",
+      "timestamp_ms": 1361823317792,
+      "content": "Danke Tanja, also ich finde du hast das echt prima gemacht! supi,\ndann k\u00c3\u00b6nnen wir endlich auch mal was pr\u00c3\u00a4sentieren :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Celine Buschow",
+      "timestamp_ms": 1361818398026,
+      "content": "Wann ist die n\u00c3\u00a4chste SMV-Sitzung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1361818304773,
+      "content": "also hier die Umfrage schaut sie euch an und schreibt bitte dazu was ich \u00c3\u00a4ndern soll/kann, dann kann ich es Frau Lamprecht noch geben zum durchschauen und dann k\u00c3\u00b6nnen wir es bei der n\u00c3\u00a4chsten smv- Sitzung schon austeilen ;) ",
+      "files": [
+        {
+          "uri": "messages/inbox/celinedanielaundhannah_bmfxwasbda/files/UmfragezudenAutomaten_974608732579977.doc",
+          "creation_timestamp": 1429298925
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Celine, Daniela und Hannah",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/celinedanielaundhannah_bmfxwasbda",
+  "magic_words": [
+    
+  ]
+}

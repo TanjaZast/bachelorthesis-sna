@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Leguro Ni\u00c3\u00b1o Daniel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1420381459133,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1417541158618,
+      "content": "skype?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1417450256285,
+      "content": "hiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1416844137138,
+      "content": "hillo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1415808385877,
+      "content": "hi tanja?? ghow r u?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1413989581068,
+      "content": "hiii?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1413936182160,
+      "content": "miss,, tanja,,u8 lokk so prettyyy...im gonna shy on you,,,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1413936053514,
+      "content": "how r ...u??\"?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413893763638,
+      "content": "yes and you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Leguro Ni\u00c3\u00b1o Daniel",
+      "timestamp_ms": 1413851684668,
+      "content": "goood...morning thnk u for accepting me/.... how r  u???",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Leguro Ni\u00c3\u00b1o Daniel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/leguroninodaniel_l8tkgnkdtg",
+  "magic_words": [
+    
+  ]
+}

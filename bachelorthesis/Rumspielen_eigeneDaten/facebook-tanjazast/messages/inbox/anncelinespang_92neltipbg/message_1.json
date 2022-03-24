@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Ann-C\u00c3\u00a9line Spang"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ann-C\u00c3\u00a9line Spang",
+      "timestamp_ms": 1449219655560,
+      "content": "Hi Tanja ich hab leider garnichts mitbekommen au\u00c3\u009fer dass sie gestern abend heim gefahren ist\u00f3\u00be\u008d\u0081 bestimmt wegen ihrer Bronchitis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann-C\u00c3\u00a9line Spang",
+      "timestamp_ms": 1449219611931,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449182939780,
+      "content": "Ansi, was ist mit Anne? Sie musste ins Krankenhaus? Ist es schlimm? Ich mache mir furchtbare Sorgen bitte antworte so schnell du kannst \u00f3\u00be\u008d\u0095\u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ann-C\u00c3\u00a9line Spang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/anncelinespang_92neltipbg",
+  "magic_words": [
+    
+  ]
+}

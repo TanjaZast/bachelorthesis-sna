@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Burhan Kaynar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Burhan Kaynar",
+      "timestamp_ms": 1425219437769,
+      "content": "Hey\u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Burhan Kaynar",
+      "timestamp_ms": 1389909319173,
+      "content": "Hey\u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Burhan Kaynar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/burhankaynar_fjwceug8zw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "participants": [
+    {
+      "name": "Steph Anie"
+    },
+    {
+      "name": "Anne Kark"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414606585641,
+      "content": "tanja die quellen sind in der anderen datei die ich dir geschickt habe weiter oben im chat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414529553838,
+      "content": "Hey tanja, das ist jetzt meine gek\u00c3\u00bcrtze Version hoffentlich verstehst du die Zusammenh\u00c3\u00a4nge (sind ansonsten noch in der oben geschickten Version erkl\u00c3\u00a4rt) Hab noch ein Bild dabei das f\u00c3\u00bcr die meine Einleitung \"M\u00c3\u00b6glichkeiten des Datenschutzes\" also \u00c3\u00bcber die Punkte 1-9 passen w\u00c3\u00bcrde \nQuellen sind in Worddatei enthalten\n\nKussi Anne",
+      "files": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/files/DatenschutzAnneuberblick_988648307821461.docx",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414518091352,
+      "content": "das war mein teil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414518074019,
+      "content": "http://www.datenschutz-datensicherheit.net/2011/03/datenschutz-eine-definition/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414518026113,
+      "content": "http://wirtschaftslexikon.gabler.de/Definition/datensicherung.html",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414517892383,
+      "content": "wikipedia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414517890369,
+      "content": "http://datenschutz.de/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414517889349,
+      "content": "Quellen:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414517834210,
+      "content": "so hier ist jetzt mein teil von info",
+      "files": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/files/Info_1066538673362466.odt",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414335908574,
+      "content": "wie meinst du ausbauen? also hab mehrere gelesen und fand die jetzt am besten.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414335823317,
+      "content": "stephie baust du die Definitionen noch aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414335634625,
+      "content": "ne hab auch nur das gemacht :D also kein ding :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414335549240,
+      "content": "Meins kommt erst heute Abend hab das Wochenende nicht gemacht bzw konnte auch nicht mache es wenn ich wieder in Karlsruhe bin seid mir nicht b\u00c3\u00b6se :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334601843,
+      "content": "das ist meins :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334597497,
+      "files": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/files/Info_1066538663362467.odt",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334562561,
+      "content": "anne ich kann zur zeit word nicht \u00c3\u00b6ffnen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steph Anie",
+      "timestamp_ms": 1414334554009,
+      "content": "also ich hab geschaut, zur geschichte gibts nichts spannendes also fast gar nix, aber hab mal das zusammengestellt, ist halt kurz aber soll ja auch nur 2 minuten sein ich kanns auch mal schicken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414326524131,
+      "content": "Verbesserungsvorschl\u00c3\u00a4ge sind erw\u00c3\u00bcnscht",
+      "files": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/files/DatenschutzAnne_988648314488127.docx",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414326466673,
+      "content": "ich habe jetzt so allg. zum Deutschen Datenschutz gesetz was und was es beinhaltet. und dann 10 verschiedene ans\u00c3\u00a4tze seine Daten privat zu sichern und wie es funktioniert.\nDenkt ihr das ist in ORdnung?\nSind 2 A$ Word Seiten? Da rede ich bestimmt 4-5 Minunten dran so wie wir es verinbart hatten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414326399758,
+      "content": "Also girlies,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414326163917,
+      "content": "no  Problemmoo vllt hilfts ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414325318710,
+      "content": "Oha danke dir \u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414325303678,
+      "content": "vorallem unter dem Punkt: Inhalte sch\u00c3\u00bctzen \u00e2\u0080\u0093 E-Mails verschl\u00c3\u00bcsseln mit PGP",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414325279062,
+      "content": "da hab ich auch viel rausgenommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414325271704,
+      "content": "http://www.gruene.de/meine-kampagne/schuetze-deine-daten.html",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414325248115,
+      "content": "Hey Tanja, du machst ja die Take home Liste und da hab ich was f\u00c3\u00bcr dich gefunden:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414324751000,
+      "content": "Glaube ich Dir \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414324114546,
+      "content": "keine Lust mehr auf den Kack sag ich dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414324033812,
+      "content": "okay Boss gute Idee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414323969495,
+      "content": "Dann erw\u00c3\u00a4hne nur das es die gibt wie viele es sind und warum es die gibt. Das Referat soll nur 10 Minuten lang sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414323596927,
+      "content": "regt mich ja schon wieder auf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414323588521,
+      "content": "und ich wei\u00c3\u009f nicht welche unwichtig und welche wichtig sind.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414323575376,
+      "content": "kann da ja nicht 100 verschiedene Gesetze auflisten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414323563537,
+      "content": "also das mit den internationalen Richtlinien ist der gr\u00c3\u00b6\u00c3\u009fte kack",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1414270748614,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/photos/10743811_889114024441557_65389191_n_889114024441557.jpg",
+          "creation_timestamp": 1414270747
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413991398130,
+      "content": "https://www.youtube.com/watch?v=VF5A2JhiJug",
+      "share": {
+        "link": "http://www.youtube.com/watch?v=VF5A2JhiJug"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1413991361819,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/photos/10726223_887445431275083_79570854_n_887445431275083.jpg",
+          "creation_timestamp": 1413991361
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1413991351811,
+      "photos": [
+        {
+          "uri": "messages/inbox/stephundanne_xdfvisomja/photos/10743728_887445404608419_1252087675_n_887445404608419.jpg",
+          "creation_timestamp": 1413991351
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steph und Anne",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/stephundanne_xdfvisomja",
+  "magic_words": [
+    
+  ]
+}

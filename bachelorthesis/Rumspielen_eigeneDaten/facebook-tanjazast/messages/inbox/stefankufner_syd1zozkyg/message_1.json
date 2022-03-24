@@ -1,0 +1,1475 @@
+{
+  "participants": [
+    {
+      "name": "Stefan Kufner"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1344781880663,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344721723080,
+      "content": "ja genau :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1344718360762,
+      "content": " hab gedacht dann k\u00c3\u00b6nnen wir in den film ted gehn aber wenn du nicht da bist dann vileicht mal wann anderst oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344637639623,
+      "content": "nein bin nicht mal in deutschland :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1344627201455,
+      "content": "hi hasch bog ins kino?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344194654165,
+      "content": "hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1344183458089,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1344181477912,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343570231882,
+      "content": "bay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343570192856,
+      "content": "Okay mach das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343570105793,
+      "content": "ok ich mach jetzt aus mein akku ist leer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343569443417,
+      "content": "Ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343569267345,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343569255397,
+      "content": "Ja Tu ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568966873,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568960889,
+      "content": "meinsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343568935749,
+      "content": "Okay toll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568781467,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568773594,
+      "content": "ah ok da binn ich hofentlich schon fertig und fahr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343568722165,
+      "content": "Ehm nein eig nicht :) erst ab januar oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568578948,
+      "content": "ok und sonst machst du auch schon f\u00c3\u00bchrerschein? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343568494677,
+      "content": "Dann ist ja gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568354978,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343568351787,
+      "content": "ja ich weis aber scheis drauf mir gehts ja wieder besser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343567336044,
+      "content": "Ja aber da bist ja schon selber schuld :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343567178221,
+      "content": "nix cool cool mir wars gesten spei \u00c3\u00bcbel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343566813334,
+      "content": "Aha :) cool cool ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343566616583,
+      "content": "und da hab ich ein wenig zu viel gedrunken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343566490328,
+      "content": ":) achso jaaa stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343566068683,
+      "content": "ich hab mein geburtstag gefeiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343565961663,
+      "content": "Was war da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343565195197,
+      "content": "gestern war nichts aber am freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343563886423,
+      "content": "Warum was war gestern? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343563769862,
+      "content": "ah besser wie gestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343563299704,
+      "content": "Gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343562725974,
+      "content": "und wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343562697026,
+      "content": "Hallo...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343562434432,
+      "content": "hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343491181216,
+      "content": "am ja voll macht voll spass",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343491137019,
+      "content": "Achso :) chillig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343489689441,
+      "content": "fahrschule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343488154787,
+      "content": "auto fahren :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343487886075,
+      "content": "was wann?? h\u00c3\u00a4?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343486747782,
+      "content": "schauen wann ich fahren kann und buchen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343486716601,
+      "content": "nichts.. du?\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343486707424,
+      "content": "und was mahsch so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343486687230,
+      "content": "okay :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343486528860,
+      "content": "gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343486509828,
+      "content": "okaypassst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343486429378,
+      "content": "okay nur das du es weist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343471192210,
+      "content": "Okay egal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343463009158,
+      "content": "hi das sommerfest f\u00c3\u00a4lt aus wegen unwetter:\u00c2\u00b4(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343333952689,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343333344062,
+      "content": "nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343332736417,
+      "content": "rathausplatz in g\u00c3\u00b6glingen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343332679212,
+      "content": "Wo ist das?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343332279071,
+      "content": "aber wenn es stag regnet wird es abgesagt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343332248825,
+      "content": "da kommen voll viele aus donaustetten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343332171874,
+      "content": "Kenn da niemanden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343331770980,
+      "content": "von der blasmusik?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343331632812,
+      "content": "Welchem??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343331290347,
+      "content": "ah ok komsch auch am sontag zum sommerfest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343331212873,
+      "content": "Ehm keine ahnung viel zu viel ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343331024531,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343331017186,
+      "content": "und was machsch am wochenende?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343330782129,
+      "content": "ah geht schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330705732,
+      "content": "Oh ... Das ist net gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343330523488,
+      "content": "weil ich auch geburtstag feier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330443027,
+      "content": "Warum schade??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343330275801,
+      "content": "sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343330265867,
+      "content": "ja ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343330258205,
+      "content": "ah ok schade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330232731,
+      "content": "Ehm geburtstag von meiner meiner mum und vllt auch noch zu nem kumpel :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1343329981223,
+      "content": "hi und was machsch morgen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638592756,
+      "content": "ok biss dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342638576366,
+      "content": "ich muss off sorry :) man sieht sich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638543886,
+      "content": "lernen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342638527743,
+      "content": "nichts und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638504879,
+      "content": "gut und was machsch so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342638475971,
+      "content": "dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342638473913,
+      "content": "gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638423175,
+      "content": "? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638417704,
+      "content": "und wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342638405553,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342638389973,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342286116600,
+      "content": "ja das hat sich doch schon erledigt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342285924572,
+      "content": "Nein ich hab echt besseres zu tun :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342285768869,
+      "content": "ach nur soo essen drinken und spielstra\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342124543053,
+      "content": "was soll ich da?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342124106913,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342124101331,
+      "content": "komsch auch am samstag rewe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342123917086,
+      "content": "gut oder sehr gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342123799887,
+      "content": "okay dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342123770923,
+      "content": "wie gehts? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1342123718395,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1342123388053,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341862665446,
+      "content": "jaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341862643348,
+      "content": "Freust du dich etwa?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341862271431,
+      "content": "jap hab wieder oder endlich malwieder schule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341861895709,
+      "content": "okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341861779904,
+      "content": "ah weil da steige ich die n\u00c3\u00a4chste 3 tage auch aus :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341861459158,
+      "content": "ja??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341861425797,
+      "content": "gell du steigsch immer in der haslerstrase aus oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341860172008,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341777149381,
+      "content": "gut und sonst wie gehts:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341776883583,
+      "content": "nein?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776684388,
+      "content": "ach so sped ich hab gedacht du bist fr\u00c3\u00bcher gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341776629174,
+      "content": "Nein hab ich net :) bin erst um halb 12 gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776316618,
+      "content": "und haschs feuerwerk auch gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776193531,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776189952,
+      "content": "hubs falsches",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776175721,
+      "content": "jap :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341776150454,
+      "content": "Aha okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341776007015,
+      "content": "hab dich gestern gesenhn binn gegen\u00c3\u00bcber von dir gestanden und getanzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341775935939,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341674449942,
+      "content": "aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341674357292,
+      "content": "achso ja dann ist das anderst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341674056124,
+      "content": "ich bin auf nem geburtstag und wenn mich jemand um halb 10 aus einsingen abholt ist alles kein problem ansonsten schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341673799461,
+      "content": "ja komm halt das ist mal in donaustetten lustig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341673717430,
+      "content": "keine ahnung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341673699842,
+      "content": "und wie siehts nacher aus mit donausommer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341656449691,
+      "content": "ah ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341656278989,
+      "content": "nein hab ich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341656152755,
+      "content": "hast dus dir schon \u00c3\u00bcberlegt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341656121689,
+      "content": "hubs wolt was anderes schreiben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341656083291,
+      "content": "und ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341651936253,
+      "content": "ah ok wir werdens ja dann sehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341594506778,
+      "content": "Weiss ich noch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341591877386,
+      "content": "hi kommst du auch morgen donausommer?\n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341435948139,
+      "content": ":) okay nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341435708774,
+      "content": "geh ins bett gute nacht\n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341435319989,
+      "content": "ah ok gut gut was machsch dann soo?\n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341435272533,
+      "content": "Nee :) freizeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341434884336,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341434880685,
+      "content": "ah ok musch lernen f\u00c3\u00bcr schule oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341434631855,
+      "content": ":) und ich hab allgemein wenig zeit um immer zu antworten :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341434354253,
+      "content": "ah ok dann nehm ich alles zur\u00c3\u00bcck \n:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341434318074,
+      "content": "Hab vllt nicht so viel zeit??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341433306191,
+      "content": ":( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341433300452,
+      "content": "ah weil ich am wochenende dir immer geschrieben hab und du hast mir nie geantwortet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341433220944,
+      "content": "Was??? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341432858605,
+      "content": ":( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341430969053,
+      "content": "warum schreibsch mir nie zur\u00c3\u00bcck:P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341430151297,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341430114630,
+      "content": "hi was ist los ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1341052481679,
+      "content": "hi und wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340996402529,
+      "content": "und was machsch morgen soo?=D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340994462185,
+      "content": ":) jha finde ich auch!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340985335417,
+      "content": "ja da geb ich dir voll recht aber die h\u00c3\u00a4tten mehr auf balotelli nach dem 1:0 mehr aufpassen m\u00c3\u00bcssen =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340985168447,
+      "content": "Deutschland war schon gut nur brauchen die italiener nur eine chance um ein tor zu machen und ja die deutschen 100!!! :D au\u00c3\u009ferdem haben die den italienern viel zu viel platz gelassen und haben sich nicht bem\u00c3\u00bcht ihr tor zu Sch\u00c3\u00bctzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340984940960,
+      "content": "und wie fandest du das spiel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340984884091,
+      "content": ":) ja klar!!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340984771117,
+      "content": "und hasch auch gestern fu\u00c3\u009fball angeschaut:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340984688268,
+      "content": "Ja kann schon sein :)\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340984680370,
+      "content": "danke eine wo das auch meint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340984635956,
+      "content": "Ja glaube ich dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340984388431,
+      "content": "ah ok!:D ja ganz in ordnung nur immer in 5. stock zu laufen ist meistens doof!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340982825249,
+      "content": "Hi :) ehm ja war ganz okay!? :P haha bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340982696978,
+      "content": "hi und wie war heute schule?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340904918201,
+      "content": "hubs sorry hab das nicht nicht gesehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340858705148,
+      "content": ":) ich hab dich NICHT gesehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340831600674,
+      "content": ":( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340831588834,
+      "content": "ja muss ins bett morgen wieder arbeiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340831298975,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340831294611,
+      "content": "und woo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340831225536,
+      "content": "Im ernst!? :) haha ich dich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830916392,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830911163,
+      "content": "hab dich heute morgen gesehen an der bushaltestelle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830852092,
+      "content": ":) cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830702558,
+      "content": "au",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830598714,
+      "content": "Ja schon :) du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830508645,
+      "content": "gut gut und schausch fu\u00c3\u009fball",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340830320668,
+      "content": ":) naja passt schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830201578,
+      "content": "und hab sehr gut geschlafen und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340830160422,
+      "content": "danke :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743817830,
+      "content": "Okay :) bis dann.. Gute nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340743604018,
+      "content": "geh jetzt muss ins bett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340743348798,
+      "content": "ah ok das ist wirklich schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743225477,
+      "content": "Im ernst?? :O ich hasse es mein handy und fb spinnen voll!! das verschickt einfach so freundschaftsanfragen und so zeugs :( nimmt an usw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340743075134,
+      "content": "ah ich mein nur well du den als freund hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340743045130,
+      "content": "Keine ahnung :D wer ist das??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742766362,
+      "content": "woher kenst du eigendlich der christian h\u00c3\u00a4uptle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742712595,
+      "content": ":) ja schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742646930,
+      "content": "und ja dein vater hab ich auch schon beim jurgen gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742560834,
+      "content": "das kann sein :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742506687,
+      "content": "Weil J\u00c3\u00bcrgen glaub mal gesagt hat das er mit nem stefan verwandt ist oder so.. :D kp.. Und unsere V\u00c3\u00a4ter sich kennen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742500836,
+      "content": "woher kennst du der christian h\u00c3\u00a4uptle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742218080,
+      "content": "ja das binn ich warum ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742166377,
+      "content": "Bist du nicht alex sein cousin!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340742041501,
+      "content": "sehr gut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340742022352,
+      "content": ":) haha achsoo :P ehm ja mir geht's gut und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340741725781,
+      "content": "und wie gehts dir soo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340741711016,
+      "content": "ja ich weis das du es warst :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340741056065,
+      "content": "Okay :) ich glaube du meinsch mich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340740932950,
+      "content": "nee hattesch nicht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340740882874,
+      "content": "Ja :D schon aber sag mal hatte ich ein dirndel an oder nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340740344785,
+      "content": "nee du hasch nur immer gelacht oder gegrinst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340740312625,
+      "content": "Hat man das nicht gesehen?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340740262467,
+      "content": ":D ah ok und wie fandschs am samstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340740186975,
+      "content": ":) achso okay ja kann dann schon sein.. Kann mich nemme sooo gut dran erinnern xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340738940639,
+      "content": "feuerwehr fest 125 jahre stimmts da war ich auch ich binn immer bei alex gewesen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340738760097,
+      "content": "Kann sein kp.. Ich weiss net wie die hie\u00c3\u009f weil ich \u00c3\u00bcberall sa\u00c3\u009f :P aber ich glaub eher nicht aber ich war am samstag auch aufm fest da in donaustetten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340738570645,
+      "content": "oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340738564660,
+      "content": "wir haben uns am samstag abend auch gesehen du bist bei der sandra und so gesessen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340738491466,
+      "content": "Stimmt kann sein :) aber woher noch mal!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340738414353,
+      "content": "ja wir kennen uns",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340738291035,
+      "content": "Hi :) ehm kenne wir uns?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan Kufner",
+      "timestamp_ms": 1340738166551,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefan Kufner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefankufner_syd1zozkyg",
+  "magic_words": [
+    
+  ]
+}

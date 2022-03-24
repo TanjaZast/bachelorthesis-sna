@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Sina Fichter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387566406349,
+      "content": "Warum das? :o so schlimm? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1387401601904,
+      "content": "Ja Weils mir nicht so Spa\u00c3\u009f macht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387401567641,
+      "content": "Hahah echt jetzt? :) aber das ist auch stressig gewesen die letzten paar Wochen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1387401264343,
+      "content": "N\u00c3\u00b6 glaub nicht haha ich war auch schon ewig nicht mehr im Training :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387401165306,
+      "content": "Nie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387401162535,
+      "content": "*Wieder\nIst es eigentlich schon aufgefallen ich hab mich glaub nur abgemeldet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387401128300,
+      "content": "Ja weil ich so viel Stress habe. Ich hatte gerade jetzt vor den Ferien 1000 Sachen zu tun und da musste das Training einfach weg bleiben :) aber ich habe vor ab n\u00c3\u00a4chstes mal wideer zu kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1387401024643,
+      "content": "Hab dich schon voll lang nicht mehr gesehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387400942524,
+      "content": "Ja schon warum? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1387399957314,
+      "content": "Hey Tanja, bist du beim tanzen noch dabei ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364906648252,
+      "content": "Das war keine Kritik mehr sondern nur noch dummes gerede :D die haben njcht mal gesagt was ihr machen k\u00c3\u00b6nnt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1364905234586,
+      "content": "Ich finds echt gut wenn wir Kritik bekommen dann wissen wir was wir besser machen m\u00c3\u00bcssen ! Und uns \u00c3\u00a4rgert es ja selber dass wir nur einmal tanzen d\u00c3\u00bcrfen, wir bereiten immer 9 Choreos pro Spiel vor !  Aber das wurde dann halt irgendwann bisschen beleidigend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364905124997,
+      "content": "Ich meine ist echt assi von der judith und die geh\u00c3\u00b6ren alle geschlagen! :) die haben keine Ahnung wie schwer es f\u00c3\u00bcr euch ist und ja jetzt sollen die mal leise sein! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364905080909,
+      "content": "Ups bitte ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1364905073399,
+      "content": "Bist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Fichter",
+      "timestamp_ms": 1364905005334,
+      "content": "Hey ich wollte dir sagen dass ich's voll cool Find dass du was auf der ratiopharm Seite darunter geschrieben hast ! War echt gut nach so einer Diskussion sowas zu h\u00c3\u00b6ren und die M\u00c3\u00a4dels hat es auch voll gefreut ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sina Fichter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sinafichter_nqcsxd3p-w",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Peter Steiner"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Steiner",
+      "timestamp_ms": 1566765636541,
+      "content": "Hey ein langer Tag.  Wettkampf passte. Nur wegen 10er Schritte aber Rang 3 verfehlt. Dann noch auf den Pf\u00c3\u00a4nder und da ist noch einer mit der von dort ist und auch im Bad Wurzach war. \u00f0\u009f\u0098\u0085.\n\nSchade. Gerne ein anderes mal wenn du magst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1566740341367,
+      "content": "Muss bis 15 Uhr arbeiten \u00f0\u009f\u0098\u00ad also leider nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1566740325235,
+      "content": "Und wie war es? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Peter Steiner",
+      "timestamp_ms": 1566711932996,
+      "content": "Dann geht es ja \u00f0\u009f\u0098\u0085\n\nBregenz steht heute Nachmittag auch noch an. Nach Bad Wurzach \u00f0\u009f\u0098\u0081.\n\nFalls du Montag Zeit und Lust hast,  ich laufe in Bad Urach drei Touren. Vielleicht magst ja eine mitlaufen oder mehrere mitlaufen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1566711767974,
+      "content": "Hallo :) hatte etwas Muskelkater aber jetzt geht es wieder voll! \nWaren leider nicht im tannheimer Tal... aber daf\u00c3\u00bcr in der N\u00c3\u00a4he von Bregenz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Peter Steiner",
+      "timestamp_ms": 1566646867399,
+      "content": "Hi! Den Lauf am Donnerstag gut \u00c3\u00bcberstanden? Warst gestern noch mal im Tannheimer Tal?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Peter Steiner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/petersteiner_fjbd3ygb8a",
+  "magic_words": [
+    
+  ]
+}

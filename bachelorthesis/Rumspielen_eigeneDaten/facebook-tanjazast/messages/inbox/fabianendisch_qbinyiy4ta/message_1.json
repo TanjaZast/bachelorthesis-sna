@@ -1,0 +1,4331 @@
+{
+  "participants": [
+    {
+      "name": "Fabian Endisch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1439502489314,
+      "content": "Du hast einen Anruf von Fabian verpasst.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true,
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1439502461015,
+      "content": "Fabse :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1439502074305,
+      "content": "Tanja :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437735396152,
+      "content": "top :D Bis gleich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437735352883,
+      "content": "Unterwegs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437734464054,
+      "content": "haha oki :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437734456954,
+      "content": "Okay muss noch kurz was machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437734448399,
+      "content": "ich bin bereit :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437734448394,
+      "content": "Alles klar \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437731400111,
+      "content": "hab alles da :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437731381262,
+      "content": "Soll ich was besorgen \u00f0\u009f\u0098\u008a?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437730353973,
+      "content": "haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437730334784,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437730333415,
+      "content": "Yeah Oma :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437729508555,
+      "content": "haha tanja des sieht gerade stark nach grillen aus :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437694135955,
+      "content": "Dann kann man im Garten essen \u00f3\u00be\u008c\u00b4\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437694079050,
+      "content": "Wird sehr gut \u00f0\u009f\u0098\u008a warum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437693450827,
+      "content": "Haha oki \u00e2\u0098\u00ba\u00ef\u00b8\u008f wie wird's Wetter morgen \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437693308330,
+      "content": "Bussle fr\u00c3\u00bcher und ich gehe danach ins Fitness :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437693295674,
+      "content": "Dann passt 13 Uhr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437692960468,
+      "content": "Mit meiner Cousine gechillt \u00f3\u00be\u008c\u00b5 oki muss halt um 4 beim arbeiten sein \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437692683985,
+      "content": "Was hast denn da gemacht \u00f0\u009f\u0098\u008a sp\u00c3\u00a4ter w\u00c3\u00a4re mir lieber :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437691477016,
+      "content": "Muss ich schauen denke so um 13 Uhr bisschen fr\u00c3\u00bcher \u00e2\u0098\u00ba\u00ef\u00b8\u008f erstmal chillig ausschlafen \u00e2\u0098\u00ba\u00ef\u00b8\u008f bin gerade erst von rv gekommen \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437691458229,
+      "content": "Meinte auch zeitlich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437691410244,
+      "content": "Morgen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437691373714,
+      "content": "Wann w\u00c3\u00a4re das :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437690479857,
+      "content": "Haha ich schreib dir einfach dann koch ich f\u00c3\u00bcr dich \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437686470423,
+      "content": "Wie es dir besser passt \u00f0\u009f\u0098\u008a mir ist es egal muss dann halt nur Fitness verschieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437604853275,
+      "content": "Oder du kannst zu mir kommen und ich mach Mittagessen \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437604796951,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437604267295,
+      "content": "Ja dann komm ich am Freitag Mittag \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437604218804,
+      "content": "Freitag frei und Montag auch sonst immer von morgens bis abends da ist mir dann das Wochenende viel lieber \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437603980583,
+      "content": "Wie arbeitest du immer \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603963540,
+      "content": "Gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437603958111,
+      "content": "Dann komm ich mal vorbei \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603955888,
+      "content": "Ich dachte ich h\u00c3\u00a4tte :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437603327973,
+      "content": "Dann sag doch was \u00f3\u00be\u008d\u0080\u00f3\u00be\u008d\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603296935,
+      "content": "Bin ich die Ganze Zeit :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437603228773,
+      "content": "Wann bist mal wieder hier \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437603216593,
+      "content": "Ich chill im Bett \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437603107472,
+      "content": "Nichts bei dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437602872087,
+      "content": "Was geht ab \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437602838027,
+      "content": "Hey Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437600429592,
+      "content": "Guten Abend \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437600397218,
+      "content": "Guten Abend \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437516967387,
+      "content": "Haha geht mir aber auch so \u00e2\u0098\u00ba\u00ef\u00b8\u008f jetzt ins Bett liegen \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437516801939,
+      "content": "Ganz dingend schlafen sollte sie und du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437516754543,
+      "content": "Was macht meine kleine \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437516739471,
+      "content": "Fabse :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437516284730,
+      "content": "Tanja \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437084861870,
+      "content": "War einfach so warm \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437076046724,
+      "content": "Naja \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437074052425,
+      "content": "Geil \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437072645513,
+      "content": "Fu\u00c3\u009fball \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437067655254,
+      "content": "Was f\u00c3\u00bcr eins? Fitness Idee Fu\u00c3\u009fball? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437064855938,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437064836807,
+      "content": "Jetzt Training \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437063030463,
+      "content": "Oh sch\u00c3\u00b6n! Echt toll :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437062233034,
+      "content": "Chillig ich war an der Donau \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437061722308,
+      "content": "\u00f0\u009f\u0098\u008a auch ich chill in der Sonne \u00f0\u009f\u0098\u008a am See",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437059560529,
+      "content": "Oh man \u00f3\u00be\u008d\u0094 ich chill \u00e2\u0098\u00ba\u00ef\u00b8\u008f bei dir \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437059433163,
+      "content": "Wie geht es dir so Fabse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437059427111,
+      "content": "Sorry \u00f0\u009f\u0098\u009e wusste nicht wie ich schauen soll dann hab ich kein snap gemacht \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1437000203790,
+      "content": "Im Bett chillen und mit dir sscheeiben \u00f3\u00be\u008c\u00ac weil dir mir auf snap nicht geantwortet hast \u00f3\u00be\u008d\u0094\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436999988970,
+      "content": "Nicht viel und bei dir \u00f0\u009f\u0098\u008a \u00f0\u009f\u0098\u0098?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1436999273573,
+      "content": "Was geht ab meine kleine \u00f3\u00be\u008c\u00b5 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436998950495,
+      "content": "Fabse :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1436998370403,
+      "content": "Tanja \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430386320201,
+      "content": "Mega \u00f3\u00be\u008c\u00b5 und du ? \u00f3\u00be\u008c\u00b5 weil ich dachte du schreibst mir \u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430385722680,
+      "content": "Hast du gut geschlafen? \u00f3\u00be\u008c\u00b5 ja ich wei\u00c3\u009f aber du hast dich ja auch nicht gemeldet gehabt \u00f3\u00be\u008c\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430344866504,
+      "content": "Ich mach n bisschen heia \u00e2\u0098\u00ba\u00ef\u00b8\u008f gute Nacht \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430344848348,
+      "content": "Hm stimmt weil ich dachte du schreibst wenn du da bist \u00f3\u00be\u008c\u00a3 \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430344779926,
+      "content": "Du hast ja auch nichts geschrieben \u00f3\u00be\u008c\u00b9\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430344243367,
+      "content": "Bestens \u00e2\u0098\u00ba\u00ef\u00b8\u008f hab deine mum vorher getroffen \u00e2\u0098\u00ba\u00ef\u00b8\u008f du hast mir an Ostern garnich geschrieben \u00f3\u00be\u008d\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430344165251,
+      "content": "Ja ganz okay und dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430343640665,
+      "content": "Wie geht s dir \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1430343582785,
+      "content": "Fabi \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1430342783694,
+      "content": "Tanja \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1375821234879,
+      "content": "Tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357068554018,
+      "content": "Ok cool :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357068434530,
+      "content": "Ich lass schnell anklingeln",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357068395408,
+      "content": "Okay was f\u00c3\u00bcr eins ;) ehm warte ich glaub die ists: 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357068320260,
+      "content": "Kannst du mir Vllt deine Nummer geben dann wurde ich dich anrufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357068293741,
+      "content": "Und ich sag dir rechtzeitig Bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357068280815,
+      "content": "Sorry muss gerade prufunfsbuch lesen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357068241891,
+      "content": "Wieder so ausdrucksstark!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357067578156,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357067523913,
+      "content": "Haha ;) sehr gut danke..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357066748898,
+      "content": "Jap :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357066715110,
+      "content": "Wehe wenn nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357065609679,
+      "content": "Ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357065510789,
+      "content": "Okay gut ;) aber nicht zu spontan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064632047,
+      "content": "aber denke so freitag oder so :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064608006,
+      "content": "ich geb dir dann bescheid ist des ok :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357064504775,
+      "content": "Okay wann ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064370991,
+      "content": "freu mich wenn du mal mit kommt in breakzone :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357064283721,
+      "content": ";) nett ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064247094,
+      "content": "gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064220133,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357064148445,
+      "content": "Das ist echt gut zu wissen :D danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064052744,
+      "content": "kannst auch :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357064046331,
+      "content": "ok ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357064031116,
+      "content": ";) Spa\u00c3\u009f ich dir doch auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063911722,
+      "content": "ich dir schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063834824,
+      "content": "echt :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357063726696,
+      "content": ":D wer wei\u00c3\u009f ich vertraue dir nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063534586,
+      "content": "als ob ich dir was mache ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357063500215,
+      "content": "Oha mach mir Angst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063338092,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063334617,
+      "content": "hahahhahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063322383,
+      "content": "wer weis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357063296917,
+      "content": "Ja schrecklich was muss ich dann machen!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357063184174,
+      "content": "ja nachher k\u00c3\u00b6nnte ich noch zu dir heim :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357063045402,
+      "content": "Kannst es jetzt sehen!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357063036964,
+      "content": "Oh ja stimmt das kann sein :/ voll gef\u00c3\u00a4hrlich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357062885156,
+      "content": "haha ich war mit deiner sis bei der firmung und des steht auch bei jeder nachricht von dir drann :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357062743904,
+      "content": "Ja wie w\u00c3\u00a4re es mit Sagen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357062426640,
+      "content": "des w\u00c3\u00bcsstest gerne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357062400780,
+      "content": "Woher dus wei\u00c3\u009ft ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357059843730,
+      "content": "was woher ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357059403960,
+      "content": "Woher!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357059259734,
+      "content": "ich w\u00c3\u00bcrde mal sagen in der illerkirchberger stra\u00c3\u009fe :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357059144514,
+      "content": "Woher blo\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357059055608,
+      "content": "Woher? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058967126,
+      "content": "haha ja ich wei\u00c3\u009f :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357058939233,
+      "content": ";) haha ja sorry kann ja sein wei\u00c3\u009ft das gute ich ich wohne gleich da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058777786,
+      "content": "cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058775210,
+      "content": "ja in donaustetten :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357058764258,
+      "content": "Damit man mit auf die hand schl\u00c3\u00a4gt oder was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357058738768,
+      "content": "Donaustetten!? ;) ja klar warum auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058630253,
+      "content": ";D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058628030,
+      "content": "kommst mal mit breakzone ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357058618630,
+      "content": "ok des ist schei\u00c3\u009fe !!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357058586991,
+      "content": "Also entweder hat mich jemand geschlagen oder ich bin h\u00c3\u00a4ngen geblieben oder einfach so aber es hat abnormal weh getan :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357057128767,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357057119290,
+      "content": "!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357056676211,
+      "content": "Nein ich wills wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357049958293,
+      "content": "Nein ich wei\u00c3\u009f .. danke ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357049503109,
+      "content": "Will ich's wissen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357049448812,
+      "content": ";) gute \u00c3\u0084u\u00c3\u009ferung ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357048898915,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357048351392,
+      "content": "Wenn ich nur w\u00c3\u00bcsste was da war ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357048306777,
+      "content": "Ok ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357048001596,
+      "content": "Ja mir auch alles :) vor allem mein arm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357047373620,
+      "content": "Ja mein Kopf tut weh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357046866442,
+      "content": "Merkst was!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357046662416,
+      "content": "Haha ok :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357046619197,
+      "photos": [
+        {
+          "uri": "messages/inbox/fabianendisch_qbinyiy4ta/photos/11157923_974608485913335_910198382_n_974608485913335.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357046602402,
+      "photos": [
+        {
+          "uri": "messages/inbox/fabianendisch_qbinyiy4ta/photos/11157026_974608475913336_249158500_n_974608475913336.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357046160902,
+      "content": "Echt haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357046119996,
+      "content": "Weil du es mir geschrieben hast!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357046079531,
+      "content": "Warum ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357046075333,
+      "content": "Echt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357046070693,
+      "content": "Ne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357046036017,
+      "content": ";) haha hast zu viel ges\u00c3\u00b6ffen ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357045950943,
+      "content": "Gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357045835911,
+      "content": "Ich wei\u00c3\u009f doch!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357045752396,
+      "content": "Klar ich kenn den ja Voll gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357045663346,
+      "content": "Ja kann man so sagen :D haha und du wei\u00c3\u009ft nicht mal wie der Typ hei\u00c3\u009ft bei dem du auf der Party warst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357045521489,
+      "content": "Ok schei\u00c3\u009fe :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357045013824,
+      "content": "Also war echt gut mein Kumpel hasst mich jetzt :D und ich hab auf leeren Magen getrunken :/ nicht gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044960082,
+      "content": "Wie war's in wernau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044953502,
+      "content": "Soooo viel gesoffen abnormal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357044832033,
+      "content": "Oh das glaube ich dir!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044806355,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044805211,
+      "content": "Ne schlecht ist mir nicht aber ich hab Kopfweh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357044760073,
+      "content": "Ich auch! ;) mir ist so schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044702335,
+      "content": "Ich bin hart kaputt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044690634,
+      "content": "Haha ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357044521696,
+      "content": "Du meinst steffen b\u00c3\u00bchrlen !? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044488342,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044486577,
+      "content": "Steffen b\u00c3\u00bcrlend :) und meiner Freundin und vielen anderen Kumpels",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044401898,
+      "content": "Bin voll kaputt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357044398743,
+      "content": "Bei wem!? :D geil ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044380176,
+      "content": "Ich war bis 7 Uhr weg :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357044368267,
+      "content": "Donaustetten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357044249613,
+      "content": "Wo war die!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357013736812,
+      "content": "Uvh hab zu viel Ges\u00c3\u00b6ffen haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357013721971,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1357013697818,
+      "content": "Ich war in donaustetten so eine geile Party abnormal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1357005854615,
+      "content": "Du h\u00c3\u00a4ttest gehen m\u00c3\u00bcssen!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356984188337,
+      "content": "Aber ich weis nicht wie Heim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356984176743,
+      "content": "Ja voll Bock",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356983988628,
+      "content": "Dann komm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356981025937,
+      "content": "Wurde ich gerne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356979638230,
+      "content": "Geh doch wernau!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356979580818,
+      "content": "Kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356979561035,
+      "content": "Und wo gehst jetzt hin? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356978184005,
+      "content": "Wollte ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356971756916,
+      "content": "Wernau ;) du?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971709884,
+      "content": "Mich richten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971702584,
+      "content": "Ok haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971693349,
+      "content": "Was machst du heute ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356971355846,
+      "content": "Du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356971350306,
+      "content": "Ehm warten bis meine Eltern gehen und mich dann richten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971303673,
+      "content": "? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971299474,
+      "content": "Und was machst du so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971289028,
+      "content": "Bestens :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356971273533,
+      "content": "Ja mir geht es ganz gut ;) und dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356971249513,
+      "content": "Und wie geht's dir ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1356970621725,
+      "content": "Heei ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1356970256844,
+      "content": "Hi :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337515947800,
+      "content": "Ja ich weiss sollte ich echt mal aber ich bin so dumm und vergesse es andauernd :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1337515340139,
+      "content": "Warum ? Komm halt mal vorbei ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337374695809,
+      "content": "Oh man :) auf dich kann man sich verlassen :P ich muss dir deine M\u00c3\u00bctze noch geben!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335040695691,
+      "content": "Ja :) ich weiss doch :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335040380192,
+      "content": "Ich TuS :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335039875196,
+      "content": "Ich will das aber nicht :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335038158169,
+      "content": "Ich Schau tv ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335037846760,
+      "content": ":) mist was soll ich/ du machen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335037730701,
+      "content": "Ich lw mich auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335037399645,
+      "content": "Oh man ich langweile mich!! :O :) ne Spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335037241045,
+      "content": "Jap :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335036020767,
+      "content": ":) oha wie gut ich bin ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335036008612,
+      "content": "Joa :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335035981535,
+      "content": ":) fu\u00c3\u009fball und stadt :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335035965239,
+      "content": "Was ? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335035940291,
+      "content": ":) haben das heute iwie alle gemacht? ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335035902554,
+      "content": "Ok ich war in der Stadt und hab gechillt und hab beim Fu\u00c3\u009fball zugeschaut :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335035630655,
+      "content": "ehm gaanz viel gassi und bissle lernen und putzen blabla bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335035541403,
+      "content": "Und was ging heute so ? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335035262220,
+      "content": ":) hihi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335035199323,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335034891023,
+      "content": ":) hah okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034669427,
+      "content": "Ja ist ja nicht schlimm jetzt weist du's ja :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335034473968,
+      "content": "achso :) ja darauf bin ich halt nicht gekommen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034431739,
+      "content": "Ja :) ich entfang keine und kann auch keine schreiben aber die i net flat geht :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335034342764,
+      "content": "achso du empf\u00c3\u00a4ngst keine ;) sorry ich hab verstanden das geht nicht und darum kostet das was oder so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034295782,
+      "content": "Ja wenn die nicht geht und ich keine SMS entfange ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335034154554,
+      "content": "ja aber da kann man doch antworten wenn ich mir die m\u00c3\u00bche mache dir zu schreiben :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034114766,
+      "content": ";( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034110157,
+      "content": "O Sorry meine SMS flat geht gerade nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335034065746,
+      "content": "gestern in der schule in wiblingen ich war da... hab dir ne sms geschrieben?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034042901,
+      "content": "Was hab ich verpasst ? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1335034034721,
+      "content": "Was wiebitte wo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335033341769,
+      "content": "jetzt hab ich ein mal deine m\u00c3\u00bctze dabei gehabt und du schreinst mir nicht zur\u00c3\u00bcck :O :D \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333305109647,
+      "content": "ja finde ich auch ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303984385,
+      "content": "Cool :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303908409,
+      "content": "Also",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333303857415,
+      "content": "Na und ich auch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303687772,
+      "content": "Ich  hab ne Jacke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333303343213,
+      "content": "Uuh ganz cool aber drau\u00c3\u009fen ist es gar nicht warm :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303264671,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303256893,
+      "content": "ja mache ich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333303205485,
+      "content": "Cool cool chillst da? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333303104720,
+      "content": "ich geh jetzt auch raus :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333302918192,
+      "content": "Ja beim alleine gassi gehen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333302554438,
+      "content": "bei was denn ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333302513242,
+      "content": "Uuuh wie cool :) ehm ja das ist doof ich hab da immer voll das komische Gef\u00c3\u00bchl :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333302475480,
+      "content": "ich chill gerade at home ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333302467567,
+      "content": "o mano :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333302296756,
+      "content": "Oh mein hund nervt will gerade er will unbedingt raus und so.. Naja und jetzt kann niemand mit mir so wie gestern also muss ich alleine :O du?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333302214704,
+      "content": ":D und weas treibsch gerade sdo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333302131565,
+      "content": ":) okay gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333302109556,
+      "content": "ja kannst du machen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333302032325,
+      "content": "okay doch eig schon aber ich wasch die ech tnoch ich kann se morgen bringen?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333301990857,
+      "content": "ok mach des bring se doch noich schnell vorbei ! :D oder kannst nicht mehr ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333301653869,
+      "content": ":) okay in den ferien und nerv so lange bis ich se bringe okay? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333301532579,
+      "content": "o mann  istr doch nicht so schlimm bringst einfach i wann mal vorbei :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333301316458,
+      "content": "okay aber ich will se dir geben sonst kann ich dir bald nemme ins gesicht schauen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333301285513,
+      "content": "ich hab tausend m\u00c3\u00bctzen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333301278703,
+      "content": "pastt schon tanja :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333301253986,
+      "content": "es tut mir frei so leid .... :( aber ich hatte bis jetzt echt nicht viel zeit ich hab voll den stress wegen schule und compe training usw :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1333301206468,
+      "content": "ja :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1333301173163,
+      "content": "m\u00c3\u00bctze? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332187358383,
+      "content": "ok :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332187301290,
+      "content": ":) okay aber ich kann nichts versprechen sp\u00c3\u00a4testens bis zu den Ferien hast es dann :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332186994203,
+      "content": "ok mache das :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186972805,
+      "content": ":) okay ich versuchs diese woche mal vorbei zu bringen wenn ichs iwie schaffe:P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332186853436,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332186822634,
+      "content": "ja und wass solls ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186807851,
+      "content": "weil ich die schon ewig hab!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332186792167,
+      "content": "warum ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186776536,
+      "content": "oh man ich hab so ein schei\u00c3\u009f gewissen :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1332186736929,
+      "content": "ja :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186713017,
+      "content": "deine m\u00c3\u00bctze! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1328565574313,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327760244301,
+      "content": "Nein :) nicht anrufen... Das iwann n\u00c3\u00a4chste woche oder so... in fb schreiben??!! Ich weiss doch das du in M\u00c3\u00bcnchen bist haha ;D du hast gesagt du schreibst ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327757505580,
+      "content": "Ja ich soll dich am rufen :-) aber ich hab dir auch gesagt das ich das ganze weekend in M\u00c3\u00bcnchen bin :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327756995089,
+      "content": "Du h\u00c3\u00a4ltst deine abmachungen nicht so ein oder?? (: wolltest du nicht iwas machen?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327614069601,
+      "content": "Gute nacht :) :* bis morgen (wenn wir uns vllt sehen) an der bushalte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327613944184,
+      "content": "Ok :-) nach ich gute Nacht :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327612719946,
+      "content": "Ich geh schlafen ;) schreib mir morgen in fb auch wenn ich net als on angezeigt bin.. Ich geh immer mim handy :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327611510272,
+      "content": "Naja :) jetzt sag mal was bitte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327611304561,
+      "content": "Ja ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327611014695,
+      "content": "Hei :) ich doch auch mim handy?? Haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327610905993,
+      "content": "Ja Sorry ich bin mit meinem iPhone on da kann ich keinen Aufsatz schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327610634819,
+      "content": "Ich schreib da nen ewig langen text!! :) und du schreibst okay :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327610567876,
+      "content": "Ok :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327609676494,
+      "content": "Okay vielen vielen dank :( weil ich verzweifel seit gestern iwie voll weit ichs net einsch\u00c3\u00a4tzen kann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327609594263,
+      "content": "Jaa!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327609380843,
+      "content": "Jetzt ehrlich?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327609310582,
+      "content": "Ich finde sie gut !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327609144941,
+      "content": "Okay :) 015789227304 \r\nAch und eine frage :) sei aber ganz ehrlich.. Was sagst du eig zu meiner neuen frisur falls dir \u00c3\u00bcberhaupt aufgefallen ist das sie anders ist :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608963811,
+      "content": "Gib ma schnell deine ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608956123,
+      "content": "Nee :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327608768942,
+      "content": "Okay gut :) also macht es dir nichts aus?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608722184,
+      "content": "Ja :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327608679406,
+      "content": "Oh man fabian :( \r\nNe ist okay ich \u00c3\u00bcberlebe es dann muss du mich halt anrufen... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608595538,
+      "content": "Sorry aber so hab ich SMS und i net flat und Zahl 10\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327608542387,
+      "content": "Wolltest du dir net aldi kaufen?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608500582,
+      "content": "Vodafone ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327608483569,
+      "content": "Aldi?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608367449,
+      "content": "0152 37168119",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327608115168,
+      "content": "Neeee :D haha hast se mir nie gegeben :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327608018461,
+      "content": "ich bin schier immer bei kai .-d HAST MEINE neue handynummer ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607959006,
+      "content": "Ja ist dann eh chilliger gell?? :D mach ich dann mal sagt mir wann ich dann kommen kann/soll ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607865741,
+      "content": "nimm einfach mal mit zum kai ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607823387,
+      "content": "Was passt?? :) sag wann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607771949,
+      "content": "ja passt :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607754316,
+      "content": "Oder n\u00c3\u00a4chste woche?? Iwann?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607628614,
+      "content": "ach so ja :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607600999,
+      "content": "Vor der schule ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607571395,
+      "content": "ich bin morgen ned da ich geh des ganze weekend nach m\u00c3\u00bcnchen :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607545651,
+      "content": "Willst se morgen haben oder soll ich mal zu kai gehn und se mitnehmen?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607444112,
+      "content": "ok :-D passt schon :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607403523,
+      "content": "Okay ich wollte es nur sagen ;) haha sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607333286,
+      "content": ":-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607330685,
+      "content": "ja hab ich auich n icht behauptet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607311704,
+      "content": "Ich stinke nicht :) okay??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327607214274,
+      "content": "ok :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327607197736,
+      "content": "Die riecht halt voll nach mir :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327606908232,
+      "content": "ach was ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327606894982,
+      "content": "Willst du deine M\u00c3\u00bctze eig gewaschen oder so?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327006909680,
+      "content": "Ja :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327006722415,
+      "content": "oder wo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327006715690,
+      "content": "bei kai ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327006703174,
+      "content": "Jaaa :) freust dich aufs aufr\u00c3\u00a4umen?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327006440193,
+      "content": ":-D gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327006177604,
+      "content": "Ja kp weils ist (: haha ja hoffe ich doch?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327005655193,
+      "content": "ok warum bekommst scho wieder hinn :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327005519955,
+      "content": "Ja komplett gewaschen :D aber sieht net gut aus :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327005373987,
+      "content": "ok :-D NAJA und haare gerichtet ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327005262940,
+      "content": "Ja gell eig sollte es ja was bringen :D haha aber iwie nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327003205112,
+      "content": "du hattest doch ne m\u00c3\u00bctze :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327002755413,
+      "content": "Wie warum?? \r\nEs hat zu sehr geregnet oder auf was war das warum bezogen?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1327002701073,
+      "content": "ok warum ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327002555561,
+      "content": "Heei :)\r\nWas soll ich sagen... Meine haare waren nass :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321180428180,
+      "content": "Hmm ja die hat eig voll den schlechten ruf.. Und ich sollte euch ja iwie verkuppeln :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321180351901,
+      "content": "jaha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321180293562,
+      "content": "Echt jetzt?? Oha das ist ja mal richtig doof ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321180031498,
+      "content": "egal wie du des jetzt bewertest aber ich fande des so des war die einzigste beziehung wo ich froh war das es aus war oder ist !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179701962,
+      "content": "wie warum ich noch ned so alt bin ? des wei\u00c3\u009f ich selber ned :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179681589,
+      "content": "war ja ned lang ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321179660416,
+      "content": "Warum?? Wars so schlimm??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179616824,
+      "content": "ich bin noch gar ned so alt :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179601081,
+      "content": "ja ich h\u00c3\u00a4tte die garne fragen d\u00c3\u00bcrfen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321179570491,
+      "content": "Alter?? Hat die dich etwa gefragt?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179524999,
+      "content": "ich h\u00c3\u00a4tte von vorne rein nein sagen sollen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321179474038,
+      "content": "Als ob?? Warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179406399,
+      "content": "ja ! des war ein schlimmer fehler !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321179378699,
+      "content": "Du warst ja auch mit der zsm ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321179222029,
+      "content": "ja so wie des fr\u00c3\u00bcher auch schon einmal war",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321179125670,
+      "content": "ja kp.. Wir waren mal voll gut befreundet und jetzt hat die iwie jede woche nen neuen :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321178846411,
+      "content": "dieentwickelt sich zur Ho ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321178818546,
+      "content": "Warum hast du son smiley gemacht?? :P :O<- den da?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321177006527,
+      "content": "ok :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321097369839,
+      "content": "Als ob!!? :) echt jetzt :P die hat gesagt von handi in den sommerferien und dann noch von nem anderen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321090958577,
+      "content": "ja ok mach de3s :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321090954278,
+      "content": "nee vorein paarwochen erst so 2-3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321049095408,
+      "content": "Ja der hat se glaub mal im sommer oder so :P naja :) also gute nacht & so.. Wenn ich dich das n\u00c3\u00a4chste mal sehe sag ich abber hallo!! Gaaanz sicher ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321049012627,
+      "content": "also ich gah schlafen bb :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321049002838,
+      "content": "von hendri tobner oder so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048933082,
+      "content": "omg i einer hat die ja geknallt hab ich mitbekommen! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048853972,
+      "content": "Jap :) aber das geilste war ja das er mit resa zsm gekommen ist.. Sie waren 3 tage zsm.. Und ich meine sie ist oder war meine freundin?? Nett?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048777313,
+      "content": "ok des ist i wie lustig ! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048740023,
+      "content": "Ja der kann mich mal :) naja alle haben mich ausgelacht und so.. Die so : alter du bist so voll das model und er der freak.. Meldet euch mal bei pro7 an.. ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048646433,
+      "content": "ok einedeutig ne l\u00c3\u00bcge ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048598949,
+      "content": "Der will nach diesem schuljahr wieder back nach amerika oder so.. Dort dann wieder leben.. Naja und wenn wir zusammen geblieben w\u00c3\u00a4ren, w\u00c3\u00a4re er vllt in deutschland geblieben.. Hallo?? L\u00c3\u00bcge",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048495794,
+      "content": "wie du w\u00c3\u00bcrdest ihn von seinen tr\u00c3\u00a4umen abhalten ?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048425526,
+      "content": "Oh der FREUND ;D der hat nach 3 wochen schluss gemacht.. Er meinte ich w\u00c3\u00bcrde ohn von seinen Tr\u00c3\u00a4umen abhalten :P ist meiner meinung nach ne L\u00c3\u00bcge!! Naja aber wenn ers so will.. Er ist eh voll der wiederling und mof.. Was ich alles erst im nachhinein mitbekommen hab :P naja so gern haben mit solche assi typen.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048248397,
+      "content": "o sory ich dacht du hast den einen noch ! ich habs ned mittbekommen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048207642,
+      "content": "Welchem freund wenn ich fragen darf?? :P  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048127458,
+      "content": "wie gehts deinem freund ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048117855,
+      "content": "und was machsch sonst so ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321048107138,
+      "content": "ok hab ich auch ned :-P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321048089603,
+      "content": "Brauchst du nicht zu verstehen :P ;D haha ist so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047958514,
+      "content": "ok :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321047919570,
+      "content": ";D ja sags nur so.. Just for fun ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047846344,
+      "content": "wie so nerven ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321047830177,
+      "content": "Ja okay ;D ich will dann mal nemme nerven :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047739982,
+      "content": "ok :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321047701210,
+      "content": "Oh tanzen ist immer mein ding :P ja w\u00c3\u00bcrde ich wenn ich ne internetflat auf meinem handy h\u00c3\u00a4tte :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047321898,
+      "content": "geh  halt schnell you tube :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047307371,
+      "content": "um tanzen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321047292323,
+      "content": "Um was geht es da?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321047225192,
+      "content": "voll der hammer film in dem film war ich mit meiner freundin der sit hammer ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321047177463,
+      "content": "Was ist footlose?? ;D so ne frage ganz nebenbei ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046985997,
+      "content": "footlose ist gut oder real steel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046953726,
+      "content": "Beides ist ganz gut ;D naja was sagst du?? ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046858599,
+      "content": "ok action oder love ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046828301,
+      "content": "Entweder mit ner freundin oder mit nem kumpel oder so ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046761850,
+      "content": "gehst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046758900,
+      "content": "kommt drauf an mit wem du hin gest ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046741145,
+      "content": "Um was geht es da?? ;D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046701579,
+      "content": "volllhammer  ! real steel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046612443,
+      "content": "Ja okAy ;D dann ist ja gut :P wie war der film?? &welcher?? Musst mir maln tipp geben will n\u00c3\u00a4chste woche auch noch uns kino  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046359669,
+      "content": "nee denke ned :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046325998,
+      "content": "Ja tu ich!! :D ist das so komisch?? ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046266774,
+      "content": "ok wenn du meinst !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046204508,
+      "content": "Caps und gammel pullis sehen doch auch gut aus??!! :) als ob! Du bildest dir voll was ein ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321046119499,
+      "content": "ja aber heute war des wirklich so mit cap und gammel pulli",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321046031590,
+      "content": "Ehm als ob!!?? Das kann ich mir jetzt bei dir echt nicht vorstellen! ;D bist ja fast so wie ich.. (Ich sag au immer: heute sehe ich wien penner aus und bla bla bla) ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321045954730,
+      "content": "ja ises auch heute hatte ich voll den penner look ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321045860091,
+      "content": "Sakko ist ja toll :P haha h\u00c3\u00b6rt sich alles sehr sch\u00c3\u00b6n&schick an ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321045700249,
+      "content": "nee mit tommi ich hol mir ein sakko pullis und t shirts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321045535959,
+      "content": "Achsoo :) naja dann hattest net so viel zeit :P was habt ihr angeschaut?? Aber du warst net mit jojo und so?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321045424701,
+      "content": "nee ich dachte ich geh nur schnell kino :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321045350716,
+      "content": "Konntest nicht alles heute kaufen?? :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321045301043,
+      "content": "jA ich hol mein zeug morgen :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321045257749,
+      "content": "Haha :) cool cool ;D kino ist immer gut & h&m ist ja eh am geilsten ich muss da noch mal hin.. Paar klamotten kaufen :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321045174050,
+      "content": "ned richtig :-P cool war kino h und m und so :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321045064571,
+      "content": "Also erst mal hab ich mirn paar sachen gekauft naja und dann waren wir im hip hop kurs ;D naja und ihr?? Haha meine sis hat mir gesagt dass du sie geaddet hast ;P kennt ihr euch? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321044919161,
+      "content": ":-D und was habt ihr alles so gemacht ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321044894038,
+      "content": "Kp.. :) es gibt solche leute die echt so sind.. Aber ist gut, dass es nicht so ist also das du so bist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321044801401,
+      "content": "ja warum auch b\u00c3\u00b6sse :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321044775971,
+      "content": "Okay gut :D ich wollte echt nicht dass du nicht denkst das ich seit ich auf der st.hildegard bin voll die eingebildete tuss bin -.- :) aber dann ist ja okay wenn du mir net b\u00c3\u00b6se bist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1321044387070,
+      "content": "ja ich haba auch ned richtig gepeilt passt schon :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1321036065373,
+      "content": "Hey duu :) yorry ich hab dich im mueller vorhin echt net gesehen!! Sonst h\u00c3\u00a4tte ich hallo gesagt!! Gaaanz sicher!! Ich hab dich echt net gesehen meine sis hats mir dann vorhin gesagt!! Denk bidde nicht das ich eingebildet bin oder so!! Das bin ich net!! Sorry :* :D das n\u00c3\u00a4chste mal sag ich ganz sicher hallo! ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599806076,
+      "content": "ja :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599791092,
+      "content": "okay dann besorg dir eins :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599774464,
+      "content": "OK VIEL SPA? ich brauchj erst mal ein handy ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599732460,
+      "content": "naja :) haha also ich geh dann mal off und ins hip hop!! :D bis denne und kauf dir aldi!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599681541,
+      "content": ":-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599646380,
+      "content": "naja das kann ich auch :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599597355,
+      "content": "ok gut :-D ABER mein katze kuschelt gerade mitmir darum meinteich eig :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599542919,
+      "content": "nein ich ,mag dich doch auch sehr!! :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599519405,
+      "content": ":-D  ich hab des gef\u00c3\u00bchl dasmein katze mich gerade am meisten mag :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599459077,
+      "content": ":) bitte immer wieder gerne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599419910,
+      "content": "wei\u00c3\u009f so ich bin ja nemm mit der zusammen :-D danke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599365099,
+      "content": "oh ich will ja net gemein sein aber du kannst ne viel sch\u00c3\u00b6nere haben!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599352989,
+      "content": "muss ich se son nemme sehgen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599338679,
+      "content": "ja :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599315730,
+      "content": "oh du armer ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599308103,
+      "content": "justine achtert ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599299919,
+      "content": "die is dumm im kopf ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599268792,
+      "content": "waarum?? :) wen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599231969,
+      "content": "ICH seh mein letzte ex gott sei dank nemme ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599224572,
+      "content": ":) naja haha :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599210508,
+      "content": "ok :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599183907,
+      "content": "nichts hatte nur stress mit meinem ex aber ist ja eh normal von daher ist es mir eig total egal was bei dem so geht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599134587,
+      "content": "ok cool wie so was war ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318599102574,
+      "content": "nee die letzten paar tage allgemein :) nichts geh gleich ins hip hop und bissle stadt und so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599030830,
+      "content": "wie nur jetzt ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318599020541,
+      "content": "bestens :-D  und was masch so ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318598998440,
+      "content": "jetzt sehr gut :) und dir?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318598986315,
+      "content": "wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1318598977383,
+      "content": "hi :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1318598971372,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316115280262,
+      "content": "ok BB :-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316115233876,
+      "content": "okay machen wir dann aus!! :) hahah also bb :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316115231324,
+      "content": "nee steinzeit  ohne handy geht nix mehr :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316115210866,
+      "content": "ja wenn de reden willst kannst ja auch mal her kommen :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316115143366,
+      "content": "jajaj nimm eins von nem kumpel oder soo!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316115109477,
+      "content": "ja machen wir aber des braucht ewig ich bekomm erst wieder november oder son  ein neues handy :-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316115028006,
+      "content": "neee :) aber du besorgst dir aldi und dann simsen und telen wir!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114976491,
+      "content": "ok bis dann kommst nacher nommal ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114941382,
+      "content": "jap :) also jetzt gehe ich :) bis dann fabilein :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114911853,
+      "content": "ok :-D wie bekost du des hin duschst du so hei\u00c3\u009f das du m\u00c3\u00bcde wirst oder was ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114829071,
+      "content": "achsoo ne ich net :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114811718,
+      "content": "ich mach des morgen s oder nach dem training aber so sp\u00c3\u00a4t nur wenn ich lange wach sein maudd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114810169,
+      "content": "neee :D hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114777399,
+      "content": "bist du da dann echt ned wach ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114700409,
+      "content": "neee ;P hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114682640,
+      "content": " ich k\u00c3\u00b6nnte des ned vom duschen werde ich immer wach ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114678478,
+      "content": "doch ich geh dann jetzt daann!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114660261,
+      "content": "ja des wird dann nix mehr heute mit duschen oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114630187,
+      "content": "neee :P hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114614687,
+      "content": "immer noch ned :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114601407,
+      "content": "neee bin noch net beim duschen gewesen!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114572495,
+      "content": "ja aber aus der dusche :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114539348,
+      "content": "gegangen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316114534912,
+      "content": "ne bin noch net gegeangen .D haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316114521637,
+      "content": "bisch zur\u00c3\u00bcck :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110831263,
+      "content": "ok dann geh mal duschen :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110763602,
+      "content": "achso :) okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110737176,
+      "content": "f\u00c3\u00bcr des danke danke :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110687074,
+      "content": "was gerne doch?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110547709,
+      "content": "gerne doch :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110541634,
+      "content": "ja wieso ned :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110519731,
+      "content": "danke danke :) haha also bis dann vllt sieht man sich aj dann mal vllt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110403111,
+      "content": "viel spa\u00c3\u009f :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110395901,
+      "content": "Ok mach des mal :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110348086,
+      "content": "ja so ist es halt duu :) ich geh mal duschen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110189012,
+      "content": ":-D ok hab ich mir halb gedacht :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110155046,
+      "content": "jap :) haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110123367,
+      "content": "wie  redet da jemand zuviel im unterricht und l\u00c3\u00a4sst sich leicht ablenken ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316110089836,
+      "content": "naja eher net :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110073648,
+      "content": "du ned ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316110069326,
+      "content": "ja :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316109929992,
+      "content": "echt?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109797889,
+      "content": "ok :-D des mach ich meistens :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316109774020,
+      "content": "ja ich han aufgepasst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109599472,
+      "content": "was hei\u00c3\u009ft des war masl ganz lieb ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316109504942,
+      "content": "schule :( naja ich war mal ganz lieb!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109448473,
+      "content": "bestens :-D und was hast du heute so angestellt ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316109420737,
+      "content": "gut und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109406486,
+      "content": "und wie gehts ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316109348747,
+      "content": "hi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109322822,
+      "content": "Hi :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316109319350,
+      "content": "jetzt hab ich angst :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316035182294,
+      "content": "Na klar was denkst denn du? :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316031192609,
+      "content": "sonst komst du her :-D \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030797767,
+      "content": "was?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030617943,
+      "content": "dann kosch hrt oder was :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030594101,
+      "content": "wehe net!! :D .P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030471398,
+      "content": "ja mach ich bis bald :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030454974,
+      "content": "ja :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030453576,
+      "content": "du ich muss off telen gehen :P also besorg dir aldi!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030436851,
+      "content": "oh auch gut :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030423405,
+      "content": "ich habim  moment ned mal ein handy :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030403067,
+      "content": " bestens :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030381397,
+      "content": "gut dir?? hast jetzt dann mal aldi??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030362598,
+      "content": "wie gehts ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1316030242614,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1316030236877,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311802211149,
+      "content": "Sie net traurig!! :) kauf dir aldi und dann simsen wir gaaaaanz viel!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311798261011,
+      "content": ":-( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311798220644,
+      "content": ":D jap :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311798085266,
+      "content": "ok dan :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311798048448,
+      "content": "weil ich duschen gehen muss!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797961475,
+      "content": "wie os :-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797936253,
+      "content": "ich geh dann aber gleich ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797908379,
+      "content": "ok lol ich bin wieder back ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797341357,
+      "content": "eeeh das war net aufs weg gehen bezogen!! :D sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797308673,
+      "content": "ich komm ich 4-5 min wieder :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797284017,
+      "content": "ehm nein??!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797276614,
+      "content": "#ich bin ganz kurz weg ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797267560,
+      "content": "naja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797181340,
+      "content": ":D gemein??!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797157178,
+      "content": "kp :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797076411,
+      "content": "-.- warum besser als ich :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311797050966,
+      "content": "durchschnitt 2,4 :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311797029649,
+      "content": "omg sei lieber still und frag nemme :D durchschnitt 2,8 :D deins??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311796986192,
+      "content": "und wie schauts zeugniss ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311796893050,
+      "content": "ja klar :D supiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311796865813,
+      "content": "ja alles fit bei dir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311796839862,
+      "content": ":D na?? aslles okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311796804378,
+      "content": "hi :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311796796154,
+      "content": "heyo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311792404883,
+      "content": "hey duu :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311506529071,
+      "content": "Warum ist da deine mutter doof?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1311503131965,
+      "content": "no ned meine mum is doff",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1311457920141,
+      "content": "Fabseee!!?? :D hast du jetzt endlich aldii?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310159916411,
+      "content": "Ooooh ja :D du simst mir dann gaaaaanz oft!!?? Okay :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159842364,
+      "content": "nee no ned aber bald so 2 wochen oder so :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310159534537,
+      "content": "Hast du jetzt eig aldii?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159244941,
+      "content": ":-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310159204749,
+      "content": "okay sehr gut :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159168130,
+      "content": "WIRD SCHON  :-D BIS MORGEN :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310159137049,
+      "content": "bb :* bussi dann wirds noch besser :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159054567,
+      "content": "jap :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310159035954,
+      "content": "jaaa :D w\u00c3\u00a4r cool wenn wir uns sehen w\u00c3\u00bcrden :D :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159012984,
+      "content": "bis m,orgen :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310159005028,
+      "content": "ja bist du ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158948259,
+      "content": "duu ich muss off -.- man sieht sich morgen?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158891496,
+      "content": ":D schau :D bin ich gut oder bin ich gut?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158854489,
+      "content": "jap a bissle :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158836839,
+      "content": "und merkst schon was?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158769164,
+      "content": "ok :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158739870,
+      "content": "ist es so ich glaub daran und du musst das auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158550146,
+      "content": "wenns nur so  w\u00c3\u00a4re :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158498672,
+      "content": "oh du armer :* kussi und der schmerz ist weg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158374598,
+      "content": "weil mein knie kaputt ist :-(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158346346,
+      "content": "warum nur okay?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158313595,
+      "content": "doch :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158305061,
+      "content": "scho ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158273460,
+      "content": "sehr gut und dir?? :D schreibst du keine smiles mehr??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158250541,
+      "content": "wie gehts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1310158213025,
+      "content": "servus :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1310158021020,
+      "content": "sers ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307017461201,
+      "content": "dankee :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307017431654,
+      "content": "ok bb viel spa\u00c3\u009f ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307017371579,
+      "content": "ja schon :D duuu ich muss off grillen und soo alsoo man h\u00c3\u00b6rt sich bb ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307017300933,
+      "content": "ok des stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307017271398,
+      "content": "ja aber sie ist meine freundin!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307017253699,
+      "content": "nee des mit resa war da schon lange aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307017164999,
+      "content": "doch das stimmt!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307017148101,
+      "content": "ok des erste stimmt aber des zweite ned ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307017091704,
+      "content": "ich kannte dich auch gar nicht und du warst auch noch mit resa zusammen!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307017027202,
+      "content": "ja aber mich interresiert da mal was warum hat du eig damals schluss gemacht nur wegen deinen mutter oder was ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016829323,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307016641439,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016489774,
+      "content": "\u00c3\u00bcbelst!! nicht :D\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307016462416,
+      "content": "s\u00c3\u00bc\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016432592,
+      "content": "ja braun ist geil ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307016403636,
+      "content": "ok des ist cool :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016356012,
+      "content": "jaa und ich mag eig nur braunee haare :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307016319691,
+      "content": "ok l\u00c3\u00a4ssig ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016202865,
+      "content": "ich stand oder steh immer noch auf dich!! deshalb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307016181771,
+      "content": "nee sag jetzt bitte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307016123376,
+      "content": "egal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015969319,
+      "content": "ich habs grammatikalisch nich verstanden ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307015883110,
+      "content": "ja das ich das net will weil ich auf dich stand ider steh!!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015557589,
+      "content": "ach komm wegen mir was ist da schlimm ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307015517524,
+      "content": "nein! weil ich mich nicht in ihn verlieben werde und wegen dir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015464574,
+      "content": "ok was darum wegen deiner mum oder was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307015324855,
+      "content": "darum..\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015306063,
+      "content": "ja wie so den ned",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307015137784,
+      "content": "ja -.- ich kann das nicht!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015116982,
+      "content": "ok schei\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307015046997,
+      "content": "kp mit mir und soo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307015033928,
+      "content": "h\u00c3\u00a4 in was ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014988608,
+      "content": "hey ich glaub kai steigert sich da in etwas rein -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307014953173,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014922435,
+      "content": ":D hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307014335058,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014322943,
+      "content": "warte ich komm gleich wieder :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014314224,
+      "content": "kp?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307014295417,
+      "content": "warum wohl ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014235475,
+      "content": "ich lad es diese woche noch auf !! warum will der das wissen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307014201620,
+      "content": "ich soll dich von kai fragen ob du wieder geld auf deinem handy hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307014181387,
+      "content": "hi :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Fabian Endisch",
+      "timestamp_ms": 1307014173220,
+      "content": "hi ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Fabian Endisch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/fabianendisch_qbinyiy4ta",
+  "magic_words": [
+    
+  ]
+}

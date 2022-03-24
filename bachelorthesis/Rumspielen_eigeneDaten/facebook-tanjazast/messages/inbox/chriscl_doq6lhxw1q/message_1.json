@@ -1,0 +1,159 @@
+{
+  "participants": [
+    {
+      "name": "Chris CL"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308997698183,
+      "content": "jap ich muss dann mal offf :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308997395966,
+      "content": "aha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308997240271,
+      "content": "ja mir eig net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308997164854,
+      "content": "mir is lw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308997083190,
+      "content": "jap ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308996977325,
+      "content": "gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308996813727,
+      "content": "ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308996795282,
+      "content": "jop..is halt schei\u00c3\u009fe wen man am knie am au\u00c3\u009fenmeniskus ein ries hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308996744426,
+      "content": "aua",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308996048130,
+      "content": "mein knie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308995866418,
+      "content": "warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308995819573,
+      "content": "past schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308995813859,
+      "content": "gut und dir?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308995793003,
+      "content": "wie eghts??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1308995788819,
+      "content": "hey ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1308995783201,
+      "content": "hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307829947530,
+      "content": "Achsoo ich bin15 geworden.. Bringt mir nicht viel aber bald werd ich ja auch schon wieder 16 ;p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1307806582278,
+      "content": "bitte..und wie alt bist jetzt geworden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307787597188,
+      "content": "danke ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chris CL",
+      "timestamp_ms": 1307787508561,
+      "content": "alles gute",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chris CL",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chriscl_doq6lhxw1q",
+  "magic_words": [
+    
+  ]
+}

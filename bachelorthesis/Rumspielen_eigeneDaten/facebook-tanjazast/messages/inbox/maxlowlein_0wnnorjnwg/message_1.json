@@ -1,0 +1,2453 @@
+{
+  "participants": [
+    {
+      "name": "Max L\u00c3\u00b6wlein"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1455640974910,
+      "content": "auch gut :) ich mach gerade viel sport und du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1455616895475,
+      "content": "Hey Hey gut und dir? Aber echt!!! Was treibst so? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1455478265845,
+      "content": "hey, wie gehts dir ? schon lange nichts mehr von dir geh\u00c3\u00b6rt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1414144977128,
+      "content": "Vielen Dank!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414137587485,
+      "content": "Ich w\u00c3\u00bcnsche dir von Herzen nur das beste und du hast dich hoffentlich ordentlich feiern lassen oder zumindest heute wenn nicht \u00f3\u00be\u00ae\u0097\u00e2\u009c\u008c\u00ef\u00b8\u008fbleib so wie du bist \u00c3\u00bcbertreib nicht mit feiern und f\u00c3\u00bchle dich gedr\u00c3\u00bcckt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414137510725,
+      "content": "Hey du sorry ich war gestern nicht in der Lage dir zu gratulieren! Alles alles Liebe und Gute zu deinem 18ner \u00f3\u00be\u008c\u00af auch schon so alt? \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1390051578687,
+      "content": "Ja :-D kann man immer danach sagen :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390051519516,
+      "content": ":D oh ja schon nicht schlau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1390051486291,
+      "content": "Ja, passiert halt :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390050746295,
+      "content": "Was du auch immer f\u00c3\u00bcr Mist machst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1390050697386,
+      "content": "Okay:-D danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390050548055,
+      "content": "Hahaha oh Nein okay mach ich sp\u00c3\u00a4ter wenn ich heim komme :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1390050388136,
+      "content": "Hey, kannst du mir bitte ne nachricht mit deinem Namen in watsapp schicken, bei mir hat's irgendwie alles gel\u00c3\u00b6scht :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388096405181,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388096401930,
+      "content": "015771908533",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388081242829,
+      "content": "Okay :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388080306858,
+      "content": "Okay, dann treffen wir uns an der Bushaltestelle wo wir uns letztens getroffen haben :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388080242521,
+      "content": "Also der Bus f\u00c3\u00a4hrt vom Pranger um 19:01 Uhr :) dann w\u00c3\u00a4re ich wahrscheinlich so um 5 nach da ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388079603920,
+      "content": "Okay ich wei\u00c3\u009f halt noch nicht wann der dreier f\u00c3\u00a4hrt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388079397745,
+      "content": "Also mein bus f\u00c3\u00a4hrt dann jetzt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388079387117,
+      "content": "Geb nur bescheid wann du Ca kommst :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388076306583,
+      "content": "Ich hab Zeit, du kannst k\u00c3\u00b3mmen wann du willst ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388074955395,
+      "content": "Nein wann passt es dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388073029274,
+      "content": "hey, wei\u00c3\u009ft du schon genaueres wegen heute Abend ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388053503988,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388052423534,
+      "content": ":) okay sehr gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388018709052,
+      "content": ":-) ja, kein Problem :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388018677329,
+      "content": "Ja kurzfristig wird eh alles sein :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011400564,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011392972,
+      "content": "wir k\u00c3\u00b6nnen das auch kurzfristig ausmachen, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011361612,
+      "content": "wie du willst, geb mir einfach bescheid ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388011318280,
+      "content": "Ich denke schon das es darauf hinauslaufen wird :D also das ich dann mim bus heim fahre",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011261043,
+      "content": "falls du nicht mehr mit dem bus heim willst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011238960,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388011217809,
+      "content": " also, wenn du willst, k\u00c3\u00b6nnen wir auch im garten \u00c3\u00bcbernachten. wir k\u00c3\u00b6nnen auch franzi, jonas und ein zwei andere noch fragen ob sie lust haben mit rau\u00c3\u009f zu gehen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388011083615,
+      "content": "Ich hab noch keine Ahnung hahaha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388008935876,
+      "content": "Kein Problem :-) wie machst du das mit dem heimkommen? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388008854045,
+      "content": "Ja okay :) das w\u00c3\u00a4re gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388008546127,
+      "content": "Also ich kann dich auch da abholen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388008518193,
+      "content": "Ne, 10 min zu Fu\u00c3\u009f :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388008483753,
+      "content": "Ist das arg weit weg vom wonnemar? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388008018683,
+      "content": "Kann ich verstehen :-D ich wohn ganz in der N\u00c3\u00a4he von dem Bowlingcenter in Neu-Ulm Ulm :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388003199403,
+      "content": "Wo wohnst du \u00c3\u00bcberhaupt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388003191168,
+      "content": "Ja klar :D Nein aber ich will nichts essen ich kann kein Essen mehr sehen :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388000407078,
+      "content": "Hast du dann schon Abend gegessen?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388000382905,
+      "content": "Bei mir daheim :-) ich hoffe es ist okay wenn meine Familie daheim ist :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388000321746,
+      "content": "Wo schauen wir dann eigentlich den Film an?;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1388000079162,
+      "content": "Okay, kein Problem :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387999966375,
+      "content": "Naja schon :D haha. Ehm nein wei\u00c3\u009f ich leider gar nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387999550704,
+      "content": "Ja:-) du bist aber beim tanzen auch nicht schlecht :-D. Wann kommst du morgen?  Wei\u00c3\u009ft du das schon?  :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387999434308,
+      "content": "Krass :) voll gut!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387995956720,
+      "content": "Wm 2014 :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387991368535,
+      "content": "Was sind deine Ziele? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387991360084,
+      "content": "Doch schon bisschen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387990241000,
+      "content": ";-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387990238860,
+      "content": "Das machst du doch beim tanzen nicht anders :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387976681887,
+      "content": "Ja, kann schon sein aber ich hab Ziele und werde sie ereichen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387976624595,
+      "content": ":) immer am \u00c3\u00bcbertreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387975948134,
+      "content": "Passt, ich bin nen bisle fertig weil ich davor noch ne Stunde im kraftraum war ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387975883489,
+      "content": "Wie wars? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387975809991,
+      "content": "Ich auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387975804953,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387975742789,
+      "content": "Ja klar ne Stunde mal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387972652165,
+      "content": "und warst du schon beim joggen ? =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387930105305,
+      "content": "Meldest dich dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387929205011,
+      "content": "Danke, dir auch :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387929157306,
+      "content": "Gute Nacht viel Spa\u00c3\u009f dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387929151137,
+      "content": "Sport?! Bahn ich geh fr\u00c3\u00bchestens um 12 joggen haha sonst schaff ich es nicht fit zu sein :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387928776883,
+      "content": "Okay. :-) ich gehe jetzt dann schlafen, muss morgen fr\u00c3\u00bch zum Sport :-D gute Nacht :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387928646402,
+      "content": "Vom essen! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387928224504,
+      "content": "Woher kommen dann deine schmerzen?  :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387928146287,
+      "content": "Du kannst doch nichts daf\u00c3\u00bcr das ich zu viel gegessen habe? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387926890468,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387926822781,
+      "content": "An deinen schmerzen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387926711901,
+      "content": ":) an was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387926355315,
+      "content": ":-) war ich eigentlich drann schuld?  :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387926250035,
+      "content": "Muss! Sonst sterbe ich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387924648047,
+      "content": "Oh :-D deshalb machen wir uns auch nen gem\u00c3\u00bctlichen Abend :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387917293513,
+      "content": "Okay sehr gut :) nur kann ich mich jetzt nicht mehr bewegen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387907754871,
+      "content": "Ich hab ab 16 Uhr Zeit :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387907555365,
+      "content": "Wie viel uhr w\u00c3\u00bcrde dir passen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387907348993,
+      "content": "Okay, geb dann bescheid :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387907306086,
+      "content": "Kommt drauf an um wie viel uhr ich von meiner Tante komme :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387907212800,
+      "content": "Ja, so dachte ich mir dass :-) um wie viel Uhr w\u00c3\u00a4r es dir am liebsten?  :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387907135799,
+      "content": "Ja gegen abend dann?! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387902387394,
+      "content": "Donnerstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387902181594,
+      "content": "Wann dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387901911012,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387901908613,
+      "content": "Wann ist dir am liebsten?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387901839888,
+      "content": "Okay! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387899818160,
+      "content": "Ja den ersten Teil von Hobbit :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387899752294,
+      "content": "Welchen jetzt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387899395036,
+      "content": "Also ich w\u00c3\u00bcrde vorschlagen, als Entscheidung f\u00c3\u00bcr die zukurtz geratene Zusammenfassung von dem Film, schauen wir den noch zusammen an :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387899216644,
+      "content": "Immer haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387886540761,
+      "content": "Ja okay, wann hast du Zeit?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387886495514,
+      "content": "Ja das stimmt am besten noch bevor es meine mama merkt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387881113748,
+      "content": ":-D ja, hast Recht. Ich muss dir eh noch irgendwann deine Tasche geben :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387880916845,
+      "content": "Du wei\u00c3\u009ft das ich mir immer Stress machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387880676588,
+      "content": "Also wegen dem einen Euro mach dir bitte kein Stress :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387880560595,
+      "content": "Doch doch wird er :) ich gebe den dir zur\u00c3\u00bcck :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387875516800,
+      "content": "Ne, da muss ich dich entt\u00c3\u00a4uschdn :-) ich h\u00c3\u00a4tte dir 3 \u00e2\u0082\u00ac gegeben aber ich hatte kein ein Euro St\u00c3\u00bcck mehr und somit dachte ich mir,  der eine Euro wird mich nicht umbringen :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387875353539,
+      "content": "Ach \u00c3\u00bcbrigens hab ich dir gestern 15 Euro gegeben und zw\u00c3\u00b6lf h\u00c3\u00a4tten dir geh\u00c3\u00b6rt aber du hast mir 4 raus gegeben also einen zu viel. Du musst besser rechnen lernen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387875307111,
+      "sticker": {
+        "uri": "messages/stickers_used/48633127_1186554254827123_5327403526161170432_n_213419298807295.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387875263172,
+      "content": "Ehm doch schon auch aber bald wenn ich abi hab wei\u00c3\u009f ich nicht wohin mit meiner Energie :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387875231263,
+      "content": "Oh wie s\u00c3\u00bc\u00c3\u009f :) das ist richtig richtig lieb von euch! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387875168447,
+      "content": "also ich w\u00c3\u00bcrde jetzt mal so behaupten dass du nicht gerade viel weniger engagiert bist oder ?!? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387874906122,
+      "content": "Ja als erstes schaudn wir was ihnen fehlt und was wir ihnen geben k\u00c3\u00b6nnen :-) dann haben wir so kleine Geschenke vorbereitet mit nen schal und nen paar anderen Kleinigkeiten :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874706914,
+      "content": "Und das w\u00c3\u00a4re? ;) uuuu nicht schlecht du!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387874663882,
+      "content": "Weil ich im Vorstand von Kolping bin und wir beschlossen habenutzt den syrern   ein kleines Geschenk zu machen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874578273,
+      "content": "Aber voll engagiert! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874566232,
+      "content": "Warum misst du so etwas machen? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387874520616,
+      "content": "Ich muss jetzt los um mit 30 Asylbewerbern in Neu-Ulm reden :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387874441094,
+      "content": "Ja, die hab ich ja auf meine gelegt :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874393610,
+      "content": "Was machst du schon wach?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387874383860,
+      "content": "Perfekt! ;) die hab ich vergessen -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387874227343,
+      "content": "Hey, ich hab deine Tasche :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387812532065,
+      "content": "Wie soll ich eher aussteigen direkt Haltestelle donaubad oder Adenauerbr\u00c3\u00bccke?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387812459768,
+      "content": "Wo bist du?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387812417782,
+      "content": "Ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387812227928,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387812220287,
+      "content": "Da beim wonnemar,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387811961615,
+      "content": "An den Eingang vom donaubad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387811492898,
+      "content": "Ich hab keine Ahnung wo ich genau hin kommen soll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387811430722,
+      "content": "Okay, cool :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387811379811,
+      "content": "Also ich hab was dabei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387798230925,
+      "content": "Ja genau :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387798206251,
+      "content": "Okay gut ;) 16.30 wars? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387797990434,
+      "content": ":-D ich erz\u00c3\u00a4hl dir alles auf dem weg zum Kino :-) okay? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387797939529,
+      "content": "Kannst du mir eigentlich vielleicht mal den ersten teil von der hobbit zusammenfassen? :D haha nur das wichtigste. Der geht ja 3 Stunden ich schaff es nicht den anzuschauen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387790594402,
+      "content": "Geht mir auch oft so :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387790385495,
+      "content": "Ich wusste einfach nicht was ich sonst machen soll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387786424145,
+      "content": ":-) ja dass man Filme anschait die man nicht mag :-) geht mir auch immer wieder so :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387758151512,
+      "content": ":) was davon genau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387754036652,
+      "content": ":-) ich finde garnicht mal so komisch :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753958655,
+      "content": ":) logisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753828395,
+      "content": "Okay :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753771826,
+      "content": "Ich mag keine liebesfilme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753757525,
+      "content": "So ein unrealistischer liebesfilm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753669878,
+      "content": "Und was lief?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753577117,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753549719,
+      "content": ":) hahah nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753523311,
+      "content": "Auch gut :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753485458,
+      "content": "Jetzt nichts mehr :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753407881,
+      "content": "Was schaust du an?  :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753395930,
+      "content": "Gute Antwort :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387753383581,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387753218384,
+      "content": "Hahaha keine Ahnung :) beides",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387752817544,
+      "content": "Was?  Das duschen oder der Film?  :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387752774717,
+      "content": "Nicht schlecht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387752768024,
+      "content": ":) schau tv hihi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387752758375,
+      "content": "Und du?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387752583004,
+      "content": "Ich war Grad duschen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387752209479,
+      "content": "Was machst du? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387752142108,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387752123706,
+      "content": "Mach ich mir ja nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751794881,
+      "content": ":) ich mein ja nur dass du dir keinen stress deshalb machen musst =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751740021,
+      "content": "OKY okay :) ich schau ja nur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751575617,
+      "content": "musst nicht, entweder du hast es oder eben nicht :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751500735,
+      "content": "Okay ich gebe dann Bescheid :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751407477,
+      "content": "ja, passt, wenns nicht klappt, is auch nicht so schlimm :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751367984,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751364660,
+      "content": "Ich muss morgen fr\u00c3\u00bch meine Eltern fragen ob wir noch was da haben aber ich glaube ich habe noch einige Flaschen becks lemon daheim ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751283003,
+      "content": "wenn du willst, kannst du noch nen sixer mitbringen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751160151,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751150316,
+      "content": "Auch gut ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387751035986,
+      "content": "Pizzen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387751026748,
+      "content": "H\u00c3\u00a4 was? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750895061,
+      "content": "wir bestellen einfach f\u00c3\u00bcr alle 3 oder so :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750843205,
+      "content": "Ich habe aber kaum Hunger immer haha :D der war sooo langweilig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750823766,
+      "content": "und wie war der Geburtstag ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750809452,
+      "content": "genau :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750793329,
+      "content": "Oder so mal schauen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750765436,
+      "content": "=D  wir k\u00c3\u00b6nnen uns auch das Popcorn teilen =D  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750681922,
+      "content": "Achso okay dann 20 oder so haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750654254,
+      "content": "ja, wenn du nichts im Kino willst ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750637372,
+      "content": "Also 15 Euro? :) ungef\u00c3\u00a4hr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750610905,
+      "content": "ich glaub auf das wird's ca rauslaufen. die Pizza wird aber bestimmt billiger",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750574639,
+      "content": "Kino: 7.50\u00e2\u0082\u00ac  + (Popcorn usw.)                                                    H\u00c3\u00bctte: 5-7 \u00e2\u0082\u00ac Pizza ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750487500,
+      "content": "ich w\u00c3\u00bcrde sagen, wir bestellen uns einfach ne Pizza, jonas ist auch daf\u00c3\u00bcr ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750451085,
+      "content": "ja =D  aber nicht so gut =D ich zeigs dir morgen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750352386,
+      "content": "Kann man in deiner H\u00c3\u00bctte kochen? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750290416,
+      "content": "Das ist gerade die Frage :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750255234,
+      "content": "Was gibt es denn? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750233050,
+      "content": "Abendessen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750210542,
+      "content": "Welchem essen? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750181648,
+      "content": "Ich bin nur gerade am \u00c3\u00bcberlegen was wir mit dem Essen machen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750114153,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387750082177,
+      "content": "Okay perfekt Danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387750033200,
+      "content": "Ich bin mir nicht sicher, wart mal 5 min, dann kann ich's dir sagen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387749907851,
+      "content": "Wie viel Geld soll ich dann morgen mitbringen? Auch wie viel f\u00c3\u00bcr die H\u00c3\u00bctte? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387746730351,
+      "content": ":-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387746612847,
+      "content": "Achso ja macht Sinn :) okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387739836622,
+      "content": "Ja, dann kann jeder seine Sache bei mir hinlegen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387739785359,
+      "content": "Warum so fr\u00c3\u00bch gehen wir zusammen hin? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387724834835,
+      "content": "Dann sehen wir uns morgen um 16.30 Uhr am donaubad :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387724774442,
+      "content": "Okay, kein Problem :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387724695848,
+      "content": "Ich schaff das leider heute nicht :( muss auf nen Geburtstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387707557516,
+      "content": "Ja, wie du willst, meld dich einfach :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387707328966,
+      "content": ":o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387707326870,
+      "content": "Ich muss schauen weil ich heute eigentlich einiges vor habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387669055282,
+      "content": "Wir schauen ihn auch an, wenn du willst, k\u00c3\u00b6nnen wir ihn zusammen anschauen, wir sind schon zu viert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387668958968,
+      "content": "Schau ihn mir morgen an :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387656502677,
+      "content": "hast du den ersten teil schon gesehen ? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387656403965,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387656401512,
+      "content": "Ja schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387656376508,
+      "content": "klappt das mit der Uhr zeit ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387656350821,
+      "content": " Ja schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387642283568,
+      "content": "Kommst du auch mit ins Kino?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387642040638,
+      "content": "Gut :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387640388140,
+      "content": "Mindestens! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387633067586,
+      "content": "Aber schon bis 24 Uhr oder?  :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387632379901,
+      "content": "Okay :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387631938860,
+      "content": "Also bis jetzt ja aber hab noch keine Uhrzeit ausgemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387630665509,
+      "content": "Und was haben deine Eltern gesagt?  :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387583171896,
+      "content": "okay, ja mach ich. :) \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387583116218,
+      "content": "Gute Nacht! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387583110018,
+      "content": "Bis dann kannst ja morgen wider Scheiben wenn du magst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387583065649,
+      "content": "ich geh dann mal, biss dann :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582761415,
+      "content": "=D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582754532,
+      "content": "oh ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582741577,
+      "content": "Nein noch nie ist aber sicher richtig cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582655771,
+      "content": "schon mal gefahren ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582635686,
+      "content": "Kenne ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582596271,
+      "photos": [
+        {
+          "uri": "messages/inbox/maxlowlein_0wnnorjnwg/photos/1473763_563108480441603_2013966303_n_563108480441603.jpg",
+          "creation_timestamp": 1387582594
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582556237,
+      "photos": [
+        {
+          "uri": "messages/inbox/maxlowlein_0wnnorjnwg/photos/1488445_563108347108283_1245202755_n_563108347108283.jpg",
+          "creation_timestamp": 1387582554
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582530196,
+      "content": "Okay gut bin gespannt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582498524,
+      "content": "warte, ich schick dir nen Bild, vielleicht hast du es ja schon mal gesehen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582457486,
+      "content": "Nein :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582409867,
+      "content": "kennst du das ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582395182,
+      "content": "Achso cool ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582201777,
+      "content": "drachenboot ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582184247,
+      "content": "Was f\u00c3\u00bcr ein Rennen \u00c3\u00bcberhaupt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582158076,
+      "content": "ein renne war sogar hier in der n\u00c3\u00a4he, in g\u00c3\u00b6gglingen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582035453,
+      "content": "also beim betriebssport ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387582026875,
+      "content": "den Teams in den rennen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387582004147,
+      "content": "Von? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581940395,
+      "content": "ich kann dir ja wenn du willst am montag nen paar bilder zeigen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581907820,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387581892983,
+      "content": ":) nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581744042,
+      "content": "=D ja, hast recht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387581728423,
+      "content": "Ja genau es sind ja auch Ferien :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581642037,
+      "content": "ja, aber das eine mal bei mir =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387581614048,
+      "content": ":) ich eben nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581276235,
+      "content": "aber f\u00c3\u00bcr Party findet man immer zeit =D , geht mir genauso =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581235532,
+      "content": "=D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387581210375,
+      "content": ":) weil ich zuviel mache hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581175157,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387581170523,
+      "content": "okay, wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387581145201,
+      "content": ":) nein leider nicht ich h\u00c3\u00a4tte eh keine zeit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580952716,
+      "content": "arbeitest ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580944873,
+      "content": "ob du auch was arbeiest ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580920830,
+      "content": "Nein oder was meinst du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580796901,
+      "content": "machst du auch so was in der art `?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580777160,
+      "content": ":) ja, ist net schlecht :)  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580735477,
+      "content": ":) sehr gut! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580607719,
+      "content": "weil sie mich gefragt haben ob ich ihnen helfen kann. au\u00c3\u009ferdem verdien ich mir damit mein Taschengeld :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580503097,
+      "content": "Warum machst du so was? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580477433,
+      "content": "Also nichts richtiges",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580468254,
+      "content": "Pastewka :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580317831,
+      "content": "was l\u00c3\u00a4uft denn gutes ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580261126,
+      "content": "hat auch was :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387580243343,
+      "content": "ach ich schreib gerade Trainings Pl\u00c3\u00a4ne f\u00c3\u00bcr nen paar firmen f\u00c3\u00bcr ihren Betriebs Sport :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580225653,
+      "content": ":) ich schau tv und bin momentan Handy unterwegs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580171481,
+      "content": "Was arbeitest du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579914510,
+      "content": "ich liege mit meinem Laptop im Bett, schreib mit dir und arbeite so nen bisle vor mich her =D  und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579850300,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579847046,
+      "content": "Was machst?:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579804642,
+      "content": "=D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579766915,
+      "content": "Ja stimmt auch wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579761442,
+      "content": "Hahah ja gef\u00c3\u00a4hrlich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579597170,
+      "content": "wer denn nicht ?! =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579539580,
+      "content": "ja, vielleicht =D  nen bisle ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579516336,
+      "content": "einmal gesehen und stellt schon solche Behauptungen in den raum =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579453751,
+      "content": "So sind Kinder in diesem Alter :D du warst bestimmt auch so, ich sicherlich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579388531,
+      "content": "ja, aber manchmal auch nen bisle nervig :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579347445,
+      "content": "So s\u00c3\u00bc\u00c3\u009f einfach :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579263281,
+      "content": "so kenn ich ihn ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579257115,
+      "content": "ja, er ist sehr direkt, kann also sein =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579221375,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579216757,
+      "content": ":",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579214565,
+      "content": "Hahha dann war das der, der im Schubert auf mich zu kam und mich gefragt hat ob ich Julia kenne und der einen Gru\u00c3\u009f ausrichten kann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579158830,
+      "content": "ja, jonas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579143502,
+      "content": "Achso :) hat dann einer von euch beiden einen j\u00c3\u00bcngeren Bruder aufm Schubert? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387579015897,
+      "content": "Julia ist die Nachbarin von jonas und mir :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578990577,
+      "content": "ja, die sind oft zusammen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387578953642,
+      "content": ":) okay ja ich kenn die nur zusammen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578847526,
+      "content": "nichts =D , deshalb frag ich ja =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387578817471,
+      "content": "Nat\u00c3\u00bcrlich was denkst denn du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578752226,
+      "content": "kennst du Julia Mandel auch ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578710383,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578705497,
+      "content": "ne, wirklich net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387578665215,
+      "content": "Ja so kenne ich sie die l\u00c3\u00a4sst einen nicht im Stich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578360097,
+      "content": "sie hat Jonas und mir schon echt oft aus der patsche geholfen =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387578217656,
+      "content": "ja :)  \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387578064521,
+      "content": ":) ja klar vor allem so nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387577877443,
+      "content": "Ja:-) sie ist auch ne verdamt gute Freundin :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387577764587,
+      "content": "Nein eigentlich nicht aber ich mag sie richtig arg und rede verdammt gerne mit ihr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387577700657,
+      "content": "Macht ihr \u00c3\u00b6fters was zusammen?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387577644709,
+      "content": "Ja :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387577626647,
+      "content": "Oha wie s\u00c3\u00bc\u00c3\u009f von der *-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387577527922,
+      "content": "Franzi und ich w\u00c3\u00a1ren gestern auf dem Weihnachtsmarkt haben gem\u00c3\u00bctlich was getrunken und dann sind wir irgendwie auf die 72 h Aktion gekommen.  :-) dann hat Franz gesagt dass wir dich mal zum feiern einladen sollten :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387577264765,
+      "content": "Aber wie bist du eigentlich drauf gekommen mich zu fragen ob ich am Montag mit ins Kino und in die H\u00c3\u00bctte will? ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387577157944,
+      "content": "Genau :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387577136868,
+      "content": "Oder alleine ich kenn ja franzi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387576899596,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387576896905,
+      "content": "Ja, wie du willst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387576864938,
+      "content": "Okay mach ich dann :) vllt kommt ja meine Schwester mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387575039130,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387575038033,
+      "content": "Kannst du mir bis Sonntag bescheid geben bitte?  :-) dann kann ich noch einkaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387574940960,
+      "content": "Aber ich denke schon das ich mitkommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387574930905,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387574928794,
+      "content": "Ja ich muss mal fragen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387574617695,
+      "content": "Wenn du nicht allein kommen willst, kannst du ja mit Ner Freundin von dir zusammen kommen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387574506134,
+      "content": "Franzi, Jonas, nen anderer Max, 2 gute Freundindn von franzi und ich. Zwei haben noch nicht richtig gewusst ob sie kommen :-) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387574380718,
+      "content": "Wer geht denn eigentlich alles? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387573214278,
+      "content": ":-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387573212148,
+      "content": "Willst du mit ins Kino?  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387573121638,
+      "content": "Danke ist ja auch echt lieb von dir ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387573034995,
+      "content": "Kenn ich :-D ich dachte mir nur, ich biete es dir einfach mal an :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387572945356,
+      "content": "Okay ja ich glaube eben nicht,  dass sie mir erlauben w\u00c3\u00bcrden bei Leuten zu \u00c3\u00bcbernachten die sie nicht kennen :o :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387570581257,
+      "content": "wir \u00c3\u00bcbernachten fasst alle. kannst auch wenn du willst. ansonsten k\u00c3\u00b6nnen sie dich abholen wann du willst =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387570467965,
+      "content": "Achso ja okay ich muss das nur mit meinen Eltern absprechen wegen abholen und so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387570416949,
+      "content": "  der film geht um 17 Uhr los und dann sind wir um ca 20 Uhr bei mir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387570309632,
+      "content": "Wir gehen davor ins Kino in Hobbit 2 und dann zum feiern. Kannst da auch gerne mitkommen :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387570231500,
+      "content": "Ja doch also ich habe Zeit ;) von wann bis wann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387570206792,
+      "content": "Genau :-D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387570171193,
+      "content": "Achso bestimmt in so einer Gartenh\u00c3\u00bctte die dort bei dem biergarten mit dem guten fleischsalat ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569989922,
+      "content": "In Neu- Ulm ganz in der N\u00c3\u00a4he vom wonnemar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387569937664,
+      "content": "Wo ist das \u00c3\u00bcberhaupt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569656645,
+      "content": "willst du am Montag kommen ? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569461280,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387569451885,
+      "content": "Kein Problem :) hahah ist ja lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569431780,
+      "content": "oh, dass wusste ich nicht =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387569401530,
+      "content": "Das hat sie mich gerade auch gefragt :) ja eigentlich schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569393567,
+      "content": "ich wei\u00c3\u009f nicht ob sie dich schon gefragt hat =D  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569335823,
+      "content": "franzi und ich machen immer wieder Partys und wollten dich fragen ob du auch Lust hast zu kommen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387569092238,
+      "content": "Genau :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387569063347,
+      "content": "Ja ich wei\u00c3\u009f ich hab mich doch bedanken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387568925573,
+      "content": "Jonas und ich haben euch geholfen beim Abbau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387568912268,
+      "content": "Achso ja kenne ich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387568891930,
+      "content": "Schiller",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387568862913,
+      "content": "Welche franzi ich kenne einige :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387568142523,
+      "content": "ich war mit franzi und jonas da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387568025787,
+      "content": "Ne, aber wir haben uns in wiblinger bei der 72 Stunden Aktion kennen gelernt :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387567854456,
+      "content": "Warst du nicht in Wiblingen auf der schule? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max L\u00c3\u00b6wlein",
+      "timestamp_ms": 1387567742534,
+      "content": "hey, wie geht\u00c2\u00b4s? \nkennst du mich noch ? ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Max L\u00c3\u00b6wlein",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maxlowlein_0wnnorjnwg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Csiszer Robert"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1498945190298,
+      "photos": [
+        {
+          "uri": "messages/inbox/csiszerrobert_tp7r3ldpra/photos/19691517_1742551852452324_1981704048_n_1742551852452324.jpg",
+          "creation_timestamp": 1498945189
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.209.17.188",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1498945188489,
+      "photos": [
+        {
+          "uri": "messages/inbox/csiszerrobert_tp7r3ldpra/photos/19756138_1742551832452326_1159779663_n_1742551832452326.jpg",
+          "creation_timestamp": 1498945187
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.209.17.188",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1498945187059,
+      "photos": [
+        {
+          "uri": "messages/inbox/csiszerrobert_tp7r3ldpra/photos/19679757_1742551815785661_626694909_n_1742551815785661.jpg",
+          "creation_timestamp": 1498945186
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.209.17.188",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Csiszer Robert",
+      "timestamp_ms": 1498922987369,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Csiszer Robert",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/csiszerrobert_tp7r3ldpra",
+  "magic_words": [
+    
+  ]
+}

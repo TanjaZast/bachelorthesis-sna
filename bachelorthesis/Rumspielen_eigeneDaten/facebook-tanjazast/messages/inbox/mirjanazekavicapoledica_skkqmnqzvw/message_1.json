@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Mirjana Zekavica Poledica"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mirjana Zekavica Poledica",
+      "timestamp_ms": 1610559485582,
+      "content": "Mirjana hat einen Anhang gesendet.",
+      "share": {
+        "link": "https://www.facebook.com/svetlana.jokic.927/posts/241480540852207"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mirjana Zekavica Poledica",
+      "timestamp_ms": 1536257075286,
+      "content": "Mirjana winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mirjana Zekavica Poledica",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mirjanazekavicapoledica_skkqmnqzvw",
+  "magic_words": [
+    
+  ]
+}

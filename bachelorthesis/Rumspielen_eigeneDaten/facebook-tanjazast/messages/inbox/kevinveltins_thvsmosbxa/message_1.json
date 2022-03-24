@@ -1,0 +1,355 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Veltins"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438352561594,
+      "content": "Kommst mit heut abend stadtfest?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438277239827,
+      "content": "Was geht bei dir heut abend?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438277233575,
+      "content": "How i met your mother \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438276708369,
+      "content": "Was hast geschaut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438242161821,
+      "content": "Lag im bett und hab en film geschaut \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438234297616,
+      "content": "Hab noch ein paar Serien geschaut und dann geschlafen. War fertig von der Arbeit. Du??? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438198394148,
+      "content": "Obst sorry ich dachte ich h\u00c3\u00a4tte dich an der Bushaltestelle gesehen mit der Freundin was machst du heute noch so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438197584024,
+      "content": "An welcher h\u00c3\u00a4 was redest du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438197346878,
+      "content": "Ja das waren wir gerade am Bushaltestelle",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438197325058,
+      "content": "HHahah warum schlechten Eindruck? \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1438196928952,
+      "content": "Und was machst du heute noch so au\u00c3\u009fer ein schlechten Eindruck\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398105047286,
+      "content": "Verst\u00c3\u00a4ndlich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398103362827,
+      "content": "Sorry Wird nichts mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398087297366,
+      "content": "Nacher :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398086590741,
+      "content": "Ess aber :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398085136190,
+      "content": "Adri und mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398085084031,
+      "content": ":) euch? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398085068394,
+      "content": "Chill mit uns :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398085053698,
+      "content": "Hahaha warum hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398084797332,
+      "content": "Komm halt nach erbach :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398084730511,
+      "content": ":) hahaha voll",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1398082144396,
+      "content": "Hammer :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398075141548,
+      "content": "Auch :) und lesen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397993177304,
+      "content": "bett liegen du ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397992666469,
+      "content": "Was tust",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397834257579,
+      "content": "Gut gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397834105425,
+      "content": "Ich auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397813174690,
+      "content": "Naja bin eh eingepennt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397813086404,
+      "content": "Ja ich wei\u00c3\u009f schon Schei\u00c3\u009fe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397773726681,
+      "content": "Ka heut geht nix :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397772964048,
+      "content": ":) warum das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397770568009,
+      "content": "Das ist das wichtigste und ich langeweile mich grad zu tode!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397770545106,
+      "content": "Aber alles gut gelaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397770438415,
+      "content": "Glaub ich dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397770405882,
+      "content": "Ja ich bin fast gestorben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769965652,
+      "content": "Haha noch schlimmer :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769952393,
+      "content": "Ne am besoffene einsammeln -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769931976,
+      "content": "Immer am saufen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769883991,
+      "content": "Halb 1 aber sind dann noch bis 4 unterwegs gewesen und um 5 im Bett -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769847341,
+      "content": "Wann seit ihr gegangen?  :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769832329,
+      "content": "Joa geht schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769814707,
+      "content": "War doch ganz lustig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769804474,
+      "content": "Hahaha shit ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769724806,
+      "content": "Haha wollt grad sagen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769707273,
+      "content": "Im besten Zustand hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397769524189,
+      "content": "Auch mal kennengelernt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397769501266,
+      "content": "Jaja du;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Veltins",
+      "timestamp_ms": 1397768379563,
+      "content": "Soso :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kevin Veltins",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kevinveltins_thvsmosbxa",
+  "magic_words": [
+    
+  ]
+}

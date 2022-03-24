@@ -1,0 +1,201 @@
+{
+  "participants": [
+    {
+      "name": "Tom Maier"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402801319949,
+      "content": "Was los? \u00f3\u00be\u008d\u0087 Kein Bock mehr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402593182528,
+      "content": "Was denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402593179445,
+      "content": "Studiere",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402593166743,
+      "content": "Du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402593165082,
+      "content": "Di",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402593163834,
+      "content": "Ne :) ich studiere jetzt dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402583098500,
+      "content": "Arbeitest du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402583087229,
+      "content": "Aha, also nein \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402580187497,
+      "content": "Ja wenn ich zeit hab :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402570057862,
+      "content": "Ach du machst das wirklich? \u00f3\u00be\u008c\u00b8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402569937250,
+      "content": ":) hahaha wenn du so was willst dann okay hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402562868582,
+      "content": "Ich h\u00c3\u00a4tte jetz eine poetische Beschreibung von 2 A4-Seiten erwartet, aber okay \u00f3\u00be\u008c\u00a9 Dann so. Ich bin Tom.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402511590678,
+      "content": "Ich bin tanja ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402488534222,
+      "content": "Z. B.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402488530400,
+      "content": "Wer bist du? \u00f3\u00be\u008c\u00a9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402488452661,
+      "content": ":) was soll ich denn erz\u00c3\u00a4hlen? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402482284385,
+      "content": "Erz\u00c3\u00a4hl mal von dir.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402482278053,
+      "content": "Jo, schon :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402481753420,
+      "content": "Hahah na dann :) coole Aktion",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402478550094,
+      "content": "Hatte einfach nur Lust in fb n paar Leute anzuklicken die mir gefallen \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402478522451,
+      "content": "Also ich dich nich :-D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402478457413,
+      "content": "Oh ich wei\u00c3\u009f nicht :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402478447024,
+      "content": "Vielen Dank! ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402477630067,
+      "content": "Kennst mich? :-P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402477622776,
+      "content": "Alles Gute zum Geburtstag ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Maier",
+      "timestamp_ms": 1402477615639,
+      "content": "Hey ^^",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tom Maier",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tommaier_dmvh070s2g",
+  "magic_words": [
+    
+  ]
+}

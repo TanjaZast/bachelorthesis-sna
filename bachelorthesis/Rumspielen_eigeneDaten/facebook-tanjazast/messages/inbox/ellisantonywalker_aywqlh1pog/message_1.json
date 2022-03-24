@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Ellis Antony Walker"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1465765041877,
+      "content": "Danke Danke \u00f0\u009f\u0098\u008a lieb von dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ellis Antony Walker",
+      "timestamp_ms": 1465632812722,
+      "content": "Alles liebe :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ellis Antony Walker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ellisantonywalker_aywqlh1pog",
+  "magic_words": [
+    
+  ]
+}

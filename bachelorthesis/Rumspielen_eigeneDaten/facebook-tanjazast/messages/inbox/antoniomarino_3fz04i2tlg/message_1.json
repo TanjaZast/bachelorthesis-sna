@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Antonio Marino"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonio Marino",
+      "timestamp_ms": 1477470697910,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonio Marino",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antoniomarino_3fz04i2tlg",
+  "magic_words": [
+    
+  ]
+}

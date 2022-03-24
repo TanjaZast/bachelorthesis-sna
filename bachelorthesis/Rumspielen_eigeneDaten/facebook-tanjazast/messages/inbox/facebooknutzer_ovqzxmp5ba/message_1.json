@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394831995905,
+      "content": ":) ehm ich hab vllt 2 Wochen davor realisiert das ich abi hab. Hab auch erst vor zwei Wochen mit allem angefangen (das reicht auch locker) :D also keinen Stress mathe wird eh schwer da kannst dich nicht genug daf\u00c3\u00bcr vorbereiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1394831429630,
+      "content": "ja :D ohne ein bisschen irronie \u00c3\u00bcberlebt mans doch nicht xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1394831410813,
+      "content": "06.05 :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394831355012,
+      "content": "Haha dein ernst? :D du w\u00c3\u00bcnschst mir viel Spa\u00c3\u009f dabei? Bei so was hat man doch keinen Spa\u00c3\u009f :D wann geht es bei dir los? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349206948415,
+      "content": "Alles klaro bei dir?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_ovqzxmp5ba",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "participants": [
+    {
+      "name": "Giuseppe Scevola"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1508183862003,
+      "content": "Giuseppe hat einen Anhang gesendet.",
+      "share": {
+        "link": "https://www.facebook.com/giuseppe.scevola.3/posts/10210450238187397"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460500546231,
+      "content": "Sagst mir dann noch bescheid? W\u00c3\u00a4re sch\u00c3\u00b6n wenn du auch kommst und Aleks w\u00c3\u00bcrde sich voll freuen weil Kevin auch noch kommt \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1460488205769,
+      "content": "Muss mit Mama was machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460487647979,
+      "content": "Oh nein und was? \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1460484637606,
+      "content": "Ja mir ist was dazwischen gekommen .. Ich schau dann einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460484475625,
+      "content": "Klar und sogar extra mit Natalia \u00f0\u009f\u0098\u008f\u00f0\u009f\u0098\u0085 kannst jetzt nicht einfach abspringen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1460484404649,
+      "content": "Ich wei\u00c3\u009f nicht nicht ob ich morgen geh,du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460482778738,
+      "content": "Na, kommst morgen zuschauen? \u00f0\u009f\u0098\u008f\u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460182954283,
+      "content": "Oha waaaas ich vertraue aber nur dir?! Bitte du musst es machen - hab bisschen was vor \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1460143682023,
+      "content": "Oh Tanja, ich bin morgen da, aber ich wei\u00c3\u009f nicht ob du bei mir eingetragen bist oder nicht \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460139462703,
+      "content": "Yo peppe \u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc bin morgen mal beim f\u00c3\u00a4rben. Bitte sag mir dass du auch arbeiten musst und die Farbe machst \u00f3\u00be\u008c\u00b1\u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1454798956563,
+      "content": "Bin schon betrunken \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1454798933614,
+      "content": "Wenn ich vor Myers bin schreib ich dir \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454798147292,
+      "content": "Oh Peppe \u00f0\u009f\u0090\u00b6\u00f0\u009f\u0090\u00b6\u00f0\u009f\u0090\u00b6\u00f0\u009f\u0090\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454798134247,
+      "content": "Dann komm trotzdem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1454796922281,
+      "content": "Bin immer noch mit Familie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454796000464,
+      "content": "Und",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454795993603,
+      "content": "Laura \u00c3\u00bcbe Natalia sind beide im Myers \u00f3\u00be\u008c\u00ab w\u00c3\u00bcrde an deiner Stelle auch kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436969117810,
+      "content": "Hab's eingetragen \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436967900111,
+      "content": "Perfekt ja bitte eintragen \u00f3\u00be\u008c\u00b5!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436967619330,
+      "content": "Samstag der 25 um 11 Uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436910145183,
+      "content": "Haja \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436910140762,
+      "content": "okay \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436909741736,
+      "content": "Ja bitte \u00f3\u00be\u008c\u00b5 und dann am besten so schnell es geht \u00f3\u00be\u008c\u00b4  \n\nJaja klar, unsere Dance Moves ausgetauscht \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436909365954,
+      "content": "wir kennen uns ja, ich wei\u00c3\u009f ganz genau wer du bist \u00f0\u009f\u0098\u0082\nHahahah stimmt \nOkay alles klar, dann schaue ich morgen ok?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436909297507,
+      "content": "Dachtest dir: aaaah die hast du doch mal gesehen. \u00f3\u00be\u008c\u00b5 \n\nDu hast gesagt die werden blau \u00f3\u00be\u008c\u00b4\n\nHmm ich kann unter der Woche immer erst ab 18 Uhr im Ausnahmefall 17 uhr aber so der Tag ist mir relativ egal und samstags kann ich direkt ganz fr\u00c3\u00bch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436909148581,
+      "content": "Wann und um wie viel Uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436908814329,
+      "content": "Blau? Alles klar Hahahaha \nJa ich schau morgen nach \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Giuseppe Scevola",
+      "timestamp_ms": 1436908792051,
+      "content": "Heeeeeeeeeeeeeeeeeey \u00f0\u009f\u0098\u0082\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1436908743287,
+      "content": "Hey Hey \u00f3\u00be\u008c\u00b5 \n\nDarfst mir bald wieder meine Haare blau f\u00c3\u00a4rben! \nKannst dann vielleicht morgen schauen wann Dario Abend Termine frei hat nach seinem Urlaub? \n\nDanke danke \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Giuseppe Scevola",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/giuseppescevola_dldcr6vctw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Max Walter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Max Walter",
+      "timestamp_ms": 1560094267349,
+      "content": "Tanja chill, das ist wirklich in Ordnung. F\u00c3\u00bcr ein Taxi h\u00c3\u00a4tten wir viel mehr gezahlt und du bist da die ganze Nacht gefahren. Hab das auch schon gemacht und weiss, dass das \u00c3\u00bcbel ist \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1560094141238,
+      "content": "Ich kann das echt nicht annehmen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1560094130088,
+      "content": "Ich habe so ein schlechtes Gewissen \u00f0\u009f\u0098\u00b3. Du ist kein Problem. Ich glaube die Judith ist normal ganz anders. War vermutlich die Gesamtsituation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Walter",
+      "timestamp_ms": 1560093990368,
+      "content": "Hey Tanja ist wirklich lieb,\naber das passt so. Tut mir Leid dass das noch so eskaliert ist\u00f0\u009f\u0099\u0088\nAber hast dir wirklich verdient",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1560093794255,
+      "content": "Huhu! Ich w\u00c3\u00bcrde dir gerne dein Geld zur\u00c3\u00bcckgeben \u00f0\u009f\u0098\u0082\u00e2\u0098\u009d\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Max Walter",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maxwalter_fjdf5mcyfa",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Cornelius Bierer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458758975357,
+      "content": "Irgendwo in Ulm \u00f3\u00be\u008c\u00b1 ich glaube beim xinedome oder M\u00c3\u00bcnster",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Cornelius Bierer",
+      "timestamp_ms": 1458751951219,
+      "content": "Wo ist das denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458258760109,
+      "content": "Kann es sein, dass wir uns kennen? \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458258740263,
+      "photos": [
+        {
+          "uri": "messages/inbox/corneliusbierer_g_56dcq50a/photos/12674584_1170466819660833_1895048986_n_1170466846327497.jpg",
+          "creation_timestamp": 1458258739
+        }
+      ],
+      "type": "Generic",
+      "ip": "46.223.245.173",
+      "is_unsent": false
+    }
+  ],
+  "title": "Cornelius Bierer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/corneliusbierer_g_56dcq50a",
+  "magic_words": [
+    
+  ]
+}

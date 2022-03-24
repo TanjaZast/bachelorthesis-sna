@@ -1,0 +1,196 @@
+{
+  "participants": [
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363115154,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420279835632,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393103001453,
+      "content": "alter wieso komm ich immer auf diese schei\u00c3\u009f daumenteile?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393100977454,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1393099673441,
+      "content": "Oke Lisa :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1393098995492,
+      "content": "wenn ich auf gruppeninfo geh, steh immer nur ich da :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1393098961285,
+      "content": "H\u00c3\u00a4?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1393098904316,
+      "content": "bei allen Gruppen in denen ich drin bin bin ich angeblich die einzige die drin ist aber joar hey die anderen schreiben was rein aber nur ich bin angeblich drin haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393097761892,
+      "content": "die wollen bestimmt nur das alle wieder aif fb gehen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1393097687447,
+      "content": "Ohne witz.. so nervig he.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1393097655606,
+      "content": "Kaum kauft facebook whatsapp, schon spackts ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393097589217,
+      "content": "was meinst du mit spinnen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1393097236223,
+      "content": "Haha ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393097219648,
+      "content": "Jap!:) ich schreibe schon \u00c3\u00bcber viber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Je",
+      "timestamp_ms": 1393097102160,
+      "content": "Andere frage spinnt bei euch whatsapp auch? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1393097024700,
+      "content": "Nein die waren von mir und ich hab dem die ganzen schon am Donnerstag geschickt :) der soll sich jetzt zufrieden geben :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393095570056,
+      "content": "ich glaub julia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1393095525944,
+      "content": "von wem waren die rezepte?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393095186529,
+      "content": "der will iwie rezepte f\u00c3\u00bcr cocktails haben aber ich hab die nicht und die andern vergessens iwie immer wieder...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393095132557,
+      "content": "ups sorry bin da draufgekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1393095115035,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1393095048319,
+      "content": "hey ;)! Habt ihr die Mail von Herrn Bieg bekommen? Worum gehts, ich hab keinen Plan...",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mara, Eva, Lisa und 2 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/maraevalisaund2weiterepersonen_5g16v5gtug",
+  "magic_words": [
+    
+  ]
+}

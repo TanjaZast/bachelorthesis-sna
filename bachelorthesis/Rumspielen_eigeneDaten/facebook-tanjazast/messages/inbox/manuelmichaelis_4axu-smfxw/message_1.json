@@ -1,0 +1,215 @@
+{
+  "participants": [
+    {
+      "name": "Manuel Michaelis"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396386134434,
+      "content": "Okay wir machen es jetzt auch extra fr\u00c3\u00bcher um 11.20 dann kommst einfach auch :* du kannst doch nicht fehlen ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396384035276,
+      "content": "Ja ich schau mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396383923877,
+      "content": "Warum das machen angi und lena auch. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396382753533,
+      "content": "Ich kann schlecht nur f\u00c3\u00bcrs Bild kommen...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396382711980,
+      "content": "Was f\u00c3\u00bcr eher nein. Eher ja :) schau wir machen das bild dann gehst du. Und zuerst einmal kommst du an die frische Luft und bekommst ne Schokolade von mir; )",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396382617523,
+      "content": "Ich schau \nAber eher nein:/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396382605109,
+      "content": "Ohh gut\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396382581924,
+      "content": "Montag f\u00c3\u00a4llt es doch aus :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396382490131,
+      "content": "Wenn man das Bild drinnen macht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396382458835,
+      "content": "Ne da wei\u00c3\u009f ich nicht wie das Wetter wird. Oh man das ist jetzt echt doof. Geht es dir so hammer hammer schlecht? :( Ja wenns nicht geht geht's nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396382389015,
+      "content": "Dornstadt\u00f3\u00be\u008c\u00b4\nMontag reicht nemmer!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396382249224,
+      "content": "Wo wohnst du? Sonst kommst wie angi nur f\u00c3\u00bcrs Bild vorbei. Ich f\u00c3\u00a4nde es halt extrem Schei\u00c3\u009fe wenn du nicht drauf w\u00c3\u00a4rst. W\u00c3\u00a4re doch traurig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396381957756,
+      "content": "Und au\u00c3\u009fer dem Bild verpass ich nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396381942704,
+      "content": "Lymphknoten sind angeschwollen usw das \u00c3\u00bcbliche eben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396381914877,
+      "content": "Ich wei\u00c3\u009f nachm Abi unglaubw\u00c3\u00bcrdig aber ich bin wirklich krank\n\nUnd ich hab nur 1-2 und 5-6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396381450344,
+      "content": "Doch du musst! :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1396381374830,
+      "content": "Ich wei\u00c3\u009f es noch nicht:/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396380934483,
+      "content": "Kommst du morgen Wirtschaft? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374582843012,
+      "content": "is so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374582841075,
+      "content": "nee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374581402732,
+      "content": ":) und das w\u00c3\u00a4re dann eine L\u00c3\u00bcge haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374580705374,
+      "content": "das kann ich aufgrund des alkoholkonsums nicht mehr sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374579712632,
+      "content": "Hahahha dann w\u00c3\u00bcrde ich lachen und sagen was f\u00c3\u00bcr Schuhe hatte ich an welche Hose usw :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374579643280,
+      "content": "Wenn ich schleimen w\u00c3\u00bcrd, w\u00c3\u00bcrd ich jz sag du bist mir sofort ins Auge gestochen\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374579546745,
+      "content": "Ja halt vom tendance und die haben nen Vertrag mit ratiopharm und da war ein Casting und jetzt tanzen die die weiter sind dort aber der auftritt war haupts\u00c3\u00a4chlich vom tendance :P hast ja dann voll die guten Augen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374579389246,
+      "content": "Hab dich da glaub gesehen\n\nStimmt scho da von de Basketballer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374579301205,
+      "content": "HAHAH ehm doch wie kommst da drauf? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Manuel Michaelis",
+      "timestamp_ms": 1374579134683,
+      "content": "Warst Du gestern nicht eine von den T\u00c3\u00a4nzerinnen aufm m\u00c3\u00bcnsterplatz?\u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Manuel Michaelis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/manuelmichaelis_4axu-smfxw",
+  "magic_words": [
+    
+  ]
+}

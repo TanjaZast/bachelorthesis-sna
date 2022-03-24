@@ -1,0 +1,461 @@
+{
+  "participants": [
+    {
+      "name": "Franziska Gnann"
+    },
+    {
+      "name": "Achim Musch"
+    },
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Benedikt V\u00c3\u00b6lker"
+    },
+    {
+      "name": "Maximilian V\u00c3\u00b6lker"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Emilia Sch\u00c3\u00bctz"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Eva Ohmberger"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1378470486629,
+      "content": "Ich w\u00c3\u00a4re so gerne gekommen! :( \u00e2\u009d\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1378468672858,
+      "content": "merci!!<3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378468059176,
+      "content": "Echt so :* du bist die beste <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378467788409,
+      "content": "Danke f\u00c3\u00bcr alles lena :** \n ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378467716319,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378465463797,
+      "photos": [
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1305520_538226286247967_1377362230_n_538226286247967.jpg",
+          "creation_timestamp": 1378465463
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1232544_538226276247968_1799592677_n_538226276247968.jpg",
+          "creation_timestamp": 1378465463
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1167768_538226282914634_2112962662_n_538226282914634.jpg",
+          "creation_timestamp": 1378465463
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/730493_538226279581301_99559592_n_538226279581301.jpg",
+          "creation_timestamp": 1378465463
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378465378961,
+      "photos": [
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1290053_538225802914682_1787277361_n_538225802914682.jpg",
+          "creation_timestamp": 1378465378
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1174379_538225792914683_140228932_n_538225792914683.jpg",
+          "creation_timestamp": 1378465378
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1174503_538225806248015_1097209633_n_538225806248015.jpg",
+          "creation_timestamp": 1378465378
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1305347_538225796248016_886448958_n_538225796248016.jpg",
+          "creation_timestamp": 1378465378
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1147865_538225799581349_1378104825_n_538225799581349.jpg",
+          "creation_timestamp": 1378465378
+        },
+        {
+          "uri": "messages/inbox/picknickausdempiaggo_bbp2gfg4gq/photos/1291442_538225789581350_481120128_n_538225789581350.jpg",
+          "creation_timestamp": 1378465378
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378465254350,
+      "content": "Ihr lieben, \nDanke f\u00c3\u00bcr das wundersch\u00c3\u00b6ne Picknick mit euch gestern :) ich hoffe euch hat's gefallen. Anbei ein paar Erinnerungs-Bildchen.\nK\u00c3\u00bcsschen und genie\u00c3\u009ft noch die letzten Ferientage \u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378386437340,
+      "content": "Ich meinte crushed Eis :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378385866698,
+      "content": "Was ist Cursors Eis?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378384895914,
+      "content": "Und k\u00c3\u00b6nnte jemand von euch Cursors Eis mitbringen ? Bitte !!!! Der Sekt ist kalt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1378380407009,
+      "content": "kann jemand evtl. noch nen volleyball, frisbee oder sowas mitbringen? :) ich hab leider keine b\u00c3\u00a4lle..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378290353924,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1378280467227,
+      "content": "voll cool ich freu mich! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378240429020,
+      "content": "Ich fasse nochmal zusammen, dann m\u00c3\u00bcsst ihr nicht hochscrollen: \n\nWo: am Hochstress, nehmt den 13ner Bus in Richtung Hochstress, Haltestelle: Endstation. Wenn ihr da seid, ruft mich am besten an. Ich f\u00c3\u00bchre euch dann. Aber eig m\u00c3\u00bcsst ihr nur an der HFG vorbei den Berg hoch zu so einem Parkplatz.\n\nWann: donnerstag,5. September um 15:00 Uhr \n\nWas: Picknick, ich Sorge f\u00c3\u00bcr Fingerfood, falls ihr Getr\u00c3\u00a4nke wollt, bringt sie bitte mit. \nUnd Gabi sorgt f\u00c3\u00bcr Musik (danke :))\n\nIch freu mich sooo auf euch \u00f3\u00be\u008c\u00a7\u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378240076549,
+      "content": "Perfekt, danke Gabi :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378239057032,
+      "content": "In meinen boxen ist ein Akku ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378238985156,
+      "content": "wann gehts denn jetzt los? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378238984810,
+      "content": "@gabi: im piaggo gibt's keine Steckdose...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378238956950,
+      "content": "Perfekt Tanja, k\u00c3\u00b6nntest du die mitbringen ? Ich hab Eis, dann k\u00c3\u00b6nnt ihr eure Getr\u00c3\u00a4nke da rein tun :).",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378238389057,
+      "content": "Und aux (klinkenbuckse)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378238380278,
+      "content": "Ich h\u00c3\u00a4tte glaub ne k\u00c3\u00bchl Tasche und Musik ist bisschen schwierig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378238365176,
+      "content": "Ich hab boxen mit iPhone Anschluss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378238135362,
+      "content": "Ok :) \nUnd hat jemand ne Idee, wie wir das mit der Musik machen k\u00c3\u00b6nnen ? \nUnd hat jemand ne K\u00c3\u00bchlbox f\u00c3\u00bcr die Getr\u00c3\u00a4nke ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Gnann",
+      "timestamp_ms": 1378234585124,
+      "content": "Ich glaub die ist noch im Urlaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378234057841,
+      "content": "Ok :) \n\nWei\u00c3\u009f jemand was von Rebekka ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Ohmberger",
+      "timestamp_ms": 1378219138762,
+      "content": "Wirklich eine nette Idee :)\nKann aber leider nicht...schade, anderes Mal wieder!! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378215956963,
+      "content": "Oh Sorry Betti :D ich dachte du h\u00c3\u00a4ttest geschrieben du hast keine zeit...hab mich wohl verlesen :D \nIch w\u00c3\u00bcrde mich riesig freuen wenn du kommst !!!!!! \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00a7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1378213863592,
+      "content": "@Lena gut zu wissen, dass ich keine zeit hab :P\nich w\u00c3\u00bcrde sehr gern kommen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378213799665,
+      "content": "also dann m\u00c3\u00bcsste ich um 17 uhr wieder los .. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378211594984,
+      "content": "Open end :D \nWie k\u00c3\u00b6nnen ja auch schon ab 15:00 Uhr machen ;) \nWann genau musst du denn dann wieder los ? ;**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378210772074,
+      "content": "w\u00c3\u00bcr dich gern, aber ich muss dann ja so fr\u00c3\u00bch wieder gehen,.. wie lange soll das denn dauern? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Gnann",
+      "timestamp_ms": 1378210724619,
+      "content": "Ich kann auch :D \nKirsten du kannst bei mir mitfahren ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378210373813,
+      "content": "ich muss halt um 18 uhr in die fahrschule.. w\u00c3\u00bcrd aber gern kommen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378210328325,
+      "content": "oh hab ich \u00c3\u00bcberlesen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378210287941,
+      "content": "Um 16Uhr ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1378210225688,
+      "content": "voll die sch\u00c3\u00b6ne idee! :*\num wie viel uhr w\u00c3\u00a4re das denn? :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378207295582,
+      "content": "ich kann auch nicht kommen \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378206719649,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378206048538,
+      "content": "Supi, @emil und @betti und @nina: schade dass ihr nicht da seid, aber wir wiederholen das einfach nochmal \u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac\n\n@achim: w\u00c3\u00a4re cool, wenn es sich noch arrangieren l\u00c3\u00a4sst :D \n\nAchso Uhrzeit: wie sieht's aus mit 16:00 Uhr ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1378195401444,
+      "content": "Bin leider noch im Urlaub, aber w\u00c3\u00bcnsch euch viel Spa\u00c3\u009f und genie\u00c3\u009ft das gute Wetter :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1378192149304,
+      "content": "Also Donnerstag hab ich zeit :*  au\u00c3\u009fer du willst um halb 9 picknicken \u00e2\u0099\u00a5 w\u00c3\u00a4re also dabei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378186593500,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378186588901,
+      "content": "Sonst w\u00c3\u00a4re ich gerne gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378186570361,
+      "content": "An Donnerstag bin ich in M\u00c3\u00bcnchen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Achim Musch",
+      "timestamp_ms": 1378180023814,
+      "content": "Bin eigentlich schon ausgebucht :( aber vielleicht ergibt sich ja ne M\u00c3\u00b6glichkeit ;) Klingt n\u00c3\u00a4mlich echt super! :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378166159127,
+      "content": " Dabei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1378166151217,
+      "content": "Bin ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1378161814951,
+      "content": "Voll die s\u00c3\u00bc\u00c3\u009fe Idee Lena und danke f\u00c3\u00bcr die  Einladung \u00e2\u009d\u00a4 ich w\u00c3\u00bcrde auf voll gern kommen aber ich flieg erst am Donnerstag Heim :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378161754252,
+      "content": "Achso: am Donnerstag :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378161442501,
+      "content": "Lena-Marie hat die Gruppe Picknick aus dem piaggo :) genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena-Marie Ptz",
+      "timestamp_ms": 1378161406350,
+      "content": "Ihr Lieben,\nHabt ihr Lust auf ein kleines Picknick aus dem piaggo am Wald Hochstress mit Blick auf Ulm ? Das Wetter soll Super werden und \nich Sorge f\u00c3\u00bcr ein bi\u00c3\u009fchen Fingerfood ;) wenn  ihr etwas bestimmtes trinken wollt bitte ich euch es mitzubringen :)\n\nFreue mich \u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ackussi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Picknick aus dem piaggo :)",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/picknickausdempiaggo_bbp2gfg4gq",
+  "magic_words": [
+    
+  ]
+}

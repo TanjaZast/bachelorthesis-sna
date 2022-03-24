@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Marc Herrmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marc Herrmann",
+      "timestamp_ms": 1437470803526,
+      "content": "heey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marc Herrmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marcherrmann_u5p8pnfhoa",
+  "magic_words": [
+    
+  ]
+}

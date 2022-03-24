@@ -1,0 +1,579 @@
+{
+  "participants": [
+    {
+      "name": "Julia Kosta"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349623538120,
+      "content": "Hast se jetzt??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623443416,
+      "content": "Gib mir mal deine nummer :) :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623340812,
+      "content": "015128408297",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623333721,
+      "content": "Jep :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349623300123,
+      "content": "Okay warte hast du whats app ?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623127607,
+      "content": "Ich muss das jmd zeigen ! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623117477,
+      "content": "Kannst du mir das bild von tina schicken haha :D \n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349623096871,
+      "content": "Auch :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349623040487,
+      "content": "Gut und dir?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349622966348,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349622956502,
+      "content": "Wie gehts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349622855176,
+      "content": "Juliaaaaaaaa <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1349622749440,
+      "content": "Taaaaaaanjaaaa <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330841025,
+      "content": "naja eig nicht :) ist schon warm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330802488,
+      "content": "Regnet es viel?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330761577,
+      "content": ":) ist so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330742609,
+      "content": "Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330719366,
+      "content": "nein :D haha alles nur deutsche ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330702887,
+      "content": "Bringt das deinem englisch was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330700350,
+      "content": "Freut mich :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330638332,
+      "content": "doch ich finds geil hier! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330545415,
+      "content": "Also nich so? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330481646,
+      "content": "ja schon :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330443304,
+      "content": "Voll gut :) gef\u00c3\u00a4llts dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330371752,
+      "content": "den ganzen tag programm iwelche sachen besuchen usw :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330139087,
+      "content": "Was macht ihr so tags\u00c3\u00bcber bei der spachreise? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345330031021,
+      "content": "jsp :) nur ne stunde :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330021013,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345330017131,
+      "content": "Achso -1h",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345329984690,
+      "content": "es ist gerade 23.46 :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329841419,
+      "content": "England?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329837267,
+      "content": "Achso bei uns ist schon 00 43 und auf fb haben schon 4 oder so gratuliert :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345329647954,
+      "content": "nein ist se nicht :D bei uns ist eh noch nicht mitternacht :P :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329575298,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329564868,
+      "content": "Wenn ja dann gib ihr nen bussi von mir und sag alles gute!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329542946,
+      "content": "Ist lisa in deiner n\u00c3\u00a4he?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329528220,
+      "content": "Jap :) balkonien ist halt all inclusive :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345329329689,
+      "content": ":) oha... :) krass man ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329255029,
+      "content": "Morgen wirds vllt sogar 40 \u00c2\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345329229943,
+      "content": "Sch\u00c3\u00b6n :) immer noch balkonien ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345329198791,
+      "content": "jaa :) <3 und ihr?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345328956635,
+      "content": "Immer noch im urlaub? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345328912260,
+      "content": "heei h\u00c3\u00bcbsche <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1345328877554,
+      "content": "Hey s\u00c3\u00bc\u00c3\u009fe :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344292080541,
+      "content": "Achso stimmt ;) viel spa\u00c3\u009f euch!! Gute nacht s\u00c3\u00bc\u00c3\u009fe schlaf gut <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344292010800,
+      "content": "nein morgen zu shoppen ja :) wir sind in bournemouth und ich muss dann jetzt schlafen <33 tsch\u00c3\u00bcss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344291972624,
+      "content": "Dann ist ja gut ;) ihr seid doch grad in london oder? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344291873790,
+      "content": "nein die nich!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344291866057,
+      "content": "ja :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344290531723,
+      "content": "Ich meinte ob die auch dabei sind?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290401503,
+      "content": ":) was ist mit denen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344290383100,
+      "content": "Achso :) und deine eltern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290310002,
+      "content": "ehm kp 2 stra\u00c3\u009fen weiter :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344290281728,
+      "content": "Wo ist die dann ? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289770054,
+      "content": "nein :) iwo anders ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289710983,
+      "content": "Wieso ist die nich bei euch???",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289682482,
+      "content": ":) mach ich wenn ich se mal seh iwann <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289645633,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289636561,
+      "content": "Gr\u00c3\u00bc\u00c3\u009f lisa bitte ganz lieb von mir!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289607435,
+      "content": "Ja echt so hhahhahha :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289307537,
+      "content": ":) oh man gelad ausm fenster geworfen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289187158,
+      "content": "Ja voll der scheiss!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344289186072,
+      "content": "Hast schon richtig geschrieben :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289051273,
+      "content": "oh fuuuuuu und dann auch noch all inclusive gebucht :O oder wie man das schreibt :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344288982961,
+      "content": "Also in balkonien wars echt schei\u00c3\u009fe heute!!! Es hat den ganzen tag geregnet :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344288938600,
+      "content": "richtig okay eig :) haha :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344288910965,
+      "content": "Na wie ist euer urlaub? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344288885538,
+      "content": "juliaaa <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344288876460,
+      "content": "Tanjaaaaa <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344029278281,
+      "content": ":) ja finde ich auch <3 haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344029239571,
+      "content": "Ah ok :) sprachreise ist immer gut :)\n<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344020846051,
+      "content": "Ne eig in bournemouth :D sprachreise halt und 2 mal nach london shoppen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344020775573,
+      "content": "Alles klar :)\nAber was machst du DREI wochen in london? :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019930157,
+      "content": "Ja f\u00c3\u00bcr einen tag :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344019776579,
+      "content": "Kommst du dazwischen wieder nach hause?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344019723817,
+      "content": ":) ne erst 3 und dann pack ich ja noch mal f\u00c3\u00bcr 2 :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344019518934,
+      "content": "Du gehst fuer 5 wochen weg und hast noch nicht gepackt :)) das ist bei mir genau so!!! :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344018664436,
+      "content": ":) nein nicht ganz das ist bei mir  immer voll das problem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344018545316,
+      "content": "Haha :D hast recht :)\nHast du schon gepackt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344018487846,
+      "content": "schreiben wir lieber hier sonst killen uns die anderen 2",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia Kosta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliakosta_rumzvsnm6w",
+  "magic_words": [
+    
+  ]
+}

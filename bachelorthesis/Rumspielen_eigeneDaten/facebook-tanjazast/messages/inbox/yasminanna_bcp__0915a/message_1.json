@@ -1,0 +1,355 @@
+{
+  "participants": [
+    {
+      "name": "Yasmin Anna"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435617472778,
+      "content": "Ja, da geb ich dir echt recht. Aber naja, ich denke sie hat es kapiert :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435617026598,
+      "content": "Hahahaha Wasser hilft immer \u00f3\u00be\u008c\u00b5. Sollte aber lieber viel vorsichtiger sein. Ist ja nicht immer jemand um sie rum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435616802941,
+      "content": "Ja schon, die Eltern sind da in der Hinsicht schon sehr streng. Ja, ich bin so froh das es gut gegangen ist und das sie noch am Ende aufgewacht ist.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435616554917,
+      "content": "Ja aber voll gut ist gerade noch gut gegangen und zum Gl\u00c3\u00bcck hat die so gute Freundinnen wie dich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435616528461,
+      "content": "Oha aber ist ja auch verst\u00c3\u00a4ndlich nur hat die Mutter aber trotzdem voll \u00c3\u00bcbertrieben \u00f3\u00be\u008c\u00b5 muss man schon ehrlich zugeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435527576817,
+      "content": "Also ich glaub sie hat kein gro\u00c3\u009fen \u00c3\u00a4rger bekommen. Ihre Mutter hat sich halt schreckliche Sorgen gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435527545763,
+      "content": "Ihr Vater wei\u00c3\u009f von nichts & ihre Mutter hat glaub ein bisschen was bemerkt & hat mich gefragt ob sie was genommen hat. Dann hab ich gesagt das sie was falsches gegessen hat & das ich von dem anderen nichts wei\u00c3\u009f.  & sie hat auch immer gesagt das sie nihts genommen hat.  & sp\u00c3\u00a4ter morgens ist ihre Mam wieder reingekommen und hat nochmal gefragt. Dann hat sie zu ihr gesagt das sie nur ein Drink gehabt hatte & die dort das richtig schlecht gemischt haben das sie das nicht vertragen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435527256876,
+      "content": "Und haben die Eltern sie umgebracht? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435525681524,
+      "content": "Isso hahah, zwar hat sie heute nacht gekotzt. War aber dann auch das letzte mal.   Aber ihr gehts wieder gut, :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435525605769,
+      "content": "Waaas das gibt es doch nicht \u00f3\u00be\u008c\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435484799190,
+      "content": "Ne eigentlich nicht  :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435484428558,
+      "content": "Okay sehr gut bestimmt nen kater des Todes \u00f3\u00be\u008c\u00a3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435481624846,
+      "content": "Ihr geht's jetzt wieder gut, sie hat sofort geschlafen als wir zu Hause waren :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435454927032,
+      "content": "Wie geht es ihr denn?? Halte mich da bitte auf dem laufenden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435454914090,
+      "content": "Kein Ding mache ich doch gerne! \u00f3\u00be\u008c\u00ad\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1435447466019,
+      "content": "Hey danke das du uns so geholfen hast! <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344201337958,
+      "content": "Okey :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344200779316,
+      "content": ":) ja ich wei\u00c3\u009f ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344200635176,
+      "content": "ja stimmt auch wieder (: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344200625024,
+      "content": ":) ist ja egal dann lernt man sich ja kennen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344200550952,
+      "content": "okey, kommt i.wie schnell wir kennen und ja kaum:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344200532904,
+      "content": "ja (: wenn duwillst k\u00c3\u00b6nnen wir ja mal i.wann mal was machen (: ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344200332362,
+      "content": "ja genau :) :*oder so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344199593092,
+      "content": "ja oder man sieht sich (: ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344199568794,
+      "content": ":) okay vllt schreibt man sich ja wieder :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344199473478,
+      "content": "bitte ;**\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198960349,
+      "content": ":) haha danke :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198862571,
+      "content": "Achso, ja dann noch viel spa\u00c3\u009f:DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198606180,
+      "content": "ehm 3 wochen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198559350,
+      "content": "Wie lange bist dann dort? (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198517003,
+      "content": ":) ja klar tut man das :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198455380,
+      "content": "ja dann versteht man sie schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198439437,
+      "content": "achso ja dann :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198398743,
+      "content": ":)ja sie kommt ja ausm s\u00c3\u00bcdtirol :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198337321,
+      "content": "achso, solange sie nett sind (: verstehst du sie auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198299104,
+      "content": ":) ja so ner gastfamilie mit nem m\u00c3\u00a4dchen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198256750,
+      "content": "achso :DD und du bist jetzt bei einer pflegefamilie ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344198162388,
+      "content": "jaaa :D hab halt nicht geschlafen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344198130962,
+      "content": "echt? (; ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344197996750,
+      "content": ":) haha ich bin so kaputt also spa\u00c3\u009f ist da was anderes :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344197973689,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344197972587,
+      "content": "Ohje, ja dann viel spa\u00c3\u009f (: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344197947787,
+      "content": "jap :) das muss dann sein -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344197928938,
+      "content": "Achso (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344197905600,
+      "content": ":) weil ich ne sprachreise mach :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344197882523,
+      "content": "Wieso gehst du dann morgen in die Schule :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344197867675,
+      "content": "neeein :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yasmin Anna",
+      "timestamp_ms": 1344197850390,
+      "content": "Bist du umgezogen?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Yasmin Anna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/yasminanna_bcp__0915a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Nedeljko Nedeljkovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nedeljko Nedeljkovic",
+      "timestamp_ms": 1574105322772,
+      "content": "Hy hy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nedeljko Nedeljkovic",
+      "timestamp_ms": 1574105317052,
+      "content": "Nedeljko winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nedeljko Nedeljkovic",
+      "timestamp_ms": 1574105316231,
+      "content": "Nedeljko winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nedeljko Nedeljkovic",
+      "timestamp_ms": 1574031511222,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nedeljko Nedeljkovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nedeljkonedeljkovic_vodzowcnka",
+  "magic_words": [
+    
+  ]
+}

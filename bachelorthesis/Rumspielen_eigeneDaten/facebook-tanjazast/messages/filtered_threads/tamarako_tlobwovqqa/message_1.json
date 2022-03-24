@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Tamara Ko"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tamara Ko",
+      "timestamp_ms": 1511914329273,
+      "content": "Ich wollte dich fragen, ob du Lust hast, gemeinsam mit ganz vielen anderen M\u00c3\u00a4dels einen neuen lifestyle zu leben :) hierbei geht es um beauty (gesunde N\u00c3\u00a4gel und haare und vor allem super sch\u00c3\u00b6ne haut :) )und Gesundheit (wie ern\u00c3\u00a4hre ich mich gesund/ wie nehme ich ab oder zu ohne defizite f\u00c3\u00bcr den K\u00c3\u00b6rper oder wenn man den K\u00c3\u00b6rper definieren m\u00c3\u00b6chte);) und gleichzeitig gibt es noch ein hammerm\u00c3\u00a4\u00c3\u009figes Team das immer hinter einem steht :) wir sind eine coole Gruppe von verschiedenen Leuten, die etwas in ihrem Leben ver\u00c3\u00a4ndern wollen. Hast du Interesse daran? ;) freu mich \u00c3\u00bcber deine R\u00c3\u00bcckmeldung! Ganz liebe gr\u00c3\u00bc\u00c3\u009fe Tamara",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tamara Ko",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "filtered_threads/tamarako_tlobwovqqa",
+  "magic_words": [
+    
+  ]
+}

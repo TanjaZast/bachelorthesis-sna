@@ -1,0 +1,222 @@
+{
+  "participants": [
+    {
+      "name": "Madeleine Merz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404208361780,
+      "content": "Genau :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404208225047,
+      "content": "Also einfach nur davor treffen wir uns ? (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404208191596,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404208186656,
+      "content": "Gegen\u00c3\u00bcber vom henrys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404208114202,
+      "content": "Alles klar, wohin genau ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404207921380,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404207918111,
+      "content": "Ja 17 Uhr steht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404207899999,
+      "content": "Kannst dus nur rechtzeitig sagen ? Weil es nicht so einfach ist, spontan nach ulm zu kommen f\u00c3\u00bcr mich ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404146375221,
+      "content": "17 Uhr wahrscheinlich ist aber nicht sicher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404145214368,
+      "content": "Wann soll ich denn wo sein ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404123957430,
+      "content": "Okay das passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404116721831,
+      "content": "Ab 16 Uhr ..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404079027891,
+      "content": "Wann geht es?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1404069567185,
+      "content": "Kommt auf die uhrzeit drauf an ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069352234,
+      "content": "Geht Dienstag bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1403814923288,
+      "content": "Okay, also sagst den Termin dann halt, dann bring ich dir da das Geld ? (;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403814818567,
+      "content": "Ja wir gehen zusammen hin :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1403812789626,
+      "content": "hey, wie siehts aus mitm bezahlen ? du meintest, wir sollen uns bei dir melden ? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1402659941916,
+      "content": "Okay perfekt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402659531635,
+      "content": "Und mit dir hab ich fest gerechnet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402659517065,
+      "content": "Ja du nicht elena hat mir deinen Namen von Anfang an genannt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1402602724566,
+      "content": "Okay, aber ich muss mir keinen suchen, wenn das so klappt ? (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402593125327,
+      "content": "Aber ich frag die einfach ob manche einen Ausweis f\u00c3\u00bcr alle F\u00c3\u00a4lle da h\u00c3\u00a4tten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1402583000675,
+      "content": "Achso , okay (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402580102878,
+      "content": "Fredel und michelle und lea :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1402570324612,
+      "content": "Ja aber ich glaube, au\u00c3\u009fer uns drei sind's nicht viele, oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402569919353,
+      "content": "Weil es nicht zu viele sein d\u00c3\u00bcrfen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402569909415,
+      "content": "Okay perfekt wir m\u00c3\u00bcssen ja echt schauen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Madeleine Merz",
+      "timestamp_ms": 1402564109135,
+      "content": "hey tanja (;\nAlso wenn das klappt, dass die u18 auch mitk\u00c3\u00b6nnen, dann bin ich dabei (;\nAlina und Laura kann ich noch anrufen, die sind nicht auf fb. allerdings ist alina im urlaub, ich wei\u00c3\u009f nicht, wie schnell ich die erreiche..",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Madeleine Merz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/madeleinemerz_dyvgdga54w",
+  "magic_words": [
+    
+  ]
+}

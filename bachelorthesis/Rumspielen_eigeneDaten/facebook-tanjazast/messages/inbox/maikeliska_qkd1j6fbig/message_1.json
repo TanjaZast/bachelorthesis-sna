@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331485120642,
+      "content": "ja kp da war ja ein frgaezeichen anscheinend nicht :) ehm und kommt bedingungsatz dran?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Liska",
+      "timestamp_ms": 1331484920400,
+      "content": "ja ich hab da n\u00c3\u00a4mlich noch was mit indirekte und direkte objektpronomen aufgeschrieben ....aber ich hab keine ahnung....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331484821923,
+      "content": "ehm ich dachte nur indirekte rede und demonstrativ pronomen? ;) oder??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Liska",
+      "timestamp_ms": 1331484756042,
+      "content": "lernen m\u00c3\u00bcssen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Liska",
+      "timestamp_ms": 1331484747996,
+      "content": "Hey... weisst du was wir in franz genau ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maike Liska",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maikeliska_qkd1j6fbig",
+  "magic_words": [
+    
+  ]
+}

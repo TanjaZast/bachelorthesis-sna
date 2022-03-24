@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Steven Stammel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388929012250,
+      "content": "Ya eigentlich ja schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388923004744,
+      "content": "Ist ja logisch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388882291835,
+      "content": "Ok haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388882143653,
+      "content": "Langweilig :D sonst w\u00c3\u00a4re ich nicht jetzt schon daheim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388881409871,
+      "content": "Ya man voll cool! Ok und wie war der geburtstag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388881193083,
+      "content": "Ja war ich aber schon viel fr\u00c3\u00bcher gerade eben war ich auf nem Geburtstag. Ja bin i Ch hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388881056961,
+      "content": "Ok warst ratio halle? Hab bild gesehen voll sch\u00c3\u00b6n! Du wurdest da so makiert basketball dancer oder so haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388880962113,
+      "content": "Lauf jetzt heim :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388880704345,
+      "content": "Auch was geht so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1388880687410,
+      "content": "Hallo gut und dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388878912883,
+      "content": "Wie gehts?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Steven Stammel",
+      "timestamp_ms": 1388878905631,
+      "content": "Haai :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steven Stammel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stevenstammel_1xfo59wthq",
+  "magic_words": [
+    
+  ]
+}

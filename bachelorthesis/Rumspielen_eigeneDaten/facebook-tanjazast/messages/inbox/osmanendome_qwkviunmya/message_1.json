@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Osmanen Dome"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Osmanen Dome",
+      "timestamp_ms": 1460004646927,
+      "content": "Geile \u00f0\u009f\u0098\u008d ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Osmanen Dome",
+      "timestamp_ms": 1432958325921,
+      "content": "Hey kennt man sich eig ? Woher kommst du denn ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Osmanen Dome",
+      "timestamp_ms": 1425420981402,
+      "content": "Hey h\u00c3\u00bcbsche",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Osmanen Dome",
+      "timestamp_ms": 1424011880339,
+      "content": "Hey \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Osmanen Dome",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/osmanendome_qwkviunmya",
+  "magic_words": [
+    
+  ]
+}

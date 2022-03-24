@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1374777179980,
+      "content": "Nein nicht so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374777075598,
+      "content": ":) hahah wei\u00c3\u009f nicht etwa nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1374777029931,
+      "content": "Wieso Profi Fotograf? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374776957120,
+      "content": "Ja merkt man schon bisschen :) Profi Fotograf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1374776914655,
+      "content": "Haha :D \nMir is langweilig :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374776874186,
+      "content": "Hahah wenn es dich gl\u00c3\u00bccklich macht :) bist ja dann richtig spontan :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1374776754367,
+      "content": "Nein :) \nHabs nur so aus Spa\u00c3\u009f geschrieben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374776712792,
+      "content": "Ist das denn verboten? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1374776636833,
+      "content": "Selbst Kommentar liken :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_hv1lrgcocg",
+  "magic_words": [
+    
+  ]
+}

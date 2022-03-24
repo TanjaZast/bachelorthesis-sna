@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Vanesa Pe"
+    },
+    {
+      "name": "Marcel Pursche"
+    },
+    {
+      "name": "Jan Majert"
+    },
+    {
+      "name": "Sarah Schneider"
+    },
+    {
+      "name": "Steffi Ludwar"
+    },
+    {
+      "name": "Jean Luc Sagna"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Kim Ruf"
+    },
+    {
+      "name": "Lea Ludwar"
+    },
+    {
+      "name": "Una Vio"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isabella Watson Rodriguez",
+      "timestamp_ms": 1283971713000,
+      "content": "waas ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jan Majert",
+      "timestamp_ms": 1283964711000,
+      "content": "jaaaa ok \n\nwie hei\u00c3\u009ft dein neues profil...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1283964599000,
+      "content": "heei . ich muss mir ein neues profil machen tu mir dann anfrage schicken : Einfaachso",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Vanesa, Marcel und 10 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzervanesamarcelund10weiterepersonen_iu2jxxspew",
+  "magic_words": [
+    
+  ]
+}

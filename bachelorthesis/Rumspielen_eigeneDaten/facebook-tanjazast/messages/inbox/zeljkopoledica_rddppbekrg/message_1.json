@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Zeljko Poledica"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zeljko Poledica",
+      "timestamp_ms": 1298830414000,
+      "content": "valjda sam ti brat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zeljko Poledica",
+      "timestamp_ms": 1298829989000,
+      "content": "Pa pitaj majku ima li neku sestru u Ivanjici",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1298826468000,
+      "content": "Ko si ti? Neki rod?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Zeljko Poledica",
+      "timestamp_ms": 1298822747000,
+      "content": "E CaO, was sie tun, was Sie arbeiten Mama, Papa und seka.\u00c5\u00bdeljko von Ivanjica dein Bruder",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Zeljko Poledica",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zeljkopoledica_rddppbekrg",
+  "magic_words": [
+    
+  ]
+}

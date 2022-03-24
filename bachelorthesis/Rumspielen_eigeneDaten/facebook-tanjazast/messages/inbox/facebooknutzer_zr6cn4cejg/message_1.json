@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1493057835996,
+      "content": "Ohje haha okay ... \n\nVielen lieben Dank...lieb von dir \u00f0\u009f\u00a4\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493052945360,
+      "content": "hey laura :* Ich w\u00c3\u00bcnsche dir f\u00c3\u00bcr morgen gaaaaanz viel Gl\u00c3\u00bcck und du schaffst das! ich glaube ganz fest an dich! Du hast so viel gelernt f\u00c3\u00bcr dein Abitur und jetzt wirst du daf\u00c3\u00bcr gute Noten ernten, da bin ich mir sicher!! Toi toi toi :* (muss auf Fb schreiben weil mein Handy ins Klo gefallen ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1473672862628,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_zr6cn4cejg",
+  "magic_words": [
+    
+  ]
+}

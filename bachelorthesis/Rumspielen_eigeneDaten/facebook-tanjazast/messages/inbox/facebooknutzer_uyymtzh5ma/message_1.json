@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1395076157090,
+      "content": "ja... :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1395076145604,
+      "content": "Nach morgen feierst einfach trotzdem und sie vergisst du nie! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1395075873862,
+      "content": "ja...danke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394886185844,
+      "content": "Oh nein mein Beileid :* musste sie eingeschl\u00c3\u00a4fert werden? :( Kopf hoch s\u00c3\u00bc\u00c3\u009fe :*!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1394836933633,
+      "content": "die ist seit heut morgen nicht mehr da :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1394800201476,
+      "content": "Oh nein was ist mit deinem Hund? :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_uyymtzh5ma",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,2630 @@
+{
+  "participants": [
+    {
+      "name": "Philipp Goeggelmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1477336374560,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1419969919195,
+      "content": "Hey :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1405717167516,
+      "content": "Danke :*\n\n\nSchade :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405716830461,
+      "content": "Alles liebe und gute nochmal ;)!! Ich kann morgen leider nicht kommen bin in \u00c3\u0096sterreich :/ sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385615878680,
+      "content": "Du wolltest letztens unbedingt tanzen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385594648807,
+      "content": "Hahahaha genau ist klar :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385584040110,
+      "content": "Ich tanz dann auch mit dir ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385584027484,
+      "content": "Ja ? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385584013956,
+      "content": "Weil eben!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385582400612,
+      "content": "Klar warum gehst net ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385582301103,
+      "content": "Nein denk nicht du? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385581441881,
+      "content": "Gehst du ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580992817,
+      "content": "Freitag is sicher mahatma :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580881744,
+      "content": "Nicht ? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385580852180,
+      "content": "Wei\u00c3\u009f ich gar nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580683117,
+      "content": "Mahatma is doch was oder nicht ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385580590719,
+      "content": "Shopppen bisher was wei\u00c3\u009f ich du? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580456758,
+      "content": "Was machst am Freitag ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580444064,
+      "content": "Ganz gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385580279181,
+      "content": "Joa geht dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385580016264,
+      "content": "Wie geht's dir ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385579684984,
+      "content": "Hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1385578440299,
+      "content": "Hey :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354542821331,
+      "content": "ja wie schlag was vor ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354542702959,
+      "content": "Beweise es! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354541717863,
+      "content": "passiert nie wieder ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354541679035,
+      "content": "Naja dar\u00c3\u00bcber l\u00c3\u00a4sst sich ja streiten aber okay.. ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354541557525,
+      "content": "jaa ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354541542676,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354541539018,
+      "content": "Achso du wei\u00c3\u009ft das? ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354541374435,
+      "content": "ich wei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354541348358,
+      "content": "Ich war echt krank und alleine in der Stadt!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354540598288,
+      "content": "oder war ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354540591679,
+      "content": "klar hab ichs gewusst wie dumm es f\u00c3\u00bcr dich ist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354540525458,
+      "content": "Das du nicht mal am Samstag kapiert hast wie dumm das alles war?! ;) naja ich.. Mach schon was. du?? Also eigentlich lernen und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354540371988,
+      "content": "..... was machst du heut noch so ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354539485786,
+      "content": "Achso ja stimmt da war ja was ;) sorry hatte ich ja voll vergessen??!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354538938743,
+      "content": "mit dem kino und so wo ich verkackt hab ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354538921524,
+      "content": "was wohl ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354538742574,
+      "content": "Was war da?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354538595210,
+      "content": "wegen samstag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354538579281,
+      "content": "Achso wegen was?! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354538310875,
+      "content": "sorry nochmal ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1354538242558,
+      "content": "Heei ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1354534319213,
+      "content": "hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353624658117,
+      "content": "jaaa klar schreib ich dir ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353624631754,
+      "content": "Schon besser ;) also gro\u00c3\u009fer ich geh dann mal schlafen solltest du auch :* schlaf gut und so und bis morgen dann also wenn du mir schreibst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353624558290,
+      "content": "haha ja bestimmt irgendwann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353624507659,
+      "content": "Oha !!??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353624456822,
+      "content": "vllt =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353624393676,
+      "content": "F\u00c3\u00a4hrst du mich mal auf deinem Roller? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353624349704,
+      "content": "achso du bist dran",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353624248907,
+      "content": "Nein ;( ich hab ne wii und Mario und so Zeugs :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353624198042,
+      "content": "hast du ne konsole ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623979605,
+      "content": "stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623964897,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623961744,
+      "content": "Du bist trotzdem dran ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623885198,
+      "content": "gell ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623718994,
+      "content": ";) toll ganz super",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623692657,
+      "content": "spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623681394,
+      "content": "nix 3:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623658628,
+      "content": "Was sagst du? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623534499,
+      "content": "hahahaha ok ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623500989,
+      "content": "Hmm 20 ;) und eine Frau ist jemand mit 20/21 sowas :* was sagst du? Und schreib nicht so oft 3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623406142,
+      "content": "3:) ab wieviel jahren wird ein junge zum man was sagst du dazu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623242596,
+      "content": "Also du?? :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623170704,
+      "content": "hahaha 3:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353623151414,
+      "content": "Nein kein Problem wollte es doch nur mal so wissen ;)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353623030820,
+      "content": "hahahaha 16 ich kann auch weibers sagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622930157,
+      "content": "\nDann sag mal was f\u00c3\u00bcr dich eine Frau ist oder wie alt die sind ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622847361,
+      "content": "jaaa ne dumme frage ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622818840,
+      "content": "Kennst du Frauen? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622770012,
+      "content": "hahaha oder mit frauen 3:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622740812,
+      "content": "Nicht unbedingt?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622705459,
+      "content": "was mit freunden machen ist ja klar :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622639179,
+      "content": "Kann ich mit bei dir voll vorstellen ;) naja ich find das nicht soOoo :D ehm keine Ahnung was macht dir am meisten Spa\u00c3\u009f?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622435534,
+      "content": "du bist dran ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622427540,
+      "content": "jaa schon paar mal hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622403435,
+      "content": "Nein ;) du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622229998,
+      "content": "hattest du schon mal n richtigen absturtz ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622172327,
+      "content": "jaa gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622149637,
+      "content": "Oh das hast du s\u00c3\u00bc\u00c3\u009f gesagt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353622070085,
+      "content": "meine familie und freunde ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622048633,
+      "content": ":* ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353622044743,
+      "content": "Okay.. Was ist f\u00c3\u00bcr dich richtig wichtig? ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621971594,
+      "content": "achso jetzt bist du dran ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621932297,
+      "content": "Ehm also seit 1 1/2 Jahren normal Training wo jeder hin darf oder 2 Jahre sind es schon! :) und ein halbes Jahr oder so f\u00c3\u00bcr competition zusatztraining :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621808550,
+      "content": "wie lang gehst du schon tanzen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621777739,
+      "content": "ok =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621716044,
+      "content": "Nein du bist leider dran :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621626432,
+      "content": "ich hab keine ahnung frag du mich was  3:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621567321,
+      "content": "Egal was ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621366013,
+      "content": "was soll ich sagen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621340124,
+      "content": "Ja so ist es :* sag was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621282134,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621277039,
+      "content": "hahaha achso ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621256388,
+      "content": "Ich geh zu den Nachbarn die haben wie so ne Videothek und da hole ich mir immer Thriller und so Zeugs also wei\u00c3\u009f ich es noch gar nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621188432,
+      "content": "egal was hast du f\u00c3\u00bcr filme daheim ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621158147,
+      "content": "Das ist aber nicht gut?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621109285,
+      "content": ";) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353621049155,
+      "content": "hab auch keine ahnung ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353621024724,
+      "content": "Nein ;) leider nicht und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620890795,
+      "content": "hast du schon ne idee was wir schauen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620807052,
+      "content": "hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620766733,
+      "content": "Na also dann zeig das ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620729950,
+      "content": "doch eig schon ^_^ ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620705911,
+      "content": "Oh man als ob man das nicht voll gemerkt hat?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620597153,
+      "content": "achso haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620579269,
+      "content": "Das war doch Ironie :*!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620487720,
+      "content": "egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620461740,
+      "content": "Wei\u00c3\u009ft ich nicht?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620173850,
+      "content": "find ich gut =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620139781,
+      "content": "Sie wird gar nicht kommen ;)?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353620112203,
+      "content": "achso =D sie wird uns ja nicht dauerst\u00c3\u00b6ren ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353620069469,
+      "content": "Nein? ;) die Macht was am Computer oder so keine Ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353619845836,
+      "content": "ja stimmt schon geht sie dan am sonntag weg ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353619818265,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353619814149,
+      "content": "Ich kann das ihr ja auch kaum nicht sagen?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353619632300,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353619588892,
+      "content": "Achso ;) na dann passt es.. So ist es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353619478905,
+      "content": "ich hatte keine ahnung was ich schreiben sollte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353619453343,
+      "content": "fail ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353619356553,
+      "content": "hatte keine ahnung was schreiben ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353618363602,
+      "content": "Was ist so lustig?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353618293403,
+      "content": "haha ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353618273144,
+      "content": "Klar!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353618246650,
+      "content": "wei\u00c3\u009f eig deine schwester ob ich komm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353618103921,
+      "content": "Ja glaube ich dir ich mich auch <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353618001463,
+      "content": "alter wie geeil daf\u00c3\u00bcr beneide ich dich <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617952412,
+      "content": "Ich muss immer freitags um 8 aufstehen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617869248,
+      "content": "ka muss noch schauen warum wann musst du morgen aufstehen ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617827508,
+      "content": "Tolle frage ;)? Keine Ahnung ich kann freitags immer ausschlafen und dann schau ich noch ewig tv.. Wann gehst du!? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617751144,
+      "content": "wann gehst du heut schlafen ;) ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617696364,
+      "content": "hahahahhaha ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617656868,
+      "content": "Okay gut ;) ich sag ja nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617618389,
+      "content": "ja aber ich wills fitnesstudio durchziehen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617440548,
+      "content": ";) das w\u00c3\u00bcrde ich nie machen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617389408,
+      "content": "daf\u00c3\u00bcr kann ich am sonntag chillen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617309586,
+      "content": "jaa wird voll anstr\u00c3\u00a4ngend ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617236530,
+      "content": "an einem tag fitness und training?? ;) nicht schlecht!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617157580,
+      "content": "schule, fitnesstudio training und mit paar kumpels zocken ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617106242,
+      "content": "okay sehr gut musst du auch ;) also erst muss ich meine gfs machen und dann geh ich in die stadt und dann hab ich training und dann geh ich heim :* du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617060847,
+      "content": "was machst du morgen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353617041269,
+      "content": "ich vertrau dir ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353617001924,
+      "content": "ja?? ;) ich hab immer in der bank aufgeladen aber oft auch im rewe du musst halt dann nur eplus kaufen weil aldi ja eigentlich eplus ist ;) da kannst mir glauben ich kenn mich aus :P :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353616928903,
+      "content": "echt ? cool ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616875477,
+      "content": "das kannst auch in der bank oder m\u00c3\u00bcller oder rewe egal wo machen ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353616815276,
+      "content": "jaa muss morgen zu aldi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616785376,
+      "content": "oh das ist echt bitter ;) haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353616761878,
+      "content": "ne abgelaufen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616726729,
+      "content": "so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616723574,
+      "content": "dann liegt es daran das du kein geld mehr hast!! ;) oh man hast keine flat oder si?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353616686343,
+      "content": "ka ;) kanschon sein oder des legt daran weil ich kein geld mehr drauf hab ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616604806,
+      "content": "auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353616602542,
+      "content": "heei ;) oh nein wetten meins jetzt aucg ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353616577914,
+      "content": "hey mein wahtsapp spackt :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353275459041,
+      "content": "Ok lass whatsapp weiter schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353275243694,
+      "content": "Okay whats app ist aber eh cooler also hab ich da geschrieben ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353275136705,
+      "content": "Hab dir Grad ne sms geschickt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353274986899,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353274982978,
+      "content": "Okay warte meine kann ich auch auswendig aber schau lieber ob se die richtige ist 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353274901566,
+      "content": "Jaa ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353274873469,
+      "content": "Ehm okay?? ;) was sollen die Zahlen?? Spa\u00c3\u009f.. Deine  Nummer oder was?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353274820664,
+      "content": "015734653538",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353274732541,
+      "content": "Sorry mein fb spackt und eig Nix ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353273122390,
+      "content": "Uuh hast mich gestalkt was wei\u00c3\u009ft noch so \u00c3\u00bcber mich?? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353272994127,
+      "content": "Ne Spa\u00c3\u009f hab mal dein Profil durch geschaut  ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353272929212,
+      "content": "Hahahaha tja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353272875174,
+      "content": "Nein woher wei\u00c3\u009ft du das ich eine hab?? ;) die geht zur omi schlafen oder kommt mit :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353272785625,
+      "content": "Hahaha ist deine sis auch weg ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353272603674,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353272583198,
+      "content": "Ja oder nimmt mich einfach mit oder bel\u00c3\u00a4stigt mich oh man das w\u00c3\u00a4re echt schlimm - -",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353272432115,
+      "content": "Hahahahaha glaub ich dir ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353272284892,
+      "content": "Ich glaub die kommen wenn dann zu mir aber ich muss mir erst noch \u00c3\u00bcberlegen wem ich \u00c3\u00bcberhaupt sag das ich alleine bin sonst kommen die mich nerven oder so :) wird noch alles spontan gemacht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353272145974,
+      "content": "Kommen da dan nicht paar Freunde zu dir oder gehen die alle mahatma ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353272042066,
+      "content": "Ehm Hallo noch viel besser! ;) viel mehr Platz ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271982494,
+      "content": "Ist doch auch chillig ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353271934717,
+      "content": "Ehm ja sieht ganz so aus ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271851921,
+      "content": "Achso also hast du sturmfrei ;) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353271785615,
+      "content": "Achso ehm die gehn da wies aussieht von Samstag bis Mittwoch oder Donnerstag weg und ich kann auch nicht meine Oma da ewig lang wach bleiben lass und ich bin da den ganzen Tag also von 8 bis 8 beim Tanzen ich glaub ich hab dann nicht mehr so Lust auf feiern aber das Wochenende drauf bestimmt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271591201,
+      "content": "Wie lang sind eig deine Eltern weg am Samstag ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271517005,
+      "content": "Achso Ja hahaha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353271487678,
+      "content": "Ja ich schreib danke du bitte dann ich wieder danke und so ;) wei\u00c3\u009ft was ich meine?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271209847,
+      "content": "Was wird nicht die ganze Zeit so weiter gehen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353271109627,
+      "content": "Das wird aber nicht die ganze Zeit so weiter gehn danke bitte usw ?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353271041964,
+      "content": "Bitte ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353271022360,
+      "content": "Oha wie s\u00c3\u00bc\u00c3\u009f und nett von dir.. Danke dir ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353270953711,
+      "content": "Jaa ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353270901453,
+      "content": "Findest du wirklich? ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353270891747,
+      "content": "Ehm Hallo der Typ bei dem ich beim skypn eingeschlafen bin war so gekr\u00c3\u00a4nkt und traurig und jetzt hasst er mich :D also vooooooll lustig :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353270813007,
+      "content": "Du sahst gestern voll gut aus ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353270783616,
+      "content": "Hahaha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353270493471,
+      "content": "Okay kein Problem tja ich bin nicht m\u00c3\u00bcde ;) kenn ich ich Schlaf immer innerhalb 3 Sekunden ein sogar w\u00c3\u00a4hrend ich skype oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353270309663,
+      "content": "Jaa ich bin Grad vol m\u00c3\u00bcde also nicht wundern wenn ich mal nicht schreib ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353269659898,
+      "content": "Uuuh sportlich sportlich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353269564970,
+      "content": "Fitnesstudio ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353269475313,
+      "content": "Wenn ich nicht joggen geh dann gar nichts oder halt in die Schule gehn ;) du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353269273502,
+      "content": "Ja was machst du morgen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353269238096,
+      "content": "Weil ich das so gut wie jeden Tag mache und ewig viel trainiere ;) haha <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353269156662,
+      "content": "Du bist voll sportlich beim tanzen gehst du immer voll ab ;) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353269027602,
+      "content": "Haha ich bin glaub so krass unsportlich wie niemand :o leider <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353268914026,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353268896110,
+      "content": "Du sportskanone ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353268823595,
+      "content": "Also ich war Montag Dienstag joggen Mittwoch so Sport Freitag Training Samstag joggen und heute Training ;) jetzt tut mir alles weh :o ich auch... Ach und sicher doch!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353268560423,
+      "content": "Hahahaha nicht \n\nUnd ich finds gut das du sportmachst also joggen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353268428076,
+      "content": "Das ist mein Ernst! ;) du stehst eindeutig auf den! ;) ehm halt um kondition zu bekommen und mein essen abzurennen :D ist doch klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353268230737,
+      "content": "Hahaha\n\nAchso warum gehst du joggen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353268165937,
+      "content": "Und du findest ihn bestimmt voll hei\u00c3\u009f stimmts ?? ^^ ehm keine Ahnung vom joggen tanzen Training halt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353268061086,
+      "content": "Nur so und warum tut dir alles weh ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353268026593,
+      "content": "Ehm nett.. Kp ;) warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353268015370,
+      "content": "Ja mir tut einfach alles weh :(\"!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353267925027,
+      "content": "Wie findest du emre ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353267822885,
+      "content": "Hahahaha auch nicht schlecht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353267538866,
+      "content": "kein problem ;) so konnte ich wenigstens bissle ausruhen und schlafen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353267278277,
+      "content": "Sorry das ich nicht geschrieben hab war stadt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353248339002,
+      "content": "Was genau ja? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353248140975,
+      "content": "Jaaa ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353247378501,
+      "content": "Das war schon echt schlecht nacher ging es aber noch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353247119554,
+      "content": "Hoffentlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353247111914,
+      "content": "Jaa ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353246419011,
+      "content": "Na dann ;) wird bestimmt mehr los sein als gestern :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353245986729,
+      "content": "So bin wieder da und Ja eig schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353240537524,
+      "content": "Hmm ich wei\u00c3\u009f nicht glaub nicht ;) meine Eltern sind da weg und ja niemand kann mich fahren.. Du? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353239813159,
+      "content": "ich geh kurtz off bis sp\u00c3\u00a4ter ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353239442950,
+      "content": "gehst du n\u00c3\u00a4chste woche wieder ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353239235693,
+      "content": "ja auch hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353239222466,
+      "content": "Ja klar wurde ja extra abgeholt privat Taxi und so ;) du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353239148080,
+      "content": "und gut nach hause gekommen ;) ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353239108138,
+      "content": "Hallo ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1353235443170,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346089798839,
+      "content": "ich schreib dir heut abend was gab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346089735634,
+      "content": "Lecker ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346089247141,
+      "content": "keine ahnung malschauen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346089207835,
+      "content": "Was gibt's??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346089183297,
+      "content": "jaa ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346089124948,
+      "content": "Erst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346089083415,
+      "content": "berlin tag und nacht schauen und um acht essen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346089016385,
+      "content": "Sitzen und laufen und ausruhn ;p du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346088901468,
+      "content": "was machst du grad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346088886946,
+      "content": "Sieht ganz so aus ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346088815753,
+      "content": "jaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346088799450,
+      "content": "Das kommt dann echt noch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346088702825,
+      "content": "seit freitag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346088691282,
+      "content": "Wie lang bist schon da??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346088647944,
+      "content": "ja es geht kommt auch noch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346088452402,
+      "content": "Nein ;) das kommt erst noch und du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346088055844,
+      "content": "auch bist auch schon sch\u00c3\u00b6n braun ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087943799,
+      "content": "Mir gehts gut und dir?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087863980,
+      "content": "ok wie gehts dir so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087846373,
+      "content": ";) dann freut mich das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087812411,
+      "content": "n\u00c3\u00b6 aber er hat ein ersatz schl\u00c3\u00bcssel ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087783906,
+      "content": "Also nicht mehr zur\u00c3\u00bcck??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087680736,
+      "content": "verschwunden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087668556,
+      "content": "da haben nur die schl\u00c3\u00bcssel gefehlt und die sind verschwinden ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087590644,
+      "content": "Italien ist auch geil ;) kam dein Traktor zur\u00c3\u00bcck??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087533221,
+      "content": "hahahhahah ok auch nicht schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087511525,
+      "content": "Ja ;) ist schon immer so gewesen ;P business Frau halt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087453549,
+      "content": "bin in italien du bist dieses jahr auch \u00c3\u00bcberall ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087388825,
+      "content": "War erst 3 Wochen in England und geh jetzt bin ich in Serbien und geh noch nach Kroatien ;) du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087266782,
+      "content": "wo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087250033,
+      "content": "Ich auch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087205481,
+      "content": "jaa bin grad im urlaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087190571,
+      "content": "Alles klar ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1346087147847,
+      "content": "heey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346087135387,
+      "content": "Heei ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479962593,
+      "content": "Oha :) das war bestimmt jemand von deinen freunden :P ach wie wars gestern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343479824313,
+      "content": "ach beim nachbarn wurden bulldogschl\u00c3\u00bcssel geklaut\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479646383,
+      "content": "Und du?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343479597500,
+      "content": "ah ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479539034,
+      "content": ":) ehm nichts eig nur chillen und ausruhen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343479444960,
+      "content": "leider was machst du heut noch so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479401597,
+      "content": "Tja kann schon sein ;) ich ja auch aber sie hats vergessen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343479251476,
+      "content": "mann ich h\u00c3\u00a4tt so gern mit dir geredet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479192557,
+      "content": "Weil sies vergessen hat :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343479131877,
+      "content": "warum ist nina dan nicht zu mir gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479075010,
+      "content": "Meine mama hatte ihren 40er und dann musste ich da bleiben und mich wollte ja niemand abholen.. Aber ich hab daf\u00c3\u00bcr nina angerufen um mit dir zu labern :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343478899938,
+      "content": "jaa ich h\u00c3\u00a4tt mich voll gefreut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478850992,
+      "content": "Sorry das ich gestern nicht kommen konnte :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343377418807,
+      "content": "Okay ich auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343342587533,
+      "content": "ich geh jetzt schlaffen gute nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343342274455,
+      "content": "nur fb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343342220141,
+      "content": "Ehm chatten simsen und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343342185174,
+      "content": "was machst grad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343342040856,
+      "content": "achso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343341974010,
+      "content": "Keine ahnung :) ist so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343341691398,
+      "content": "warum ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343341673135,
+      "content": "Ooooh nee?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343341009321,
+      "content": "jaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343340952961,
+      "content": "Ist das ein kompliment? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343340630089,
+      "content": "danke =D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343340594336,
+      "content": "Okay ich glaub dir das dann jetzt?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343340518708,
+      "content": "ne ich find dich h\u00c3\u00bcbsch des ist mein enst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343340485027,
+      "content": "Haha gelogen oder so? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343340365556,
+      "content": "wen du meinst ich find dich h\u00c3\u00bcbsch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343340309869,
+      "content": "Du musst eig sagen: ach egal aber das hat vollkommen gereicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343340218523,
+      "content": "das mann am abend dich nicht so gut gesehen hatt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343340171019,
+      "content": "Weil du mir zustimmst?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343340120938,
+      "content": "was schade ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343339861205,
+      "content": "Okay schade :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343339674592,
+      "content": "ja ich geb dir recht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343339658154,
+      "content": "Ja ist doch so oder nicht?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343339439533,
+      "content": ":) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343339332152,
+      "content": "hahahah wenn du meinst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343339306382,
+      "content": "Na und da sieht man nicht viel :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343338270143,
+      "content": "du hast mit mir getanzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343330650101,
+      "content": "?? :) hallo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343192203581,
+      "content": "Kannst du das sagen? :) hast du mich denn gesehen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343170693069,
+      "content": "tanja noch da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343169825909,
+      "content": "und sch\u00c3\u00b6ne augen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343169105738,
+      "content": "ein h\u00c3\u00bcbschen k\u00c3\u00b6rper",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343169087436,
+      "content": "du bist d\u00c3\u00bcn hast ein h\u00c3\u00bcbsches gesicht allgemein  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168835377,
+      "content": ":) nein??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168756012,
+      "content": "doch glaub mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168734790,
+      "content": "Jajaja :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168658473,
+      "content": "nein ich find dich h\u00c3\u00bcbsch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168571739,
+      "content": "Nein umgekehrt!? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168331566,
+      "content": "=D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168323579,
+      "content": "??????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168319718,
+      "content": "\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168316980,
+      "content": "warum nur eine is deine freundin nicht so sch\u00c3\u00b6n wie du \u00c3\u009f\u00c3\u009f\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168251402,
+      "content": "Aaah :) sag mer einer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168189097,
+      "content": "an nem geilen abend zu zwei h\u00c3\u00bcbschen m\u00c3\u00a4dels zu gehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168181647,
+      "content": "Meine rede :)!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343168144451,
+      "content": "echtso ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343168060156,
+      "content": "Haha :Z bisschen!? 100 jahre!! Wer h\u00c3\u00a4tte schon keine lust??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343167995460,
+      "content": "jaa h\u00c3\u00a4tte gedauert aber lust h\u00c3\u00a4tte ich schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343167926738,
+      "content": "Achsoo dann w\u00c3\u00a4rst vorbei gekommen?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343167883226,
+      "content": "schade weil auf alcohol h\u00c3\u00a4t ich grad richtig bog\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343167760228,
+      "content": "Nein :) nichts mehr :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343167708601,
+      "content": "habt ihr noch viel zu trinken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343167593396,
+      "content": "Ich weiss :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343167542655,
+      "content": "dan is gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343167415646,
+      "content": "Ja klar :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343167239031,
+      "content": "noch da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343166136556,
+      "content": "ok aber nur f\u00c3\u00bcr dich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343166049067,
+      "content": "Bleib einfach f\u00c3\u00bcr mich wach :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343165327962,
+      "content": ":D ich hab morgen keine schule also keine ahnung wann ich ins bett geh wann soll ich ins bett gehen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343164801253,
+      "content": "Gar nicht?? :) du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343164551026,
+      "content": "achso wann geht ihr heute so schlaffen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343164492895,
+      "content": "Ich kenn den nicht ;) und er mich glaub auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343164222292,
+      "content": "nur so wie findest du robin ihr freund ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343164125146,
+      "content": "Ja diese woche jeden tag :P warum?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343163806257,
+      "content": "machst du oft was mit nina ansch\u00c3\u00bctz ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343163750461,
+      "content": ":) ja ich weiss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343163527605,
+      "content": "ah ok hab grad dacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343163493033,
+      "content": "Nicht die anschuetz :) :P okay?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343163313981,
+      "content": "also mit nachnamen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343163293731,
+      "content": "nina weiter ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343163222798,
+      "content": "Die nina ist gerade gegangen und julia bleibt :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343163137903,
+      "content": "ich glaubs schon wie hei\u00c3\u009fen die 2 freundinen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343163085489,
+      "content": ":) ja okay dann glaubs halt nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343162927545,
+      "content": "achso und des sol ich glauben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343162866987,
+      "content": "Nur bissle bier und sekt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343162792198,
+      "content": "ah ok was trinkt ihr so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343162740797,
+      "content": "Ehm 1 und 3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343162565762,
+      "content": "hahahah welchen american pie ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343162437394,
+      "content": "Achsooo :D ehm trinken und american pie schauen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343162169071,
+      "content": "was macht ihr zwei heute noch so ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343161933987,
+      "content": "alles m\u00c3\u00b6gliche wie viel getr\u00c3\u00a4nke essen und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343161684342,
+      "content": "Aaah :) cool cool.. Was gibts da zu planen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343161456339,
+      "content": "ich musste meim dad helfen und noch bissel mein bday planen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343161340014,
+      "content": "Ehm meine klasse war bei mir zum grillen und jetzt chill ich mit 2 freundinnen und trinken bissle weil die eine noch \u00c3\u00bcbernachtet :) du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343161023587,
+      "content": "was hasch heut so gmacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343160935076,
+      "content": "Ja okay :) ich merks :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343160787287,
+      "content": "bin wieder on",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343160229648,
+      "content": "??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343155364467,
+      "content": "Ja klingt voll gut und ich versuchs echt mal aber meine mami wird da 40 und ich weiss echt net wann des langweilig wird und so :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343155211845,
+      "content": "muss off schreiben wir morgen weiter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343154894733,
+      "content": "ich kann dich auch abhollen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343154877612,
+      "content": "und kannst kommen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343154800976,
+      "content": "am 27.7 ist meine bday party des is in wernau",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343154694647,
+      "content": "Wann und wo und was??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Goeggelmann",
+      "timestamp_ms": 1343154391340,
+      "content": "falls du zu meim geburtstag kommst kannst du ein paar freundinnen mit nehmen ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Philipp Goeggelmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/philippgoeggelmann_nqk_dur0hw",
+  "magic_words": [
+    
+  ]
+}

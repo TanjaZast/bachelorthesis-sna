@@ -1,0 +1,228 @@
+{
+  "participants": [
+    {
+      "name": "Jana Blum"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368564703385,
+      "content": "Ich tu Ja auch nichts was ihr nicht wisst? :) ich schreib immer was der Plan ist wenn keine R\u00c3\u00bcckmeldung kommt mach ich trotzdem weiter denn ich werde st\u00c3\u00a4ndig angemotzt dass jenes gemacht werden muss und dieses und wo denn alles bleibt aber da hast du null schuld deine Arbeit ist ja seit Monaten schon fertig :) das macht jetzt auch nichts wir sagen dann iwas gutes und dann ist alles supi dupi okay? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1368564069802,
+      "content": "Ja.. Sry! Du muss sowas halt auch fr\u00c3\u00bcher sagen dass du des vorstellen willst und so ich bekommen gar nicht mir was du tust... \nIch geh jetzt ins Bett ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368564009922,
+      "content": "Oh okay :/ ja hmmm .. ist bisschen doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1368563957059,
+      "content": "Ich mein ja die unterschriftenzettel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368563544667,
+      "content": "Ne passt schon morgen ist es zu sp\u00c3\u00a4t ;) wir stellen das morgen n\u00c3\u00a4mlich vor :) denkst du an die Unterschriften zettel? :* :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1368563324271,
+      "content": "Ich find grad die Umfrage nicht mehr.. Sry! Ich hab keine Ahnung wo ich die hin hab des ist schon so ewig her wo ich die ausgewertet hab.. Ich such morgen nochmal :* \nH\nGute Nacht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1368562858334,
+      "content": "Sry war grad duschen\nJa die 2 Klassen die ich hatte hab ich ausgewertet und Hanna oder celine geschickt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368561600502,
+      "content": "Auch ausgewertet?  :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1368561410308,
+      "content": "Ich glaub schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368560776285,
+      "content": "Hattest du die 7a?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1365365861612,
+      "content": "Haha oh du arme ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1365365753341,
+      "content": "Ist bei mir auch so :/ und ich hab noch voll jetlag oder we man das schreibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1365365662523,
+      "content": "Ich auch nicht wirklich :D\nIch hab montags immer zur 3. Und komm wahrscheinlich erst 5 min vor ende der pause",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1365365595834,
+      "content": ";) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1365365589697,
+      "content": "Du wie was machen wir jetzt mit besprechen ich blicks nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1358884863597,
+      "content": "Ja mach des.. ich w\u00c3\u00a4r gern gekommen ;) ja wir m\u00c3\u00bcssen jetzt echt mal was machen aber bin letzter zeit hat ich gar keine zeit daf\u00c3\u00bcr ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358884697814,
+      "content": "Kein Problem ich wollte es nur mal sagen damit du bescheid wei\u00c3\u009ft ich schreib dann was dabei raus kam? :) wei\u00c3\u009ft ich mach jetzt bisschen druck das kommt nicht voran ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1358884599432,
+      "content": "Ich hab morgen nach der 4. Aus uns dann direkt nen arzttermin... sry :** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358884536733,
+      "content": "Jana ;* morgen nach der 6. W\u00c3\u00bcrde sich das Initiativen Team treffen vor der Mensa eben und dann schauen wir wo wir uns hin setzen um \u00c3\u00bcber alles bisschen zu quatschen :) willst du auch kommen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1353530691576,
+      "content": "Oke :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353529498273,
+      "content": "Ja ich wei\u00c3\u009f deswegen k\u00c3\u00b6nnen wir ja mit denen \u00c3\u00bcber den Geschmack reden :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1353527160864,
+      "content": "Ne ne passt schon ;) ich denk mir nur so langsamm das wir des lieber sein lassen Herr bieg hat uns auch schon nun Film \u00c3\u00bcber Kinder Sklaven gezeigt und dass alles von den Sch\u00c3\u00bclern der Jahrgangsstufe ausging ....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1353527004687,
+      "content": "bist du mir sauer deswegen also das ich dir voll vergessen hab bescheid zu sagen?? ;( :* tut mir echt leid ich wollte erst mal mit frau lamprecht kl\u00c3\u00a4ren und dann warst du heute so schnell weg im gang als ich dich kurz gesehen hab ;( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352592811110,
+      "content": "Wir lassen das einfach so ;)!? Wir wollen se ja indirekt beeinflussen?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1352586519950,
+      "content": "Keine ahnung mir egal wad denkst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1352567594848,
+      "content": "Also was denkst du?? Sollen wir es etwas verbessern und hast die Bilder gesehen?? :*   Fr. Lamprecht hat se uns geschickt ;)",
+      "files": [
+        {
+          "uri": "messages/inbox/janablum_5yyeqao9vq/files/image_1352567509372659_974608515913332.jpg",
+          "creation_timestamp": 1429298923
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1350563386108,
+      "content": "Heei ;) :* und um halb 4 dann vorm Rektorat?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1350069697553,
+      "content": "Heei ;) :* oha das ist echt gut!! Ich verpasse zwar Musik aber das \u00c3\u00bcberlebe ich auch noch!! ;)  haha gut <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jana Blum",
+      "timestamp_ms": 1350060124002,
+      "content": "Heii ;) \nwegen dem Zeug mit der Volksbank. Fr Vogt sagt wir bekommen da frei un es beginnt um 16 uhr. Wir treffen uns um 15.30 vor ihrem b\u00c3\u00bcro und gehen dann da hin ;) und es ist nicht nur unsere Schule da sondern auch noch mehrere ;)\ngr\u00c3\u00bc\u00c3\u009fle",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jana Blum",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/janablum_5yyeqao9vq",
+  "magic_words": [
+    
+  ]
+}

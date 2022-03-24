@@ -1,0 +1,530 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Allert"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449570051410,
+      "content": "Ich habe ihr eine Email Adresse angelegt oder meinst du ich muss der noch ein Ftp Benutzerkonto einrichten?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449570020865,
+      "content": "Tuts aber nicht \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449569235117,
+      "content": "Ich hab es schon zwei mal versucht ihn zu erreichen kam aber nur Mailbox",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449569215263,
+      "content": "Ok super sollte es auch \u00f0\u009f\u0098\u0085 habt ihr bei froxlor den Account f\u00c3\u00bcr Frau zast erstellt ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449568157901,
+      "content": "Bei Stefan funktioniert alles und er ist jetzt endlich zufrieden. Bei Frau Zast geht noch nichts aber habe mal eine Liste zusammengestellt was ich alles versucht und dabei festgestellt habe. Vielleicht ja auch der A Record der gefehlt hat. Jetzt geht aber das einloggen bei Mail.avfotofilm.de nicht mehr. \nDanke \u00e2\u0098\u00ba\u00ef\u00b8\u008f ach und bitte den Anruf nicht vergessen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449561635288,
+      "content": "Sehr gut danke \u00f3\u00be\u008c\u00b5! Ich hab jetzt bisschen probiert aber denke das wird nichts bei Mama \u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449523375092,
+      "content": "Ja kann ich machen \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bd was machen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449522736885,
+      "content": "Okay und du rufst an? \u00e2\u0098\u00ba\u00ef\u00b8\u008f wie will der das denn bitt machen \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449522139896,
+      "content": "Ok Adis regelt das heute noch dann l\u00c3\u00a4uft morgen alles (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449522045439,
+      "content": "Ja haben die Mails aber aber jetzt geht es wieder nicht. Setze mich morgen fr\u00c3\u00bch direkt wieder hin \u00f0\u009f\u0098\u0093 rufst dann morgen meinen Papa an und redest kurz mit ihm? Der hat sich ja eh beruhigt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449521689457,
+      "content": "Ich habe geh\u00c3\u00b6rt es ging doch ganz gut ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449512532603,
+      "content": "Und ruf meinen Papa heute Abend noch an okay?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449511883921,
+      "content": "Bis Mittwoch soll jemand vorbeikommen und das wieder so machen wie die Mails davor waren (bei beiden) und was \u00c3\u00bcber Windows Mail. \u00f0\u009f\u0098\u0095 sag das Adis und dass ich seine Nummer meinem Papa geben musste weil du nicht rangehst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449511490021,
+      "content": "Adis kann ich nicht erreichen aber mein Papa ist mal wieder Mega sauer also wundert euch nicht \u00c3\u00bcber den Anruf. Wollte euch warnen. \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449440142191,
+      "content": "Hey bez\u00c3\u00bcglich der Mail von deiner mom. Die kann Sie sich ganz einfach \u00c3\u00bcber den froxlor Link erstellen wie sie die gerne m\u00c3\u00b6chte inklusive Passwort und allem. Wenn man sich bei froxlor anmeldet steht links Emails und da kann man diese Adresse hinzuf\u00c3\u00bcgen und Passwort ausw\u00c3\u00a4hlen und \u00c3\u00bcber mail.kabelzug.de abrufen \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449439109861,
+      "content": "\u00c3\u009cber Google genauso erreichbar. Und ja sollte sein ist aber einfach in dem ein oder anderen Job nicht immer machbar \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449439032457,
+      "content": "Findet man aber \u00c3\u00bcber Google nicht oder? Schreib einfach am besten morgen - Feierabend muss sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449438951199,
+      "content": "Ja klar sag ich schon die ganze Zeit. Ja eben genauso doof ist es ja dann auch f\u00c3\u00bcr euch - weil es so extrem viel Arbeit geworden ist aber das wird hoffentlich bald alles gut \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449438406594,
+      "content": "Ja klar ist meine Aufgabe das zu regeln! Tut mir auch echt leid das es solche Komplikationen gibt sagt das bitte auch!! Ich geb mein bestes das so gut es geht zu vermitteln. Das Gute an der Geschichte ist das am Ende eine brutale Website f\u00c3\u00bcr wenig Geld f\u00c3\u00bcr euch rausspringt. \nhttp://kabelzug.de/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449438212194,
+      "content": "Wo kann man sich die Homepage eig anschauen? Oder ist die nicht online?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449438190469,
+      "content": "Danke Jonas \u00f0\u009f\u0098\u008a ich hoffe ich kann dich dann endlich in Ruhe lassen. Mir tut es so verdammt leid aber ich bekomme halt auch Papas Laune ab und deshalb melde ich mich immer bei dir (auch wenn es unversch\u00c3\u00a4mte Zeiten sind) ich hoffe das klappt \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449438061879,
+      "content": "Ich geb mein bestes lass auch noch die Daten zukommen f\u00c3\u00bcr Windows Mail damit wieder alles beim Alten ist. Alles gar kein Problem!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449437902715,
+      "content": "v.zast@kabelzug.de",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449437820914,
+      "content": "L\u00c3\u00a4uft bei der auch alles \u00c3\u00bcber Strato und das ist ja jetzt nicht mehr so oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449437671813,
+      "content": "Wie hei\u00c3\u009ft die Mail ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449437665090,
+      "content": "Was hat das mit der Website zu tun ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449437640020,
+      "content": "Kannst du  dich morgen drum k\u00c3\u00bcmmern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449437622702,
+      "content": "Mamas Mails funktionieren auch nicht mehr.\u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449404474970,
+      "content": "Ja kann er aber die Tage m\u00c3\u00bcsste das eben \u00c3\u00bcber Windows Mail laufen \u00f0\u009f\u0098\u008a oh sorry \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449404379119,
+      "content": "Er kann seine Mails jetzt aber alle anrufen oder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449404365988,
+      "content": "Hatte gestern insofern der Zug ist abgefahren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449404349084,
+      "content": "Vielleicht eher er da du heute Geburtstag hast :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449404334315,
+      "content": "Rufst du oder Adis dann meinen Papa an ich will das nicht machen m\u00c3\u00bcssen \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449403992761,
+      "content": "Klar ganz normal einrichten mit Name und Passwort (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449403400808,
+      "content": "Hey Jonas, st\u00c3\u00b6re nur ungern an deinem Geburtstag aber kann man das mit den Mails auch \u00c3\u00bcber Windows Mail? \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449349534910,
+      "content": "Schick es ihm bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449349528080,
+      "content": "stefan (klein geschrieben)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449349519446,
+      "content": "Also alles umge\u00c3\u00a4ndert in Stefan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449344043275,
+      "content": "Er macht es",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449337416324,
+      "content": "Ich hab es weiter geleitet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449337388850,
+      "content": "M\u00c3\u00bcssten da sein klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449336665097,
+      "content": "Und sind alle Email da von den letzten Tagen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449336626488,
+      "content": "Hahahahaha kann das Adis \u00c3\u00a4ndern?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449336558149,
+      "content": "Oh no ...das kommt nicht von mir \u00f0\u009f\u0098\u0093",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449336430655,
+      "content": "Ehm der wird mit f Geschrieben also Stefan Zast (kannst du das noch \u00c3\u00a4ndern? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449335680037,
+      "content": "*er",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449335665925,
+      "content": "Administrationsoberfl\u00c3\u00a4che (zum erstellen und verwalten von Email Adressen, Email Konten, Weiterleitungen und weiteren Parametern)\nLink: http://froxlor.avproductions.de\nBenutzer: stephanzast\nPasswort: hqoerSyzQm (oben rechts ist der Link zum Passwort \u00c3\u00a4ndern nach dem Login)\n\nEine Email Adresse ist bereits erstellt und als Catchall eingerichtet (in der Administrationsoberfl\u00c3\u00a4che unter E-Mail zu sehen):\nEmail: info@kabelzug.de\nPasswort: zwZicUhutb\n\nEmails lassen abrufen unter http://mail.kabelzug.de\n\n\n\nBitte leite dies dem Stefan weiter damit kann er alles abrufen und es sich Email Konten einrichten. Ich denk dann ist alles perfekt (: Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449311352979,
+      "content": "Musst Papa fragen aber bestimmt was einfaches. ihr bekommt das alles hin - das wei\u00c3\u009f ich schon. Aber wenn ich aufstehe und gleich angemotzt werde warum die Mails nicht funktionieren bin ich schon leicht sauer weil es ja nicht meine Angelegenheit ist \u00f3\u00be\u008c\u00b4 aber trotzdem \u00c3\u0084rger bekomme aber nichts daf\u00c3\u00bcr kann, dass Adis nun mal etwas unzuverl\u00c3\u00a4ssig sein kann und niemand die info weitergibt dass da was schief laufen kann. Der Mann kennt sich da mit so Zeug nicht aus. Bitte Adis in den Arsch treten sonst sehe ich mich dazu gezwungen. \u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449311031249,
+      "content": "Hey also konnte Aids erreichen. Vorerst durchatmen alle Mails sind da und er richtet es ein. Insofern wir machen das alles heute gleich noch. Gibt es ein Wunschpasswort f\u00c3\u00bcr die Mails ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1449307733135,
+      "content": "Hey ja kann ich machen (:",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449307017090,
+      "content": "\u00f0\u009f\u0098\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1449307011873,
+      "content": "Jonas melde dich bitte sofort bei meinem Papa der ist Mega Mega sauer - Mails funktionieren nicht Und das ist echt ein Drama",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448286430047,
+      "content": "Meine Eltern wollen das nicht. Das war ja auch der ausschlaggebende Punkt dass wir euch genommen haben, da ihr bei Strato bleiben wolltet und sie  gute Erfahrungen gemacht haben. Das ist aber nicht das Paket da von global one? Was gibt es noch f\u00c3\u00bcr M\u00c3\u00b6glichkeiten? Kann die Seite ohne euren Server denn \u00c3\u00bcberhaupt nicht funktionieren oder ist sie einfach nicht optimal dargestellt? \n\nW\u00c3\u00a4re super wenn es auch anders geht. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1448284722869,
+      "content": "Also folegende Lage der Server von Strato will nicht und da wie gesagt, wir nicht auf diesen einsehen k\u00c3\u00b6nnen. K\u00c3\u00b6nnen wir den Fehler auch nicht identifizieren. Was ich anbieten kann w\u00c3\u00a4re, dass wir die Seite auf unseren Server nehmen und damit von Strato weg sind. Der Vertrag mit Start wird gek\u00c3\u00bcndigt und wir richten es bei uns ein. Kostenpunkt w\u00c3\u00a4ren 5\u00e2\u0082\u00ac im Monat, und damit kommen wir euch maximal entgegen. In den Kosten sind klar eure alten email Adressen enthalten und ein Ansprechpartner f\u00c3\u00bcr Probleme. Ware klasse wenn Ihr uns m\u00c3\u00b6glichst schnell bescheid gebt dann ist das Heute noch fertig alles und ich komm die Woche nochmal eben vorbei ? Beste Gr\u00c3\u00bc\u00c3\u009fe bei Fragen ruft mich an oder schreibt mir schnell ne mail",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448233120743,
+      "content": "Was ist denn eine L\u00c3\u00b6sung, Es \u00c3\u00bcber euren Server laufen zu lassen? Danke f\u00c3\u00bcr deine Nachricht, ich will ja auch nur dass das Projekt schnell beendet wird \u00e2\u0098\u00ba\u00ef\u00b8\u008f w\u00c3\u00a4re super lieb wenn du mich auf dem laufenden h\u00c3\u00a4ltst und das sollte kein Angriff sein, bitte nicht falsch verstehen. \nVielen Dank und gutes gelingen.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1448228131494,
+      "content": "Hey, ich weis das Strato was das reine Hosting angeht echt gut ist da kann man nichts dagegen sagen. Jedoch f\u00c3\u00bcr Webdesigner und das \u00c3\u00bcberschreiben einer neuen Seite ist Strato leider nicht sehr kooperativ. Wir sind jetzt irgendwie schon wieder das ganze Wochenende dran das hinzubekommen / Adis. Ich hab die Seite p\u00c3\u00bcnktlich fertiggestellt jedoch klappt da was mit dem Server von Strato nicht und an unser Stelle haben wir das Problem das wir nicht auf den Server einsehen k\u00c3\u00b6nnen und somit den Fehler nicht identifizieren k\u00c3\u00b6nnen. Wir werden es heute Abend nochmal versuchen. Das Problem ist das bei der \u00c3\u009cberschreibung die Sonderzeichen im Text falsch angezeigt werden und das ist ein Serverproblem. Vielleicht klingt das alles nicht ganz schl\u00c3\u00bcssig aber genau das Problem kann eben dann auftreten wenn wir nicht mit unseren eigenen Servern arbeiten und somit alles in der Hand haben. Wir versuchen unser Bestes dieses Problem irgendwie zu managen und meld mich dann m\u00c3\u00b6glichst schnell bei mir. Wir w\u00c3\u00bcrden zu gern einfach mit der Seite starten jedoch sind stehen uns eben diese Serverprobleme im Weg und daf\u00c3\u00bcr sind wir auf der Suche nach einer L\u00c3\u00b6sung. Ich k\u00c3\u00bcmmer mich drum ich mein wir haben echt eine wundersch\u00c3\u00b6ne Website f\u00c3\u00bcr euch also das wird schon. Die M\u00c3\u00bche bei diesem Projekt \u00c3\u00bcberschreitet nat\u00c3\u00bcrlich mittlerweile jede Anfangsvorstellung, leider m\u00c3\u00bcssen wir jetzt auf beiden Seiten damit leben und versuchen dies m\u00c3\u00b6glichst schnell zu l\u00c3\u00b6sen, den das raubt uns leider viel Zeit. Beste Gr\u00c3\u00bc\u00c3\u009fe, Jonas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448021415094,
+      "content": "Hmmm... Ich habe bis jetzt bin Strato immer nur das beste mitbekommen was Hosting betrifft. Hast du vielleicht ein spezielles Programm zum erstellen der Seite benutzt? Okay das w\u00c3\u00a4re lieb ich glaube die haben dir auch ne Mail geschickt. Ich hatte halt Adis (Zuverl\u00c3\u00a4ssigkeit in Person ganz ehrlich\u00f3\u00be\u008d\u0080) im April gesagt dass Papa unbedingt eine Seite baucht und ihr die besten bei diesen Angelegenheiten seid. Bis Adis es endlich auf die Reihe bekommen hat dich zu fragen war schon August und jetzt sollte sich das langsam mal abschlie\u00c3\u009fen lassen. Irgendwann kann ich auch nicht mehr Gr\u00c3\u00bcnde suchen weshalb es sich so zieht. Ist jetzt nicht b\u00c3\u00b6se gemeint und liegt vermutlich null an dir \u00f0\u009f\u0098\u0087\nDanke f\u00c3\u00bcr die M\u00c3\u00bche \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1448020614311,
+      "content": "Hey, es gibt mit Strato ein Problem da nicht klar ist \u00c3\u00bcber welchen Server die Website l\u00c3\u00a4uft. Und es beim \u00c3\u00bcberschreiben zu einer fehlerhaften Darstellung kommt. Der Support von Strato ist leider nicht der Beste und wir sind dran. Meld mich heute nochmal was f\u00c3\u00bcr L\u00c3\u00b6sungen jetzt uns zu Hand liegen. Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448020043140,
+      "content": "Zieht sich jetzt schon ne Weile \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1448020018739,
+      "content": "Hey Jonas. Wie sieht es aus? Gibt's Neuigkeiten? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446813615795,
+      "photos": [
+        {
+          "uri": "messages/inbox/jonasallert_a2ixgn8h4q/photos/12208134_1087603701280479_1310996871_n_1087603701280479.jpg",
+          "creation_timestamp": 1446813614
+        }
+      ],
+      "type": "Generic",
+      "ip": "109.92.148.72",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446762869959,
+      "content": "Alles klar \u00f3\u00be\u008c\u00b4 ich lasse Morgen danach suchen. Vielen Dank und sorry f\u00c3\u00bcr die Umst\u00c3\u00a4nde \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1446762359971,
+      "content": "Hey, gibt es da noch ein anders Formular f\u00c3\u00bcr Strato ? Das sind die Nummern von dem Ebner Verlag \u00f3\u00be\u00b0\u00ac danke dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1446729172273,
+      "content": "Ich Check das mal ab \u00f3\u00be\u00ae\u009f\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446727332155,
+      "content": "Reicht das? \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446727326190,
+      "photos": [
+        {
+          "uri": "messages/inbox/jonasallert_a2ixgn8h4q/photos/12212063_1087063394667843_585727794_n_1087063394667843.jpg",
+          "creation_timestamp": 1446727324
+        }
+      ],
+      "type": "Generic",
+      "ip": "109.92.148.86",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1446714267395,
+      "content": "ok super, ja am besten ist immer wenn wir die Original Email bekommen von der Anmeldung. Meldest dich einfach wenn Ihr was gefunden habt. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1446714265411,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446713763241,
+      "content": "Puh okay. Wir begeben uns auf die Suche. \u00f3\u00be\u008c\u00b4 gut dass es so kompliziert sein muss wenn es auch sicherlich einfacher gehen k\u00c3\u00b6nnte. \nVersuche es im Laufe des Tages zu finden. \n\u00f3\u00be\u008d\u0095 bitte, danke dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Allert",
+      "timestamp_ms": 1446711356534,
+      "content": "Hey Tanja, \n\nf\u00c3\u00bcr den Login br\u00c3\u00a4uchte ich noch die Kundennummer. Kannst mir die noch schicken? Die Nummer steht auf jeder Rechnung, Bet\u00c3\u00a4tigung und anderen Schreiben von Strato. \n\nDanke dir \u00f3\u00be\u00ae\u009f\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1446675393222,
+      "content": "Hey Jonas, du hast angerufen. Hat alles geklappt oder gibt es Probleme? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Allert",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonasallert_a2ixgn8h4q",
+  "magic_words": [
+    
+  ]
+}

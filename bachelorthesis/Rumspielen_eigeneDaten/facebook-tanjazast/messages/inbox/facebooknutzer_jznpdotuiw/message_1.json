@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327695294037,
+      "content": "ja ist einfach so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694657025,
+      "content": "Ja bei ihr ists auch am besten *__*!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327694637707,
+      "content": "ja geht eig aber wenn verena da ist ist es hammer voll :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694474088,
+      "content": "Achso ;), sinds immernoch so viele Leute ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327694440928,
+      "content": ":) du b\u00c3\u00b6se :( eh, nicht viel alex macht voll oft verenas kurs ich war auch schon lange nicht mehr und heute wars so naja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694351323,
+      "content": "Was gibts eigentlich so neues ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694333289,
+      "content": "Nein, ich komm garnicht mehr .. :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327694311115,
+      "content": "ich geh samstag eig nicht ;) kommst du eig nicht mehr freitags ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694254725,
+      "content": "Ok :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327694248135,
+      "content": "ne ich komm net ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694233058,
+      "content": "Ium 18Uhr?! (: ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1327694211974,
+      "content": "wann morgen?? <3 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1327694057956,
+      "content": "Hey. <3. Gehst du morgen tanzen ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_jznpdotuiw",
+  "magic_words": [
+    
+  ]
+}

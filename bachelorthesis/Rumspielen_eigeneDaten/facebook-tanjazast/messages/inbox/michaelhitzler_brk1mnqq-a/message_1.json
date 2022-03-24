@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Michael Hitzler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Hitzler",
+      "timestamp_ms": 1462524139444,
+      "content": "Komm einfach n\u00c3\u00a4chste Woche egal wann ab 17:00 Uhr! Ich hab's gerade erst gelesen! Ich hasse Facebook! Nummer von Carina 017680090644",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461827496236,
+      "content": "Ich habe es auch nicht vergessen nur hatte ich bis halb 9 Uni und musste dann noch ein Blatt fertig rechnen und habe es dann einfach nicht mehr gepackt aber da ich Samstag eh in Donaustetten bin und nicht arbeiten muss w\u00c3\u00bcrde ich einfach da vorbeischauen? Also wenn es okay ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Hitzler",
+      "timestamp_ms": 1461791932889,
+      "content": "Hmm da war am Mittwoch doch was!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Michael Hitzler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/michaelhitzler_brk1mnqq-a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Blo Ulm"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Blo Ulm",
+      "timestamp_ms": 1556257964936,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Blo Ulm",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/bloulm_cfpsbiisxg",
+  "magic_words": [
+    
+  ]
+}

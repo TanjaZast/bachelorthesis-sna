@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Shotme"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418261194041,
+      "content": "Hallo \nMeine Schwester und ich h\u00c3\u00a4tten richtig Lust auf ein Fotoshooting was m\u00c3\u00bcssten wir daf\u00c3\u00bcr machen bzw welche Voraussetzungen m\u00c3\u00bcssten wir erf\u00c3\u00bcllen :)\nDanke im Voraus",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Shotme",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/shotme_kqefmf9vxa",
+  "magic_words": [
+    
+  ]
+}

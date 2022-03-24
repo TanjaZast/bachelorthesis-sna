@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Theresa Donderer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1437516216822,
+      "content": "Kein Problem \u00f0\u009f\u0098\u008a hat sich ja Zum Gl\u00c3\u00bcck viel schneller und besser etwas gekl\u00c3\u00a4rt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Theresa Donderer",
+      "timestamp_ms": 1437383817129,
+      "content": "hey :) tut mir leid dass ich dir nicht geantwortet habe. habe die nachricht gerade in meinem sonstiges- ordner gefunden :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1435751821411,
+      "content": "Hallo Theresa.\nRaphael, dein Azubi-Pate hat dich bereits per Mail kontaktiert und ich mache es auf diesem Wege. \nIch hei\u00c3\u009fe Tanja Zast und mache das duale Studium bei der Hypo. Ich studiere dann wie du in Karlsruhe, arbeite jedoch in Ravensburg und wohne in der Praxisphase in donaustetten bei meinen Eltern (deshalb werde ich dir zu Ulm und der Filiale dort nicht viel sagen k\u00c3\u00b6nnen). \n\nGerne stehe ich dir aber bei allen anderen Fragen jederzeit bereit. \nMeine Handynummer: 015164810786 \nEmail: tanja.zast@gmx.de oder tanja.zast@unicredit.de\n3. Option w\u00c3\u00a4re dann Facebook \u00f3\u00be\u008c\u00b5 \n\nDieses Jahr beginnst du mit einem guten Freund von mir, Roman, (ihr zwei seid dann die einzigen Dual Studierenden aus der Region W\u00c3\u00bcrttemberg West und Ost. Wenn du Interesse hast k\u00c3\u00b6nnen wir uns mal an einem Freitag bzw am Wochenende in Ulm gemeinsam treffen und \u00c3\u00bcber alles m\u00c3\u00b6gliche sprechen (alle Sorgen, \u00c3\u0084ngste, Probleme usw.) \n\nIch freue mich auf eine R\u00c3\u00bcckmeldung von dir\n\nTanja",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Theresa Donderer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/theresadonderer_6kgomqf2lq",
+  "magic_words": [
+    
+  ]
+}

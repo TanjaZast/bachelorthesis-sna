@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Joshua Wassermann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340494847387,
+      "content": "Okay :) wie du meinst :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Wassermann",
+      "timestamp_ms": 1340482744157,
+      "content": "jaa aber ich mach des nicht sorry frag ihn selber\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340453323463,
+      "content": "Okay aber du weisst ja das ich net auf den stehe!! :D also werde ich ihn ja net nerven oder so!? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Joshua Wassermann",
+      "timestamp_ms": 1340452107588,
+      "content": "jaa hab ich aber frag ihn bitte lieber selber okeii ;)\nweil ich geb nicht gerne nummer von jemand anderem tut mir leid ;)<3\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340377915824,
+      "content": "Heeei du :) hast du vllt die nr von oscar und keine sorge ich werde ihn nicht stalken und so! :D also kannst se mir geben ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Joshua Wassermann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joshuawassermann_xa52che8yq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "participants": [
+    {
+      "name": "Sven Manns"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343481115103,
+      "content": "Ja ist okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343480330615,
+      "content": "find ixh gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343480199463,
+      "content": "Okay gut so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343479890146,
+      "content": "nix ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479879419,
+      "content": "Was ist??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343479560189,
+      "content": "hehe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479468797,
+      "content": ":) ja ich weiss :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343479202780,
+      "content": "schon okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343479164081,
+      "content": "Ne ist so!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478923697,
+      "content": "ohaa xD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478895790,
+      "content": "Junge nur mal so ich hasse typen die nur das eine wollen so gleich im voraus :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478809648,
+      "content": "oki also auch f\u00c3\u00bcr spontane.sachen zu haben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478719027,
+      "content": "Nein eig kein beziehungsmensch :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478549586,
+      "content": "bist eher so beziehungs mensch oder machst auch just for.fun ma was :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478513331,
+      "content": "cool ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478493706,
+      "content": "Ehm ja eig schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478437457,
+      "content": "hehe bist solo oder ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478390841,
+      "content": ":) ja sind auch doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478225415,
+      "content": "ja sch\u00c3\u00bcchterne ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478200933,
+      "content": "Welche solche?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343478145136,
+      "content": "klingt gut mag solche garnicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343478116251,
+      "content": "Ehm ganz sicher nicht sch\u00c3\u00bcchtern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343477932169,
+      "content": "wie bist du so drauf eher sch\u00c3\u00bcchtern oder offen ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343477888110,
+      "content": "hehe ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343477861616,
+      "content": "Keine ahnung :P bin m\u00c3\u00bcde",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343477112867,
+      "content": "wieso nur schlafen :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343476944960,
+      "content": "Ehm nichts :P schlafen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343476738267,
+      "content": "was stellst heute an ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343476705705,
+      "content": ":) ja ich weiss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343473314710,
+      "content": "oh okay.nich schlecht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343473263369,
+      "content": "Ehm 40er von meiner mama gestern :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343472021252,
+      "content": "was hast den gestern so angestellt =) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343472015130,
+      "content": "joa auch erst vor paar min ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343471974573,
+      "content": "Bin gerade aufgestanden :P du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343471938122,
+      "content": "okay was machst den gerade so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343471637527,
+      "content": "Ja passt doch :) geht schon",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343471396312,
+      "content": "auser du magst ned schreiben ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343471296061,
+      "content": ":) okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sven Manns",
+      "timestamp_ms": 1343471153969,
+      "content": "hmm noch ned :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343471123669,
+      "content": "Du hast mich angestupst?? Kennen wir uns?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sven Manns",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/svenmanns_lngrccpwja",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Julia Merkle"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Merkle",
+      "timestamp_ms": 1560236497824,
+      "content": "Alles alles liebe und gute zum Geburtstag \u00f0\u009f\u008e\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Merkle",
+      "timestamp_ms": 1528705136398,
+      "content": "Hallo liebes Geburtstagskind :)  ich w\u00c3\u00bcnsche dir alles alles Liebe & Gute zu deinem Geburtstag, ich hoffe du hast einen sch\u00c3\u00b6nen Tag mit Freunden und Familie :)  steht eine Party an oder ganz gem\u00c3\u00bctlich? \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0082 liebe Gr\u00c3\u00bc\u00c3\u009fe Julia :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Merkle",
+      "timestamp_ms": 1507815041737,
+      "content": "Hallo Hallo :) ich hab grad gesehen dass wir jetzt schon n Weilchen befreundet sind aber noch gar nicht geschireben haben\u00e2\u0080\u00a6 \u00f0\u009f\u0099\u0088 wie geht\u00c2\u00b4s dir denn so? Hast du einen sch\u00c3\u00b6nen Tag? :) LG Julia \u00e2\u009c\u008c\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1507228167058,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia Merkle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliamerkle_i00a1kxa7q",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jana Tmv"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jana Tmv",
+      "timestamp_ms": 1520775340230,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jana Tmv",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/janatmv_bnih3evrag",
+  "magic_words": [
+    
+  ]
+}

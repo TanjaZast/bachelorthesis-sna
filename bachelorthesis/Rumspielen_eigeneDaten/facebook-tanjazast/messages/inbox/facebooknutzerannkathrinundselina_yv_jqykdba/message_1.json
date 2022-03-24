@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Selina Scho"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Selina Scho",
+      "timestamp_ms": 1457978800571,
+      "content": "Oha heftig... ne ich hab nix mitbekommen \u00f3\u00be\u008d\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1457977730789,
+      "content": "Oh Gott wie krass \u00f3\u00be\u008d\u0095 aber die geht's wieder gut?! \nIch hab leider nix gesehn \u00f3\u00be\u008d\u0094\u00f3\u00be\u008d\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann-Kathrin Kohn",
+      "timestamp_ms": 1457969989318,
+      "content": "Hey :) wir haben uns zwar am Samstag nur ganz ganz kurz gesehen, aber vllt habt ihr trotzdem was gesehen. Und zwar hat mein abend nicht sehr gl\u00c3\u00bccklich geendet, es werden KO tropfen vermutet. Es gab mehrere mit den selben Symptomen und einer hat dies jetzt zur Anzeige gebracht. W\u00c3\u00a4re lieb wenn ihr kurz \u00c3\u00bcberlegen k\u00c3\u00b6nntet ob ihr irgendetwas komisches gesehen habt, vllt nicht bei mir aber bei jemandem anderen. Danke!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Ann-Kathrin und Selina",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerannkathrinundselina_yv_jqykdba",
+  "magic_words": [
+    
+  ]
+}

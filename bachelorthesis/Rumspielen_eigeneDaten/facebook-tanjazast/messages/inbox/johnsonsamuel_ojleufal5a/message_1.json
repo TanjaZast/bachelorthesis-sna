@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Johnson Samuel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johnson Samuel",
+      "timestamp_ms": 1345028421155,
+      "content": "Wie geht's dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345028377235,
+      "content": "Okay :) naja ne ist mir ja egal :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johnson Samuel",
+      "timestamp_ms": 1345028028391,
+      "content": "Ich schreib dir jetzt von hier ok Tanja :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345027440344,
+      "content": ":) gut und dir? Samuel warum schreibst du mir von beider profilen von dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johnson Samuel",
+      "timestamp_ms": 1345027225814,
+      "content": "Wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345026871868,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345026833155,
+      "content": "Heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johnson Samuel",
+      "timestamp_ms": 1345026483924,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Johnson Samuel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/johnsonsamuel_ojleufal5a",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "active_sessions_v2": [
+    {
+      "created_timestamp": 1631638409,
+      "updated_timestamp": 1636036896,
+      "ip_address": "2a02:8070:d28e:6700:4cf5:4274:5dde:f3e8",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) WebKit/8611 (KHTML, like Gecko) Mobile/18H17 [FBAN/FBIOS;FBAV/323.0.0.47.120;FBBV/298673949;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/14.8;FBSS/3;FBID/phone;FBLC/de_DE;FBOP/5;FBRV/302036709]",
+      "datr_cookie": "iNNA********************",
+      "device": "iPhone 11 Pro",
+      "location": "Ulm, Germany",
+      "app": "Facebook-App",
+      "session_type": "iphone"
+    },
+    {
+      "created_timestamp": 1631638455,
+      "updated_timestamp": 1635148832,
+      "ip_address": "2a02:8070:d28e:6700:f9c8:6f15:72c8:ec83",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/318.1.0.38.119;FBBV/300158134;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/14.8;FBSS/3;FBCR/;FBID/phone;FBLC/de;FBOP/0]",
+      "datr_cookie": "UnOP********************",
+      "device": "iPhone 11 Pro",
+      "location": "Ulm, Germany",
+      "app": "Messenger f\u00c3\u00bcr iOS",
+      "session_type": "messenger_lite_for_ios"
+    },
+    {
+      "created_timestamp": 1629776581,
+      "updated_timestamp": 1634724308,
+      "ip_address": "91.108.201.52",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+      "datr_cookie": "Umok********************",
+      "device": "Windows PC",
+      "location": "Bergen, Norway",
+      "app": "Chrome",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1620546892,
+      "updated_timestamp": 1631625784,
+      "ip_address": "2a01:598:89f0:af56:65bc:a2c8:89f2:1830",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) WebKit/8611 (KHTML, like Gecko) Mobile/18H17 [FBAN/FBIOS;FBAV/323.0.0.47.120;FBBV/298673949;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/14.8;FBSS/3;FBID/phone;FBLC/de_DE;FBOP/5;FBRV/302036709]",
+      "datr_cookie": "UnOP********************",
+      "device": "iPhone 11 Pro",
+      "location": "Ulm, Germany",
+      "app": "Facebook-App",
+      "session_type": "iphone"
+    },
+    {
+      "created_timestamp": 1623483328,
+      "updated_timestamp": 1630269137,
+      "ip_address": "78.1.36.218",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/318.1.0.38.119;FBBV/300158134;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/14.7.1;FBSS/3;FBCR/;FBID/phone;FBLC/de;FBOP/0]",
+      "datr_cookie": "UnOP********************",
+      "device": "iPhone 11 Pro",
+      "location": "Tovarnik, Croatia",
+      "app": "Messenger f\u00c3\u00bcr iOS",
+      "session_type": "messenger_lite_for_ios"
+    }
+  ]
+}

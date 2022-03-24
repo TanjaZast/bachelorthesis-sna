@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Isabel Sch\u00c3\u00b6nthaler"
+    },
+    {
+      "name": "Caro Ch"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Isabelle Fink"
+    },
+    {
+      "name": "Alexander Hartig"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1339332777382,
+      "content": "klar :D w\u00c3\u00bcnsch dir und janicka noch einen tollen tag :D bis morgen :D \ngr\u00c3\u00bc\u00c3\u009fle back Lea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1339329585250,
+      "content": "Hey :) \nDanke nochmal f\u00c3\u00bcrs kommen ;) und f\u00c3\u00bcr die tollen Geschenke! War echt ne coole Party :) Hoff mal euch hats auch gefallen ;)\ngr\u00c3\u00bc\u00c3\u009fle Bettina",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Lea, Facebook-Nutzer und 5 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerleafacebooknutzerund5weiterepersonen_kn4fr83f8g",
+  "magic_words": [
+    
+  ]
+}

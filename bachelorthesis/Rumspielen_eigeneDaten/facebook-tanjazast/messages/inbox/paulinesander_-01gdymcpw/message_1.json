@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "Pauline Sander"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345680321806,
+      "content": "jaa ;( bis morgen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345680026740,
+      "content": "Echt jetzt?:o noch 12 Stunden. :((",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345679855059,
+      "content": "oh man das ist dann schon so um 1 :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345679356237,
+      "content": "Keine Ahnung :( aber es ist so eine Abschiedsrede f\u00c3\u00bcr alle und dann trennen wir uns :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345679230193,
+      "content": "nein?? um wie viel uhr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345677014113,
+      "content": "Ja, wir sehen uns morgen Mittag das letzte mal :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345676782291,
+      "content": "bis morgen <3 m\u00c3\u00bcssen die die eig fliegen noch fr\u00c3\u00bcher los als die anderen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345676629377,
+      "content": "Bis morgen :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345676604614,
+      "content": "okay bis dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345676427092,
+      "content": "Mach ich jetzt auch :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345676352215,
+      "content": "mach mal!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345676338267,
+      "content": "Haha ich hab immer noch nicht angefangen. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345676310562,
+      "content": "bitt ebitte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345676294078,
+      "content": "Okay danke :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345674768450,
+      "content": "15 nach 7",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345674698184,
+      "content": "Joa. :D wann m\u00c3\u00bcssen wir morgen fr\u00c3\u00bch noch mal da sein? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345674656597,
+      "content": ":) fuck <3 ich schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345674634521,
+      "content": "Verdammt, nein hab ich nicht wir haben noch nicht mal angefangen :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345674593001,
+      "content": "du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345674591390,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345674588778,
+      "content": ":) ja schon lange <e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pauline Sander",
+      "timestamp_ms": 1345674568782,
+      "content": "Hey :) hast du schon fertig gepackt? <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Pauline Sander",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/paulinesander_-01gdymcpw",
+  "magic_words": [
+    
+  ]
+}

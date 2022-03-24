@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Chantal Bachteler"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chantal Bachteler",
+      "timestamp_ms": 1577658558040,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chantal Bachteler",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chantalbachteler_jm2sohzurq",
+  "magic_words": [
+    
+  ]
+}

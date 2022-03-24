@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Simon Buchmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1541019720815,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Simon Buchmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonbuchmann_zziac7okug",
+  "magic_words": [
+    
+  ]
+}

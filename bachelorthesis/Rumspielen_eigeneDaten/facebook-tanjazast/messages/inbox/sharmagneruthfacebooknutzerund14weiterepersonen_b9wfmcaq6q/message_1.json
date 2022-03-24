@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Sharmagne Rupp"
+    },
+    {
+      "name": "Ruth Pele"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Nicole Kr\u00c3\u00a4mer"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Lea Swensson"
+    },
+    {
+      "name": "Michelle Leplat"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Emilia Sch\u00c3\u00bctz"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Jelena Sophie Bohnet"
+    },
+    {
+      "name": "Clarissa Wiedenmann"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Hanna Kramer"
+    },
+    {
+      "name": "Elena Steiger"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399385752057,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jul Ia",
+      "timestamp_ms": 1398240561508,
+      "content": "Jul Ia hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jul Ia"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1398239956123,
+      "content": "Ok ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1398239894023,
+      "content": "Dann l\u00c3\u00a4ssts ;) ich wollt nur nicht, dass sich die H\u00c3\u00a4lfte wieder beschwert ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1398239819785,
+      "content": "Und was machen wenn ich gar keine will?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1398236265247,
+      "content": "Guten morgen ihr lieben ;)\nWenn ich alles richtig gelesen hab, habt ihr noch nicht \u00c3\u00bcber die jogginghosen abgestimmt, falls doch ignoriert die Nachricht einfach ;)\nFalls nicht stimmt bitte noch ab, es ist wichtig, damit das ohne gro\u00c3\u009fe weitere diskussionen gemacht werden kann ;)\nWenns euch egal ist, wie die Hosen bedruckt werden, gibt allem eine Stimme.\n\nAlso einfach kurz in unsre stufengruppe gehen, ein paar Beitr\u00c3\u00a4ge runterscrollen und abstimmen ;)\n\nDankesch\u00c3\u00b6n und weiterhin noch entspannte Ferien :)!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sharmagne, Ruth, Facebook-Nutzer und 14 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/sharmagneruthfacebooknutzerund14weiterepersonen_b9wfmcaq6q",
+  "magic_words": [
+    
+  ]
+}

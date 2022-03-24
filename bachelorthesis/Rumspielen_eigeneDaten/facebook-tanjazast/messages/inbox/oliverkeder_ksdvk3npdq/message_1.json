@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Oliver Keder"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1392218741680,
+      "content": "Hab dir geantwortet :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1392218291619,
+      "content": "Hab dir ne email geschrieben! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389300117799,
+      "content": "Danke oli auf dich ist verlass ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1389280051611,
+      "content": "hab dir nochmal eine geschickt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389279985982,
+      "content": "Ich habe keine email bekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1380114666170,
+      "content": "Bei mir passiert das aber echt \u00c3\u00b6fters das ich was nicht bekomme (also emails)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1380114651592,
+      "content": "Ich habe leider nur eine bekommen in den Ferien n\u00c3\u00a4mlich und da hab ich gefragt bis wann ich die Termine durchgeben muss :) naja letzte Woche war ich in rom konnte darum nicht kommen und die Termine konnte ich da noch nicht sagen aber morgen jetzt hab ich meinen Klausurenplan bekommen. Alles klar morgen 19.45 gustav werner bis dann und ja die email stimmt :) danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1380114178091,
+      "content": "naja auf jeden Fall, haben wir morgen um 19:45 Uhr Training in der Gustav Werner Schule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1380114125522,
+      "content": "tanja.zast@gmx.de ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1380114120806,
+      "content": "Du hast anscheinend keine Mails von uns bekommen?! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Oliver Keder",
+      "timestamp_ms": 1380114101007,
+      "content": "Tanja :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Oliver Keder",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/oliverkeder_ksdvk3npdq",
+  "magic_words": [
+    
+  ]
+}

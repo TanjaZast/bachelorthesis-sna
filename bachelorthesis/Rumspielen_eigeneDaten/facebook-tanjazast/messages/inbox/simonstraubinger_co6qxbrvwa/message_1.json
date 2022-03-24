@@ -1,0 +1,369 @@
+{
+  "participants": [
+    {
+      "name": "Simon Straubinger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1363620948858,
+      "content": "015164515909 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360844709202,
+      "content": "Hahaah klar tanja hat immer recht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360791798121,
+      "content": "Richtig ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360791751594,
+      "content": ":) solltest du aber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360788280722,
+      "content": "Ja des kann ich ja noch nicht beurteilen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360785579430,
+      "content": ":) ist doch so!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360783542717,
+      "content": "Haha :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360768552534,
+      "content": "Reicht doch nicht? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360762433472,
+      "content": "Ich hab facebook :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360762390942,
+      "content": ";) was?? Ist echt so.. Wie kannst du nur ohne Leben?? :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360761361921,
+      "content": "Haha ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360761245572,
+      "content": ":) okay gut!! Ohne whats app ist das Leben doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360755574759,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360755570530,
+      "content": "Mach ich ee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360755402738,
+      "content": ";) okay... Dann musst gleich whats app drauf tun",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360747461524,
+      "content": "Keine ahnung :D so schnell wies geht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360711350738,
+      "content": "Hahaha und wann! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360708710824,
+      "content": "Ich glaub ich kauf mir doch schon des iphone 5 weil ich echt nicht mehr warten will :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360708680504,
+      "content": "N\u00c3\u00b6 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360708485377,
+      "content": "Schlimm? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360707878330,
+      "content": "Ok :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360707854269,
+      "content": "Mist ich schick es dir morgen okay!! :) ich habs voll vergessen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360707736096,
+      "content": "Ja ich weis auch nicht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360673938588,
+      "content": "Das ist ja noch ewig hin!! -.- als ob du so lange warten willst??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360670771477,
+      "content": "In nem halben jahr ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360670695548,
+      "content": "Hahahaha wann soll das bitte raus kommen?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360670563284,
+      "content": "Ja ich kauf mir dann des iphone 6 wenns rauskommt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360670103789,
+      "content": ":) man man man!! Egal kaufst halt ein neues",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360669841333,
+      "content": "Nein leider nicht weil mein handy so alt ist :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360669769457,
+      "content": "Hast du?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360669116862,
+      "content": "Danke :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360668659368,
+      "content": "Ja klar kann ich!! :) oder hast du vllt whats app",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360667758232,
+      "content": "Cool :D k\u00c3\u00b6nntest du mir die in facebook schicken ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360667337334,
+      "content": "Ja stimmt ich hab welche :* ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360666689048,
+      "content": "K\u00c3\u00b6nnte sein dass ihr noch irgendwelche coolen bilder von mir habt ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360666646746,
+      "content": "Keine ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360666438201,
+      "content": "Warum nicht? :/ hat sie dir was genau?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360666337909,
+      "content": "Naja nicht so viel ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360665543759,
+      "content": "Hast du eigentlich noch Kontakt zu ihr? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360665194116,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360665138974,
+      "content": "Ehm du Jan und alles kleinen Pupsis :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360665129987,
+      "content": "Ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360665120444,
+      "content": "Also Lisa und ich? ;) :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360665081144,
+      "content": "Und dir ?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360665069257,
+      "content": "Ihr zum beispiel :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360665034117,
+      "content": "Hihi wer zum Beispiel? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360665007718,
+      "content": "Ja ein bisschen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360664931228,
+      "content": "Na ja schon auch... ;) fehlen dir schon paar Leute vom Sommer? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Simon Straubinger",
+      "timestamp_ms": 1360664851669,
+      "content": "Hey ;) :* ja und bei dir ?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360664497167,
+      "content": "Heei du! ;) :* na alles gut bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Simon Straubinger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/simonstraubinger_co6qxbrvwa",
+  "magic_words": [
+    
+  ]
+}

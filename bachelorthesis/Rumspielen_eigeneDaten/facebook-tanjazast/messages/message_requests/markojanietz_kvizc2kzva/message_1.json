@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Marko Janietz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marko Janietz",
+      "timestamp_ms": 1550851114438,
+      "content": "Hi wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marko Janietz",
+      "timestamp_ms": 1550851101383,
+      "content": "Marko winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Marko Janietz",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/markojanietz_kvizc2kzva",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Hong Yun Lai"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1536095606475,
+      "photos": [
+        {
+          "uri": "messages/inbox/hongyunlai_rc-p-gad9g/photos/40615456_2598600940164892_2347243680743555072_n_2598600926831560.jpg",
+          "creation_timestamp": 1536095605
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1536095559562,
+      "photos": [
+        {
+          "uri": "messages/inbox/hongyunlai_rc-p-gad9g/photos/40779056_303122723844466_1453664902903234560_n_303122717177800.jpg",
+          "creation_timestamp": 1536095558
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1536095514152,
+      "content": "Tut mir echt leid f\u00c3\u00bcr die Bewertung aber dieser Fehler darf doch einfach nicht passieren. Ich nehme die Bewertung zur\u00c3\u00bcck wenn eine angebrachte Entschuldigung kommt. Anbei noch die Bilder",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hong Yun Lai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hongyunlai_rc-p-gad9g",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Chiara Notaro"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Julz Ge"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Julia Bartl"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Anika von Kuntzsch"
+    },
+    {
+      "name": "Franziskaha Hawaii"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363081663,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1420289211517,
+      "content": "Rebekka Huels hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rebekka Huels"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1420285401878,
+      "content": "Nina Ansch\u00c3\u00bctz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nina Ansch\u00c3\u00bctz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420282531421,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mara Fink",
+      "timestamp_ms": 1325005243572,
+      "content": "015789226513",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324998116710,
+      "content": "015789287228 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1324993526813,
+      "content": "015734665755",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anika von Kuntzsch",
+      "timestamp_ms": 1324984447435,
+      "content": "015776312008",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324983680534,
+      "content": "015785742642 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1324983057758,
+      "content": "Hanna Kramer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Hanna Kramer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1324983019745,
+      "content": "01608400472 ;) ..bitte sehr \ndes handy is ja \u00c3\u00bcberragen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1324982922055,
+      "content": "nichts nichts ;) ich bin manchmal einfach zu dumm f\u00c3\u00bcr unsren Computer! :D omg, wie geil, ich will auch eins ;) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324982910674,
+      "content": "Und danke bis jz<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324982861155,
+      "content": "Charlotte, was ist passiert:D? Ein samsung galaxy:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324982767722,
+      "content": "Ach mist...es hei\u00c3\u009ft: 01573-...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324982731113,
+      "content": "02573-4943924:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1324981965101,
+      "content": "sry : 016093366004 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1324981928416,
+      "content": "bittesch\u00c3\u00b6n ;) 0160933660046093366004",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1324981846834,
+      "content": "015787083779 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1324980975167,
+      "content": "015789227304 <3 was f\u00c3\u00bcrn handy hast du jetzt?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1324976801073,
+      "content": "015771328307 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1324976747936,
+      "content": "015771328307 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1324976084801,
+      "content": "0176-32568238",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1324975387490,
+      "content": "015789310238 :) was f\u00c3\u00bcr n Handy hast du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324975065951,
+      "content": "Hei leuds<3 ich hab n neues handy.und leider keine handy nummer mehr. Gut manche von euch hatte ich nie:D aber waer trotzdem lieb ihr wuerdet mir eure senden!:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Maike, Chiara und 12 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/facebooknutzermaikechiaraund12weiterepersonen_4rrqf_g3yw",
+  "magic_words": [
+    
+  ]
+}

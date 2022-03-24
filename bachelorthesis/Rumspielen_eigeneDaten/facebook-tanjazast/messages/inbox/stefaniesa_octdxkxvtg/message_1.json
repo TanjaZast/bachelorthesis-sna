@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Stefanie Sa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1489001127315,
+      "content": "Also von deinem Namen aus oder von mir aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Sa",
+      "timestamp_ms": 1489001102822,
+      "content": "immer mit dem jeweiligen Profil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Sa",
+      "timestamp_ms": 1489001095859,
+      "content": "irgendwie hat es an jeden Facebook freund dasselbe geschickt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1489001076473,
+      "content": "Also als Nachricht oder woher hast du das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1489001053903,
+      "content": "Und wie hast du das bekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1489001047298,
+      "content": "UPS",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Sa",
+      "timestamp_ms": 1489001034831,
+      "content": "bitte nicht drauf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Sa",
+      "timestamp_ms": 1489001028211,
+      "content": "das st ein Virus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1489001018760,
+      "content": "Alter \u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af wer hat das gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefanie Sa",
+      "timestamp_ms": 1488998357722,
+      "content": "Tanja :o :o",
+      "share": {
+        "link": "http://translate.google.com/translate?sl=en&tl=de&u=https%3A%2F%2Fjghjmghjghjghj.tumblr.com%2F%3F6603604",
+        "share_text": "Video Sexy"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefanie Sa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefaniesa_octdxkxvtg",
+  "magic_words": [
+    
+  ]
+}

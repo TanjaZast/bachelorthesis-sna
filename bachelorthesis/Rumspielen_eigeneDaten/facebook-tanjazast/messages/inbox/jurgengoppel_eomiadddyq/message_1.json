@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525880646951,
+      "content": "Was h\u00c3\u00a4ltst davon, wenn ich dir das Ding schicke, wir das \u00c3\u00bcber Paypal abwickeln und wenn er nicht passt, schickst ihn zur\u00c3\u00bcck?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1525850077335,
+      "content": "1,65 oder so \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525789437480,
+      "content": "Ich wei\u00c3\u009f leider nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525789429715,
+      "content": "Wie gro\u00c3\u009f bist du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1525772224997,
+      "content": "Ist das schon xs Frauengr\u00c3\u00b6\u00c3\u009fe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525769431767,
+      "content": "Schau mal, kannst du das sehen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525769421865,
+      "content": "Neoprenanzug, 45 \u00e2\u0082\u00ac\n\nhttps://www.ebay-kleinanzeigen.de/s-anzeige/neoprenanzug/830557183-230-6666?utm_source=sharesheet&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios",
+      "share": {
+        "link": "https://www.ebay-kleinanzeigen.de/s-anzeige/neoprenanzug/830557183-230-6666?utm_source=sharesheet&utm_campaign=socialbuttons&utm_medium=social&utm_content=app_ios"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525769353792,
+      "content": "Hi, klar kannst ein Bild haben!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+      "timestamp_ms": 1525769341420,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1525725579616,
+      "content": "Guten Abend. Neo in xs f\u00c3\u00bcr wie viel? Kann ich ein Bild haben? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "J\u00c3\u00bcrgen G\u00c3\u00b6ppel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jurgengoppel_eomiadddyq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Caro Fl"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caro Fl",
+      "timestamp_ms": 1302113483000,
+      "content": "okey :D danke :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1302031593000,
+      "content": "Gel?? Das hab ich auch schon zu seinen Bildern gesagt.. :) ja der sieht schon gut aus :) musst halt selber beurteilen :)) kp er hat mir NOCH nichts gesagt.. Aber wer wei\u00c3\u009f :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Fl",
+      "timestamp_ms": 1302031092000,
+      "content": "bitte ;) \u00e2\u0099\u00a5\n\nsag mal steht der auf mich ?\nund wie sieht der eig. aus ? auf dne bilder sieht man den gar net ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1302030946000,
+      "content": ":)) schon aber danke noch mal dass wir dar\u00c3\u00bcber geredet haben :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Fl",
+      "timestamp_ms": 1302029818000,
+      "content": "okey :D haha .. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1301946913000,
+      "content": "Ehm.. Ich soll dir von Dominik sagen dass sein Internet abends Net funktioniert und dass er dir dass Net schreiben konnte.. :)) und das er dich lieb hat und dass es ihm wichtig ist dass du das wei\u00c3\u009ft <3 okay.?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1301784780000,
+      "content": "Ne frag nur weil mich das iwie gewundert hat.. Achsoo :)) dann dachte ich mir cool die kennt den auch :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Fl",
+      "timestamp_ms": 1301776656000,
+      "content": "Aaaahm der hat Mir Ne freundschaftsanfrage gemacht .. Dann hab ich gesehen dass du denn kennst. Und hab halt angenommen :) WiSo ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1301736614000,
+      "content": "Heey :)) woher kennst du Dominik?? :)) tusek? <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Caro Fl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carofl_m58dll2epg",
+  "magic_words": [
+    
+  ]
+}

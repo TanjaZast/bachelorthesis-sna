@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Ali Sunna"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ali Sunna",
+      "timestamp_ms": 1450370100683,
+      "content": "Hey?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ali Sunna",
+      "timestamp_ms": 1414967617680,
+      "content": "Ich glaube du hast meine Nachricht nicht richtig empfangen \")",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ali Sunna",
+      "timestamp_ms": 1414885195651,
+      "content": "Wow interessante mischung :), kurde /t\u00c3\u00bcrke.. Wo wohnst du hier in Ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414867150394,
+      "content": "Serbisch und Kroatisch :) du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ali Sunna",
+      "timestamp_ms": 1414859718858,
+      "content": "Sehr gut :), von welcher Nationalit\u00c3\u00a4t kommst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414859534777,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1414859532634,
+      "content": "Gut und dir :\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ali Sunna",
+      "timestamp_ms": 1414856510451,
+      "content": "Hey Tanja, wie geht es dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ali Sunna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alisunna_n4pytr69-q",
+  "magic_words": [
+    
+  ]
+}

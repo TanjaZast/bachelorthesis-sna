@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Caro Ch"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697733845,
+      "content": "Die zeit vergeht so schnell!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697727022,
+      "content": "Und dann wenn ich 2 wochen spaeter zurueckkomme, ist schule fertig& ich hab 9 tage in canada left!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697685576,
+      "content": "In 17 tagen geh ich nach california",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697663013,
+      "content": "Ja bei mir auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369697562505,
+      "content": "Ehm ja l\u00c3\u00a4uft alles supi und bei dir? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697380393,
+      "content": "Und schule und so ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369697102939,
+      "content": "Danke ;)&einfach im allgemeinen :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369697024746,
+      "content": "Alles Gute noch nachtr\u00c3\u00a4glich \u00c3\u00bcbrigens ;) ehm wie meinst du wie es l\u00c3\u00a4uft also auf was bezogen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369696995433,
+      "content": "*l\u00c3\u00a4ufts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369696986295,
+      "content": "Wie laufts so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369696976947,
+      "content": "Mir gehts gut! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369696959790,
+      "content": " Hei gut und dir? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1369694378358,
+      "content": "Hey! Wie gehts? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340905019803,
+      "content": ":) ja aber ich darf glaub echt nicht 2 tage hintereinander auf ne party :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340904505466,
+      "content": "Lea kommt auch. Die bleibt dann halt nur bis 10 oder 11 ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340828807014,
+      "content": "Ich weiss noch nicht sicher aber eher nicht da ich ja am sonntag mit meiner klasse weg fahr und dann so fr\u00c3\u00bch raus muss und packen und am freitag geh ich ins mahatma :O sorry :** aber ich sag auch noch mal bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340828286714,
+      "content": "Und wei\u00c3\u009ft dus schon? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340657387968,
+      "content": "Ich glaub kaum so fr\u00c3\u00bch schon :O :* aber so bald ichs weiss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340656229654,
+      "content": "Kannst du mir am dienstag bescheid sagen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1340656162472,
+      "content": ":) heei ehm ich weiss es noch nicht genau aber m\u00c3\u00bcsste eig schon gehen.. Da wir ja am 31 an bodensee fahren mit der klasse kann ich dir das noch nicht genau sagen aber ich melde mich noch mal :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Caro Ch",
+      "timestamp_ms": 1340655267662,
+      "content": "Hey\nich feier am 30. juni meine abschieds-und geburtstagsparty. und wollte fragen ob du auch kommen willst :)\nDas ist bei.mir (ich wohm am eselsberg) und f\u00c3\u00a4ngt um 18:30 an. ich w\u00c3\u00bcrd mich freuen :)\nLg caro",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Caro Ch",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/caroch_s9q7pmnqvw",
+  "magic_words": [
+    
+  ]
+}

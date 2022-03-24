@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Victoria Weber"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Victoria Weber",
+      "timestamp_ms": 1504112665828,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Victoria Weber",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/victoriaweber_y1y4pqjjwq",
+  "magic_words": [
+    
+  ]
+}

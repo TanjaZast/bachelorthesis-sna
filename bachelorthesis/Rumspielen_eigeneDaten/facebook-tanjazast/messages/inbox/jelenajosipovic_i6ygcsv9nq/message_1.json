@@ -1,0 +1,362 @@
+{
+  "participants": [
+    {
+      "name": "Jelena Josipovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485538299693,
+      "content": "Pobro jo\u00c5\u00a1 \u00c4\u008dekam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485538289597,
+      "content": "Hit si \u00f0\u009f\u0098\u009a\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485538274990,
+      "content": "Hvala puno \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485538269137,
+      "content": "Hahahhahaha joj pravo si me upla\u00c5\u00a1ila",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1485529702317,
+      "content": "Sad cu ti poslati por pa ces imati moj broj",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1485529686155,
+      "content": "Ma nisam im dala \u00f0\u009f\u0098\u0082 salila sam se \u00f0\u009f\u0098\u0085 on je meni dao njegov broj, ne brini ne dajem tudje brojeve strancima \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485527885419,
+      "content": "Nemoj molim te vise nikada davati.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485527861228,
+      "content": "Samo da ne navale pa da moram mjenjati broj",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485527844335,
+      "content": "Sto si \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485527836428,
+      "content": "Joj",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1485458815599,
+      "content": "Upssss \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1485458815394,
+      "content": "Hahahah pa sto si mi poslala odma hahahaha \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\nNemoj se javljati onda \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485458333822,
+      "content": "Hahahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485458332283,
+      "content": "Ko zna koji su to manijaci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485458321952,
+      "content": "Ja sam tebi dala moj broj da ga ima\u00c5\u00a1. Ne sa njima Das \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485458301931,
+      "content": "Joj nisi valjda \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1485457839163,
+      "content": "Oke dala sam im meni je rekao da ce me zvati u nedelju pa i tebe ce verovatno \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485456597819,
+      "content": "Moj broj",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485456586636,
+      "content": "Ey \u00f0\u009f\u0092\u0095\u00f0\u009f\u0098\u009amoj Brot: 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1467110789858,
+      "content": "Ajde posle ispita moze? :) imam sledece sedmice i one tamo.. ti si u ulmu jel da \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1467109792439,
+      "content": "Oh da hvala! Super idea\u00f0\u009f\u0092\u0095 kada imas vremena",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1467102878272,
+      "content": "Tanjice nije ti se bila poslala poruka za rodjendan, tek sam sad videla \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad sve sve najbolje ti zelim! \u00f0\u009f\u0098\u0098\u00f0\u009f\u008e\u0089 moramo da se vidimo malo da proslavimo! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1419584614987,
+      "content": "\u00e2\u0098\u00ba\u00f3\u00be\u0094\u0092\u00f3\u00be\u0094\u0090 kako si, sta radis? \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1419454069206,
+      "content": "Hvala i tebi \u00f3\u00be\u0094\u0092\u00f3\u00be\u0094\u0093\u00f3\u00be\u0094\u0097\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1419450555853,
+      "content": "Srecan Bozic lutko, lepo proslavi sa svojom porodicom\u00f3\u00be\u008c\u00ac\u00f3\u00be\u0094\u0092\u00f3\u00be\u0094\u0090\u00f3\u00be\u00ac\u0090",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1413193910260,
+      "content": "Jesi u ulmu sta radis? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410415062095,
+      "content": "E super samo javi \u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1410299704351,
+      "content": "E pa hvala tii\u00f3\u00be\u008c\u00ac\u00f3\u00be\u00ac\u0090\nDolazim za par dana pa javicu se obavezno moramo da proslavimo! Kiss \u00f3\u00be\u008c\u00ac\u00f3\u00be\u00ac\u0095\u00f3\u00be\u00ac\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410295121060,
+      "content": "\u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f e pa super \u00f3\u00be\u008d\u0095 e \u00c5\u00beeno Sre\u00c4\u0087an ti rodjendan!! Kad dolazi\u00c5\u00a1 ovamo da ga malo proslavimo? \u00f3\u00be\u008c\u00ac kiss i veliki pozdrav",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1410198233493,
+      "content": "Da bwl :) nadam se u oktobru cekam jos odgovor \u00f3\u00be\u008c\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1410129246324,
+      "content": "Kad po\u00c4\u008dinjes? Znaci bwl? \u00f3\u00be\u008c\u00b0 e pa odli\u00c4\u008dno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1410113853864,
+      "content": "Pa to ti je super :) valjda cemo se vidjati kad budes dolazila u ulm :):* prijavila sam se za ekonomiju u ulmu treba uskoro da pocnem :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409872517013,
+      "content": "\u00c5\u00a0ta ti momentalno Radisch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409872476324,
+      "content": "Ne Ostajem u ulmu nego se Selim za Karlsruhe :) \u00f3\u00be\u008c\u00acimam dualni studium",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1409780618671,
+      "content": "E pa super trenutno sam u Spaniji na moru pa za neki dan dolazim tamo :) jesi u ulmu sledece godine jesi upisala nesto? :)\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409171153109,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409171148656,
+      "content": "U nemackoj a Gde si ti? \u00c5\u00a0ta ima novo \u00c5\u00a1ta mi radi\u00c5\u00a1?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1408545873320,
+      "content": "Heii\u00f3\u00be\u00ac\u0097 sta radis gde si sad?\u00f3\u00be\u008c\u00ac\u00f3\u00be\u00ac\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406287459653,
+      "content": ":) ho\u00c4\u0087emo \u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1406219550097,
+      "content": "E i ja isto :) Supeer :) Videcemo se u Beogradu! :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1406152493775,
+      "content": "Dobro a ti? Evo 5. Augusta ja mislim da tada kre\u00c4\u0087emo :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1406151725949,
+      "content": "Kako si mi?:* kad dolazis ovamo??(;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1382708148977,
+      "content": "Evo i ja sam dobro;) Aha super, doci cu i ja pa valjda se vidimo tamo :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382705493028,
+      "content": "Dobro sam ti? :* nista stpremam se za training i za zurku veceras :* dolazis i ti? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1382705343167,
+      "content": "E kako si i sta radis?:)) Dosla sam u Ulm:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351702030704,
+      "content": "U subotu navece ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1351699693020,
+      "content": "vracam se verovatno u nedelju uvece, pa onda ujutru u skolu :D a kad se ti vracas?? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351699604119,
+      "content": "Hvala ti puno :* i ti sein lepo jos provedi kad oped dolazis?? ;) pusa :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jelena Josipovic",
+      "timestamp_ms": 1351699284711,
+      "content": "Tanjaa, lepo se provedi u Becu!! Pozdrav za tebe i tvoje, i vidimo se uskoro! :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jelena Josipovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jelenajosipovic_i6ygcsv9nq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Maike Bo"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maike Bo",
+      "timestamp_ms": 1409062812594,
+      "content": "Ja, so wars gedacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1409060903316,
+      "content": "Ich backe dann einen Kuchen f\u00c3\u00bcr morgen oder? :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Bo",
+      "timestamp_ms": 1408894092369,
+      "content": "Ja, ab da kannst du kommen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408894026473,
+      "content": "Eine Frage... Wann beginnt die Fr\u00c3\u00bchschicht? \u00f3\u00be\u008c\u00b4 halb 6 oder? \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1408740074312,
+      "content": "Kein Problem!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Bo",
+      "timestamp_ms": 1408740025228,
+      "content": "Hab mich verquatscht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Bo",
+      "timestamp_ms": 1408740011535,
+      "content": "Ich komm gleich",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maike Bo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/maikebo_rjmr4egjew",
+  "magic_words": [
+    
+  ]
+}

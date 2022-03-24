@@ -1,0 +1,488 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Frank"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438940212993,
+      "content": "015164810786 \u00f0\u009f\u0098\u008a frag mal michi wie es intelligenter ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438940156058,
+      "content": "Gib mal deine handynummer, ich hasse Den Messenger",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438940118442,
+      "content": "K\u00c3\u00b6nnen wir auch Haha \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438940085124,
+      "content": "Oder zuerst an den See heute? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438940076845,
+      "content": "Dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438938260906,
+      "content": "An wen dann?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438904868688,
+      "content": "Hahaha es lag aber sicher nicht an mir \u00f0\u009f\u0098\u008a!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438903509912,
+      "content": "Man war das schwer auszumachen \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438903477819,
+      "content": "Ok so machen wirs :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438902516943,
+      "content": "Dann halt 2 \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438902471109,
+      "content": "Aber dann wirds knapp mit See :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438902103037,
+      "content": "Ich wei\u00c3\u009f es nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438902097429,
+      "content": "3? \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438891592685,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438891589518,
+      "content": "Ok 1? 3? 3?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438891349221,
+      "content": "Zu fr\u00c3\u00bch glaub :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438891329870,
+      "content": "So 12e rum? Oder ist das zu fr\u00c3\u00bch oder zu sp\u00c3\u00a4t?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438891289414,
+      "content": "Nene \u00f0\u009f\u0098\u008a als ob sag du!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438890818747,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438890816281,
+      "content": "Egal du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438890809598,
+      "content": "Mit Michi und dani?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438890772776,
+      "content": "Wann willst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438890770576,
+      "content": "Nur was trinken :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438890760831,
+      "content": "Also um wie viel Uhr dann morgen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438890751628,
+      "content": "Was gibt's in Ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438890719814,
+      "content": "Doch Wetter soll gut werden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438890701974,
+      "content": "Geh nach Ulm du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438860388352,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438860386351,
+      "content": "Was machst du heute",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438860366813,
+      "content": "Das war nur eine Frage, hei\u00c3\u009ft ja nicht dass wir das machen m\u00c3\u00bcssen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438860092929,
+      "content": "Hmmm ja okay \u00f0\u009f\u0098\u008a auch \u00c3\u00bcberredet. Wobei es ja so hei\u00c3\u009f wird am Freitag. Ich glaube da sterbe ich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438857872995,
+      "content": "Und danach dann an see? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438857062195,
+      "content": "Hmmm. Brauchen wir nicht \u00f0\u009f\u0098\u008a geht schon auch mittags/ abends",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438856203715,
+      "content": "Auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438855680368,
+      "content": "Wir k\u00c3\u00b6nnen sich morgens gehen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438855653971,
+      "content": "Oh man \u00c3\u00bcberredet \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0081 M\u00c3\u00a4nner k\u00c3\u00b6nnen so stur sein",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438855360516,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438855353926,
+      "content": "Ich war erst mal um 8 da hab ich auch geschwitzt wie ein Bock",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438855160436,
+      "content": "Aber morgens nicht so oder :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438854977388,
+      "content": "Das ist es auch vormittags Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438854928358,
+      "content": "Also mittags:(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438854923364,
+      "content": "Aber da ist es in diesem stickigen Fitness wie in der Sauna \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438854556541,
+      "content": "Wir k\u00c3\u00b6nnen auch erst mittags ins Training und danach an see und morgens kannst du lernen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438854398176,
+      "content": "Wenn ich geweckt werde kann ich um 9 da sein, dann 2 Stunde trainieren und entweder direkt danach an see oder sp\u00c3\u00a4ter muss am Freitag lernen \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438853538786,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438853052101,
+      "content": "Also wie siehts Morgen aus?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438798318504,
+      "content": "Freitag ist es mir egal wann. Wir k\u00c3\u00b6nnen ja mittags ins Training und danach an see, wenn du danach noch Zeit hast ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438798318279,
+      "content": "Ich nein heute Abend Haha :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438794856483,
+      "content": "Da bekommt ihr mich nie im Leben wach \u00f0\u009f\u0098\u008a au\u00c3\u009fer ihr zieht mich aus dem Bett",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438783169253,
+      "content": "Um 6 sind Michi und ich im Training :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438783125251,
+      "content": "Der arme Kerl geht ja jetzt noch arbeiten Haha \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438783099598,
+      "content": "Nein du? \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438782802443,
+      "content": "Der soll nicht so rumheulen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438782796947,
+      "content": "Hahahahaha Spinnst du?! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438777290899,
+      "content": "Dann 6 Uhr morgens? \u00f0\u009f\u0098\u009c",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438773068799,
+      "content": "Keine Ahnung, er muss mal Pause machen weil er \u00c3\u00bcberlastet ist oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438773047688,
+      "content": "Ich hab auch frei Haha \u00f0\u009f\u0098\u0083\nAlso mit auch egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438772868885,
+      "content": "Wie warum das? So ein Horst :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438772857302,
+      "content": "\u00f0\u009f\u0098\u008a hab an dem Tag frei \u00f0\u009f\u0098\u008a also egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438715228594,
+      "content": "Daniel geht ja diese Woche nicht trainieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438715220662,
+      "content": "Mir egal. Wann hast du Zeit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438715214323,
+      "content": "Sieht man ja :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438708226517,
+      "content": "Ja klar wann gehst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438708220571,
+      "content": "Ne eigentlich kaum \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438698669997,
+      "content": "Viel unterwegs \u00f0\u009f\u0098\u0083\nDann k\u00c3\u00b6nnen wir uns ja am Freitag im mc fit treffen, da geh ich auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1438697352444,
+      "content": "Heute gehe ich 1 Stunden daheim joggen Morgen in Ravensburg und Fitness Donnerstag inliner fahren und Freitag geh ich wieder ins Mc fit :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Frank",
+      "timestamp_ms": 1438696640639,
+      "content": "Heho:)\nWann geht's wieder ins Training?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonathan Frank",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonathanfrank_2p_yjxjnea",
+  "magic_words": [
+    
+  ]
+}

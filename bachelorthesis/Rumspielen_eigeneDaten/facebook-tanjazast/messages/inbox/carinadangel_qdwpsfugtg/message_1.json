@@ -1,0 +1,383 @@
+{
+  "participants": [
+    {
+      "name": "Carina Dangel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315438623436,
+      "content": "*gefaellt mir* :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315438586408,
+      "content": "gute nacht <3 ja hfftl :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315438463532,
+      "content": "hmmm :) ich versuchs mal :) also ich geh dann mal schlafen :) man schreibt sich ja ob jetzt hier oder sms :D also gute nacht <3 und ich hoffe bis bald ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315438302212,
+      "content": "achsooo...des is nat\u00c3\u00bcrlich bl\u00c3\u00b6d..dann denk an essen und tr-\u00c3\u00a4umdavon..stell dir vor du isst was ....und dann denkst du vllt. das du was gegessen hast :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315438199529,
+      "content": "Ich hab ein kleines problem :D hab schon zaehne geputzt gerade und meine nachtzahnspange drin :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315438146530,
+      "content": "mach ch :D...oh des tut mir jetzt leid...hol dir auch was...dann essen wir zusammen :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315438113539,
+      "content": "Okay gut :) lass es dir schmecke :) toll jetzt hab ich hunger :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315438051047,
+      "content": "noch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315438045592,
+      "content": "noh ist es lecker :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315438027720,
+      "content": "Hmmmmm :) das ist oder war bestimmt lecker :D :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315437931245,
+      "content": "okee alsoo..ich hab mir jetzt n joghurt und n apfel und n m\u00c3\u00bcsliriegel geholt .... :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315437267468,
+      "content": "Okay mach das :D :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315437239454,
+      "content": "haha guut...alsoo ich hl mir jetzt was...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315437205364,
+      "content": "Achsoo :) ja ich haette nur 2 tueren und auch so 13-18 stufen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315437119733,
+      "content": "ja..meine zmmert\u00c3\u00bcr dann die flurt\u00c3\u00bcr und die k\u00c3\u00bcchent\u00c3\u00bcr :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315437072620,
+      "content": "3 tueren?? :) deine zimmertuer ist mit drin?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315437020607,
+      "content": "13 stufen runter...durch 3 t\u00c3\u00bcren :P:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315436961785,
+      "content": "Wie weit ists denn?? :D :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315436918640,
+      "content": "okeii....aber des is echt weit weg :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315436643384,
+      "content": "Oh carina :) steh auf hol dir was und iss es!! :D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315436509739,
+      "content": "oh mann ich hab grad \u00c3\u00bcbelst hunger :( aber ich hab keine lust aufzutehen und mir was zu holen :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315436303389,
+      "content": "Schon :) war lustig :P haha :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315436235520,
+      "content": "gutgut:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315436215220,
+      "content": ":) lol :D waren in neu ulm, h&m, galeria und mueller und noch hugendubel und fotobox :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435838892,
+      "content": "wir war i fellows ham foto gemacht...und sind die ganze zeit in der stadt rumgelaufen eil wir immer verpennt haben wo wi hinwollten :D...nd ihr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315435791993,
+      "content": "Jaaaa :) und was habt ihr dann heut so gemacht?? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435742511,
+      "content": "dann is ja guut :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315435647324,
+      "content": "Eben :* aber ich habs ueberlebt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435497312,
+      "content": "na des is dann schon bl\u00c3\u00b6\u00c3\u00b6d :( :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315435481736,
+      "content": "Hmm geht eig :D halt immers gleiche :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435382704,
+      "content": "m\u00c3\u00bcssen D is doch voll gaill :D :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315435274175,
+      "content": "1 woche kroatien und fast 3 in serbien :D haben da jeweils ein haus und muessen da immer hin :P \r\nOh italien ist toll *_*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435183575,
+      "content": "ich war 2 wochenin italien",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435177538,
+      "content": "hab ch mir schon gedacht..wo warst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315435091259,
+      "content": "Jaaa :) ich auch..\r\nJa war 4 wochen sieht man vllt an meiner braeune!? :)\r\nUnd du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315435021665,
+      "content": "ich nich viel..ferien genie\u00c3\u009fen..:D\nund duu? warst im urlaub?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315434959804,
+      "content": "Hoffe ich :) :D und was machst so?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315434614595,
+      "content": "den kregst noch rm :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315434424090,
+      "content": "*_* ich will dass die mir mein pa kauft!! Bitte :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315434370939,
+      "content": "danke :* ja aber \u00c3\u00bcbel die is richtig gail :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315434343118,
+      "content": "Voll die schoenen bilder mit der canon :) die kamera hats einfach voll drauf!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315434131278,
+      "content": ":) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315434119892,
+      "content": "Jaaa :) so wie bei mir halt ich mit aldi :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433991367,
+      "content": "keins von beidem :)) ich hab simyo und des is des gleiche netztb alsi auch kostenlos facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315433915772,
+      "content": "Ja ich auch aber nur bissle :) sims halt noch nebenbei :D hast du nen vertrag oder hast aldi!?? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433849390,
+      "content": "ja schoon...schon okeii du..ich bin imme voll im stress wenn ch mim handy on bin :DD :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433824773,
+      "content": "ja auch :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315433797464,
+      "content": "Voll gut :) dir?? \r\nJa war iwie so schnell und dann auch schon weg und so :P <3\r\nAber ich haette nie gedacht das es du bist :) \r\nOh maan.. Sorry dass ich nur so privatnachrichten schreibe!! Bin mim handy on :D ;* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433654796,
+      "content": "wie gehts diir soo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433651383,
+      "content": "schon okeii :)) ich habs auch erst nicht geblickt...! schon okeiii ganz dicken Kussi :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Carina Dangel",
+      "timestamp_ms": 1315433626076,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315433576799,
+      "content": "Carinaaa <3 oh ich hab dich heute einfach gar nicht erkannt! In der stadt ich war mir einfach net sicher ob dus warst weil du einfach voll huebsch geworden bist!! Sorry ich haette ansonsten gleich richtig hallo gesagt und so :) nimms mir net uebel!! Sorry :* kussi ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carina Dangel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carinadangel_qdwpsfugtg",
+  "magic_words": [
+    
+  ]
+}

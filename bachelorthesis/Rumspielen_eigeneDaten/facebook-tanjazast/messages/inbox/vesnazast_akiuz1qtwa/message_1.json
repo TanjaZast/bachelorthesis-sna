@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Vesna Zast"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vesna Zast",
+      "timestamp_ms": 1554232215252,
+      "content": "Du und Vesna Zast feiert eure 12-j\u00c3\u00a4hrige Freundschaft auf Facebook",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1268849344000,
+      "content": "Hallo",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vesna Zast",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/vesnazast_akiuz1qtwa",
+  "magic_words": [
+    
+  ]
+}

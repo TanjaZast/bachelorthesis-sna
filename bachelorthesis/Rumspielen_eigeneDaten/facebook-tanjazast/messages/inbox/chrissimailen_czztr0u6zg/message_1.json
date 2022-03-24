@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Chrissi Mail\u00c3\u00a9n"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341856588862,
+      "content": "echt so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chrissi Mail\u00c3\u00a9n",
+      "timestamp_ms": 1341856541643,
+      "content": "zum Gl\u00c3\u00bcck ist die schule bald zu ende",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chrissi Mail\u00c3\u00a9n",
+      "timestamp_ms": 1341856531400,
+      "content": "auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341856524565,
+      "content": "gut und dir? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chrissi Mail\u00c3\u00a9n",
+      "timestamp_ms": 1341856252570,
+      "content": "wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1341856236125,
+      "content": "heei :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chrissi Mail\u00c3\u00a9n",
+      "timestamp_ms": 1341855947962,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Chrissi Mail\u00c3\u00a9n",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chrissimailen_czztr0u6zg",
+  "magic_words": [
+    
+  ]
+}

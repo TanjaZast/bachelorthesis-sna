@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Antonia Lena"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404180790937,
+      "content": "Ne :)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonia Lena",
+      "timestamp_ms": 1404150251215,
+      "content": ":)\nIst's nocb nicht zu sp\u00c3\u00a4t??? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404149526585,
+      "content": "Perfekt danke /)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonia Lena",
+      "timestamp_ms": 1404147918292,
+      "content": "Also ich habs heute lisa gegeben ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404140013580,
+      "content": "Morgen?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonia Lena",
+      "timestamp_ms": 1404139315441,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonia Lena",
+      "timestamp_ms": 1404139303322,
+      "content": "bis wann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069303244,
+      "content": "Kannst du es iwie lisa geben oder \u00c3\u00bcberweisen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonia Lena",
+      "timestamp_ms": 1403975784074,
+      "content": "Hallo Tanja :)\r\nIch wollte nur fragen, wie ich das machen soll mit den 20\u00e2\u0082\u00ac, weil ich geh mit ins Theatro...?!\r\nLiebe Gr\u00c3\u00bc\u00c3\u009fe Antonia",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonia Lena",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antonialena_dudl13mvaa",
+  "magic_words": [
+    
+  ]
+}

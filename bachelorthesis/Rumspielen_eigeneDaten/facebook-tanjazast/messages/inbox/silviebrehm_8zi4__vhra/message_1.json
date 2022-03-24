@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Silvie Brehm"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381503579696,
+      "content": "Oh Mist stimmt Danke ;) kommst du heute nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Silvie Brehm",
+      "timestamp_ms": 1381502197709,
+      "content": "Hey :)\nKannst du morgen bitte mein haargummi mitbringen? :)\nDanke!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Silvie Brehm",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/silviebrehm_8zi4__vhra",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Mehmet Arslan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404814484174,
+      "content": "Hier :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404770173288,
+      "content": "Sollen  wir hier schreiben oder in whatsapp ?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404770054581,
+      "content": "Okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404768123272,
+      "content": "Musst aber trotzdem du entscheiden :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404768020797,
+      "content": "Okay :D?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404768006771,
+      "content": "Da brauchst du dir keine Gedanken machen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404767967710,
+      "content": "Ob du nen angenehmen Charakter hast :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404767745245,
+      "content": "Auf was ?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404767718113,
+      "content": "Kp kommt drauf an :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404766424143,
+      "content": "Magst du schreiben ?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404766405811,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mehmet Arslan",
+      "timestamp_ms": 1404766341375,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mehmet Arslan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mehmetarslan_g_00tekpna",
+  "magic_words": [
+    
+  ]
+}

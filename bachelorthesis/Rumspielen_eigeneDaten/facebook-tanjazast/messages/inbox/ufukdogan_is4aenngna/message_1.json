@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ufuk Do\u00c4\u009fan"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ufuk Do\u00c4\u009fan",
+      "timestamp_ms": 1498251599916,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ufuk Do\u00c4\u009fan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ufukdogan_is4aenngna",
+  "magic_words": [
+    
+  ]
+}

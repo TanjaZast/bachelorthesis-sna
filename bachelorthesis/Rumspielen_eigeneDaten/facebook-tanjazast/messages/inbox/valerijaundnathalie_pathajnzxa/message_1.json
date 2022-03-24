@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Valerija Geller"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Nathalie Hones"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385315877909,
+      "content": "Nat\u00c3\u00bcrlich! :) sogar perfekt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nathalie Hones",
+      "timestamp_ms": 1385315664043,
+      "content": "K\u00c3\u00b6nnt ihr euch auch mit Muffins abfinden?  :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385310702075,
+      "content": "Klar :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385310479490,
+      "content": "Sind Pl\u00c3\u00a4tzchen ok? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385310047363,
+      "content": "Kuchen f\u00c3\u00bcr morgen :*! Nathalie sagst du es franzi? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Valerija und Nathalie",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/valerijaundnathalie_pathajnzxa",
+  "magic_words": [
+    
+  ]
+}

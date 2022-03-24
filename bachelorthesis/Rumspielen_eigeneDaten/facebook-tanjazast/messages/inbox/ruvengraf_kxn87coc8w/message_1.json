@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Ruven Graf"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1467369201150,
+      "content": "Naja sollte ich aber bin ich nicht \u00f0\u009f\u0098\u0082 wollte nur Schon was anderes machen und nicht im Matsch rumlaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruven Graf",
+      "timestamp_ms": 1467328581061,
+      "content": "Haha \u00f0\u009f\u0099\u0088ich schon... Schade \u00f0\u009f\u0098\u008a bist du schon in der Pr\u00c3\u00bcfungsphase? \u00e2\u0098\u00ba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1467317871947,
+      "content": "Hihi, ne leider nicht. Du?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ruven Graf",
+      "timestamp_ms": 1467316019281,
+      "content": "Hey,  na wie gehts? \u00f0\u009f\u0098\u0089 bist du heute auch auf der uniparty? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1467313100527,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ruven Graf",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ruvengraf_kxn87coc8w",
+  "magic_words": [
+    
+  ]
+}

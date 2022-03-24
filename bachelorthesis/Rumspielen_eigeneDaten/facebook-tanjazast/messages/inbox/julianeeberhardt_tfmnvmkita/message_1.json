@@ -1,0 +1,846 @@
+{
+  "participants": [
+    {
+      "name": "Juliane Eberhardt"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501681232870,
+      "content": "also von dir is die hose da und das lange rote kleid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501681221840,
+      "content": "ich glaub die schicken das auf zweimal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501681214597,
+      "content": "\u00c3\u00a4hm nur die H\u00c3\u00a4lte bis jetz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501680897848,
+      "content": "Und Danke wegen Ahmed \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501680523163,
+      "content": "Ist das Paket echt angekommen? \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501677360659,
+      "content": "ich w\u00c3\u00bcrde ja sagen vllt findet er ja hier eine, aber es kommen glaub nur zwei oder drei M\u00c3\u00a4dels^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501677301577,
+      "content": "aber nat\u00c3\u00bcrlich^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501676124207,
+      "content": "Duuuu darf Ahmed mitkommen?! Bringt auch trinken mit aber der ist so einsam hier in der wg und will ihn nicht so alleine lassen und rabia sagt ihm jeden Tag ab\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501672493606,
+      "content": "Darf ich es abholen kommen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501672488397,
+      "content": "Omg jule das Paket ist angekommen?! \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501670210365,
+      "content": "Hast du spezielle W\u00c3\u00bcnsche als Geschenk zum Geburtstag? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503665516,
+      "content": "hm okay das hilft mir schon mal danke <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503534849,
+      "content": "Und partielle diffbarkeit war noch eine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503522595,
+      "content": "Und dann 9 Punkte Beweis zu Kompaktheit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503498384,
+      "content": "Gab nicht zuuuuu viele Punkte \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503488664,
+      "content": "Glaub die Funktionskurve ihre L\u00c3\u00a4nge berechnen oder so was \u00f0\u009f\u00a4\u0094 hab mal was hingeschrieben auf gut Gl\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503484610,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503462148,
+      "content": "Und eine zu iwas das wusste ich nicht mal was das war \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503451461,
+      "content": "dann wars vllt doch ganz gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503446168,
+      "content": "das kann ich gar nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503440431,
+      "content": "Zwei Aufgaben zu fubini",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503434701,
+      "content": "Halt viel fubini",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503429232,
+      "content": "Denke eh die machen die schwer weil die hier jetzt schon echt okay war",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503412786,
+      "content": "Denke wenn das jemand macht wird die 2. Klausur \u00c3\u00bcbelst \u00c3\u00bcbelst schwer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503405003,
+      "content": "oha nice",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503395982,
+      "content": "Und (iii) Lagrange und das gab 12 Punkte also alleine Lagrange",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503381120,
+      "content": "Einmal nur die lokalen und iwas zeigen und einmal war (i) lokale extrema (ii) Satz 7.5 mehr oder weniger ausschreiben halt warum max und min angenommen werden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503341675,
+      "content": "ich hoff das es irgendjemand geklaut hat und er es wieder online stellt xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503326510,
+      "content": "Und 2 mal extrema bzw ganze zwei Aufgaben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503299739,
+      "content": "Aber Taylor kam dran und Satz \u00c3\u00bcber implizite Funktionen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503285659,
+      "content": "Bin gespannt wie sie korrigieren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503269349,
+      "content": "So wie letztes Mal halt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503264467,
+      "content": "Ne durften wir nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503257873,
+      "content": "Puuuh \u00c3\u00bcberhaupt keine Ahnung \u00f0\u009f\u0098\u0082 wissen wir dann heute Abend bzw morgen fr\u00c3\u00bch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503249783,
+      "content": "ihr habt das blatt niht mitnhenen d\u00c3\u00bcrfen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503230170,
+      "content": "Ich versuche mich mal an die Aufgaben zu erinnern bzw bei der Einsicht am Mittwoch mitzuschreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503223747,
+      "content": "denkst du du hast bestanden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503211462,
+      "content": "W\u00c3\u00a4re komisch gewesen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503206959,
+      "content": "Ja das stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501503197421,
+      "content": "ja heute morgen noch vor der Pr\u00c3\u00bcfung aber ich konnte nat\u00c3\u00bcrlich nicht vorbei und Gl\u00c3\u00bcck w\u00c3\u00bcnschen, das w\u00c3\u00a4re komisch gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503185922,
+      "content": "Au\u00c3\u009fer du hei\u00c3\u009ft tanja, dann kannst sogar ziemlich leicht durchfallen \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503172343,
+      "content": "War halt echt kaum was beweisen. Da hat man so gut ne 1 holen k\u00c3\u00b6nnen. Hab 112 Punkte und davon waren 100 Punkte 100% also hat man 12 Punkte pusher.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503132471,
+      "content": "Abgegeben?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503128119,
+      "content": "Hast dein Attest schon abgegeben,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503119889,
+      "content": "Kennst doch Adrian und dall Aqua",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501503107301,
+      "content": "Nein nat\u00c3\u00bcrlich nicht \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501502684101,
+      "content": "ne ich schreib nach, durftet ihr die klausur mitnehmen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501494687133,
+      "content": "Alleine 30 Punkte f\u00c3\u00bcr maxima Minima und Stetigkeit und so was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501494671292,
+      "content": "Jule es war echt machbar. Also du h\u00c3\u00a4ttest so was von bestanden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501487785365,
+      "content": "ne das bringt nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501478853804,
+      "content": "Ich w\u00c3\u00bcrde am liebsten auch nicht mitschreiben aber naja \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501478826844,
+      "content": "Warum probierest du es nicht? \u00f0\u009f\u0098\u0094\u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501453086967,
+      "content": "ich schreib morgen nicht mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501453069836,
+      "content": "also nicht jetzt aber vorher war ja auch schon sp\u00c3\u00a4t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501453053894,
+      "content": "jetzt noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501441548104,
+      "content": "Hast du heute nichts gemacht? \u00f0\u009f\u0098\u009a\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501441532909,
+      "content": "Geh jetzt nochmal zu michi magst auch kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501441107448,
+      "content": "gar nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501423889646,
+      "content": "Wie l\u00c3\u00a4uft es? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501334806182,
+      "content": "Pool 6 maaaaan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501334774107,
+      "content": "wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501334636008,
+      "content": "Jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501334632401,
+      "content": "Pizza ist da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331649231,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331646665,
+      "content": "wann ist die denn da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331633891,
+      "content": "vllt ess ich dann ein st\u00c3\u00bcck und hol mir noch nen semmel",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331617538,
+      "content": "Passt jule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331614890,
+      "content": "Doch klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331581262,
+      "content": "achwas ne dann nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331568512,
+      "content": "Haben zu 6 ne Party also wird knapp aber dann sollen die weniger essen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331452404,
+      "content": "also falls die sich ne gro\u00c3\u009fe pizza bestellen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331442635,
+      "content": "ich zahl auch nat\u00c3\u00bcrlich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331432075,
+      "content": "ich komm wenn die pizza da ist, sag das denen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331388700,
+      "content": "Ja warten auf die",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331383940,
+      "content": "Ne nicht zwei mal betellen \u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331382980,
+      "content": "habt ihr bestellt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331371472,
+      "content": "Fahre um 8 heim, oder so kann dann da essen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331359924,
+      "content": "Dann komm und iss meinen Teil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331342157,
+      "content": "bestellen wir nachher auch pizza?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331334292,
+      "content": "was hat da denn auf?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331325823,
+      "content": "aber es ist samstag?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331291839,
+      "content": "nice^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331261052,
+      "content": "Jungs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331259156,
+      "content": "Also die Kuba",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331257409,
+      "content": "Pizza gleich essen glaub",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331239562,
+      "content": "Pool 6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331228932,
+      "content": "und vor allem wo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331223537,
+      "content": "haha was macht ihr denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331132604,
+      "content": "Also komm in paar Stunden \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501331127191,
+      "content": "Wir machen gerade nichts Hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1501331037239,
+      "content": "sag mal wo ihr seid und wie lange noch ungef\u00c3\u00a4hr, weil dann komm ich jetzt oder halt erst in ein paar stunden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493205868339,
+      "content": "hab die 4 etwas k\u00c3\u00bcrzer :D hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493201919696,
+      "photos": [
+        {
+          "uri": "messages/inbox/julianeeberhardt_tfmnvmkita/photos/18175690_1551299344927890_2107860937_o_1551299344927890.jpg",
+          "creation_timestamp": 1493201918
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493201897164,
+      "photos": [
+        {
+          "uri": "messages/inbox/julianeeberhardt_tfmnvmkita/photos/18120330_1551299031594588_2131272606_o_1551299031594588.jpg",
+          "creation_timestamp": 1493201895
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493201810528,
+      "content": "Ich versuchs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493201711091,
+      "content": "kannst du es mir jetzt schicken? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493201628142,
+      "content": "Ja dann komm ich nach dgl zu dir\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493201374552,
+      "content": "bitte :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493201153990,
+      "content": "kommst du dann nach DGL einfach her? :* also pcPool 6 oder vor? dann schauen wir uns die Induktion an wenn du magst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493201125733,
+      "content": "Kannst du mir in aha deine Aufgabe 2(ii) und 4 schicken? :* hab keine Idee wie ich es machen soll bzw bin faul und sollte eher Finanzierung f\u00c3\u00bcr morgen machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493148356887,
+      "content": "Ok danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148180433,
+      "content": "so \u00c3\u00a4hnlich wie hier aber nicht ganz so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148168260,
+      "content": "http://home.mathematik.uni-freiburg.de/wang/AanlysisII_3.pdf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148121369,
+      "content": "und dann im induktionschritt habe ich partielle Integration angewendet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148099111,
+      "content": "IA war dann k=0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493148074865,
+      "content": "habe es aber bisschen anders gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493147531928,
+      "content": "kann ich leider nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493146380269,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/julianeeberhardt_tfmnvmkita/audio/audioclip149314637900029312_1550693504988474.mp4",
+          "creation_timestamp": 1493146379
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493123216420,
+      "content": "Hm okay \nHat sie bestanden?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493123054887,
+      "content": "von Bet\u00c3\u00bcl. Die haben hochkorrigierten m\u00c3\u00bcssen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493122849970,
+      "content": "Echt?\nWoher wei\u00c3\u009ft \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493122814725,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493122813912,
+      "content": "ja aber sind trotzdem 2/3 durchgefallen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493122637835,
+      "content": "Richtig assi der notenschl\u00c3\u00bcssel f\u00c3\u00bcr die nachklausur ist einfach besser als der erste in ana",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Juliane Eberhardt",
+      "timestamp_ms": 1493122611615,
+      "content": "Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493121841978,
+      "content": "Di 16-18 Uhr O28/2001",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Juliane Eberhardt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/julianeeberhardt_tfmnvmkita",
+  "magic_words": [
+    
+  ]
+}

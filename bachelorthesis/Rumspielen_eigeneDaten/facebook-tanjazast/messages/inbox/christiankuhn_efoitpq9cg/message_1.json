@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Christian Kuhn"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christian Kuhn",
+      "timestamp_ms": 1504177610648,
+      "content": "Hallo Facebook-Freunde,\n\nwas haben Hans Klok, die Ehrlich-Brothers und ich gemeinsam? Wir alle Zaubern! Genau hier brauch ich deine Hilfe: Hast du Lust in einem Zauberprojekt mitzumachen? Vielleicht mal zu Schweben oder dich auch mal zers\u00c3\u00a4gen lassen? Dann melde dich, ich freue mich auf deine Antwort!\n\nVLG Christian",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034340711,
+      "content": "Vielen Dank Herr Kuhn! \nIch habe mich sehr \u00c3\u00bcber Ihre Nachricht gefreut. \nBleiben wir optimistisch Ramona bearbeiten wir noch! \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008d\u0095 \nDanke nochmals",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Kuhn",
+      "timestamp_ms": 1434032150995,
+      "content": "Hallo Frau Zast, alles Liebe und Gute zum Geburtstag!!! Viel Gl\u00c3\u00bcck, Gesundheit und Erfolg!!!\nVLG Christian Kuhn\nP.S.: Bin schon gespannt, ob Sie Frau Ege zum zaubern \u00c3\u00bcberreden k\u00c3\u00b6nnen... ansonsten lade ich Sie auch mal herzlich (alleine)  zum \"zers\u00c3\u00a4gen\" ein....",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Christian Kuhn",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/christiankuhn_efoitpq9cg",
+  "magic_words": [
+    
+  ]
+}

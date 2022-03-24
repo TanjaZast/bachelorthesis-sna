@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Valerija Geller"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385470878401,
+      "content": "Frag sie einfach ;) also Annemarie.Schubach@higa.schule.ulm.de",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385467521015,
+      "content": "Muss ich \u00c3\u00bcberhaupt nachschreiben wenn die auch einfach meine gfs note nehmen kann muss eh ne gfs halten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385467473786,
+      "content": "Ja genau :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385467238261,
+      "content": "Ok oder so hauptsache die ist nicht sauer... ich war glaub die einzige die bei der klausur nicht da war",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385467152025,
+      "content": "Ich kann dir sp\u00c3\u00a4ter die email von der geben :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1385461130681,
+      "content": "Oder so ich k\u00c3\u00b6nnt morgen 3.4. schreiben wenn du frau schubach siehst sag aber nicht dass ich noch nie da war :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1381938119889,
+      "content": "Reicht bis freitag w\u00c3\u00a4r ecgt nett :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1381934216099,
+      "content": "Okay geht bis Freitag oder bis morgen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Valerija Geller",
+      "timestamp_ms": 1381934019865,
+      "content": "Du tanja kannst du mir bitte bitte s5 und b8 von wortschaft kopieren ?:D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Valerija Geller",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/valerijageller_awmn5dnokq",
+  "magic_words": [
+    
+  ]
+}

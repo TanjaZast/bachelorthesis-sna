@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Na Ti"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1396812351233,
+      "content": "Wie h\u00c3\u00a4ttest du vor sie zu schneiden? :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Na Ti",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nati_p-z6_822lw",
+  "magic_words": [
+    
+  ]
+}

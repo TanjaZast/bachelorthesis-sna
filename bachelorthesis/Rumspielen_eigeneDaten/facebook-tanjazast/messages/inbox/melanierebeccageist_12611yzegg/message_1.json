@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Melanie Rebecca Geist"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1459401573464,
+      "content": "https://www.dropbox.com/sh/zg1omwffn6e63jf/AAApCY6jnjgnPmfAwZ9EDohXa?dl=0",
+      "share": {
+        "link": "https://www.dropbox.com/sh/zg1omwffn6e63jf/AAApCY6jnjgnPmfAwZ9EDohXa?dl=0"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458129038922,
+      "content": "Ja genau \u00f0\u009f\u0098\u008a \nNach Berlin \u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0098\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458128949042,
+      "content": "Perfekt danke \u00f0\u009f\u0092\u0095 und du ziehst nach Berlin oder wohin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458128898357,
+      "content": "Dann haben eure Eltern eine und ihr Schwestern eine \u00f0\u009f\u0098\u009b",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458128889254,
+      "content": "Muss mich gerade um meinen Umzug k\u00c3\u00bcmmern... \nMeine Mama bringt es morgen fr\u00c3\u00bch zur Post! \nIch Brenn euch jetzt noch ne 2. CD dazu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1458128864004,
+      "photos": [
+        {
+          "uri": "messages/inbox/melanierebeccageist_12611yzegg/photos/12722745_1248489145165757_1444622718_o_1248489145165757.jpg",
+          "creation_timestamp": 1458128863
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1458128081214,
+      "content": "Und ist sie schon unterwegs? \u00f0\u009f\u0098\u008d ich freue mich nur schon etwas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Melanie Rebecca Geist",
+      "timestamp_ms": 1457950757969,
+      "content": "Denk ich schicke sie Dienstag oder Mittwoch los \u00f0\u009f\u0098\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457947590330,
+      "content": "? \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1457910927326,
+      "content": "Hey Hey liebe Melanie \u00f3\u00be\u008d\u0095 wollte nur mal so aus Interesse fragen wie weit du mit den Bildern bist und wann du sie losschickst \u00f3\u00be\u008d\u0092\u00f0\u009f\u008f\u00bc will dich aber nicht stressen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Melanie Rebecca Geist",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/melanierebeccageist_12611yzegg",
+  "magic_words": [
+    
+  ]
+}

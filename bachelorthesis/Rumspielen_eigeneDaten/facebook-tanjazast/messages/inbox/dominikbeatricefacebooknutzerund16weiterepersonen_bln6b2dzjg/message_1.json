@@ -1,0 +1,230 @@
+{
+  "participants": [
+    {
+      "name": "Dominik Augat"
+    },
+    {
+      "name": "Beatrice Blankers"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Timo Timovi\u00c4\u0087"
+    },
+    {
+      "name": "Anton Schoger"
+    },
+    {
+      "name": "Lukas Bossert"
+    },
+    {
+      "name": "Linda Falkenberg"
+    },
+    {
+      "name": "Susanna de Secondi"
+    },
+    {
+      "name": "Jasmin Kast"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Artjom Ostapenko"
+    },
+    {
+      "name": "Samantha Zeisberg"
+    },
+    {
+      "name": "Pia Steininger"
+    },
+    {
+      "name": "Salfel Dun"
+    },
+    {
+      "name": "Leon Rapp"
+    },
+    {
+      "name": "Alexander Willmann"
+    },
+    {
+      "name": "Johanna Duckek"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Carla Fuchs"
+    },
+    {
+      "name": "Michael David Wlodyga"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moritz Roell",
+      "timestamp_ms": 1403813876289,
+      "content": "Moritz Roell hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Moritz Roell"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Buchner",
+      "timestamp_ms": 1403810074906,
+      "content": "Lisa Buchner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Buchner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Amadu Couhl",
+      "timestamp_ms": 1403808934118,
+      "content": "Amadu Couhl hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Amadu Couhl"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Siegwardt",
+      "timestamp_ms": 1403806304937,
+      "content": "Patrick Siegwardt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Patrick Siegwardt"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lena G\u00c3\u00b6ttinger",
+      "timestamp_ms": 1403797695591,
+      "content": "Lena G\u00c3\u00b6ttinger hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lena G\u00c3\u00b6ttinger"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403796119856,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominik Stierle",
+      "timestamp_ms": 1403795959733,
+      "content": "Dominik Stierle hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Dominik Stierle"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403795140378,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1403793533614,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Diekemper",
+      "timestamp_ms": 1403792688597,
+      "content": "Kevin Diekemper hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kevin Diekemper"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Christian Fay",
+      "timestamp_ms": 1403790752814,
+      "content": "Christian Fay hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Christian Fay"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nadine Berstecher",
+      "timestamp_ms": 1403790639975,
+      "content": "Nadine Berstecher hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nadine Berstecher"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Moritz de Menuisi\u00c3\u00a9r",
+      "timestamp_ms": 1403790614051,
+      "content": "Moritz de Menuisi\u00c3\u00a9r hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Moritz de Menuisi\u00c3\u00a9r"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Salfel Dun",
+      "timestamp_ms": 1403790593019,
+      "content": "Check es aus! Du k\u00c3\u00b6nntest leicht ein neues iPad gewinnen ... \r\n http://t.co/XGkzecJd1y",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dominik, Beatrice, Facebook-Nutzer und 16 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/dominikbeatricefacebooknutzerund16weiterepersonen_bln6b2dzjg",
+  "magic_words": [
+    
+  ]
+}

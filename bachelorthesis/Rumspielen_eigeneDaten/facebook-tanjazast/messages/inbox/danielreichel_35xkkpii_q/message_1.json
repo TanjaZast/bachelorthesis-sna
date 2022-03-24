@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Reichel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412331896086,
+      "content": "haha ja :D aber war trzd geil :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412331879075,
+      "content": "Hahah ich sollte lieber bis mehr sagen \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412331682801,
+      "content": "haha ich dachte mir das alles schon :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412331588891,
+      "content": "Das h\u00c3\u00a4tte ich nicht \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4das sag ich echt immer nur so z.b. H\u00c3\u00a4tte ich heute Mittag keine Zeit gehabt und bin nicht daheim hab dich aber gefegt ob du zu mir kommst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412331237487,
+      "content": "du h\u00c3\u00a4ttest alles gemacht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412331219145,
+      "content": "Ja das wollte ich das wei\u00c3\u009f ich und rummachen keine Ahnung das kam so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412331130423,
+      "content": "und du wolltest uuuunbedingt das ich dir schreib :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412331114265,
+      "content": "Hahaha doch schon das meiste",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412329924594,
+      "content": "du nicht :D\n\nwieso du pl\u00c3\u00b6tzlich mit mir rummachen wolltest und du h\u00c3\u00a4ttest da sogar mehr gemacht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412329864081,
+      "content": "Was verstehst du denn nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412329857516,
+      "content": "Ich auch \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412329832212,
+      "content": "ich weis alles :)\nich versteh das trzd noch nicht haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412329808281,
+      "content": "Du? Also bisschen was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412329802363,
+      "content": "Ehm ja :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412329721156,
+      "content": "hahaha ja wir haben ja auch gelabert :D weist du sonst noch was? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1412329693012,
+      "content": "Hahahaha das du Nina nicht mehr hinterherrennen willst \u00f3\u00be\u008d\u0095\u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Daniel Reichel",
+      "timestamp_ms": 1412328807630,
+      "content": "weist du iwas von gestern noch? :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daniel Reichel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/danielreichel_35xkkpii_q",
+  "magic_words": [
+    
+  ]
+}

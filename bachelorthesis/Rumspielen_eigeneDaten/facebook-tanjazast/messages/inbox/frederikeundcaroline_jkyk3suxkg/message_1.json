@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Frederike Leona"
+    },
+    {
+      "name": "Caroline Sauter"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Frederike Leona",
+      "timestamp_ms": 1382039508433,
+      "content": "Jiaaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1382037065821,
+      "content": "Kuuuuuuuchen! <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Frederike und Caroline",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/frederikeundcaroline_jkyk3suxkg",
+  "magic_words": [
+    
+  ]
+}

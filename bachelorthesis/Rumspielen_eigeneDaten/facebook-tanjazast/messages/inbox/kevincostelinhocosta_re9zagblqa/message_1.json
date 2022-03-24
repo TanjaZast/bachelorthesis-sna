@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Costelinho Costa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460396175390,
+      "content": "015164810786 ist mein Nummer \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Costelinho Costa",
+      "timestamp_ms": 1460395814452,
+      "content": "Weil ich nicht schreiben kann und ich was beplaudern muss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Costelinho Costa",
+      "timestamp_ms": 1460395789357,
+      "content": "Damit ich dich sp\u00c3\u00a4t nachts aufwecken kann wenn du schl\u00c3\u00a4fst \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460395693787,
+      "content": "Ohne den \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460395686286,
+      "content": "Warum das \u00f0\u009f\u0098\u0094\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Costelinho Costa",
+      "timestamp_ms": 1460395562840,
+      "content": "Schick mir nsk bitte schnell deine Nummer \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1460395428114,
+      "content": "Ja Kevin? \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kevin Costelinho Costa",
+      "timestamp_ms": 1460394810733,
+      "content": "Tanja ?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kevin Costelinho Costa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kevincostelinhocosta_re9zagblqa",
+  "magic_words": [
+    
+  ]
+}

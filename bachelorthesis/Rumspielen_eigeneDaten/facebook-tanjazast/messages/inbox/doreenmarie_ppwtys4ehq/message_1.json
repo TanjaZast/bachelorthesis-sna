@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Doreen Marie"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299412502000,
+      "content": "Danke.. Schreib dir gleich ne sms ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Doreen Marie",
+      "timestamp_ms": 1299411467000,
+      "content": "okay danke :)) emm 015778979797 :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299325149000,
+      "content": "Und deine? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1299323802000,
+      "content": "015789227304 das ist meine <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Doreen Marie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/doreenmarie_ppwtys4ehq",
+  "magic_words": [
+    
+  ]
+}

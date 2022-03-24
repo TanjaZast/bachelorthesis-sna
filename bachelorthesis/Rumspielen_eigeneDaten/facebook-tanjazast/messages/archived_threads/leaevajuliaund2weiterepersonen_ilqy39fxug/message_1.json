@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Julia Bartl"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420363098906,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1420281450507,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1342270036919,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1342269463027,
+      "content": "videos im anhang\nbzw als e-mail",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lea, Eva, Julia und 2 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/leaevajuliaund2weiterepersonen_ilqy39fxug",
+  "magic_words": [
+    
+  ]
+}

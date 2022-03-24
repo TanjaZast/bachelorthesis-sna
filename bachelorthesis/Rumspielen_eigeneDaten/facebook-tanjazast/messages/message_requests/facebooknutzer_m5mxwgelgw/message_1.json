@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1635139370606,
+      "content": "\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0091\u0089\u00f0\u009f\u0091\u008c\u00f0\u009f\u0092\u00a6\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u00af\u00f0\u009f\u0094\u009e\u00f0\u009f\u00a7\u00a1\u00f0\u009f\u0092\u0098\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0092\u008b\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00f0\u009f\u0092\u009d\u00e2\u009e\u00a1\thttps://l.facebook.com/l.php?u=https://j.mp/3E9F5BZ&h=w8ldqx23sp&s=1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1635139370435,
+      "content": "\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0091\u0089\u00f0\u009f\u0091\u008c\u00f0\u009f\u0092\u00a6\u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u00af\u00f0\u009f\u0094\u009e\u00f0\u009f\u00a7\u00a1\u00f0\u009f\u0092\u0098\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0092\u008b\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00f0\u009f\u0092\u009d\u00e2\u009e\u00a1\thttps://l.facebook.com/l.php?u=https://j.mp/2ZjAlKQ&h=q3chmdq93p&s=1",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/facebooknutzer_m5mxwgelgw",
+  "magic_words": [
+    
+  ]
+}

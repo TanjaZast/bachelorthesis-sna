@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Clarisse Graf"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Clarisse Graf",
+      "timestamp_ms": 1463565129788,
+      "content": "Oh sorry erst jetzt gelesen!! Iwo hinter der fachoberschule neu-ulm glaub ich also iwo im vorfeld",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Clarisse Graf",
+      "timestamp_ms": 1463565098291,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1463515369644,
+      "content": "Wo wohnt die Nathi nochmal",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Clarisse Graf",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/clarissegraf_n4efqrgkda",
+  "magic_words": [
+    
+  ]
+}

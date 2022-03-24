@@ -1,0 +1,1468 @@
+{
+  "participants": [
+    {
+      "name": "Paula Schmidl"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1497211970002,
+      "content": "Freut mich zu h\u00c3\u00b6ren \u00f0\u009f\u0098\u0087\nMir geht's ganz gut! Ich geh ab Juli jetzt ganz sicher nach \u00c3\u0096sterreich zur\u00c3\u00bcck und mach da den Medizin Aufnahmetest...\u00f0\u009f\u0098\u00ac\n\nWie geht's dir beim studieren? Machst es schon fertig oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1497211556414,
+      "content": "Danke \u00f0\u009f\u0098\u009a ja, und dir? Wie geht es dir? Was machst du so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1497204663156,
+      "content": "Alles gute zum Geburtstag liebe Tanja!! Hoff dir geht's gut \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487689615919,
+      "content": "Es ist so schwer sich zu entscheiden \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487689606474,
+      "content": "Hm \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487685161307,
+      "content": "Doch es macht schon Spa\u00c3\u009f aber gerade eben wegen den Noten und dem Aufwand deprimierend.... ich w\u00c3\u00bcsste aber einfach nicht was man sonst machen k\u00c3\u00b6nnte....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487684951325,
+      "content": "Ach komm schon!! Das is halt echt nicht einfach das Zeug! Ich hab das mathe Zeug einfach aufgeh\u00c3\u00b6rt weils mir zu viel wurde \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc Wobeis mir halt auch keinen Spa\u00c3\u009f gemacht hat und ich gewusst hab dass ichs sowieso nicht weiter machen wollt. \n\nIch glaub am wichtigsten is es halt, ob es dich interessiert und dir halbwegs Spa\u00c3\u009f machst. Dann ist es ja auch halb so schlimm wenn du nicht nur top Noten hast, Hauptsache du bist durch \u00f0\u009f\u0098\u0089 \naber wenn du dich da wirklich nur so durchqu\u00c3\u00a4lst dann ist es ja vielleicht echt nicht so das richtige.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487684502660,
+      "content": "Oh das klingt sch\u00c3\u00b6n \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487684490762,
+      "content": "Keine Ahnung es ist so deprimierend st\u00c3\u00a4ndig schlechte Noten zu bekommen. Ich weine seit Wochen nur noch und habe so nen Hass auf mich selbst entwickelt und f\u00c3\u00bchle mich nur noch dumm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487682991174,
+      "content": "Echt jetzt? Warum?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487682985068,
+      "content": "Ich \u00c3\u00bcberlege Sportwissenschaften und danach dran physio, biomedizin, orthoptik oder doch Medizin \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487679475193,
+      "content": "\u00c3\u009cberlege n\u00c3\u00a4mlich auch aufzuh\u00c3\u00b6ren  \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487673389923,
+      "content": "Doch schon \u00f0\u009f\u0098\u009a wei\u00c3\u009ft du eigentlich was du jetzt machen magst dann?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487670117494,
+      "content": "Find ich echt voll flei\u00c3\u009fig \u00f0\u009f\u0098\u0089 \nDanke haha aber sehr viel besser als ein 4er is das e auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487670080914,
+      "content": "Gl\u00c3\u00bcckwunsch \u00f0\u009f\u0092\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487670074016,
+      "content": "Ja sollte ich \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u0088 aber nicht so. Werde es nochmal machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487666255673,
+      "content": "3.3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487666253465,
+      "content": "Ach komm wenn du ihn gar nicht drauf h\u00c3\u00a4ttest dann h\u00c3\u00a4ttest es nicht geschafft;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487666199349,
+      "content": "Naja das hei\u00c3\u009ft ja eig nur dass ich den Stoff nicht drauf habe und das sollte ich bei ana 2 schon.... was hast du? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487666147837,
+      "content": "Das ist flei\u00c3\u009fig :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487666135897,
+      "content": "Weil irgendwie m\u00c3\u00b6chte ich da ne bessere Note",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487666107513,
+      "content": "Aber ne 4.0 werde sie nochmal schreiben.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487666101350,
+      "content": "Ja auch. \u00f0\u009f\u0098\u0085\u00f0\u009f\u008e\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487666087239,
+      "content": "Ja und du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487666048905,
+      "content": "Uuuund hast du's geschafft? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487495127063,
+      "content": "Oje....ich war zwar froh dass nicht so viel zu objektorientierung gekommen ist und mit konstruktoren etc. aber es war trotzdem voll schwer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487453999908,
+      "content": "Ebenfalls und auch allgemein ziemlich schlecht. Dachte es wird besser \u00f0\u009f\u0098\u0094 und vor allem anders",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487446907435,
+      "content": "Haha naja...die Automaten waren voll schwer. Bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487440777283,
+      "content": "\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487440772049,
+      "content": "Wie lief Info?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487193841526,
+      "content": "Doch hab ich aber das war eigen dann nicht so schwer :) also zumindest leicht zu bestehen glaub ich, ganz eine gute Note wirds vlt auch nicht aber das passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487193795686,
+      "content": "Hm oky",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487173928987,
+      "content": "Am 23..... \u00f0\u009f\u0098\u0094 nein aber das sind nur 7 Tutorien und 2 probeklausuren..... an sich machbar... das stimmt alles. Keine Ahnung. Hast du Anatomie nicht mitgeschrieben? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487172542374,
+      "content": "Hast du daf\u00c3\u00bcr schon gelernt? Und ist das viel?\nIch glaube BWL zu schieben w\u00c3\u00bcrde sicher mehr Sinn machen als ana , weil das reine Lernsache ist, im Gegensatz zu ana. \nAber andererseits musst halt bedenken dass du dann quasi gar keine Ferien hast...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487172465348,
+      "content": "Wann w\u00c3\u00a4re BWL denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487172136115,
+      "content": "\u00c3\u009cberlege sogar BWL wegen ana zu schieben aber bin so unschl\u00c3\u00bcssig \u00f0\u009f\u0098\u0094 seit 3 Wochen jeden Tag 8 Stunden lerne und teils 10 h ohne Pause macht keinen Spa\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487163451373,
+      "content": "Glaub ich dir, du hast ja noch viel mehr um die Ohren im moment\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487162774482,
+      "content": "Hahaha Same",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487162768853,
+      "content": "Gut bisschen stressig gerade alles \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1487149267744,
+      "content": "Hey wie geht's? :) ja, tu ich ...ich mache grade die altklausuren \nhaha aber bin teils am verzweifeln \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1487149184586,
+      "content": "Und, schreibst du am Samstag Info mit? Wie laufen die Vorbereitungen? \u00f0\u009f\u0098\u009a\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1484286290214,
+      "content": "Ja genau. \nJa das auf jeden Fall!! \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008fInfo mach ich das Semester sowieso noch weiter und n\u00c3\u00a4chstes Semester werde ich dann einfach paar Medizin Vorlesungen machen oder so.\n\nJa ich find das einfach echt schwierig...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484259756953,
+      "content": "Das klingt sch\u00c3\u00b6n! Ich w\u00c3\u00bcnsche dir einfach dass du das richtige findest und so was ist deutlich schwerer als man immer denkt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484259675097,
+      "content": "Macht sie das gleiche wie du dann? \u00f0\u009f\u0098\u009a aber wir sehen uns schon noch oder? Bleibst du in Ulm oder willst du wo anders hin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1484256648311,
+      "content": "Ja mal schaun\u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bc\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\nNein ich war mit der franzi essen in Ulm und bin dann nach Vorarlberg ins Training gefahren und schlaf da bei einer Freundin \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484256563910,
+      "content": "Oh nein das ist sehr schade.... aber wenn du denkst dass es das richtige ist dann wird das so sein. Was magst du sonst machen? \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc bist dann heute heim gefahren?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1484256406448,
+      "content": "Voll lieb dass du fragst\u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u0098\u00ba\u00ef\u00b8\u008faber ich hab mich jetzt entschlossen dass ich analysis auch lass. Weil ich will glaub ich doch auf keinen Fall weiter machen, und warum sollt ich mich dann damit abm\u00c3\u00bchen\u00f0\u009f\u0098\u00b6\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088 jetz mach ich nur Anatomie und Info ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484227566719,
+      "content": "Soll ich dir dir \u00c3\u009cbung abfotografieren? \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1484057055605,
+      "content": "Aja Danke :) ich lies es mir dann mal durch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484056790275,
+      "content": "Das meinte ich \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1484056782934,
+      "content": "https://de.m.wikipedia.org/wiki/Bioenergetische_Analyse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482402065149,
+      "content": "Ich habs mir dann gar nicht mehr so genau angeschaut muss ich zugeben \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482400580005,
+      "content": "Okay. Hat dir meins was gebracht und willst du noch die iv?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482400457183,
+      "content": "War voll lustig \u00f0\u009f\u0098\u008a\nDaf\u00c3\u00bc hab ich jetzt bei der letzten Nummer in ana nix mehr geschafft, sorry. Ich geb nur die ersten Beispiele ab...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482400092081,
+      "content": "Und hast mit ana schon angefangen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482400080141,
+      "content": "Wie war es? \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482350311365,
+      "content": "Wart ich bin grad auf einer Weihnachtsfeier. Ich Versuch dass ichs morgen fr\u00c3\u00bch noch schaff, hoff das hilft dir noch was",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482347147503,
+      "content": "Also ich h\u00c3\u00a4tte was f\u00c3\u00bcr die iv. Gibt einen sch\u00c3\u00b6nen beweis auf youtube. Die iii hab ich nichts.. hast du Ans\u00c3\u00a4tze?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482339289442,
+      "content": "F\u00c3\u00bcr die iii hab ich null was und die iv w\u00c3\u00bcrde ich mir glaub iWie noch heute Abend herleiten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482339254927,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15657996_1470681346306044_727153195_o_1470681346306044.jpg",
+          "creation_timestamp": 1482339253
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.102.14",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482339236429,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15682296_1470681106306068_1337296691_o_1470681106306068.jpg",
+          "creation_timestamp": 1482339235
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.102.14",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482336359236,
+      "content": "\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482334045241,
+      "content": "Ich sch\u00c3\u00a4tze das alles nur ab \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482334032617,
+      "content": "Das ist ja mal wieder ein Mist \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482328406407,
+      "content": "Ja das w\u00c3\u00a4r nat\u00c3\u00bcrlich nett!\nVlt bekomm ich ja auch noch was raus, sag ich dir dann auch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482327901069,
+      "content": "Mache gleich nach der \u00c3\u009cbung die letzte Aufgabe noch. Wenn ich was hab gebe ich dir bescheid wenn du magst. \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482327698628,
+      "content": "Ja voll, Danke \u00e2\u0098\u00ba\u00ef\u00b8\u008f\n\nHaha voll lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482327543091,
+      "content": "Spa\u00c3\u009f, du bist ja sonst super gut. Mein Freund fragt voll oft nach dir weil ich dem erz\u00c3\u00a4hlt habe wie gut du fechtest. Ich finde das voll faszinierend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482327496574,
+      "content": "Oha Paula \u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482327481994,
+      "content": "An sich echt nicht schwer aber ich bin da auch erst nach dem tut drauf gekommen \u00f0\u009f\u0098\u009a\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc hoffe das hilft dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482327437696,
+      "content": "Ich bin da irgendwie auf ein cauchy Produkt gekommen und gar nicht klargekommen\u00f0\u009f\u0099\u0088\nAber so macht das Sinn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482326927367,
+      "content": "Ah okay danke, ich schaus mir mal an\u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482326913916,
+      "content": "Beim letzten Europacup hab ich gegen eine Serbin verloren \u00f0\u009f\u0098\u009c aber das war e eher unn\u00c3\u00b6tig \u00f0\u009f\u0099\u0088\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482325195148,
+      "content": "Voll krass dass man in Serbien fechtet \u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482325171356,
+      "content": "Die ii m\u00c3\u00bcsste passen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482325164902,
+      "content": "Bin mir aber bei der i nicht ganz sicher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482325157363,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15631469_1470385499668962_2114298781_o_1470385499668962.jpg",
+          "creation_timestamp": 1482325155
+        }
+      ],
+      "type": "Generic",
+      "ip": "2a01:598:81c0:e087:dde8:5a48:d94e:1088",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482325090549,
+      "content": "Aja und hast du die Nummer 45. weil bei i hab ich da nix und ii bin ich mir auch unsicher...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482323636934,
+      "content": "Ja die hab ich auch nicht :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482323630367,
+      "content": "Haha ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482323182449,
+      "content": "\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482323178329,
+      "content": "Finde die letzte Aufgabe ziemlich doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482323167851,
+      "content": "Beides aber vor allem ana \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482323156273,
+      "content": "Echt? \u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af\u00f0\u009f\u0098\u00af so was gibts dort?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482323055144,
+      "content": "Teils ok teils komm ich gar nicht so klar... meinst du e ana oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482323030906,
+      "content": "Aja genau. Wir haben fr\u00c3\u00bcher immer ein Turnier in Serbien gehabt und letztes Jahr war die em dort",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482322947474,
+      "content": "Wie fandest du das Blatt die Woche?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482322939555,
+      "content": "In Serbien \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482321799251,
+      "content": "Wo ist das genau?\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482320264293,
+      "content": "Voll sch\u00c3\u00b6n so eine Ferienwohnung bzw Haus \u00f0\u009f\u0098\u008d. Und vor allem wenn es nicht zu weit ist... unseres ist 1700 km weg. Ich war da zwei Jahre nicht mehr \u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482320214296,
+      "content": "Voll gut geregelt \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u0088 ich muss es wieder alleine machen \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482270016239,
+      "content": "Ich scann das Zeug ein und Schicks der franzi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482270000299,
+      "content": "Ja geht im Winter auch \u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482268415687,
+      "content": "Ah das klingt wie in einem M\u00c3\u00a4rchen \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482268390061,
+      "content": "Oha \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d kann man da im Winter dann auch Ski fahren oder geht ihr da nur im Sommer hin?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482268387321,
+      "content": "Danke voll lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482268360016,
+      "content": "Wie macht ihr das mit dem Blatt diese Woche?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482268352352,
+      "content": "Naja ich denke das wird sehr \u00c3\u00a4hnlich sein. Ich schau vielleicht mal in den Ferien wie das genau auf dem Mac geht. Also an sich verpasst du nichts. Das tut war ziemlich aufs Ana Blatt von dieser Woche bezogen. War echt gut. Und in Info hat der einige Beispiele gemacht mit bin\u00c3\u00a4rzahlen gemacht und bisschen weiter das Skript.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482243456216,
+      "content": "Danke\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\nHm oky haha dann hoff ich, dass ichs am Linux auch kapier, weil sonst w\u00c3\u00a4r das sch\u00c3\u00b6n bl\u00c3\u00b6d bei der klausur und so\u00f0\u009f\u0099\u0088\n\nHehe:) aber direkt da wo ich wohn ist es auch nicht so besonders, aber wir haben eine kleine Ferienwohnung bei so einem See mit vielen Bergen , dort liiiieb ich es\u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482241472625,
+      "content": "Ich beneide dich so dass du in \u00c3\u0096sterreich wohnst \u00f0\u009f\u0098\u008d so viel sch\u00c3\u00b6nere Natur also hier in Ulm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482241431286,
+      "content": "Ja genau das. Das ist ja alles anders beim Mac als bei Linux",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482241402575,
+      "content": "Genie\u00c3\u009fe es!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482241391414,
+      "content": "Voll sch\u00c3\u00b6n! Das klingt echt sch\u00c3\u00b6n \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482236048356,
+      "content": "Meinst du das Terminal?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482236035710,
+      "content": "Ja und ich mich erst die alle mal wiederzusehen. Auch die ganzen Freunde aus Linz \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482236013122,
+      "content": "Also morgen und Donnerstag hab ich so Veranstaltungen wo ich hin muss, wegen dem Fechten. \nEigentlich h\u00c3\u00a4tt ich also auch erst heut fahren k\u00c3\u00b6nnen, aber meine Schwester hat heut in Linz in dire Schule m\u00c3\u00bcssen und war ja am Montag bei mir. Da sind wir dann einfach zusammen gefahren\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235898551,
+      "content": "Aber meine Console ist bisschen doof",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235884740,
+      "content": "Mac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235882471,
+      "content": "Warum bist du eigentlich jetzt gefahren? Freut sich deine Familie? \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235873381,
+      "content": "Ich habs halt von Anfang an so gemacht, also bin ich da jetzt ganz gut drin. \nHast du auch einen Mac oder windows?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235859155,
+      "content": "Jap. Dann stimmt dein Ansatz wenn du es so hast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235831426,
+      "content": "Schon?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235824613,
+      "content": "Echt? Bei mir geht das nicht und ich habe das Gef\u00c3\u00bchl alles ist anders als mit Linux",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235824558,
+      "content": "Ich habs jetzt schon abgegeben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482235808505,
+      "content": "Was fehlt noch? Aber denke ich werde da nicht viel helfen k\u00c3\u00b6nnen. Bei der 3 m\u00c3\u00bcsste man halt wieder mit der ascii Tabelle arbeiten. \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235371071,
+      "content": "Is genau gleich wie auf der Uni nur find ichs halt praktisch weil ichs dann \u00c3\u00bcberall machen kann \u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235348575,
+      "content": "Ja wenn ichs Check dann geht das einwandfrei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482235334254,
+      "content": "Naja so halb halb\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482234374221,
+      "content": "Machst du Info imm auf deinem Mac? Und klappt das gut? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482234355971,
+      "content": "Voll gut, freut mich! Hat mit Info noch alles geklappt? \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1482178342826,
+      "content": "Ja:) war eigentlich ganz okay\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1482170516569,
+      "content": "Gut angekommen? Wie war der Verkehr? \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481750108244,
+      "content": "Vielleicht stimmts ja\u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749664964,
+      "content": "Ja aber ich komme da auf kein richtiges Ergebnis das Sinn macht. Ich lasse es glaub einfach so stehen \u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749473549,
+      "content": "Aber 6*10^-1 + 2*10^-2 + 1*10^-3....\nAls Summe m\u00c3\u00bcsste man dann halt die Folge a(k) iwie festlegen \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749284012,
+      "content": "Hm das hat die Franzi , kann ich dir jetzt Leider nicht sagen..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749226375,
+      "content": "Ui oky \u00f0\u009f\u0098\u00ac ja das ist m\u00c3\u00bchsam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749219267,
+      "content": "Aber bei der 42, wie wollen die 41/66 in dezimalbruchdarstellung?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749193867,
+      "content": "Doch ganz sicher stimmt deins!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749184982,
+      "content": "Ja hab Bronchitis aber muss morgen ins Info tut und ich hasse es lange zu fehlen also versuche ich wenigstens eine Stunde auszuhalten \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749181065,
+      "content": "Haha aber ob meins stimmt ist halt die frage\u00f0\u009f\u0098\u0082 da w\u00c3\u00a4r ich mir nicht 100% sicher \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749147507,
+      "content": "Perfekt \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d dann stimmt es so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749144413,
+      "content": "Ohje nein das h\u00c3\u00b6rt sich ja gar nicht gut an\u00f0\u009f\u0098\u00b7hoff dir geht's bald besser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481749138739,
+      "content": "UPS meinte bei mir kommt raus dass es konvergiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1481749064903,
+      "content": "Ich hab absolute Konvergenz mit dem wurzelkriterium",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481745254612,
+      "content": "Hoffe dir geht es so weit gut? War die letzen Tage ziemlich krank im Bett und daher nicht in der Uni \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1481745227375,
+      "content": "Huhu. Darf ich dich was zu der Aufgabe 39 fragen? Jule meint, dass die 4. folge mit k! Im Nenner divergiert. Bei mir kommt aber raus dass es divergiert weil k Fakult\u00c3\u00a4t gegen unendlich geht. Was habt ihr? \u00f0\u009f\u00a4\u0094\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1480548262033,
+      "content": "Ja manchmal spinnen die alle bisschen \u00e2\u0098\u00ba\u00ef\u00b8\u008f so wie in Informatik letzte Woche oder allgemein was die alles verlangen \u00f0\u009f\u0098\u0091",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1480540966636,
+      "content": "Aber LA war diese Woche auch extrem bl\u00c3\u00b6d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1480540949964,
+      "content": "Ja voll\u00f0\u009f\u0099\u0088\nWir auch nicht ... :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1480540733893,
+      "content": "Aber diese Woche ist das Blatt schon bisschen dumm gemacht. F\u00c3\u00bcr die letzte habe ich nicht einmal einen Ansatz \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1480539331478,
+      "content": "supi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1480539049733,
+      "content": "Okay dann passt es doch, Danke! \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1480538958281,
+      "content": "wir haben 3 f\u00c3\u00a4lle, 1 mal wo n durch drei teilbar ist, einmal teilbar mit 1 rest und einmal mit 2 rest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1480538762478,
+      "content": "Eine Frage, was habt ihr bei der nr 28 Nummer 3 raus? Ich wei\u00c3\u009f nicht genau was die gau\u00c3\u009fklammer bei einem n macht wenn es ja eh gegen unendlich geht wie man da abrunden will",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479965795479,
+      "content": "Und danke f\u00c3\u00bcrs 23\u00f0\u009f\u0099\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479965586123,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15204240_1485613598122206_1018577128_o_1485613598122206.jpg",
+          "creation_timestamp": 1479965584
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479965581277,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15182409_1485613564788876_619625898_o_1485613564788876.jpg",
+          "creation_timestamp": 1479965579
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479965579057,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15216256_1485613541455545_1526114709_o_1485613541455545.jpg",
+          "creation_timestamp": 1479965577
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479965535813,
+      "content": "Oh Upsi tut mir voll leid, dass habe ich irgendwie \u00c3\u00bcbersehen oder so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479923626697,
+      "content": "Habt ihr heute nicht noch was mit komplexen Zahlen gemacht? Ich hab nichts in den aufschreiben dar\u00c3\u00bcber gesehen \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479921479155,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15224632_1428064323901080_1353681590_o_1428064323901080.jpg",
+          "creation_timestamp": 1479921478
+        }
+      ],
+      "type": "Generic",
+      "ip": "2a01:598:a843:c310:d88f:c406:7c77:9e5e",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479921185093,
+      "content": "Habens glaub gleich \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479908230498,
+      "content": "Ich hab 23i mit dreiecksungl und epsilonumebung versucht aber bin da auf keinen gr\u00c3\u00bcnen Zweig gekommen \u00f0\u009f\u0098\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479908201092,
+      "content": "Ja das w\u00c3\u00a4r voll gut \u00e2\u0098\u00ba\u00ef\u00b8\u008f\n\nGar kein Problem ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479908142629,
+      "content": "Danke!!! \u00f0\u009f\u0098\u009a\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479908137756,
+      "content": "Uns fehlt noch die 23i und 25 aber nach Info machen wir die noch. Kann es dir dann sp\u00c3\u00a4testens um 6 sagen wenn du magst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907163387,
+      "content": "Hab daf\u00c3\u00bcr eine Frage... die 23 i vom Blatt... wie habt ihr die denn gel\u00c3\u00b6st. Weil da kommen wir gar nicht drauf...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907114795,
+      "content": "Dieses Mal ohn Videos \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907102233,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15225299_1484878861529013_816417821_o_1484878861529013.jpg",
+          "creation_timestamp": 1479907100
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907089602,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15224732_1484878021529097_605377912_o_1484878021529097.jpg",
+          "creation_timestamp": 1479907087
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907080727,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15152897_1484877788195787_1570162095_o_1484877788195787.jpg",
+          "creation_timestamp": 1479907078
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907071039,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15216158_1484877701529129_1029970261_o_1484877701529129.jpg",
+          "creation_timestamp": 1479907069
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479907062933,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/15152984_1484877641529135_866810085_o_1484877641529135.jpg",
+          "creation_timestamp": 1479907061
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479904843568,
+      "content": "Okay vielen Dank \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479900355734,
+      "content": "Mach ich dann sp\u00c3\u00a4ter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479900350800,
+      "content": "Ja sicher",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479898358356,
+      "content": "Huhu ich habs heute Vormittag nicht in ana geschafft \u00f0\u009f\u0099\u0088 kannst du mir vielleicht den aufschreiben schicken? W\u00c3\u00a4re super lieb \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1479846483771,
+      "content": "na nicht wirklich... :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479835616773,
+      "content": "Habt ihr Ideen f\u00c3\u00bcr die letzte Aufgabe in Ana? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1477832673997,
+      "content": "Danke Danke!!! \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477832053999,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14895548_1459676780715888_231237289_o_1459676780715888.jpg",
+          "creation_timestamp": 1477832053
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477832038511,
+      "content": "H\u00c3\u00a4\u00c3\u00a4\u00c3\u00a4 schon wieder \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477832024597,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14875830_1459676470715919_430298847_o_1459676470715919.jpg",
+          "creation_timestamp": 1477832023
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477832006376,
+      "videos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/videos/video1477832005_1459676314049268.mp4",
+          "creation_timestamp": 1477832004,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/14768129_1459676330715933_6856427040476758016_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=9628f576daf2a8823ebd3391394e204d&oe=618897E1"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477831990113,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14895472_1459676180715948_936712349_o_1459676180715948.jpg",
+          "creation_timestamp": 1477831989
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477831923311,
+      "content": "Upsi, keine Ahnung warum das Videos geworden sind\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0098\u0082 klar",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1477831196833,
+      "content": "Schonmal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1477831192741,
+      "content": "Duuuu. Eine bitte. Du hast mir 3 Videos geschickt. Leider kann ich das letzte nicht schnell genug Screenshoten um es richtig lesen zu k\u00c3\u00b6nnen. K\u00c3\u00b6nntest du mir da nochmal ein Bild schicken? \u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0099\u0088 vielen Dank scjonmal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1477483244423,
+      "content": "Bestimmt, vielen Dank!!! \u00f0\u009f\u0099\u0088\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477800451,
+      "content": "Hoff du kannst alles lesen \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477784380,
+      "videos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/videos/video1477477783_1455469577803275.mp4",
+          "creation_timestamp": 1477477782,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/14768024_1455469654469934_1099436684891652096_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=fbcf2b86d2834b65e4d5bc15874aa3a3&oe=61893E08"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477775910,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14813004_1455467834470116_688308360_o_1455467834470116.jpg",
+          "creation_timestamp": 1477477775
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477766083,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14881670_1455467684470131_1523715096_o_1455467684470131.jpg",
+          "creation_timestamp": 1477477765
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477758809,
+      "videos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/videos/video1477477758_1455467491136817.mp4",
+          "creation_timestamp": 1477477755,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/14768824_1455467504470149_7942801110618603520_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=698d05b66bf79b45986aee2b18142e48&oe=61897048"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477749717,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/photos/14787523_1455467374470162_1165072692_o_1455467374470162.jpg",
+          "creation_timestamp": 1477477748
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477743339,
+      "videos": [
+        {
+          "uri": "messages/inbox/paulaschmidl_02yy_92pia/videos/video1477477742_1455467204470179.mp4",
+          "creation_timestamp": 1477477741,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/14768081_1455467237803509_242378585199869952_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=21ed58b72372be2a3396fbe5bc32c1c4&oe=6189DABA"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Paula Schmidl",
+      "timestamp_ms": 1477477705927,
+      "content": "Ja sicher \u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1477476618284,
+      "content": "Huhu, k\u00c3\u00b6nntest du mir die VL von heute ana vielleicht schicken? Jule hat nicht alles mitgeschrieben. Oder kann ich es sp\u00c3\u00a4ter in Info abfotografieren? \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Paula Schmidl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/paulaschmidl_02yy_92pia",
+  "magic_words": [
+    
+  ]
+}

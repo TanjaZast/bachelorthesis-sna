@@ -1,0 +1,223 @@
+{
+  "participants": [
+    {
+      "name": "Ulli Sch\u00c3\u00b6nthal"
+    },
+    {
+      "name": "Esteban Nader"
+    },
+    {
+      "name": "Jana Fait Sauter LesFleurs"
+    },
+    {
+      "name": "Jens Kr\u00c3\u00a4mer"
+    },
+    {
+      "name": "Eli Wonka"
+    },
+    {
+      "name": "Johannes Schneider"
+    },
+    {
+      "name": "Jannik Hartberger"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Tamara Pletz"
+    },
+    {
+      "name": "Julian Iwas"
+    },
+    {
+      "name": "Lucas Goldmann"
+    },
+    {
+      "name": "Ron\u00c3\u00a4yliebt Dich"
+    },
+    {
+      "name": "Franziska Str\u00c3\u00b6bele"
+    },
+    {
+      "name": "Mareike Elsner"
+    },
+    {
+      "name": "Marie Lena Burger"
+    },
+    {
+      "name": "Andrea Egli"
+    },
+    {
+      "name": "Ren\u00c3\u00a9 Drewes"
+    },
+    {
+      "name": "Lena Hammer"
+    },
+    {
+      "name": "Patrick Peetz"
+    },
+    {
+      "name": "Hanna Emma"
+    },
+    {
+      "name": "Johanna Mehlich"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Myri Grimm",
+      "timestamp_ms": 1406372361808,
+      "content": "Myri Grimm hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Myri Grimm"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael O\u00c3\u009fwald",
+      "timestamp_ms": 1402996973290,
+      "content": "Michael O\u00c3\u009fwald hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michael O\u00c3\u009fwald"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402949290777,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alexander Vogt",
+      "timestamp_ms": 1402378683844,
+      "content": "Alexander Vogt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alexander Vogt"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marcel Ritlewski",
+      "timestamp_ms": 1402309995915,
+      "content": "Marcel Ritlewski hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marcel Ritlewski"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402117847139,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isaac Ephraim Lasky",
+      "timestamp_ms": 1402072512506,
+      "content": "Isaac Ephraim Lasky hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Isaac Ephraim Lasky"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Felix Senf",
+      "timestamp_ms": 1402071194753,
+      "content": "Felix Senf hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Felix Senf"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Annelie Galgenm\u00c3\u00bcller",
+      "timestamp_ms": 1402069950218,
+      "content": "Annelie Galgenm\u00c3\u00bcller hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Annelie Galgenm\u00c3\u00bcller"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Huber",
+      "timestamp_ms": 1402068270976,
+      "content": "Charlotte Huber hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Charlotte Huber"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stefan D\u00c3\u00b6rflinger",
+      "timestamp_ms": 1402067364122,
+      "content": "Stefan D\u00c3\u00b6rflinger hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Stefan D\u00c3\u00b6rflinger"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nathalie Scheible",
+      "timestamp_ms": 1402064897549,
+      "content": "Nathalie Scheible hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nathalie Scheible"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jannik Hartberger",
+      "timestamp_ms": 1402064809251,
+      "content": "Wer w\u00c3\u00bcnscht sich ein neues iPad Mini? http://t.co/ybnpSkLdvV",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ulli, Esteban, Jana und 17 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ulliestebanjanaund17weiterepersonen_7ebucwibqg",
+  "magic_words": [
+    
+  ]
+}

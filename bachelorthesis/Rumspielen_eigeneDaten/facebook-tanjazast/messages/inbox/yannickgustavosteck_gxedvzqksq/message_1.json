@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Yannick Gustavo Steck"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yannick Gustavo Steck",
+      "timestamp_ms": 1413296509930,
+      "content": "auch hoff nicht schlimm wenn ich dir geschrieben hab?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413291884533,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1413291881681,
+      "content": "Hey ja bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Yannick Gustavo Steck",
+      "timestamp_ms": 1413288707614,
+      "content": "hey \u00f3\u00be\u008c\u00b5\nalles klar!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Yannick Gustavo Steck",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/yannickgustavosteck_gxedvzqksq",
+  "magic_words": [
+    
+  ]
+}

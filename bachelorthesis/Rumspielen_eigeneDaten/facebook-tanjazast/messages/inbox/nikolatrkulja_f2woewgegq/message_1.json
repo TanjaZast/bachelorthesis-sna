@@ -1,0 +1,1790 @@
+{
+  "participants": [
+    {
+      "name": "Nikola Trkulja"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451239113686,
+      "content": "Wie alt bist du jetzt eigentlich ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451239085464,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451239076017,
+      "content": "Ja bestimmt ein Jahr oder so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238891632,
+      "content": "Ist ja schon lange her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238885628,
+      "content": "Keine Ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238883805,
+      "content": "Ich wei\u00c3\u009f es wirklich nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238871323,
+      "content": "Ja dass du dich nicht mehr daran erinnern kannst \u00f3\u00be\u008c\u00b4 sp\u00c3\u00b6ter bilde ich mir das nur ein weil sie es auch nicht  mehr wei\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238824292,
+      "content": "Was Los Tanja ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238814851,
+      "content": "Oh man Nikola \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238810192,
+      "content": "Ja ist sie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238776456,
+      "content": "Die war ganz s\u00c3\u00bc\u00c3\u009f gestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238770957,
+      "content": "Keine Ahnung mehr wirklich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238755078,
+      "content": "Kannst dich noch erinnern? Ich hab dir mal ein Bild geschickt gehabt von uns beiden und du wolltest ihre Nummer und dann habt ihr ne Zeit lang geschrieben und dann irgendwann nicht mehr \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238670062,
+      "content": "Das wir uns kennen ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238661889,
+      "content": "Auf was bezogen also das Fragezeichen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238624853,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238598912,
+      "content": "Hab ich nicht behauptet nur wenn ich mit Freundinnen aus meinem Dorf feiern gehe, dann fahre ich auch mit denen heim. So was finde ich geh\u00c3\u00b6rt sich einfach \u00f3\u00be\u008c\u00b5 Lidia und du kennt euch ja gell",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238526881,
+      "content": "Bist jetzt wieder cool ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451238519809,
+      "content": "Check ich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451238505479,
+      "content": "Bestimmt nicht \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451234504799,
+      "content": "Was ja bestimmt ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451234490297,
+      "content": "Ja bestimmt \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451234179280,
+      "content": "Mit mir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1451234163476,
+      "content": "Weil ich sonst nicht heim gekommen w\u00c3\u00a4re \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1451232402511,
+      "content": "Wieso gehst du einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424809678347,
+      "content": "Hab sie nicht mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424809497993,
+      "content": "Du hattest die hast mich dann aber blockiert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424808186443,
+      "content": "Dann zeig ich es dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424808180946,
+      "content": "Gib deine Nummer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424808174230,
+      "content": "Einige",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424808166542,
+      "content": "Auf welchen \u00e2\u0098\u00ba\u00ef\u00b8\u008f aber danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424800998948,
+      "content": "Sehr geiler Style bei manchen Bildern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424800977921,
+      "content": "??? Okay Ehm danke \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424797623698,
+      "content": "Insta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424797621973,
+      "content": "Hammer Bilder bei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1424797616353,
+      "content": "Geile sau du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404078973828,
+      "content": "015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1404074167870,
+      "content": "Gib mal deine Nummer !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1404069370079,
+      "content": "Ja kleine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069320241,
+      "content": "Achso jetzt wei\u00c3\u009f ich es :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403883574673,
+      "content": "Keine Ahnung gegen 23 Uhr oder 0 uhr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403883552536,
+      "content": "Ja wann genau :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403873351762,
+      "content": "Gestern ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403873263038,
+      "content": "Hahaha was f\u00c3\u00bcr sch\u00c3\u00b6n :D h\u00c3\u00a4 wann war das dann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403872072818,
+      "content": "Wenn du mit'm R\u00c3\u00bccken zu mir warst und ich nur deinen sch\u00c3\u00b6nen Popo sehen d\u00c3\u00bcrfte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403872056396,
+      "content": "Wie denn ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403872046406,
+      "content": "Sagst halt mal hallo das n\u00c3\u00a4chste mal und redest mit mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403872033046,
+      "content": "HHaha ne wer will das h\u00c3\u00b6ren :D ja dann lieber s\u00c3\u00bc\u00c3\u009f haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403872007369,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403872004304,
+      "content": "Was willst h\u00c3\u00b6ren das du ne geile Sau bist ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403871978922,
+      "content": "Kp s\u00c3\u00bc\u00c3\u009f ist halt kp... komisch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403863561321,
+      "content": "Was willst du h\u00c3\u00b6ren ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403862336775,
+      "content": "Wieso ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403857689215,
+      "content": "Haha s\u00c3\u00bc\u00c3\u009f ist ja nicht soooo das Kompliment :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403856352745,
+      "content": "Isso",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403836823613,
+      "content": "Hahaha als ob :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403828024045,
+      "content": "\u00f3\u00be\u00ae\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403828017907,
+      "content": "Und du siehst richtig s\u00c3\u00bc\u00c3\u009f aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403827566231,
+      "content": "Flavour",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403821493969,
+      "content": "H\u00c3\u00a4 mit wem? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403820963461,
+      "content": "Wahnsinn!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1403820959993,
+      "content": "Mit wem h\u00c3\u00a4ngst du bitte rum",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391341176894,
+      "content": "Nichts nicht passt schon :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391340893696,
+      "content": "Was ja?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391340881512,
+      "content": ":) ja!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391190256303,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391190245810,
+      "content": "F\u00c3\u00a4ngst wie ufuk an :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391190214728,
+      "content": "Wann sehen wir uns?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391190208891,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391190199967,
+      "content": "Naja nicht viel :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391151789804,
+      "content": "Nichts bei dir ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391149103865,
+      "content": "Naja was geht sonst so? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391128579420,
+      "content": "N\u00c3\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391125025073,
+      "content": "Doch sags ja!:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1391107075220,
+      "content": "Achwas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391103181781,
+      "content": "Die ist aber h\u00c3\u00a4sslich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1390762136281,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390753324701,
+      "content": "Achso okay danke hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1390750053809,
+      "content": "Bei so nem Bild !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390737460508,
+      "content": "Wann? :d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1390735522461,
+      "content": "Arena !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1390734923741,
+      "content": "H\u00c3\u00a4 wann? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1390731765988,
+      "content": "Hei\u00c3\u009fe Leggins hattest beim tanzen !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158941617,
+      "content": "ciao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158938310,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158937974,
+      "content": "duu :) geh dann mal off.. bis dann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158920656,
+      "content": "ja ab und zu.. meine hosen halt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158907736,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158906511,
+      "content": "und sonst so enges",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158901856,
+      "content": "ah ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158873794,
+      "content": "ja :) aber nicht wenn ich raus geh ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158838923,
+      "content": "tr\u00c3\u00a4gst leggins?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158835487,
+      "content": "ah ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158803299,
+      "content": "keine ahnung wenn ich was an hab das gut aussieht ist dann auch gut :) das kommt spontan ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158747858,
+      "content": "ja was ist gut bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158710949,
+      "content": "das outfit da war echt nicht gut -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158690723,
+      "content": "das findest nicht geil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158686908,
+      "content": "das wollte ich wissen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158683201,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158676660,
+      "content": "hot pants? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158615913,
+      "content": "ja und unten",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158604389,
+      "content": "halt ein wei\u00c3\u009fes top!\u00c2\u00b0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158583085,
+      "content": "egal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158565684,
+      "content": "h\u00c3\u00a4\u00c3\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158558810,
+      "content": "weil man das nicht fragt?? kennst das?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158526373,
+      "content": "bist doof?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158523411,
+      "content": "weil ich es nicht sehe auf dem bild",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158518120,
+      "content": "h\u00c3\u00a4 drunter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158508693,
+      "content": "noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158505326,
+      "content": "was bist du eig f\u00c3\u00bcr einer?gehts nich?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158478863,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158478119,
+      "content": "drunter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158476353,
+      "content": "so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158475284,
+      "content": "was hattest da an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158452240,
+      "content": "das ist h\u00c3\u00a4sslich was ich da an hatte!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158340532,
+      "content": "ziehst dich dann auch so sexy an ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158321720,
+      "content": "keine ahnung? wenn ich wieder daheim bin und zeit hab? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158177210,
+      "content": "wann darf ich dich mal so sehen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158171263,
+      "content": "dein bild macht mich voll an",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158166222,
+      "content": "was machst so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345158160975,
+      "content": "heei :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345158136570,
+      "content": "hey ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345071354581,
+      "content": "jap schon..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345071307483,
+      "content": "aha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345071248967,
+      "content": "ja weil es mich aufgeregt hat das es mir immer angezeigt hat 6 leute haben dich angestupst und dann hab ich alle zuruck gemacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345071107848,
+      "content": "du hast mich angestupst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345071081659,
+      "content": "nichts was soll sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1345070781449,
+      "content": "was los kleine?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344894424252,
+      "content": "oh man",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344894392091,
+      "content": "Noch 2 wochen :) oder halt 1 1/2 :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344894296303,
+      "content": "immer noch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344894287322,
+      "content": "In england?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344894071261,
+      "content": "wo bist?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344893670096,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893653775,
+      "content": "auch :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344893255040,
+      "content": "ja bei dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344893166131,
+      "content": "alles klar? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344893015430,
+      "content": "hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344892991572,
+      "content": ":9 heei",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344463101736,
+      "content": "haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344463088242,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344463075819,
+      "content": ":) ja war ganz witztig ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344463058074,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344463055906,
+      "content": "aha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344463036510,
+      "content": ":) braun der eine und der andere schwarz :P haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462861047,
+      "content": "welche farbe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462856244,
+      "content": "cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462846847,
+      "content": ":) auch gut.. wir haben haare gef\u00c3\u00a4rbt ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462797799,
+      "content": "chillen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462775802,
+      "content": "ehm bissle ausruhen :P du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462698772,
+      "content": "was machst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462697207,
+      "content": "freut mich :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462691171,
+      "content": "auch gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462687057,
+      "content": "gut gut :) und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462658276,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462657593,
+      "content": "wie gehts ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462650026,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344462648523,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344462642281,
+      "content": ":-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377837596,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377834637,
+      "content": "haha denk an mich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377803518,
+      "content": ":) haha ja danke werde ich haben :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377785226,
+      "content": "bsi dann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377782879,
+      "content": "ok viel spa\u00c3\u009f unter der dusche ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377758453,
+      "content": "naja ist ja auch egal oder?? :D naja also ich geh dann mal .. duschen und so zeugs ... bis dann morgen oder so :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377689399,
+      "content": ":) ja es war so cool.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377654739,
+      "content": "hmm ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377633036,
+      "content": "ehm jetzt dann schalfen gehn weil der tag heute in london echt stressig war :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377606379,
+      "content": "ja auch was machst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377600143,
+      "content": "ja und bei dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377590838,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344377590023,
+      "content": "alles klar ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344377583567,
+      "content": "heei :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344376875960,
+      "content": "hi kleine ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344292023745,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344292017817,
+      "content": ":**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344291985924,
+      "content": ":-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344291959658,
+      "content": "vidimo se ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344291936959,
+      "content": "ciao bebo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344291921856,
+      "content": ":) ja wenn ch wieder on komme.. ich geh dann mal tschau und so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344291852463,
+      "content": "ja also kannst ja liken dann ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344291843337,
+      "content": ":) okay ich doch auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290506248,
+      "content": "bei mir schon weil ich serbe bin ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290484925,
+      "content": "mach ich fast nie :d ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290465523,
+      "content": ":(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290463977,
+      "content": "likest nicht mal ein bild",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290459620,
+      "content": "danke seh ich aber nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290418768,
+      "content": ":) ha du auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290397389,
+      "content": "siehst ziemlich gut aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290389094,
+      "content": "ja ich wei\u00c3\u009f ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290372404,
+      "content": "bitter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290336364,
+      "content": "ja schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290229365,
+      "content": "oh man ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344290219278,
+      "content": "ehm am 24 f\u00c3\u00bcr einen tag und dann 2 wochen wieder weg serbien und kroatien :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344290100122,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289898215,
+      "content": "wann kommst nach ulm ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289885557,
+      "content": ":) in england bei meiner gastfamilie :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289848307,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289847611,
+      "content": "wo bist gerade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289845312,
+      "content": "ok ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289843561,
+      "content": "haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289837195,
+      "content": ":) nichts was soll sein?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289788208,
+      "content": "was los kleine?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289780149,
+      "content": "haha :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289707993,
+      "content": "hmm ja schon ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289697447,
+      "content": ":) das klingt nicht schlecht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344289674718,
+      "content": "ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344289668024,
+      "content": ":) achso ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273747146,
+      "content": "ich wechsel halt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273744002,
+      "content": "und ja ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273742676,
+      "content": "ich spiel fussball hauptberuflich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273655149,
+      "content": "oh wo??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273516379,
+      "content": "ja dann bin ich schon weg ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273509691,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273498740,
+      "content": "doch aber ich bin jetzt erst mal 5 wochen weg ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273485318,
+      "content": "also nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273483278,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273475915,
+      "content": "ja wenn ich mal wieder zeit hab oder so? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273435631,
+      "content": "oder?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273432519,
+      "content": "cool dann lass mal treffen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273416493,
+      "content": "j abin gerade aber in england :P muss dann auch off und komm so heute nacht oder abend an?! :D ja wohne ich in nem dorf bei ulm ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273350062,
+      "content": "wo wohnst du hier in ulm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273337271,
+      "content": "h\u00c3\u00a4 wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273292466,
+      "content": "...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273289974,
+      "content": "JA RICHTIG SCHNELL11 .9 HAHA ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273193270,
+      "content": "wie meinst du wie schnell?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273182761,
+      "content": "wie schreibst du so schnell?? haha danke :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273165450,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273164119,
+      "content": "und jetzt bist du noch intressanter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273157353,
+      "content": "kleine ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273155976,
+      "content": "du siehst gut aus ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273148863,
+      "content": "cool",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273142207,
+      "content": "cacak :) also meine mama ich wurde in deutschland geboren :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273066364,
+      "content": "du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273065144,
+      "content": "woher kommst ud",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273061107,
+      "content": "oha geilo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273053849,
+      "content": "da?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273042062,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273041489,
+      "content": "echt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344273040385,
+      "content": "wass",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344273035810,
+      "content": "ich ?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344272990790,
+      "content": "ja wer noch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344272970928,
+      "content": "du bist auch serbe? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344272943243,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344272924274,
+      "content": ":) okay ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344272736244,
+      "content": "oder du schickst mir? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344255600269,
+      "content": "ah ok cool kein problem meld dich einfach oder schick fa dann seh ich ja das du on bist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344255573956,
+      "content": "Okay weil ich gerade in egland bin... ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344255515976,
+      "content": "wie du magst meld dich einfach kleine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344255494810,
+      "content": ":) nein wir k\u00c3\u00b6nnen gerne schreiben.. Aber erst heute abend?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344255030457,
+      "content": "ja auch danke ich kenn dich glaub ich nicht aber dein bild ist total s\u00c3\u00bc\u00c3\u009f ist das schlimm?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344255006294,
+      "content": ":) ja und bei dir?? Wer bist du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nikola Trkulja",
+      "timestamp_ms": 1344206628273,
+      "content": "hey alles klar?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nikola Trkulja",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nikolatrkulja_f2woewgegq",
+  "magic_words": [
+    
+  ]
+}

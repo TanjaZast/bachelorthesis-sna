@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Adrian Huber"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adrian Huber",
+      "timestamp_ms": 1416388798809,
+      "content": "Weil du nicht zur\u00c3\u00bcck geschrieben hast \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416388773577,
+      "content": "H\u00c3\u00a4 warum \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Adrian Huber",
+      "timestamp_ms": 1416331847809,
+      "content": "Bist auch nicht oft bei Facebook? \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Adrian Huber",
+      "timestamp_ms": 1416211934904,
+      "content": "Geht so hab r\u00c3\u00bcckenschmerzen. \nAber daf\u00c3\u00bcr bin ich daheim geblieben vom arbeiten. \u00f3\u00be\u008c\u00a8\nWo arbeitest du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416211491960,
+      "content": "Passt und dir :)?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Adrian Huber",
+      "timestamp_ms": 1416200593859,
+      "content": "Na wie geht's? \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1416177315160,
+      "content": "hey? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Adrian Huber",
+      "timestamp_ms": 1416147992298,
+      "content": "Hey \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Adrian Huber",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/adrianhuber_ibziyu1xsw",
+  "magic_words": [
+    
+  ]
+}

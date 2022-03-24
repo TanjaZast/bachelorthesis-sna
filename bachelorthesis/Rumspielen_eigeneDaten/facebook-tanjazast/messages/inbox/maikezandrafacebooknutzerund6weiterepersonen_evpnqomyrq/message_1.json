@@ -1,0 +1,180 @@
+{
+  "participants": [
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Zandra Reitmeier"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Julia Moond"
+    },
+    {
+      "name": "Franziska Schiller"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1370091062652,
+      "content": "Ang Joe Bra hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ang Joe Bra"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1370034350739,
+      "content": "Lea Span hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lea Span"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1370032141365,
+      "content": "Isabel Sch\u00c3\u00b6nthaler hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Isabel Sch\u00c3\u00b6nthaler"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1370029798502,
+      "content": "Kirsten M\u00c3\u00bcller hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kirsten M\u00c3\u00bcller"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michelle Leplat",
+      "timestamp_ms": 1370022094739,
+      "content": "Michelle Leplat hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Michelle Leplat"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Charlotte Kast",
+      "timestamp_ms": 1370021286297,
+      "content": "ich auch nicht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziska Schiller",
+      "timestamp_ms": 1369937389321,
+      "content": "ich auch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Moond",
+      "timestamp_ms": 1369928901844,
+      "content": "n\u00c3\u00b6 ;)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1369876777258,
+      "content": "Ich brauch auch keins ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Span",
+      "timestamp_ms": 1369855551766,
+      "content": "Ich auch nich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1369854834885,
+      "content": "Ich au nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maike Liska",
+      "timestamp_ms": 1369854726630,
+      "content": "Ich auch nicht :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1369854515160,
+      "content": "Ich brauch auch keins :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michelle Leplat",
+      "timestamp_ms": 1369838301456,
+      "content": "ich auch nicht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1369828272344,
+      "content": "Ich will keins. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369824327813,
+      "content": "Heei ihr ne ganz kurze frage also wegen der 72 Stunde Aktion wollt ihr da so tshirt? :) ein tshirt w\u00c3\u00bcrde 10 \u00e2\u0082\u00ac kosten und ja w\u00c3\u00a4re ja dann ein sch\u00c3\u00b6nes Andenken und so also \u00c3\u00bcberlegt es euch und schreib es sofort hier rein wollt ihr eins ja/Nein und dann eben noch welche Gr\u00c3\u00b6\u00c3\u009fe ;) Dankesch\u00c3\u00b6n und schaut mal schnell in die js1/js2 Gruppe von unserer jahrganstufe all die Infos will ich noch von jedem wissen. ;) danke das wars auch schon",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maike, Zandra, Facebook-Nutzer und 6 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/maikezandrafacebooknutzerund6weiterepersonen_evpnqomyrq",
+  "magic_words": [
+    
+  ]
+}

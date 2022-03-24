@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Juliana Popp"
+    },
+    {
+      "name": "Jessica Nadine Konecki"
+    },
+    {
+      "name": "Alexa Braun"
+    },
+    {
+      "name": "Nikolina Franke"
+    },
+    {
+      "name": "Ivana Crnov"
+    },
+    {
+      "name": "Lucija Foro"
+    },
+    {
+      "name": "Laura K\u00c3\u00b6nig"
+    },
+    {
+      "name": "Lilli Steiger"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Elena Hepp"
+    },
+    {
+      "name": "Sophia Konrad"
+    },
+    {
+      "name": "Klara Brinkmann"
+    },
+    {
+      "name": "JiaYing Cheng"
+    },
+    {
+      "name": "Jasna Vlahek"
+    },
+    {
+      "name": "Anna-Maria Mack"
+    },
+    {
+      "name": "Giulia Befurt"
+    },
+    {
+      "name": "Natalija \u00c5\u00a0utalo"
+    },
+    {
+      "name": "Bi Ne"
+    },
+    {
+      "name": "Jule Uns\u00c3\u00b6ld"
+    },
+    {
+      "name": "Salo Laskowski"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Marina Capek"
+    },
+    {
+      "name": "Charlotte F\u00c3\u00bcnning"
+    },
+    {
+      "name": "Sun Cey"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luisa Bitzenbauer",
+      "timestamp_ms": 1510503196407,
+      "content": "Luisa Bitzenbauer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Luisa Bitzenbauer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1508182329470,
+      "content": "Alina Becker hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alina Becker"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "JiaYing Cheng",
+      "timestamp_ms": 1315945193702,
+      "content": "h\u00c3\u00a4?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lilli Steiger",
+      "timestamp_ms": 1315944784036,
+      "content": "Warum ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "JiaYing Cheng",
+      "timestamp_ms": 1315938035756,
+      "content": "kaii XD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1315937853157,
+      "content": "Hier ein neues Spiel! Es ist einfach, und ich m\u00c3\u00b6chte, dass IHR ALLE mit macht! Im vergangenen Jahr mussten wir die Farbe des BHs an unsere Pinnwand eintragen. Die M\u00c3\u00a4nner waren tagelang verwirrt! Sie fragten sich, warum die M\u00c3\u00a4dels Farben an deren Pinnwand schrieben. Dieses Jahr ist es unser Motto in Bezug auf Liebe. Antwortet nicht auf diese Nachricht! Schreibt nur das Wort, das auf Euch zutrifft an Eure Pinnwand, und sendet diese Nachricht privat an alle M\u00c3\u00a4dels, die Ihr kennt!\nBLAUBEERE: Single,\nANANAS: es ist kompliziert,\nHIMBEERE: Kann mich nicht entscheiden,\nAPFEL: Verlobt,\nKIRSCHE: In einer Beziehung,\nBANANE: Verheiratet,\nAVOCADO: Ich bin von anderem Ufer\nERDBEERE: finde einfach nicht den richtigen,\nZITRONE: will Single bleiben,\nTRAUBE: m\u00c3\u00b6chte gern meinen Partner heiraten.\nLetztes Jahr ging das Spiel so lange, bis davon im Fernsehen berichtet wurde, und dasselbe versuchen wir auch in diesem Jahr. Bitte darum diese Nachricht privat und nur an weibliche Kontakte zu senden!\n..\n.. ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa, Juliana, Jessica Nadine und 21 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisajulianajessicanadineund21weiterepersonen_opo22ybffa",
+  "magic_words": [
+    
+  ]
+}

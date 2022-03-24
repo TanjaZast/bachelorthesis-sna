@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Ivana Borozni"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337098831363,
+      "content": "dobro hocu :) jesili me videla? :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098771654,
+      "content": "pozdravi lizu i ostale :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098748748,
+      "content": "e moram ici sada",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337098616127,
+      "content": "hvala :) haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098598898,
+      "content": "bravo, bravo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337098592482,
+      "content": "ja sam ta koje ulazi prva :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098563822,
+      "content": "ti si tamo s lijeve strane u prvom redu?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337098543207,
+      "content": "u nedelju i dalje smo u finalu protiv zjele njemacke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098542170,
+      "content": "evo gledam snimku",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337098513643,
+      "content": "da to sam bila ja :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098266738,
+      "content": "pozdravi svoje..pozdrav\u00c4\u008dek ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098219322,
+      "content": "vidim da vise nisi tu:(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098031067,
+      "content": "jeste to bili na nekom natjecanju ili?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337098009044,
+      "content": "videla sam neki dan slikice s nekog nastupa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Borozni",
+      "timestamp_ms": 1337097979415,
+      "content": "hej :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ivana Borozni",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ivanaborozni_ssjo_8h9ma",
+  "magic_words": [
+    
+  ]
+}

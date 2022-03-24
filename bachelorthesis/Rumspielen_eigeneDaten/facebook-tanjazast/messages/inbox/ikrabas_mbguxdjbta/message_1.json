@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Ikra Bas"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ikra Bas",
+      "timestamp_ms": 1422385778678,
+      "content": "Musik h\u00c3\u00b6ren woher kommst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422385262346,
+      "content": "Fahre heim du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ikra Bas",
+      "timestamp_ms": 1422384369469,
+      "content": "Auch was machst du so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422384357430,
+      "content": "Gut dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ikra Bas",
+      "timestamp_ms": 1422384304846,
+      "content": "Wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1422384295762,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ikra Bas",
+      "timestamp_ms": 1422312484870,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ikra Bas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ikrabas_mbguxdjbta",
+  "magic_words": [
+    
+  ]
+}

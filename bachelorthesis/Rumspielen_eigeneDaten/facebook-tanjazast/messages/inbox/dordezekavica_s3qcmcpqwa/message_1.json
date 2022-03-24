@@ -1,0 +1,3358 @@
+{
+  "participants": [
+    {
+      "name": "\u00c4\u0090or\u00c4\u0091e Zekavica"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1370986823314,
+      "content": "Hvala hvala :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1370986798459,
+      "content": "Srecan rodjendan Tanja.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349555756917,
+      "content": "Pa nemogu ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473824872,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473823151,
+      "content": "aha...donesi mi taj pistolj jedan",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349473754362,
+      "content": "A pa pametno.. ;)!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473720848,
+      "content": "jer je to obuka bila",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473711648,
+      "content": "pa nama jos ne daju pravu municiju",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473698697,
+      "content": "aha...ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349473572870,
+      "content": "Ne.. ;) moja drugarica... Cak joj otac ima naj poznatiju Firmu koja proizvodi pistole ali samo za Sport... ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473450624,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473449194,
+      "content": "treniras to?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349473354330,
+      "content": "Pa da.. ;) onako od Triathlona.. ;) i uvek gledaj da imas dovoljno municie! ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473234387,
+      "content": "hehe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473232699,
+      "content": "vidis kako znas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473209096,
+      "content": "To obavezno... :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349473175699,
+      "content": "O pa onda moras da imas mirnu ruku!? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473105216,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473103435,
+      "content": "sad pocinju predavanja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473095993,
+      "content": "i tako",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473093859,
+      "content": "hapsenja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473081985,
+      "content": "rukovanje sa pistoljem i puskom",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349473061725,
+      "content": "hocu naravno...ne znam koliko te zanima...do sada smo bili na obuci 15 dana",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349473004866,
+      "content": "Paar dobro moras mi jednom objasnit kad budes imo volju i vremena ... ;) pa ide mora nekako da ide :0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472279149,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472277528,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472276222,
+      "content": "kako tebi ide",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472267390,
+      "content": "morao bih dosta da ti obljasnjavam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472257790,
+      "content": "zanimljiva skola i tako to",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349472253736,
+      "content": "Pa eto...dobro drustvo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349472107514,
+      "content": "Evo nista skola i tako ;( sto ti je toliko extra?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349471797209,
+      "content": "sta radis?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349471793192,
+      "content": "sad sam u Cacak dosao za vikend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1349471786518,
+      "content": "ekstra",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349471451359,
+      "content": "I kako ti je?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348084193391,
+      "content": "dobro :* ;) cujemo se ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348084150025,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348084144215,
+      "content": "cujemo se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348084140920,
+      "content": "moram da idem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348084094249,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348084058296,
+      "content": ";) haha super molim nema na cemu ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083972788,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083971270,
+      "content": "...vi ste nam poslali oblake",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083964172,
+      "content": "javili su",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083950818,
+      "content": "i ovde ce biti neka kisa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083862391,
+      "content": ";) kod nas hladno i glupo -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083787873,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083786498,
+      "content": "jos uvek",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083783655,
+      "content": "moze da se ide u sorcu i majci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083777011,
+      "content": "ovde je lepo suncano",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083720449,
+      "content": "-.- da ;) bas glupo a kod tebe u cacku?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083609914,
+      "content": "e steta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083595235,
+      "content": "pa onako glupo vreme ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083388102,
+      "content": "kako je bilo na moru?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083382404,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083381019,
+      "content": "ma uzivaj...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083322030,
+      "content": "pa lepo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083319178,
+      "content": "o pa meni nije dobro! :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083297784,
+      "content": "sta radis ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083291030,
+      "content": "sad za vikend pocinjem",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083282628,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083281172,
+      "content": "joooj...znam kako ti je",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348083232176,
+      "content": "da -.- nemoj pitati a kod tebe fax?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083203219,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1348083201604,
+      "content": "jel krenula skola?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346608959843,
+      "content": "pa odlicno :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346608493719,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346608490306,
+      "content": "meni odgovara",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346531795047,
+      "content": ";) aah pa i to je lepo :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346528754949,
+      "content": "Od skoro sam ulozio pare  u treniranje...ne smem da pijem alkohol, moram 8 sati da spavam najmanje...a i dosadan je grad... ima nas 4-5 prosetamo uvece i to je to..:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346522149610,
+      "content": "oh pa sto to? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346488615563,
+      "content": "Sad slabo izlazim uvece...:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346452937404,
+      "content": "Pa da vidim kako provodis vece :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452247118,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452244850,
+      "content": "da te vodim u provod neki",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346452175683,
+      "content": ":) da starno ali mozda drugi put.. Ako se da ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452079001,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452073191,
+      "content": "steta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452068963,
+      "content": "ti si uvek u banji",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346452062869,
+      "content": "Pa ja cesto nisam kuci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346451548467,
+      "content": "Da.. Ali steta sto smo se samo jednom kratko videli i malo popricali :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346451366864,
+      "content": "Ok...;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346419191050,
+      "content": "Tek sutra idem :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346356764904,
+      "content": "Nisam ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346355444113,
+      "content": "jesi li otisla?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346011444726,
+      "content": ";) da tako je ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011393766,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011392229,
+      "content": "sta ce ti srpski",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011383166,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011381779,
+      "content": "ma uci engleski",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346011352557,
+      "content": "pa ja sam mnogo losa -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011336858,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011332991,
+      "content": "ma nema veze nego mi cudno...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346011262411,
+      "content": "nisam :) sorry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011176328,
+      "content": "A ozbiljno nisi znala sta je talas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346011098347,
+      "content": ":) nemoj me plasit :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011035434,
+      "content": "salim se ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011032402,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011030280,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346011027919,
+      "content": "sa jezera",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346010990780,
+      "content": "odakle da nam to dodje??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010934210,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010932507,
+      "content": "ja mislim",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010929144,
+      "content": "na engleskom wave",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346010914654,
+      "content": "nee :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010904658,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010901610,
+      "content": ":d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010900274,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010898565,
+      "content": ":d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010897096,
+      "content": "ne znas sta je talas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346010839404,
+      "content": "sta je to?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010803741,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010802124,
+      "content": "potopice vas talas neki",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346010751936,
+      "content": "kod nas ist o : Ou banji ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010624368,
+      "content": "ovde vetar duva nenormalno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346010381869,
+      "content": "gde si sad?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346010353877,
+      "content": "ali dosta je slab :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346003350369,
+      "content": ":) da nasla sam :*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346002832499,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1346002830396,
+      "content": "Nasla si internet?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504961897,
+      "content": "videcemo se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504953959,
+      "content": "da...kad dodjes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504947993,
+      "content": "ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345504818113,
+      "content": "okay.. moram na spavanje :P vidomo se?! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345504433868,
+      "content": ":) da zove se pepe :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504418872,
+      "content": "aa...nisam znao da se tako zove",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345504340622,
+      "content": "moj psa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504086725,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345504081320,
+      "content": "ko je pepe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345504042753,
+      "content": "pepe <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345504039454,
+      "content": "moram ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503988730,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503985070,
+      "content": "bolje ne dolazi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503972865,
+      "content": "ovde ti je dosadno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503964334,
+      "content": "lep provod tamo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503956429,
+      "content": "aha...pa lepo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503865327,
+      "content": "ne tek smo se svi ovde upoznali :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503834338,
+      "content": "ja vidim da si sa drustvom",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503812528,
+      "content": "ne znam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503676125,
+      "content": "kao sa familijom i u skolu tamo i to sve.. znas ta mislim?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503652850,
+      "content": "ne :) privatno ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503624787,
+      "content": "ekskurzija neka?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503505604,
+      "content": "pa znam :P ali vidi slike :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503427316,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503421921,
+      "content": "aa pa nisam znao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503382285,
+      "content": ":) da ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503362089,
+      "content": "a ti si u Engleskoj?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345503296188,
+      "content": "sto je rano ali sad idem ... u engeskoj je tek 12 unoc :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503271892,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503265963,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345503258703,
+      "content": "sto ne spavas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345502630686,
+      "content": "verujem ti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345502625124,
+      "content": ":) dobro ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502505894,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502503209,
+      "content": "naravno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345502426929,
+      "content": "haha okay.. da ti verujem??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502141683,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502139690,
+      "content": "lepe su ozbiljno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345502070480,
+      "content": "pa imali smo fofoshooting :P ma nemoj me zezati :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502047396,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502045532,
+      "content": "kao manekenka",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345502032772,
+      "content": "pa ove profesionalne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345502012395,
+      "content": "koje? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501899395,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501896539,
+      "content": "kakve su ti ovo slike?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501793919,
+      "content": "joj neznam :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501729673,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501725869,
+      "content": "ti znas oba jezika",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501667702,
+      "content": "al se dvoumim da krenem na casove kad se preselim u Bg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501640940,
+      "content": "tezak je jezik",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501634904,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501631867,
+      "content": "neka...hvala",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501607779,
+      "content": "oooh :) pokazi :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501561013,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501559494,
+      "content": "znam par reci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501546165,
+      "content": "a tamo sam imao drugarice iz Nemacke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501536870,
+      "content": "jutros sam dosao sa mora",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501529994,
+      "content": "pa lepo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501482730,
+      "content": "u subotu :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501273178,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501270707,
+      "content": "kada?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501244212,
+      "content": "ja jos dolazim.. :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501183861,
+      "content": "zasto ti nisi dosla?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345501123475,
+      "content": "znam :) moja ljubav!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501066200,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501064848,
+      "content": "lepog psa imas",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345501055036,
+      "content": "isto tako...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345500713402,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345500712357,
+      "content": "nista malo po facu a ti? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345500675947,
+      "content": "sta radis",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345500669386,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1345500666959,
+      "content": "ee cao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345500629343,
+      "content": "ciao :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339417737122,
+      "content": "Joj pa hvala ti puno :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1339417371564,
+      "content": "Srecan rodjendan...sve najlepse...:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338933324787,
+      "content": ":) ma znam da imate lep telo i sixpack itd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338933128929,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338933127148,
+      "content": "odoh ja do grada da jedem...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338933115454,
+      "content": "ali nebitno...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338933109328,
+      "content": "fitnes rade zene da smrsaju, a muskarci dizu tegove da se ugoje...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338932885568,
+      "content": ":) da to je moguce!! Ma da ko sto ti kazes :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338932731607,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338932730297,
+      "content": "ili ti zoves fitnes i dizanje tegova isto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338932711066,
+      "content": "moguce...sve zavisi sta covek hoce da postigne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338932529253,
+      "content": "Ma nisu sve za zene!? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338932042262,
+      "content": "za zene je uredu...al sto bi muskarac radio vezbe za zene",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931998087,
+      "content": "Pa dobro samo tebi :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338931541119,
+      "content": "pa kako nije...msm meni je to besmisleno raditi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931318781,
+      "content": "Aaah :) pa to mislim :P haha ma nije tacno!! Sta to pricas!?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338931194640,
+      "content": "normalno sa tegovima",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338931184564,
+      "content": "pa ne fitnes...to mi je malo za zene",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338931145856,
+      "content": "?? Samo onako fitness ili sta?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338930802870,
+      "content": "Vezbam u teretani...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338917629599,
+      "content": "okay :) sta vezbas?? da stvarno!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338916089092,
+      "content": "Heh...da stvarno...e odoh ja da vezbam...pisi ti kad hoces...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338915872335,
+      "content": "Pa naravno :) jos 5 dana :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338915093936,
+      "content": "Pa dobro, pametno...;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338911573642,
+      "content": "ne ali kad napunim 16 :) nesmem inace ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338910269608,
+      "content": "pa eto...izlazis li?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338910170404,
+      "content": "pa da naravno :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338910108940,
+      "content": "pa ja mislim da si mi jednom rekla da ides u skolu u kojoj su samo devojke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338909908159,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338909906677,
+      "content": "e morao sam da rest kompjuter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338909544550,
+      "content": "naravno :) u kojoj inace??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338909119840,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338909118345,
+      "content": "jesi li i dalje u zenskoj skoli",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338909105335,
+      "content": "bices bices... :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908932090,
+      "content": "ma nije !! to je ok ali prterano :) moram da budem pametna ko neki mathematicar :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908895008,
+      "content": "*mislim skola",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908875327,
+      "content": "msm skola",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908871635,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908865045,
+      "content": "to je luda zemlja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908857744,
+      "content": "haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908773477,
+      "content": "jok uopste nije?! :D imam svaki dan da ucim do unoc onda nesmem u skolu sto se plasim da nisam dosta ucila i uvek sam umorna :P  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908663738,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908654885,
+      "content": "ma nije to tebi tesko",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908530042,
+      "content": ":P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908527655,
+      "content": "da jos 2 godine imam pa onda jos studiranje.. :) blago tebi!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908495194,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908493348,
+      "content": "ja sam skroz zavrsio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908483538,
+      "content": "ti imas jos nekoliko godina",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908469427,
+      "content": "i mi smo imali mnogo raspusta",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908458347,
+      "content": "pa dobro",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908189807,
+      "content": ":) pa super pa zato sto mi vec svakih 5 nedelja imamo raspust :) pa da ne bude mnogo puno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908085696,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908084255,
+      "content": "ja jesam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338908077392,
+      "content": "ihh...sto toliko idete",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338908020139,
+      "content": ":) haha nikako!! sad imamo raspust jos nedeljudana :) pa oped u skolu do krajem jula :) ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338907940598,
+      "content": "jesi li zavrsila sa skolom?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338907917721,
+      "content": "isto tako...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338907847968,
+      "content": "nista odmaram :) ti??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1338907803933,
+      "content": "e cao, sta radis?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1338907762381,
+      "content": "cao :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332097163582,
+      "content": ":) ja isto",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332097136995,
+      "content": "stooo ne moze... xD... ja sam na fb samo kad mi je dosadno",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332096969199,
+      "content": ":) pa nemoze :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096847216,
+      "content": "hehe...moze i lepse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332096807866,
+      "content": "ah pa mnogo lepo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096743926,
+      "content": "malo se odmaram dosadjujem i takoo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096729483,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096728215,
+      "content": "isto tako...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332096667535,
+      "content": "nista .) malo po facebooku a kod tebe? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096584187,
+      "content": "sta se radi...?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332096562859,
+      "content": "ee :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1332096542722,
+      "content": "ee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331934588624,
+      "content": ":) prijatno :* da cujemo se mozes mi sutra poslat poruku i ako nisam online :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934491711,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934489000,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934486162,
+      "content": "ja odoh do grada da jedem...cujemo se",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934472280,
+      "content": "hehe to nikako",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331934457109,
+      "content": "Pa neznam moguce da su lepse i da sam ja najruznija :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934288181,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934286496,
+      "content": "moraju biti lepse",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934262754,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934261367,
+      "content": "pa sta si im ti kriva",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331934206930,
+      "content": "Nisam :)!! Stvarno ali nekako gresim :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934027943,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934026518,
+      "content": "opasna si tamo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331934021023,
+      "content": "heh...pa izgleda",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933760950,
+      "content": "ma ne uopste ili mozda se plasu od mene :P mislim momke od mene :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933707172,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933705142,
+      "content": "ipak im otimas momke a?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933686037,
+      "content": "hehe...ma neka ih",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933634887,
+      "content": ":) to nemogu uporediti kako je kod mene ali jeste tacno :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933587712,
+      "content": "paa od nemica",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933520543,
+      "content": ":) od kojih? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933455424,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933453875,
+      "content": "paa znas kako...lepse su srpkinje od njih...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933414935,
+      "content": ":)  niko nebi primetio da nisam nemica... ;) tek onda po licu pitaju dali sam iz spanjolka :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933330834,
+      "content": "znas ti nemacki dobro?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933313863,
+      "content": "nije fora",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933310109,
+      "content": "stvarno su smesni",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933303113,
+      "content": "pa ne sta onda pricaju",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933292804,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933287770,
+      "content": "zezam se ja malo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933237947,
+      "content": "joj pa nemoj tako!! :) haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933204973,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933203165,
+      "content": "to neke hitlerove cerke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933174077,
+      "content": ":) neznam nisam dovoljno nemica ;P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933092447,
+      "content": "a pa sto ti to rade?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933059516,
+      "content": "ne nisam nijedan! :) znaci nek se smiru ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933032179,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933030655,
+      "content": "pokupila si im sve momke pa se ljute a?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331933017988,
+      "content": "pa nesme!! :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331933006345,
+      "content": "ccc...ne sme tako... :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331932867436,
+      "content": "Pa nista ali nisu dobri prema meni (ponekad) :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932602771,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932601051,
+      "content": "sta ti fali?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932595701,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932594349,
+      "content": "ih sto tako",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331932488015,
+      "content": "naravno i jos sam ziva ali ko zna koliko dugo jos :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932395224,
+      "content": ":p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932394106,
+      "content": "jesi li jos u zenskoj skoli?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932344058,
+      "content": "samo daju neke kontrolne",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932333104,
+      "content": "ihh...pa i meni je tako bilo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331932295596,
+      "content": ":) e pa ja sam super ove nedelje sam imala 3 pismena .. skoro sam poludela :O ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932228598,
+      "content": "kako si ti?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932212389,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932207530,
+      "content": "jos malo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932204573,
+      "content": "ahaaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331932175599,
+      "content": "e pa super znaci zavrsavas?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932147309,
+      "content": "al sad se trenutno spremam za fakultet...to mi je najvaznije",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932104682,
+      "content": "nzm bas kad smo poslednji put pricali",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932086055,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331932083240,
+      "content": "ihh kako nista...pa kod mene se uvek nesto dogadja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331932031635,
+      "content": "a sta je to svega po malo? :) pa onako nista ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331931997183,
+      "content": "kod tebe?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331931990402,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331931988796,
+      "content": "svega po malo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331931946680,
+      "content": "sta ima novo?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331931894850,
+      "content": "cao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1331931892599,
+      "content": "ee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1331931814254,
+      "content": "cao :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319807478090,
+      "content": "Ma da!! (: ali mi je to mnogo komplikovano!! ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319804248630,
+      "content": "Ma znas ti mnogo toga...:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319802216002,
+      "content": "Pa to ti ja i mislim!! ;D haha vidis da sam vec nesto naucila od vas... ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319801969988,
+      "content": "Ne nikada,samo kada treba da se nadoknadi....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319795788484,
+      "content": "Ali vi ponekad idete?? ;D aaaah nisu oni toliko ludi!! ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319795596797,
+      "content": "Ne naravno...nego da proverim mozda su ludi tamo....:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319795507453,
+      "content": "Nene!! :) nikada!! ;D a vi?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319794984192,
+      "content": "Idete li u subotu u skolu?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319794737731,
+      "content": "Naravno pomazes!! ;D haha nije mi dosadno!! ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319794576958,
+      "content": "Haha...pomazem?kako to?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319794519896,
+      "content": "Ti me stvarno neometas!! Ti mi pomazes!! ;D ;P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319794198102,
+      "content": "Ne...ja idem u 13:30 - 18:00...paa da te ne ometam ako si u skoli?:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319794068773,
+      "content": "Naravno vec od 7 i 45 :D a ti?? ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319793970368,
+      "content": "Pa lepoo onda...jesi li u skoli sad?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319793754413,
+      "content": "E pa samnom mozes sve to ;D ;P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319793715056,
+      "content": "Paa sa nekim se salim, sa nekim sam ozbiljan....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319793539225,
+      "content": "E pa ti se uvek salis!!?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319793416932,
+      "content": "Kad sam se salio sa tobom??samo jednom...;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319792750878,
+      "content": "Pa ali skoro sa svim!! ;D sa cim se nesalis?? Pa super..\r\nBas smo u blizini ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319791464245,
+      "content": "Opaaa znas i za pejicinu krivinu....:D...da pre krivine se silazi dole stepenicama....paa moram malo da se salim nije sa svim...:p...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319789049954,
+      "content": "Znaci ;D pre pejicine krivine? ;D hahaha znam sta je camac!! Imamo i mi... Vec sam spavala sorry... E pa samo se ti sa svim sali!! ;D xD haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319751848443,
+      "content": "Ako ti nije jasno stoo kazem ispod....pre va e vikendice na jezeru,je moja vikendica....pre se skrene 500m...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319750866787,
+      "content": "Vikendicu...to je od mog strica koju ja smem da koristim kad hocu...blizu vase...a ima i camac...mozda ne znas sta je camac...ono malo sto se plovi sa tim...xD...salim se malo ne bih dosao....:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319750564936,
+      "content": "Sta imas ispod nase?? A sta je camcem?? ;D naravno dodji",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319750532014,
+      "content": "Sta imas ispod nase?? A sta je camcem?? ;D naravko doci",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319750382794,
+      "content": "Pa da...uglavnom ste tamo...nema veze imam ja dole ispod vase...docicu malim camcem....hahaha...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319749952278,
+      "content": "Haha :) za mene jesu stara:) haha da bas je bilo super.. Sad ima fb itd ;P haha alsi odkad imamo vikendicu smo skoro samo tamo.. Pa se nevidja vise toliko ;P ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319749802872,
+      "content": "Da....nisu toliko stara....ali je bilo lepo....;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319749509883,
+      "content": "Bas je lepo se setiti ili pricati o starim vremenima ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319749388312,
+      "content": "Hahahaha...secam se toga...:D...:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319749104118,
+      "content": "I meni :) joj jos se secam ono kad je bilo odavno.. Ma bili smo deca.. I onda sam bila na tvom rodjendanu i ti sie bio ponekad kod nase babe ila ja/mi kod tebe i od jednom nisam vise smela.. I niko mi nije rakao zasto ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319748850469,
+      "content": "Moji sa Selimirom i Radom govore lepo i sa Vasom...ja mislim i sa  Vesnom tvojom,pa to su gluposti bile,meni je sve to smesno bilo...:D...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319748597747,
+      "content": "Nema na cemu!! Ja sam htela i ako su se mal posvadjali ovi nasi da dodjemo ipak jer je samo kulturno da se na kratko ode :* da znam  ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319748260600,
+      "content": "Jeste tuzno kad se to desi, dobar je on bio, ali se mnogo razboleo...hvala sto ste dosli tad...:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319747399719,
+      "content": "Da to mi je bilo tako zao zbog dede.. Ja sam mojoj majci rekla da idemo i da moramo da idemo kod vas prenego sto se vracamo !! Pa to razumem.. Bas si onda vredan sin!! ;) hvala hvala pokusa cu ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319746994306,
+      "content": "Paa nisam...tad mi je deda umro,pa je bilo mnogo ljudi,morao sam da pomazem...Ja se kladim da si lepsa od tih devojaka iz tvoje skole...delom si iz Srbije...tako da uzivaj...;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319746642253,
+      "content": "Hvala ;) e pa vidis nisi me ni pravo pogledo ;P ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319746197360,
+      "content": "Znaci kako su tamo odvratni ne mogu da verujem...ubio bi ih majke mi...to se u Srbiji ne desava da te neko ismeva zbog izgleda...mozda u sxali samo...ne znam kako si ranije izgledala, ali sad po slikama bar si lepa...nisam te bas vieo ovako samo na kratko, ali verujem da si lepa...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319745560390,
+      "content": "Pa zato sto su me prije u skoli ismejavali kako sam izgledala zbog zubi, bubuljica itd.. Pa sam sad kod koznog i nosila sam protezu i vise mi se nesmeju i promenila sam skolu.. Sad mi niko nista nekaze ali ipak me to od prije jos boli.. Stvarno mislis da misam ruzna?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319744845110,
+      "content": "A zasto tako mislis???Ja ne bih lagao drugaricu, ozbiljno mislim...:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319743999851,
+      "content": "Haha!! Ja nemislim od mene da sam lepa -.- ja mislim da nisam lepa!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319743742721,
+      "content": "A to mislis zbog toga sto si lepa?:P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319743395787,
+      "content": ";D hvala ;P da imam.. Ali ja mislim ipak da sam vise srbkinja ;P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319743198721,
+      "content": "Paa verovatno imas Nemacko drzavljanstvo onda si lepa Nemica..:p...:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319742869293,
+      "content": "Aha ;D hvala puno.. A sta sam ja?? ;D ;P xD ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319742740055,
+      "content": "Ne ne ne...dokazano je da su Srpske devojke najlepse...xd..Nemice nisam upoznao...ali mislim da nisu nestooo...:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319742317842,
+      "content": "E pa nisu ;P ;D haha u hrvatskoj su!! Ili ovde ;D ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319742186129,
+      "content": "Jasno Mi je....;D...kreteni znaci....ja trenutno imam devojku...u Srbiji su najlepse devojke....:D..:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319741197906,
+      "content": "Joj ;) oni su idioti!! Najvise se oni vole svadjati!! ;D nepitaj sto.. ;D neee nema vise nikoga ko mi se svidja.. Oni samo hoce jednu curu koja im je lepa da se prave vezni!! & samo misle na jednu stvar!!-.- znas sta mislim?? A ima li koja devojka?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319740929624,
+      "content": "Hmm...paa ima li neki decko lep da ti se svidja u Nemackoj ili se svadjas i sa njima....;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319740363667,
+      "content": "Pa reci ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319739034178,
+      "content": "...e vozio sam pa ti nisam pisao....paaa nzm sta bi mogli da pricamo...;D...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319735610817,
+      "content": "Da.. Reci neku temu da imamo sta da cetujemo ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319735393997,
+      "content": "Ok...;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319735220967,
+      "content": "Uvek trazim nesto da se nerviram i da se derem itd ;D nemoras to da znas sto se prema tebi necu tako ponasati da nemislis lose prema meni ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319734921602,
+      "content": "Pa sta radis kad si nemoguca...?.;pp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319734312415,
+      "content": ";D super ;P ali ja ponekad mogu biti nemoguca!! ;D onda me svi vicu ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319734230403,
+      "content": "Ee pa to skoro niko ne voli....necemo se svadjati....;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319733701898,
+      "content": "E pa to me mnogo rduje ;D nevolim zvadjanje i to sve ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319733583531,
+      "content": "Hehe....ne bih te ja nikad naljutio....nemam razloga...:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319733162186,
+      "content": "Hmmm pa to znam ;D ali bas si to lepo rekao.. Hvala ti ;D haha tebi bi oprostila.. Ali bolje nepokusavaj da dodjes u tu situaciju ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319733033998,
+      "content": "Osobe koje volis i koje su ti dobri prijatelji, koji bi i tebi oprostili da pogresis nesto ...njima oprastas ponekad....ako svima oprastas mnogo si dobra....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319732354143,
+      "content": "Pa ali kako da vidim ko je zasluzio a ko nije?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319732245114,
+      "content": "Tebi je super....xd...al ne oprastaj svima....samo ko zasluzi....;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319732237544,
+      "content": "Tebi je super....xd...al ne oprastaj svima....samo ko zasluzi....;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319731817722,
+      "content": "Zavisi na koga.. Mozda bi trbala na nekoliko da se naljutim ali ja uvek oprostavam ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319731723139,
+      "content": "Lakse ti je....ne ljutis se ninakoga ako ti nesto kaze.....ili bi volela da se ljutis???;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319731168164,
+      "content": "Stvarno?? Za mene je malo glupo ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319731128037,
+      "content": "hehe...zanimljivo....:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319730780577,
+      "content": "Pa je moguce ;D ja nemam taj osecaj ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319730378985,
+      "content": "Nije moguce da se nikada ne uvredis...cudno mi....xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319729711230,
+      "content": "Naravno da se mi razumemo!! Primecujes?? ;D sta ih nikada?? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319729431630,
+      "content": "Ihh nikada... vazno je da se mi razumemo...;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319729180856,
+      "content": "A ma ja se nikad neuvredjam (: haha to sam samo tako rekla.. ;D a pa sigurno MALO drugacije ;D haha i ja pisem sa drustvom MALO drugacije ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319728621125,
+      "content": "Pa malo druacije...luda si ponekad....u pozitivnom smislu...nemoj da se uvredis....xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319728426779,
+      "content": "Pa ko zna kako ti pises sa priateljima ;D??!! A kad sam ja ono pa rekla da sam luda si ti rekao da nisam xD a vidi sada ;D :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319728228588,
+      "content": "Hehe...e luda si...pa nije mi tesko....;D...:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319728012629,
+      "content": "Eh pa nisam ti ja idiot da nista nerazumem!! ;D :** ali hvala da se toliko trudis za mene ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319727692859,
+      "content": "Evo sad si sve tacno rekla...;D...ja pazim kad pisem da bi me razumela....mozda slucajno nekad ubacim neku rec da ne znas...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319727384675,
+      "content": "E pa to neznam ;D mozda je malo bolje ;D pa hvala ali ja mislim da mnogo brkam.. I da puno gresim sa pisanjem reci ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319726969716,
+      "content": "Bas dobro pricas...da znas....xd...pa bolje je u Nemackoj...sigurno...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319726640706,
+      "content": "Ne samo to.. Ja se plasim da me neki nevole i da mi se smeju sto neumem srbski ;D ma i ja se salim.. Meni se svidja tu i ovde ali vise ovde ;D posto umem jezik ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319726627593,
+      "content": "Ne samo to.. Ja se plasim da me neki nevole i da mi se smeju sto neumem srbski ;D ma i ja se salim.. Meni se svidja tu i ovde ali vise ovde ;D sto umem jezik ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319726481155,
+      "content": "Ma salim se ja malo...znam,razliciti su ljudi tu i ovde....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319726284317,
+      "content": "Nemam ti ja ko vas drustvo -.- neznam.. Nisam bas tako kako se to kaze .. Profesionalac u srbskom ;D hvala xD :** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319725808951,
+      "content": "Nisiii....xaxaxaxa...seli se ovde....xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319725468532,
+      "content": "Ja sta ti mislis!!?? Naravno da sam i ja poludela ;D vidis kava sam ;D lupa ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319725233096,
+      "content": "Pa ti ceo dan u skoli...ja bi poludeo...xdNekad je dosadno nekad nije...nekad ne radimo nista pa imamo tu kompjutere,internet i tako...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319725231867,
+      "content": "Pa ti ceo dan u skoli...ja bi poludeo...xdNekad je dosadno nekad nije...nekad ne radimo nista pa imamo tu kompjutere,internet i tako...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319714859314,
+      "content": "Pa sigurno nije bas tako interesantno ;D ja imam danas od 8 do 16.15 pa bas naporno i to svakog utorka i cetvrtka a inace uvek od 8 do 1 doch sam kuci sa busom je 2 ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319711035134,
+      "content": "pa danas mi je pocela ujutru u pola 8...jer sam svaki cetvrtak 1.smena....sad sam u skOli...imam 6 istih casova danas....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319710215088,
+      "content": "Pa to je super ;D a sto vi to radite?? I kad ti danas pocinje skola?? ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319708038926,
+      "content": "A ne ne...to je u skoli,kao vezbe za pravi posao....;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319707370453,
+      "content": "Aha ;D pa super znaci ti vec radis!!?? Kakav je posao??  :*   ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319704538741,
+      "content": "To je malo komplikovano objasniti....imamo svoju firmu za osiguranje i jedan dan samo tu radis kao da je pravo...i svaka 2-3 meseca pises sta si radio....ako razmes...;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319701394654,
+      "content": "Sta ti je to?? Pa nije bilo ni tako lose.. Vide cu ;D ;* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319701110284,
+      "content": "Kako si uradila...?ja sad kucam neki izvestaj o radu...za ocenu....xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319698589255,
+      "content": "Hvala!! ;D punooo gotovo!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319696062968,
+      "content": "Srecno...!!!xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319696061754,
+      "content": "Srecno...!!!xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319695191461,
+      "content": "Pa mora ces!! ;D sad pisem spanski!! Misli na mene da uspem!! ;D pa super posao.. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319694508141,
+      "content": "krimi.....ne klimi....to ti je da budes forenzicar, inspektor,neki profesionalan policajac, i tako to...paa onda cu izgleda morati da te vidim....:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319692852023,
+      "content": "A sta se tu pa onda uci?? ;D onako o klimi na celom svetu ili nesto drugo :) objasni pa cu razumeti!! ;D eh pa onda drugi put moras vise da me ugledas!! :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319667021842,
+      "content": "Pa ne secam se bas kako izgledas poslednji put kad ste bili kratko sam te video ali nema veze...Kriminalisticka akademija....ako razumes sta je....tesko je upisati, ali je lepa skola...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319666629636,
+      "content": "Ne 96 ;D ;P ali izgledam starije barem svi kazu ;P ;D a na koji fakultet hoces da ides?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319666511292,
+      "content": "Pa dobro ,ti si 95...?...znam ja koji cu fakultet jos od pre 4 godine....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319666139148,
+      "content": "E pa nisam ja ni tako mlada ;D dobro najmladja u razredu.. Skoro also zato izgledam starija.. ;D imam 15 jos malo 16!! Pa dobro imas i ti jos vremena ;D   ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319665761646,
+      "content": "Pa dobro 3-4 godine si mladja....ne znam koliko godina imas,ali imas vise vremena da se odlucis...verujem da je lepo tamo al ne bih dolazio ...bar za sada...:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319665225956,
+      "content": "Haha ;D sta to stim hoces reci?? ;D vec ove godine moram da biram predmete .. A na kraju cu maci samo da studiram u taj pravac.. To je mnogo rano i jos pretesko.. Kao da ja znam sta hocu ;) aaah pa dodji u nemacku da zivis!! Ovde je mnogo lepo!! ;D :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319665012136,
+      "content": "Da ucim skolu,i verovatno da zivim...naravno nemoj da odmaras,ili studiranje ili dobar posao...al mlada si odlucices...polako....;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319664641589,
+      "content": "A sta ces tamo? ;D joj pa jos neznam ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319664497530,
+      "content": "Odmaraj,to je najbolje...:D...ja kad zavrsim ovu godinu idem u Beograd...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319664264123,
+      "content": "Pa onda odmaram ili idem da radim ili odmah studiram ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319664037398,
+      "content": "To je malo drugacije nego ovde....sta kad zavrsis 8godina gimnazije?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319663341333,
+      "content": "Ja sam u 6.godini gimnazije a imamo 8 godina ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319663327837,
+      "content": "Ja sam u 6.godini gimnasije a imamo 8 godina ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319663077264,
+      "content": "Koja si ti godina??Mozda ako si tek dosla u novo drustvo,pa se nisi uklopila...kad se naviknes onda je lako....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319662140473,
+      "content": "Haha ;D ja sam bila u skoli sa dacakima i devojcica pa sam morala da menjam ;D also ovako je dorbro.. Odkad idem u tu skolu me dosta vise ljudi vole i imam vise kontakta sa deckima posto sad vise pricam i nisam onako stidljiva ko sto sam bila ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319661770821,
+      "content": "Samo zensku,a zasto....?:D,ja u mom odeljenJu imam 6 decaka i 18 devojcica....xexe...to je lepse veruj mi...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319661157978,
+      "content": "Hahaha ;D e pa i jos ja idem u privatnu katolicnu i samo zensku skolu!! ;D :** pa je to jos malo vise glupo.   ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319660893926,
+      "content": "Jaooo...pa zato ova Srbija nevalja...xd...tu od malih nogu disciplina....kod nas 3 dana ako ne dodjes mora opravdanje doktora,a to skoro svako ima lazno...a ja moze se reci redovno idem,nego mi je cudno kod vas...kao u vojsci boze sacuvaj...:DDD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319659623089,
+      "content": "Pa nikako!! ;D osim ako uspes da povracas.. Ali onda moraju roditelji da ispune cedulju.. To je mnogo tesko.. :** i nisam ja glumica ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319657536565,
+      "content": "Hahahahaa...ixx da me puste tamo da ucim...nemate vi pojma...xd..pa nisam nesposoban da ne mogu da se snadjem...:DDD...i kako je nemoguce da odes sa casa??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319656513752,
+      "content": "Hahaha ;D pa onda neznas kako je u nemackoj!! ;D nema tu bezanje ni prepisivanje ;D haha kako sie dobar... Kao da se ja mogu snadji. ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319656237813,
+      "content": "Uci, bezi , prepisi....snadji se...:p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319654787770,
+      "content": "Joj pa ti -.- stvarno neznam sta da radim!! -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319652674190,
+      "content": "Ma znas ti too...:D....ja znam 10ak reci na spanskom...svaki dan slusam one serije njihove....xd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319652400707,
+      "content": "E pa super ;D haha joj stvarno neznam sta da radim... Sutra pisem spanski i stvarno neznam dali cu preziveti!! -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319651262695,
+      "content": "Aaa dobro...nisam razumeo...xd...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319623314470,
+      "content": "Neee!! On mi je uzeo sestru ;D a ne obrnuto!! ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319621917415,
+      "content": "Znaci uzela ti sestra decka???:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319621067416,
+      "content": "Joj ;D pa oni se vise ne razdvajaju!! ;D on mi je bio mnogo simpatican ali ja uvek sa njom ;D ali ona je moja sestra!! I kad smo mi tu je super kad bi imala vremena zu mene ;** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319619507835,
+      "content": "E vidjam ih bas cesto...svracaju kod rade...:D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319607899949,
+      "content": "E ja bas me raduje ;D haha a inace dali vidjas katarinu ;D haha i njenog spina?? ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319579097146,
+      "content": "Ok...;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319562008398,
+      "content": "Haha tek mozda za 3 meseca ako uopste dolazim posto mi je mnogo dosdno u cacku.. Nikoga neznam ;D ali ipak mozemo da se dopisujemo ;D sad onako pomalo ;P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319561658596,
+      "content": "pa dobro....bice bolje...:D...vidimo se...:***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319557013663,
+      "content": "Ja se nesvadjam -.- oni se svadjaju i tako.. Pokusavaju da me nerviraju ;D e pa to neznamo.. Mozda u dezembru ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319554621320,
+      "content": "Ix, pa nemoj se svadjati...:DDDDD...a kad dolazis...ovaj raspust ili kasnije??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319534556581,
+      "content": "E pa blago tebi ;) ja imam jednu nedelju raspust.. ;D ali mi je to premalo.. Meni je uvek tesko u gimnasi ;P e pa mora ce mo pricati.. Jednom kad budem opet dosla u cacak ;D pa kod mene nema nist novo.. Samo malo svadja nje sa idiotima ali cu preziveti ;D. :*** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319532153648,
+      "content": "Dobro sam..i meni je raspust za 10 dana...al traje 4 dana samo...ucim malo laka mi je skola...:D..pa ima svasta novo...dugo nismo pricali...kod tebe???:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319520110386,
+      "content": "Ja sam dobro ;* a ti?? Dani prolaze a ja samo ucim ;D ): dobro da je za 5 dana raspust ;) a kako sie ti?? Ima li sta novo?? :***   ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+      "timestamp_ms": 1319494721901,
+      "content": "Naravno da razumem...Pomislio sam da neces znati ko je al si se setila.Sta radis ti?:***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319473565875,
+      "content": "Joooj djordje ;D pa to sie ti.. Izvini nisam ni znala da te imam kao priatelja.. Neumem bas najbolje da pisem na srbskom ali ces me valjda razumeti??!! Nadam se da hoces ;D :* kuss (poljubac) tanja ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00c4\u0090or\u00c4\u0091e Zekavica",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dordezekavica_s3qcmcpqwa",
+  "magic_words": [
+    
+  ]
+}

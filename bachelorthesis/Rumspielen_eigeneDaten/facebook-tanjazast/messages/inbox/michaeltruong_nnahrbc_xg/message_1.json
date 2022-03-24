@@ -1,0 +1,173 @@
+{
+  "participants": [
+    {
+      "name": "Michael Truong"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1485196555063,
+      "content": "Karten abgerissen haha, ja echt dubios! Welchen Eingang hast denn genommen? Gab ja 3 Ticketabreisser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485196481167,
+      "content": "Hast du die Karten abgerissen oder die Geschenke an die Frauen verteilt? Voll lustig einfach nur und wie komisch dass man dann aneinander vorbeigeht \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1485196356089,
+      "content": "Ich war sogar beim Eingang, du musst bei mir vorbeigegangen sein hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351286982004,
+      "content": "Ehm eigentlich Stadt anschauen und so.. Soll echt sch\u00c3\u00b6n sein aber ich geh da zum shoppen hin!! ;) und naja Urlaub mit der Familie ;) und dachte euch halt zu besuchen und sehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1351286813875,
+      "content": "Bin ja wie gesagt schon dort^^ ach wir sind dort eigentlich nur zum Spa\u00c3\u009f aber mein Vater hat ein Meeting in Z\u00c3\u00bcrich. Was machst du ihn Wien so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351286483155,
+      "content": "Hab ich also schon vor nem Monat zu Jakob aber auf den kann man sich nicht verlassen so doof ;) egal was machst in der Schweiz und wann gehst hin? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1351286367595,
+      "content": "Ja schade :(  Sag n\u00c3\u00a4chstes mal fr\u00c3\u00bcher Bescheid...^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351286309344,
+      "content": "Haha das ist doch so ein Witz ;) egal ne tristan ist auch nicht da und Jakob.. Keine Ahnung ist auch egal ;) naja schade h\u00c3\u00a4tte dich echt gerne gesehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1351286222684,
+      "content": "Hmm bin bis Montag in der Schweiz aber vielleicht hat ja Jakob oder Tristan zeit ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351285895027,
+      "content": "..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351282710965,
+      "content": "Achso okay ;) ich bin ab Donnerstag bis Sonntag in Wien ;) also n\u00c3\u00a4chsten Woche und falls du da Zeit und Lust haben solltest k\u00c3\u00b6nnten wir uns ja treffen?? ;) was sagst dazu?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1351281881878,
+      "content": "Sry bin nicht in Wien und hab nicht soviel Zeit, deswegen konnte ich nicht antworten...Nein was gibt's denn?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351270384769,
+      "content": "Willst nicht antworten?? ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351172496979,
+      "content": "Heei michi ;) schon das neuste mitbekommen?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1349297128289,
+      "content": "Heei michi ;) ich erinnere mich noch daran dass du mir die Bilder aus England geben wolltest!?? :) kann das sein?? Gr\u00c3\u00bc\u00c3\u009fe Tanja und mach das mal bitte w\u00c3\u00a4re voll nett. Merci beaucoup !! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346945836271,
+      "content": "nein ich hab noch bis montag frei ;) haha ihr schon :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1346945635737,
+      "content": "Hey :D Habt ihr schon Schule?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346945353577,
+      "content": "michi :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345785857855,
+      "content": ":) heei ich bin gerade \u00c3\u00bcber die deutsche grenze :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1345762945960,
+      "content": "Back in Vienna und du? :S ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1345679186736,
+      "content": "nein -.- ich will nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Truong",
+      "timestamp_ms": 1345677444545,
+      "content": "Geh Schlafen wit m\u00c3\u00bcssen morgen fr\u00c3\u00bch aufstehen :P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Michael Truong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/michaeltruong_nnahrbc_xg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444585588275,
+      "content": "015227795452",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444585584363,
+      "content": "wenn du schreiben magst oder irgendwas sein sollte :",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444585571906,
+      "content": "ich l\u00c3\u00b6sche mich mal aus fb :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444581684014,
+      "content": "wir haben heute zb den ganzen tag nicht geschrieben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444581668168,
+      "content": "naja so richtig schreiben iwie nicht.. der war noch nie wirklich der schreibtyp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444581651998,
+      "content": "ich hab den gesehen und er war sich nicht sicher ob das ich bin haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444577311762,
+      "content": "Und wie habt ihr euch dann bemerkt?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444577293760,
+      "content": "Wie ihr seid lautlos aneinander vorbeigelaufen? :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444577268150,
+      "content": "Schreibt ihr jetzt denn auch? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444577255475,
+      "content": "Okay aber das ist doch nicht normal oder? \u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u0086\u00f0\u009f\u008f\u00bc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569997707,
+      "content": "ooooooooooooooooh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569994143,
+      "content": "dann schaut er mich so an und sagt: du hast so sch\u00c3\u00b6ne augen. ich hab die schon immer geliebt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569815765,
+      "content": "ja ja die m\u00c3\u00a4nner.. haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569694010,
+      "content": "dann haben wir auch nummern ausgetauscht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569672082,
+      "content": "und mir gesagt er hat mich voll vermisst und so vooooll s\u00c3\u00bc\u00c3\u009fe sachen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569654174,
+      "content": "der hat mich vooooll lange umarmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569646248,
+      "content": "Ja haha er hat mich kurz davor gesehen und wir sind beide einfach lautlos aneinander vorbei gelaufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569639663,
+      "content": "Die M\u00c3\u00a4nner die M\u00c3\u00a4nner \u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569627646,
+      "content": "Was war dann bei dem Treffen? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569619300,
+      "content": "Waaaas?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569589577,
+      "content": "aktion",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569582352,
+      "content": "ja hab eine dauerwelle :)) spontan aktioni haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569573172,
+      "content": "usw dann haben wir uns kurz getroffen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444569560383,
+      "content": "dass er mich am liebsten umarmen w\u00c3\u00bcrde ich sei so h\u00c3\u00bcbsch haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569553760,
+      "content": "Und hast du eig ne Dauerwelle? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569539071,
+      "content": "Was hat er geschrieben \u00f0\u009f\u0098\u00b3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444569530578,
+      "content": "Hahahahaha oh Gott du bist so s\u00c3\u00bc\u00c3\u009f \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444496068605,
+      "content": "Ja, aber der meldet sich wieder.. sogar \u00c3\u00bcnal hat mir donnerstag abend geschrieben. Glaub mir, sie kommen ALLE wieder. Jeder einzelne. Man muss nur Geduld haben.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444496007609,
+      "content": "Ja echt so. Seit wann l\u00c3\u00a4sst man sich durch Posten und alles m\u00c3\u00b6gliche so beeinflussen? Verstehe ich nicht \u00f0\u009f\u0098\u009e und wenn er jetzt nie wieder schreibt kann ich sagen: ich habe keine schei\u00c3\u009fe gebaut und das zeit unsere heutige Gesellschaft. Schon traurig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444495929077,
+      "content": "der soll ruhig nachdenken dar\u00c3\u00bcber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444495922415,
+      "content": "aggressionen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444495918615,
+      "content": "boah aggresionen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444495913884,
+      "content": "sehr gut geschrieben!! das war eine kindische aktion von ihm! das bild an sich ist nicht mal schlimm und die kommentare w\u00c3\u00a4ren schei\u00c3\u009fe wenn er damit gemeint gewesen w\u00c3\u00a4re. Und ich sag dir warum man heutzutage nur noch tippt: Es ist einfach, man verr\u00c3\u00a4t sich nicht durch irgendwelche gesten oder blicke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444495832338,
+      "content": "alsoooo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444495046062,
+      "content": "Hat sich bis jetzt nicht gemeldet aber der soll ruhig mal dar\u00c3\u00bcber nachdenken und das wirken lassen. Sehe ja dass er es immer wieder liest :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444494990131,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebooknutzer_okxw7p1feq/photos/12092288_1073932702647579_1847835457_n_1073932702647579.jpg",
+          "creation_timestamp": 1444494989
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.107.185",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444494971780,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebooknutzer_okxw7p1feq/photos/12086851_1073932495980933_93768085_n_1073932495980933.jpg",
+          "creation_timestamp": 1444494970
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.107.185",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444494969837,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebooknutzer_okxw7p1feq/photos/12080797_1073932489314267_288588094_n_1073932489314267.jpg",
+          "creation_timestamp": 1444494968
+        }
+      ],
+      "type": "Generic",
+      "ip": "80.187.107.185",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444494951143,
+      "content": "Eben! \u00f0\u009f\u0098\u008a warte ich schicke dir den Chat und dann sag mal ehrlich ob es okay war was ich geschrieben habe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444476575519,
+      "content": "JA war auch eine dumme Aktion!!! Ich wusste 0,0% von dem!!! Ohne Witz, glaub fast jedes M\u00c3\u00a4dchen fand den Post zutreffend, weil jeder so jemanden hat, hatte oder was wei\u00c3\u009f ich.. und selbst wenn ich da #dummermensch poste und selbst wenn ich ihn gemeint h\u00c3\u00a4tte, dann kannst du dem sagen dass du genauso entt\u00c3\u00a4uschst bist, weil er so kindisch ist und sachen an sich ranl\u00c3\u00a4sst, die leute \u00c3\u00bcber ihn sagen, die ihn aber nicht mal kennengelernt haben!! wie heftig der sich angesprochen gef\u00c3\u00bchlt hat, seine freunde sind beide kindisch haha regt mich grad wieder auf. Also wir wollten dich da nicht iwie in Verlegenheit bringen oder so, aber ich wusste ja echt nichts von Adis, deswegen kann ich es ja auch nicht wirklich auf ihn beziehen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444456940890,
+      "content": "Okay das ist echt Mega Mega kompliziert \u00f3\u00be\u00b0\u00a6\u00f3\u00be\u008c\u00b1 aber du wirst jemanden finden lari du bist so eine Granate das kann nur werden. Adis hat sich seit Dienstag nicht mehr gemeldet und dann gestern wieder er sei entt\u00c3\u00a4uscht wegen dem post. Dann hab ich halt gefragt wie er drauf kommt dass er gemeint sei und ob sich mein Leben nur um ihn stehen w\u00c3\u00bcrde. Habe zudem geschrieben dass insta eine mediale Plattform ist Hashtags nur Hashtags sind und du und Jana selbst nicht mal wusstest um wen es ging als ich da was drunter geschrieben habt. Jetzt ist der glaub ganz sch\u00c3\u00b6n ruhig \u00f3\u00be\u008c\u00b4\u00f3\u00be\u008c\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444235563853,
+      "content": "dann war schluss und er hat sich wieder gemeldet und wollte mit mir reden, aber ich hab da immernoch versucht mit dem abzuschlie\u00c3\u009fen und hatte angst es wird voll schlimm wenn ich den wieder sehe und hab dann auch aus stolz zu mir selbst gesagt, dass ich mich mit ihm nicht treffen werde. Obwohl ich es wollte irgendwie, dann hab ich mich einfach nicht mehr bei dem gemeldet und bin dann mit jemand anderem zusammen gekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444235456507,
+      "content": "ich bin halt kein leichter charakter und hab ihn provoziert indem ich mit absicht mal nein gesagt hab obwohl es voll unn\u00c3\u00b6tig war, dann hab ich dem mal ein bild von einem jungen geschickt und gesagt schau mal das ist kai (versteh mich mit dem gut) und so sachen halt haha, hat den aufgeregt .  Dann kam noch dazu dass wir immer hin und her fahren m\u00c3\u00bcssen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444235358771,
+      "content": "oh also er sagt es ist zu viel passiert, deswegen wird es nichts mehr aber er w\u00c3\u00bcnscht sich ich lerne jemanden kennen der mir genau so viel oder mehr bedeutet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444222649850,
+      "content": "H\u00c3\u00a4ngst und warum hast du so rumgestresst?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444222631050,
+      "content": "Oh man und warum jetzt nicht mehr also warum hat es nicht geklappt dass es wieder was wird? \u00f0\u009f\u0098\u0095 wenn du noch so sehr an dem j\u00c3\u00bcngst",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444222420458,
+      "content": "https://www.facebook.com/unal.erturk.9?fref=ts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444222398321,
+      "content": "ich war bescheuert und hab immer provoziert und hab da schon in ulm gewohnt, war zu stressig iwie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444222377756,
+      "content": "der kommt aus pfullendorf, also da wo ich herkomme",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444222041442,
+      "content": "Ja das stimmt leider :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444222027992,
+      "content": "Und woher kommt der \u00c3\u009cnal? T\u00c3\u00bcrke? Warum hat es nicht geklappt und hast du ein Bild? \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444217986296,
+      "content": "Ja du musst halt dran denken dass es am anfang schon gut geht aber dass es dann immer schwerer wird, weil beide irgendwann immer weniger zeit haben und naja also ist echt nicht so einfach, selbst 45 minuten entfernungen sind nicht so einfach nach ner weile, aber da ist echt jeder anders. Ich wei\u00c3\u009f dass ich am Anfang gut klarkomme damit aber dann wird es voll schwer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444217882555,
+      "content": "Nein das war der mit dem ich zusammen war und  wegen dem ich so viel geweint hab.. den anderen hat es mehrmals erwischt :D :D :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444213623106,
+      "content": "Aber so ne Fernbeziehung w\u00c3\u00a4re es nicht. Alle drei Monate wohne ich dann f\u00c3\u00bcr 3 Monate in Ulm und er in KA. Das geht doch voll?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444213588541,
+      "content": "Und wo wohnt \u00c3\u00bcnal? War das der mit den 3 Verschiedenen Beziehungen gleichzeitig? Hat Karma ihn bereits erwischt? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444207451760,
+      "content": "Ja genau den meine ich .. :) also ich habe es versucht aber immer wenn ich den \u00c3\u00bcnal gesehen habe dann war es so heftig, ich hab gezittert weil ich so aufgeregt war :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444202799808,
+      "content": "Sorry bin eingepennt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444202770480,
+      "content": "Oh Gott bist du s\u00c3\u00bc\u00c3\u009f. Ja er hat es ja nicht gesehen denke ich. \u00f0\u009f\u0098\u0098 das ist alles so kompliziert und da habe ich eigentlich echt keinen Kopf daf\u00c3\u00bcr. Ja ich versuche mich echt abzulenken aber das gelingt nur schwer weil ich auch immer an emres und seiner Wohnung vorbeifahre aber ja du hast Recht. Vielen Dank meine Liebe! Meinst du hast den nicht geliebt mit dem du letztes Jahr zusammen warst oder zusammengekommen bist?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444172837320,
+      "content": "Und du kannst immer zu mir kommen, damit du das wei\u00c3\u009ft. Ich wei\u00c3\u009f, wie das ist <3 Aber ich habe gelernt besser mit sowas umzugehen.. Februar bis jetzt ist schon ne gute Zeit aber du darfst dich nicht so schnell auf jemanden einlassen, ach meine s\u00c3\u00bc\u00c3\u009fe wei\u00c3\u009f gar nicht was ich noch alles sagen soll. Auf jeden Fall  chicks before dicks, egal wie lange jemand mit dem anderen zusammen ist hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444172697848,
+      "content": "Ich bin ein Detektiv haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444172657218,
+      "content": "F\u00c3\u00bcr mich war das auch immer so schlimm, bis ich gemerkt habe, dass sie es immer irgendwann bereuen, und meistens dann wenn du damit klarkommst gerade. Man denkt immer: der ist anders, das wird nie wieder was. Aber das ist nicht so, das ist immer der gleiche schei\u00c3\u009f. Ich habe mein Herz vor zwei Jahren vergeben, an \u00c3\u009cnal. Ich wei\u00c3\u009f nicht ob du die Geschichte noch kennst. Ich war so down, ich habe monatelang geweint, habe mich dann auf jemanden eingelassen, der echt hammer ist aber ich konnte ihn nicht lieben. Mein Herz hat \u00c3\u009cnal immer geh\u00c3\u00b6rt und es wird ihm vielleicht auch immer geh\u00c3\u00b6ren. Ich habe es wahrscheinlich auch zerst\u00c3\u00b6rt, ich glaube  immer noch dass ich an allem schuld bin. Aber ich habe endlich erkannt, dass es schlimmeres gibt und das die beste medizin einfach menschen sind, die sich bei dir melden und was mit dir zu tun haben wollen. Wenn du den nach paar monaten siehst wird es vielleicht so sein, als w\u00c3\u00bcrde man dir dein herz ausrei\u00c3\u009fen (so geht es mir immer wenn ich \u00c3\u009cnal im Bus sehe oder auf der Stra\u00c3\u009fe), weil du wei\u00c3\u009ft es klappt vielleicht niemals. Aber es ist eben nur ein VIELLEICHT, deshalb darfst du nicht so down sein und musst die Zeit \u00c3\u00bcberbr\u00c3\u00bccken und Sinnvol nutzen. Lenk dich ab, triff dich mit deinen Freunden. Ich wei\u00c3\u009f es ist schwer, ich wei\u00c3\u009f es. Aber es ist besser, wenn du versuchst weniger zu leiden. Ich wei\u00c3\u009f dass ich dir leider nicht helfen kann, aber alleine der Text soll dir nur zeigen, dass es wahrscheinlich millionen anderen Menschen so wie dir geht gerade. Jeder hat sein P\u00c3\u00a4ckchen zu tragen, jeder hat es in einer anderen Gr\u00c3\u00b6\u00c3\u009fe. Wenn du ihm \u00c3\u00bcber den Weg l\u00c3\u00a4ufst wirst du leiden, weil du wieder daran erinnert wirst. Aber es ist besser erst dann zu leiden, wenn du ihn siehst als dann, wenn du ihn nicht siehst, also viel viel \u00c3\u00b6fter. Du darfst trauern und traurig sein, aber vergiss dich selbst nicht s\u00c3\u00bc\u00c3\u009fe. Lass den Kopf nicht h\u00c3\u00a4ngen und erzwinge keine Beziehung oder so, das macht dich nur verr\u00c3\u00bcckt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444172049201,
+      "content": "Also, ich fand es nicht lustig haha, es war nur kindisch :D aber okay, die sind halt noch klein was will man da machen. Du musst einfach immer daran denken, dass du eine starke Frau bist. Gott hat dich zu was besonderem gemacht und dich f\u00c3\u00bcr jemand besonderen aufbehalten. Ich wei\u00c3\u009f, du vermisst ihn aber du musst einfach damit klar kommen. Schreib ihm einfach erst dann, wenn er dir antwortet und warte halt einfach zwei Tage ab. Klar ich sag grad \"einfach\" auch wenn es das nicht ist. Aber du musst lernen mit so einer Situation klarzukommen. Am besten du postet keine Bilder mehr wie das eine, dann regst du ihn schon mal nicht auf. Als Frau musst du einfach nur abwarten.  Es kann sein, dass er deine erste gro\u00c3\u009fe Liebe ist oder so, Aber ich sag es nochmal, du bist jung. Du musst immer daran denken, dass es schlimmeres gibt und du musst auch daran denken, dass alles im Leben so geschieht weil es so geschehen sollte. Sei dankbar daf\u00c3\u00bcr, dass er f\u00c3\u00bcr dich da war und wenn er so oft bei dir \u00c3\u00bcbernachtet hat, dann bist du ihm nicht egal. Ich habe schon mit soooooooooo vielen Kontakt gehabt und es war immer so, dass sie sich irgendwann wieder gemeldet haben. Solange du wundersch\u00c3\u00b6n bist, immer korrekt, dann kann er nicht anders als sich bei dir zu melden. Bitte denk da immer immer immer dran. Der wird sich melden! Du darfst dem auch nicht zeigen, dass du so stark leidest. Sonst nutzt er das aus so wie du eben gesagt hast, der wird sich nicht melden. Ich muss ihm aber auch recht geben, fernbeziehungen sind sehr sehr schwer. Und du musst sowieso damit klarkommen, nur von dir selbst abh\u00c3\u00a4ngig zu sein. So wie er f\u00c3\u00bcr dich bis jetzt da war so wird er nicht immer sein. Das h\u00c3\u00b6rt irgendwann auf, nicht unbedingt weil er nicht mehr will oder so sondern einfach weil es nicht geht. Also wirklich, ich kann dich sooooooooooooo gut verstehen.. aber es gibt wirklich wirklich schlimmeres. Sei stark, das macht dich viel attraktiver f\u00c3\u00bcr ihn als verletzlichkeit zu zeigen (halt nicht zu viel st\u00c3\u00a4rke), oh ich k\u00c3\u00b6nnte noch so viel schreiben",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171648819,
+      "content": "Woher wusstest du seinen Nachnamen bzw um wen es geht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171548152,
+      "content": "Jetzt zeigen die das dem eh er wird sich aus Prinzip nicht melden bzw alle 2 Tage Antworten. Naja bin ich selber schuld \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171496794,
+      "content": "Hahahaha oh Gott aber lustig war es schon. Ne waren wir nicht aber immer beieinander \u00c3\u00bcbernachtet Insider Witze gemacht seine Freunde mochten mich und alles. Das ist so mega kompliziert diese Geschichte und ich habe mir halt geschworen dass ich nicht locker lasse bis ich ihn habe. Lari ich wei\u00c3\u009f das ich jung bin und ich kenne So etwas nicht! Ich meine der ist echt nicht der h\u00c3\u00bcbsche junge usw aber der ist ein Traum f\u00c3\u00bcr mich! Alleine wenn er mich zu sich zieht in der Nacht sterbe ich noch und  Februar ist jetzt nicht gerade gestern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171340628,
+      "content": "oh du bist ja 19 , upsi sorry <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171317837,
+      "content": "Ihr wart nicht zusammen oder ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171304905,
+      "content": "uuuuuuuund",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171292453,
+      "content": "und der andere gleich mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171285323,
+      "content": "wie der sich gleich angesprochen f\u00c3\u00bchlt, so ein spast",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171272276,
+      "content": "mit 21 so ein schei\u00c3\u009f zu machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171265229,
+      "content": "emre will ich auf jeden fall grad schlagen dieses kind",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171250446,
+      "content": "versteh dich schon, aber du wirst das auch noch erfahren..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171226412,
+      "content": "ich wei\u00c3\u009f, schwer zu verstehen bzw umzusetzen aber wenn du den richtigen hast dann l\u00c3\u00a4uft das alles ganz anders",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171225079,
+      "content": "Ne 19 \u00f0\u009f\u0098\u0089 ja klar noch jung aber der ist bei so vielen Sachen f\u00c3\u00bcr mich da gewesen und alles das ist so eine komplizierte Geschichte du \u00f0\u009f\u0098\u0093",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171197508,
+      "content": "und wenn er sich nicht meldet dann ist er nicht der richtige",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171156855,
+      "content": "du wirst zu 100% jemanden finden bei dem es besser sein wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171150376,
+      "content": "Hinterher :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171142951,
+      "content": "Ich renne ja genau dem Heric",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171135603,
+      "content": "Du bist 20 oder 21",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171129472,
+      "content": "Das was ich f\u00c3\u00bcr ihn empfinde kenne ich nicht! H\u00c3\u00a4tte ich noch nie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171114783,
+      "content": "Weil ich ihn liebe lari",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171107054,
+      "content": "Ich wei\u00c3\u009f es nicht seit Februar l\u00c3\u00a4uft da was und immer wenn ich frage was das ist kommt er will keine Fernbeziehung oder sonstiges.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171095236,
+      "content": "heric oder so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444171085781,
+      "content": "was willst du dann mit dem hahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444171070209,
+      "content": "Hahahhaahhaahaha ne bosnischer Muslime \u00f0\u009f\u0098\u0085 nicht besser",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170991896,
+      "content": "und warum meldet er sich nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170951621,
+      "content": "dabei wei\u00c3\u009f er null prozent",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170944709,
+      "content": "boah emre ist 21 und kommentiert da einfach mit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170924737,
+      "content": "ist er ein t\u00c3\u00bcrke haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170918926,
+      "content": "also",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444170910347,
+      "content": "Ups \u00f0\u009f\u0098\u0082 ja ich wei\u00c3\u009f aber ich glaube ich l\u00c3\u00b6sche es echt lieber \u00f0\u009f\u0098\u009a Sonst Ende Gel\u00c3\u00a4nde vermutlich eh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170896264,
+      "content": "Das kann man auf jeden beziehen -.- weil es immer der gleiche schei\u00c3\u009f ist -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170874168,
+      "content": "vielleicht war es auch so gemeint, ist es eigentlich auch haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170862440,
+      "content": "Ja siehst du, und die zwei sind so bl\u00c3\u00b6d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444170858872,
+      "content": "Zur\u00c3\u00bcck kommt falls du Liebeskummer h\u00c3\u00a4ttest",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444170844328,
+      "content": "oh stimmt ich dachte die Kommentare w\u00c3\u00a4ren auf dich bezogen \u00f0\u009f\u0098\u00a6 dass dein Typ nicht mehr zur",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170822271,
+      "content": "und wenn es dich st\u00c3\u00b6rt l\u00c3\u00b6schen wir es wieder haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170800008,
+      "content": "deswegen passt #dummermensch einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170791527,
+      "content": "und jeder der sich nicht bei dir meldet ist halt auch dumm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170780130,
+      "content": "die wissen ja nicht ob ich bescheid wei\u00c3\u009f, ganz einfach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170768861,
+      "content": "weiiiiiiiiiiiil",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170765447,
+      "content": "Achso ups, egal dann sind beide Kinder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444170742950,
+      "content": "Ne aber ich verstehe nicht warum sich die zwei dazu \u00c3\u00a4u\u00c3\u009fern ich glaube die wissen dass es um Adis geht (bester Kumpel von den zwei) \u00f0\u009f\u0098\u00b6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170699278,
+      "content": "st\u00c3\u00b6ren dich die kommentare unter dem bild?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170685959,
+      "content": "liebeskummer?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170681431,
+      "content": "<3 <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1444170647638,
+      "content": "Laaaaaaaari \u00f0\u009f\u0098\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1444170626957,
+      "content": "tanjaaaaaaaaaaaa",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1415640447014,
+      "content": "Dankesch\u00c3\u00b6n Maus :* :* Ja hatte einen wundersch\u00c3\u00b6nen Tag, vielen Dank :* wollte ja kommen, aber ging ja nicht mehr.. :/ ich versuche es beim n\u00c3\u00a4chsten mal.. du bist aber selbst nicht mehr da O.o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1415597132346,
+      "content": "Lari alles alles Liebe und Gute nachtr\u00c3\u00a4glich \u00f3\u00be\u00ac\u008f\u00f3\u00be\u00ac\u008f ich hoffe du hast ganz ganz sch\u00c3\u00b6n gefeiert und hattest gestern einen Mega sch\u00c3\u00b6nen Tag!? Ganz viel Liebe an dich und lass dich mal wieder blicken \u00f3\u00be\u008c\u00af\u00f3\u00be\u008c\u00ac\u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346094855635,
+      "content": "okay alles klar .9 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1346094794807,
+      "content": "Okay :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346094775283,
+      "content": ":) eben das wird schon alles :* einfach mal abwarten ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1346094620259,
+      "content": "Dabei hat sie mich ja gefragt ob ich in die tanzgruppe will, naja mal schauen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1346094600722,
+      "content": "Weil sie gesagt hat sie sagt mir bescheid, wann ich bei einer competition zuschauen kann",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346094510762,
+      "content": "okay :) ja ich glaub schon das sie das verstanden hat ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1346094480552,
+      "content": "Ich bin mir aber nicht sicher, ob sie verstanden hat was ich meine :S ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1346094462207,
+      "content": "Tanja, ich hab jana jetzt gesagt dass ich mal zuschauen m\u00c3\u00b6chte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344375300582,
+      "content": ":) die meisten ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344372730465,
+      "content": "Ihr seid echt alle total cool :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344372603834,
+      "content": ":) okay aber bitte mach das!! :) wirst du erfahren rede einfach mit jana dar\u00c3\u00bcber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344370606990,
+      "content": "Ich hab halt abistress und sollte es immer fr\u00c3\u00bch genug erfahren :)) ich glaube ich trete der gruppe bei :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344364100119,
+      "content": ":) also wir haben jeden sonntag training 2 stunden lang von halb 12 bis halb 2 aber manchmal auch mehr.. Ehm auftritte erfahren wir immer fr\u00c3\u00bch genug und ja einen haben wir am 8.9 :P ja die gruppe wird jetzt eh etwas ge\u00c3\u00a4ndert von daher :P aber die gruppe ist einfach. Die coolste!! :* komm zu uns!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344362698155,
+      "content": "Hey! Du tanzt bei resplendance.. Ich wollte dich ein paar sachen fragen.. Wann ihr z.B training habt und wenn ihr auftritte habt, wann ihr das ganze erfahrt und wie lange ihr dann immer weg seid .. \nHoffe du antwortest mir! \nLiebe Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_okxw7p1feq",
+  "magic_words": [
+    
+  ]
+}

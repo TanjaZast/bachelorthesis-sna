@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Juliana Popp"
+    },
+    {
+      "name": "Jessica Nadine Konecki"
+    },
+    {
+      "name": "Alexa Braun"
+    },
+    {
+      "name": "Nikolina Franke"
+    },
+    {
+      "name": "Martina Antunovic"
+    },
+    {
+      "name": "Ivana Crnov"
+    },
+    {
+      "name": "Lucija Foro"
+    },
+    {
+      "name": "Laura K\u00c3\u00b6nig"
+    },
+    {
+      "name": "Lilli Steiger"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Elena Hepp"
+    },
+    {
+      "name": "Sophia Konrad"
+    },
+    {
+      "name": "Klara Brinkmann"
+    },
+    {
+      "name": "JiaYing Cheng"
+    },
+    {
+      "name": "Jasna Vlahek"
+    },
+    {
+      "name": "Giulia Befurt"
+    },
+    {
+      "name": "Natalija \u00c5\u00a0utalo"
+    },
+    {
+      "name": "Katharina Thieler"
+    },
+    {
+      "name": "Maren Wagner"
+    },
+    {
+      "name": "Bi Ne"
+    },
+    {
+      "name": "Jule Uns\u00c3\u00b6ld"
+    },
+    {
+      "name": "Salo Laskowski"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Marina Capek"
+    },
+    {
+      "name": "Charlotte F\u00c3\u00bcnning"
+    },
+    {
+      "name": "Johanna Hauser"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luisa Bitzenbauer",
+      "timestamp_ms": 1510503056355,
+      "content": "Luisa Bitzenbauer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Luisa Bitzenbauer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anna-Maria Mack",
+      "timestamp_ms": 1508182504274,
+      "content": "Anna-Maria Mack hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Anna-Maria Mack"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1508182479602,
+      "content": "Alina Becker hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alina Becker"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1318348269015,
+      "content": "Poste auf meiner pinnwand ein HERZ ( ohne kommentieren ) und schike diese Nachricht an allen M\u00c3\u00a4dchen .. aber nicht an Jungs.Der Junge der dich fragt wieso du so viele Herzen hast ... ist der ,der am meisten auf dein Profil war.$bitte:)\u00c2\u00ad\u001c\n:D\n..",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa, Juliana, Jessica Nadine und 24 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisajulianajessicanadineund24weiterepersonen_dhczcde3zq",
+  "magic_words": [
+    
+  ]
+}

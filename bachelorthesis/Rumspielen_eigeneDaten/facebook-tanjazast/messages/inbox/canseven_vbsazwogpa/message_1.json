@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Can Seven"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403100554679,
+      "content": "Doch du musst kommen :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Can Seven",
+      "timestamp_ms": 1403100113238,
+      "content": "ok :) \noh man mal schauen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403100094131,
+      "content": "Perfekt supi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403100083639,
+      "content": "Maxi trinkt ja eh nicht :D also passt alles. Du ich lass mich viel lieber \u00c3\u00bcberraschen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Can Seven",
+      "timestamp_ms": 1403099995916,
+      "content": "was w\u00c3\u00bcnscht du dir denn so ? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Can Seven",
+      "timestamp_ms": 1403099989483,
+      "content": "ich denke schon :D muss noch abkl\u00c3\u00a4ren mit fahren & so :)\nich wei\u00c3\u009f :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403099622064,
+      "content": "Kommst am Samstag zu meinem Geburtstag? Ivana kommt auch :D",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Can Seven",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/canseven_vbsazwogpa",
+  "magic_words": [
+    
+  ]
+}

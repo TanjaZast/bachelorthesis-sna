@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Ronne Reese"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1525460575055,
+      "content": "Oh. Mache ich. Dankesch\u00c3\u00b6n! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ronne Reese",
+      "timestamp_ms": 1525459145582,
+      "content": "Hi Ta Za, schau mal bei bonny.de Triathlonstore. Da gibts top Modelle und Einzelst\u00c3\u00bccke. Lg Ronny",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ronne Reese",
+      "timestamp_ms": 1525459144867,
+      "content": "Ronne hat die Gruppe Ronne \u00c2\u00b7 SUCHE: genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ronne \u00c2\u00b7 SUCHE:",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/ronnesuche_i9i0nebrxa",
+  "magic_words": [
+    
+  ]
+}

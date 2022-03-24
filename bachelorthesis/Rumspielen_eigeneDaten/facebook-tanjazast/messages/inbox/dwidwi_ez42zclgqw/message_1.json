@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Dwi Dwi"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309192289172,
+      "content": ":D okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dwi Dwi",
+      "timestamp_ms": 1309192106830,
+      "content": "ehm mach mal M",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dwi Dwi",
+      "timestamp_ms": 1309192102110,
+      "content": "ooh stimmt xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309192085768,
+      "content": "so dwi jetzt musst du schon Buchstaben sagen :P",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dwi Dwi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dwidwi_ez42zclgqw",
+  "magic_words": [
+    
+  ]
+}

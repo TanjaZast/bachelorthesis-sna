@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Stefan \u00c5\u00a0kondri\u00c4\u0087"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan \u00c5\u00a0kondri\u00c4\u0087",
+      "timestamp_ms": 1513932221861,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Stefan \u00c5\u00a0kondri\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefanskondric_prf7wm9g-g",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "participants": [
+    {
+      "name": "Sibel Erciyes"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1462575216167,
+      "content": "Hey du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510958236,
+      "content": "Dann weiss ich auch mehr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510947116,
+      "content": "Ach egal ich muss mich am 29 februar nochmal melden",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510913994,
+      "content": "Ich bin da \u00c3\u00bcberall ohne Termin hin \u00f0\u009f\u0098\u008a die meinen immer nur vor wegen nur mit Termin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510876572,
+      "content": "Nein habe keinen termin bekommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510824834,
+      "content": "Warst du schon bei der Berufberatung neben der Arbeitsagentur und in Ulm neue Stra\u00c3\u009fe? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510420226,
+      "content": "Hahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510415559,
+      "content": "Haha gr\u00c3\u00bcsse zur\u00c3\u00bcck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510403132,
+      "content": "Ich zahle es dir \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510393610,
+      "content": "Liebe Gr\u00c3\u00bc\u00c3\u009fe von Frau Edelmann \u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510357384,
+      "content": "Ja h\u00c3\u00a4tte aber geld muss ich sparren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510351139,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "80.187.99.121",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510336570,
+      "content": "H\u00c3\u00a4ttest dann jetzt Zeit f\u00c3\u00bcr deine N\u00c3\u00a4gel \u00f0\u009f\u0098\u0087\u00f0\u009f\u0098\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454510336561,
+      "content": "Danke sch\u00c3\u00b6n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510311634,
+      "content": "Das m\u00c3\u00bcsste sie sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454510305629,
+      "content": "+49 157 82770938",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454505093295,
+      "content": "Okey danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454498690281,
+      "content": "Jap schicke sie dir in der Pause",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454496777503,
+      "content": "Hey tanja hast du vieleicht dir nummer von h\u00c3\u00bclya",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454453618092,
+      "content": "Warum weil fr ehlert mich abgezogen hatt\nWeil sie mich auchgen\u00c3\u00bctzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454451644014,
+      "content": "Ja mit Kindern kannst du bestimmt gut und vor allem hast du jetzt einfach ein bisschen zeit f\u00c3\u00bcr dich",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454451608341,
+      "content": "Ja f\u00c3\u00bcr deine Psyche bestimmt aber ich wei\u00c3\u009f einfach nicht warum :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454448529566,
+      "content": "Entweder umschulung oder kommplet neue ausbildung \nMit kindern und jugendlichen will ich was machen \nIch bin ja nicht aus der welt aber ist besser so das die mich gek\u00c3\u00bcndigt hatt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454446006695,
+      "content": "Was hast du jetzt vor? Du fehlst voll \u00f0\u009f\u0098\u009e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sibel Erciyes",
+      "timestamp_ms": 1454359340413,
+      "content": "Danke gut und dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1454357192621,
+      "content": "Wie geht es dir meine Liebe? \u00f3\u00be\u008c\u00ad",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sibel Erciyes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sibelerciyes_2g1sj0dbtw",
+  "magic_words": [
+    
+  ]
+}

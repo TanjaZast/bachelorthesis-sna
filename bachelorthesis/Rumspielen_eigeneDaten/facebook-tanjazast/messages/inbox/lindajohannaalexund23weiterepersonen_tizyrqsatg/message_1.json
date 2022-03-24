@@ -1,0 +1,183 @@
+{
+  "participants": [
+    {
+      "name": "Linda Richter"
+    },
+    {
+      "name": "Johanna Mayer"
+    },
+    {
+      "name": "Alex Hu"
+    },
+    {
+      "name": "Ma Reike"
+    },
+    {
+      "name": "Carina H\u00c3\u00b6nle"
+    },
+    {
+      "name": "Benny Fischer"
+    },
+    {
+      "name": "Hieu Doan"
+    },
+    {
+      "name": "Fabian Albrecht"
+    },
+    {
+      "name": "Patrick Sezer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Verena Motz"
+    },
+    {
+      "name": "Sandy Be"
+    },
+    {
+      "name": "Valentin Dopfer"
+    },
+    {
+      "name": "Oliver R\u00c3\u00b6sch"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Micha B\u00c3\u00b6"
+    },
+    {
+      "name": "Svenja Hau\u00c3\u009fmann"
+    },
+    {
+      "name": "Jonas Gebauer"
+    },
+    {
+      "name": "EL Wardi Morad"
+    },
+    {
+      "name": "Med De"
+    },
+    {
+      "name": "Gabi Hermann"
+    },
+    {
+      "name": "Bettina Kindermann"
+    },
+    {
+      "name": "Markus B\u00c3\u00b6ck"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Lisa Sch\u00c3\u00bcckel"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Linceii Welson"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marco Ulm",
+      "timestamp_ms": 1464782768450,
+      "content": "Marco Ulm hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marco Ulm"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Moussa Tbenny",
+      "timestamp_ms": 1402351890845,
+      "content": "Moussa Tbenny hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Moussa Tbenny"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ma Ra",
+      "timestamp_ms": 1402338437487,
+      "content": "Ma Ra hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ma Ra"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Braun",
+      "timestamp_ms": 1402330608268,
+      "content": "Lisa Braun hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Braun"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Klaudia Sz\u00c3\u00bccs",
+      "timestamp_ms": 1402330088557,
+      "content": "Klaudia Sz\u00c3\u00bccs hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Klaudia Sz\u00c3\u00bccs"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Theresa Schalk",
+      "timestamp_ms": 1402327900616,
+      "content": "Theresa Schalk hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Theresa Schalk"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402327898666,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402327866310,
+      "content": "W\u00c3\u00bcnschst du dir ein neues iPad? Hier gibt's eins zu gewinnen ... http://t.co/BxexhtCdbx",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Linda, Johanna, Alex und 23 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lindajohannaalexund23weiterepersonen_tizyrqsatg",
+  "magic_words": [
+    
+  ]
+}

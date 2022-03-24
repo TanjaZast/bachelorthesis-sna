@@ -1,0 +1,162 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Jonas Pirkl"
+    },
+    {
+      "name": "Jannis Schmitt"
+    },
+    {
+      "name": "Philipp Wagenknecht"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Emilie Geiler"
+    },
+    {
+      "name": "Anne Bla"
+    },
+    {
+      "name": "Momo Pietig"
+    },
+    {
+      "name": "Sebastian Bachor"
+    },
+    {
+      "name": "Philipp Gordetzki"
+    },
+    {
+      "name": "Lino Mueller"
+    },
+    {
+      "name": "Niklas M\u00c3\u00bcller"
+    },
+    {
+      "name": "Kathrin Gl\u00c3\u00a4ser"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479742092398,
+      "content": "Bringt mal bitte die ein oder andere Frau mit \u00f0\u009f\u0098\u0085\u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Gordetzki",
+      "timestamp_ms": 1479742058974,
+      "content": "Bin dabei :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Anne Bla",
+      "timestamp_ms": 1479737833506,
+      "content": "Ich leider auch nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1479737796365,
+      "content": "Kann leider auch nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jannis Schmitt",
+      "timestamp_ms": 1479732886846,
+      "content": "Ich leider auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lino Mueller",
+      "timestamp_ms": 1479730720353,
+      "content": "Ich bin auch raus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Niklas M\u00c3\u00bcller",
+      "timestamp_ms": 1479727686500,
+      "content": "Muss leider absagen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Philipp Wagenknecht",
+      "timestamp_ms": 1479725875542,
+      "content": "Ich komme auch:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1479725542565,
+      "content": "Hey ihr Lutscher, sagt mal zu oder ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Momo Pietig",
+      "timestamp_ms": 1479659021072,
+      "content": "Ich komme auch gerne :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Pirkl",
+      "timestamp_ms": 1479646109184,
+      "content": "Freu mich auf euch \u00f0\u009f\u00a4\u0097",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1479645859704,
+      "content": "Nice! Dann sind wir schon zu dritt \u00f0\u009f\u0098\u008d",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479645407407,
+      "content": "Kreative Einladung ihr zwei! Bin nat\u00c3\u00bcrlich dabei \u00f0\u009f\u0098\u008d!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1479405937667,
+      "content": "Sebastian Bachor hat Jonas Pirkl zur Gruppe hinzugef\u00c3\u00bcgt.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Jonas Pirkl"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sebastian Bachor",
+      "timestamp_ms": 1479405703168,
+      "content": "Liebe Freunde,\nwir laden euch am 24. November 2016 zum allj\u00c3\u00a4hrlichen Raclette Essen in der geilsten WG Durlachs ein. Einlass ist um 17.30 Uhr, die ersten Pf\u00c3\u00a4nnchen werden um 18.00 Uhr ins Raclette geschmissen.\n\nWir stellen selbstverst\u00c3\u00a4ndlich die n\u00c3\u00b6tigen Lebensmittel f\u00c3\u00bcr ein erfolgreiches Raclette, aber \"beim Alkohol ist Mithilfe verlangt, gell Jungs \"(Zitat Jonas, Abs.3 ,Zeile 4).\n\nWir k\u00c3\u00b6nnen es kaum erwarten mit euch gemeinsam wieder die Pf\u00c3\u00a4nnchen zu heben. \n\nEs gr\u00c3\u00bc\u00c3\u009fen Euch,\nJonas und Sebastian\n\nP.S.: u.A.w.g. bis Sonntag, 21.45 Uhr (Tatortende)\nKleiderordnung: Herren: Polohemd mit aufgestelltem Kragen (bevorzugt Lacoste)\nDamen: Pure Look (\"einfach s\u00c3\u00bc\u00c3\u009f wie Honig\" (Zitat Sebastian, Abs.5, Z.1)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Jonas, Jannis und 9 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerjonasjannisund9weiterepersonen_c_jpaijkxg",
+  "magic_words": [
+    
+  ]
+}

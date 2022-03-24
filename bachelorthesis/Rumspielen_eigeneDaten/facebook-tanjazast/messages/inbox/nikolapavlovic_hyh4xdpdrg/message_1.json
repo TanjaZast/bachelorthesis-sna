@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Nikola Pavlovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikola Pavlovic",
+      "timestamp_ms": 1509036531018,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nikola Pavlovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nikolapavlovic_hyh4xdpdrg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Goca Palibrk Ex Obradovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Goca Palibrk Ex Obradovic",
+      "timestamp_ms": 1394540573493,
+      "content": "Kako ste kako su vam vasi nema ih da se jave ja sam menjala tel i broj sam izbrisala slucajno  pa nemam nadta da pozovem pozdravite mamu punoooo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Goca Palibrk Ex Obradovic",
+      "timestamp_ms": 1394540507522,
+      "content": "Gde ste devojke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1270320741000,
+      "content": "Caooo",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Goca Palibrk Ex Obradovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/gocapalibrkexobradovic_6dct0c1dvg",
+  "magic_words": [
+    
+  ]
+}

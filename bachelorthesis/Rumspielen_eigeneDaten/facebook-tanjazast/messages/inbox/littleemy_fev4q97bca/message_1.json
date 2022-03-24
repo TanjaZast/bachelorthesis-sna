@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Little Emy"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Little Emy",
+      "timestamp_ms": 1320064384908,
+      "content": "vinamost.net/images/facebook/get.php?image=IMG39341494.JPG",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Little Emy",
+      "timestamp_ms": 1320006437341,
+      "content": "vinamost.net/images/facebook/get.php?image=IMG39341585.JPG",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Little Emy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/littleemy_fev4q97bca",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Anne Becker"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne Becker",
+      "timestamp_ms": 1493110916476,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anne Becker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annebecker_0nvbmk8wea",
+  "magic_words": [
+    
+  ]
+}

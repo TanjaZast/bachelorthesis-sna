@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Anuschka Mederer-Gnann"
+    },
+    {
+      "name": "Bianca Sommer"
+    },
+    {
+      "name": "Ella Fiona"
+    },
+    {
+      "name": "Christina Luisa"
+    },
+    {
+      "name": "Erinna Mich Dran"
+    },
+    {
+      "name": "Alisa Braun"
+    },
+    {
+      "name": "Anika Porcelina"
+    },
+    {
+      "name": "Julia Laib"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Daniela Anderer"
+    },
+    {
+      "name": "Carmen Rauschenberger"
+    },
+    {
+      "name": "Lara Schm\u00c3\u00b6lz"
+    },
+    {
+      "name": "Laura Kienh\u00c3\u00b6fer"
+    },
+    {
+      "name": "Carola Kitzig"
+    },
+    {
+      "name": "Jana Geiselmann"
+    },
+    {
+      "name": "Michaela Dominique Ru\u00c3\u009f"
+    },
+    {
+      "name": "Daniel Koy"
+    },
+    {
+      "name": "Lara Seidel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erinna Mich Dran",
+      "timestamp_ms": 1301915520000,
+      "content": "Schaut mal oben in die Adressleiste. Wenn dort \"http\" steht anstatt \"https\" habt ihr KEINE sichere Verbindung und k\u00c3\u00b6nnt gehackt werden. Ihr m\u00c3\u00bcsst auf Kontoeinstellungen--> Kontosicherheit --> gehen und den Haken bei \"Facebook sicher durchst\u00c3\u00b6bern\" setzen. WICHTIG! Um diesen Missstand zu \u00c3\u00a4ndern bitte kopieren und in eurem Profil posten.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Anuschka, Bianca, Ella und 14 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/anuschkabiancaellaund14weiterepersonen_vbg9fduxsw",
+  "magic_words": [
+    
+  ]
+}

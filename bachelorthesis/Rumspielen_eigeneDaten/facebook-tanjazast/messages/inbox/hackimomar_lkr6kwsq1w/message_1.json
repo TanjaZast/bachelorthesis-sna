@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Hackim Omar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hackim Omar",
+      "timestamp_ms": 1393011899341,
+      "content": "???????????",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hackim Omar",
+      "timestamp_ms": 1369902313658,
+      "content": "kennt man sich ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hackim Omar",
+      "timestamp_ms": 1369902306696,
+      "content": "griass gott ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Hackim Omar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/hackimomar_lkr6kwsq1w",
+  "magic_words": [
+    
+  ]
+}

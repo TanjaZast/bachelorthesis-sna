@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Mebus"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1374795784697,
+      "content": "jup",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1374790398544,
+      "content": "Hatten wir uns am Dienstag am Baggersee gesehen? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371475083234,
+      "content": "Maike Liska gib das einfach so ein ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371464783157,
+      "content": "schick halt link:))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371462580472,
+      "content": "Dann musst halt besser suchen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371445056985,
+      "content": "nee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371413794505,
+      "content": "Hast se jetzt? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371400249078,
+      "content": "weils ich ned finde:(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371400232328,
+      "content": "Warum? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371399694228,
+      "content": "kannst du link von fb account machen und mir schicken?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371399621946,
+      "content": "Ehm maike liska",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371399513903,
+      "content": "egal und mike?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371399466642,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371399463956,
+      "content": "Welche laura bitte? Bl",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371399426935,
+      "content": "jap wie hei\u00c3\u009f die laura mit nachnahmen( fievin der oase)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371399356310,
+      "content": "Okay ;) jetzt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371398869892,
+      "content": "nehm mal meine anfrage an bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371398738282,
+      "content": "\u00c3\u00a4h meinte 9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371398731441,
+      "content": "ja der mit nummer 13 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1371398704362,
+      "content": "Hahha einer der Jungs? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Patrick Mebus",
+      "timestamp_ms": 1371398677486,
+      "content": "hey ich bin der vom tunir",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Patrick Mebus",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/patrickmebus_r6s9zyjyqg",
+  "magic_words": [
+    
+  ]
+}

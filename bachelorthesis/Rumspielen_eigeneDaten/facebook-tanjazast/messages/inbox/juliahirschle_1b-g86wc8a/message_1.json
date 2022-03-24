@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Julia Hirschle"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1359035652157,
+      "content": "Ja ist echt doof :/ aber jetzt haben wir bisschen was und ich mach dann dieses Wochenende denumfragezettel weil davor war eben f\u00c3\u00bcr uns alle bisschen stressig und so :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Hirschle",
+      "timestamp_ms": 1358972395413,
+      "content": "kein problem ;)\nist echt doof dass wir nichts schaffen...aber naja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358956917140,
+      "content": "Macht nichts war meine Schuld viel zu spontan :/ macht aber nichts",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Hirschle",
+      "timestamp_ms": 1358954072159,
+      "content": "ohje sorry ich hab es erst gerade gelesen ;) bin nicht so oft hier!\ntut mir leid, dass ich jetzt garnicht da war.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1358884446842,
+      "content": "Heei :) ich wollte dir sagen das wir uns morgen nach der 6. Stunde vor der Mensa treffen und reden mal \u00c3\u00bcber unsere Aktionen das kommt nicht voran.. :/ wenn du magst kannst auch kommen also wenn Du Zeit hast? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Julia Hirschle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juliahirschle_1b-g86wc8a",
+  "magic_words": [
+    
+  ]
+}

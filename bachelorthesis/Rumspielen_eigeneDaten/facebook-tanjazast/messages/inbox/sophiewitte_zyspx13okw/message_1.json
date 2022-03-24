@@ -1,0 +1,194 @@
+{
+  "participants": [
+    {
+      "name": "Sophie Witte"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1385049536920,
+      "content": "Kuchen morgen nicht vergessen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369677752499,
+      "content": "Ich finds super das du mir so hilfst :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369677645218,
+      "content": "okay perfekt, dann geb ich ihr die, dann passt des! :)\nich finds echt cool von dir das du des an unserer schule so auf die beine stellst!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369651922119,
+      "content": "Also meine Handy Nummer 015164810786 meine home Nummer 07305/934044 und meine email Adresse w\u00c3\u00a4re tanja.zast@gmx.de :) danke Sophie du bist die beste genau dann soll sie mich kontaktieren und ich schick der alles was sie haben m\u00c3\u00b6chte :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369651359435,
+      "content": "Kannst du mir vlt einfach deine Handynummer und deine Mail Adresse geben? Dann geb ich dir franzi und die kann dich direkt kontaktieren um die paar Fragen noch zu kl\u00c3\u00a4ren",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369585576744,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369585570692,
+      "content": "Schreib einfach an die jugendreferat Adresse, (die hast du ja glaub ich?) das geht an die franzi bzw jemand anderes vom Team",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369585485936,
+      "content": "Hast du ihre email Adresse? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369584777728,
+      "content": "Hm ok.. Aber dann schreib des halt so der franzi minnich, damit sie wei\u00c3\u009f warum das so lange dauert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369581680286,
+      "content": "Oh ja Frau Ruder Engels hat das sicher bekommen aber die ist glaub noch im Urlaub :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369580942525,
+      "content": "Das m\u00c3\u00bcsstest du per Mail oder per Post bekommen haben :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369509702475,
+      "content": "Bis wann und gibt es da ein Formular das ich ausf\u00c3\u00bcllen muss? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369506669191,
+      "content": "die listen wer notfallbeauftragter/ listenbeauftragter/ etc ist und so, das jugendreferat (postgasse 2, neben der stadtbibliothek) braucht die wirklich! sorry das ich mich jetzt noch meld, ich war eine woche weg und hatte kein internet ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369127733965,
+      "content": "Du musst mir aber echt noch sagen was ich genau machen soll und wo hin ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369069408983,
+      "content": "Und wo hin? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1369069400301,
+      "content": "H\u00c3\u00a4 welche Liste genau :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1369069280345,
+      "content": "Hey:* ich soll dir von der Franzi minnich sagen das du doch die ganzen listen mit den beauftragten so schnell wie m\u00c3\u00b6glich ins JuRe schicken sollst! danke schonmal und dir noch sch\u00c3\u00b6ne Ferien!:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368539250677,
+      "content": "Danke:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368539244420,
+      "content": "Ja ich ruf ihn einfach an und pass auf wie er sich meldet oder so :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1368539094773,
+      "content": "hey:* also, ich hab den name nicht gekriegt, franzi war nicht da, aber du kannst  ja auch so mit dem typ reden;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1366228713906,
+      "content": "Dann passt ja alles:) find ich voll gut das ihr mitmacht!:) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366228665180,
+      "content": "Wir machen ja eh ein eingenes also keins von euch :* ;) danke dir!! Voll lieb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sophie Witte",
+      "timestamp_ms": 1366228566752,
+      "content": "Hey :D offiziell gibt es keinen, aber wir sind gerade schon in der hei\u00c3\u009fen Phase des Projekte verteilens, dh wenn ihr euch erst in 4 Wochen anmeldet kanns passieren das ihr \"nur\" ein 'notprojekt' bekommt, weil wir nat\u00c3\u00bcrlich die coolen Projekte gleich am Anfang vergeben ;) aber generell k\u00c3\u00b6nnt ihr euch auch erst am 12. Juni anmelden ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366218757585,
+      "content": "Ups sorry Hallo erst einmal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366218737495,
+      "content": "Gibt es eigentlich einen Anmeldeschluss bei der 72 Stunden Aktion? ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sophie Witte",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sophiewitte_zyspx13okw",
+  "magic_words": [
+    
+  ]
+}

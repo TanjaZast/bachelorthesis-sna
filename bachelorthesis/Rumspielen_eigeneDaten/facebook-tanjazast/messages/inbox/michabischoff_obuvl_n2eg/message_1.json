@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Micha Bischoff"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Micha Bischoff",
+      "timestamp_ms": 1548869150781,
+      "content": "Micha winkt dir zu!",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Micha Bischoff",
+      "timestamp_ms": 1539548649762,
+      "content": "Huhu...\nHallo h\u00c3\u00bcbsche ...\nLass dir mal ganz liebe Gr\u00c3\u00bc\u00c3\u009fe da \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Micha Bischoff",
+      "timestamp_ms": 1426639289358,
+      "content": "Hey \u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Micha Bischoff",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/michabischoff_obuvl_n2eg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Dragan Maric"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dragan Maric",
+      "timestamp_ms": 1374440311814,
+      "content": "haj",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dragan Maric",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/draganmaric_thmi5x7voa",
+  "magic_words": [
+    
+  ]
+}

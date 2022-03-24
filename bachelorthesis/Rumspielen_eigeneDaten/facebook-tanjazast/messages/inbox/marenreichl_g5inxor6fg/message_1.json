@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Maren Reichl"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maren Reichl",
+      "timestamp_ms": 1452050632280,
+      "content": "Ok komm gut heim \u00f3\u00be\u008c\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maren Reichl",
+      "timestamp_ms": 1452050623426,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1452050411064,
+      "content": "Hey Hey \u00f3\u00be\u008c\u00b5 ich muss dringend was essen \u00f3\u00be\u008d\u0095 ihr m\u00c3\u00bcsst mich nicht mitnehmen aber vielen Dank \u00f3\u00be\u0094\u0097\u00f3\u00be\u00ac\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Maren Reichl",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marenreichl_g5inxor6fg",
+  "magic_words": [
+    
+  ]
+}

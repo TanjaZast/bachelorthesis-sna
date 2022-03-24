@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296456000000,
+      "content": "Marie Schokobon warum??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1296421207000,
+      "content": "Hallo Tanja\nich br\u00c3\u00a4uchte mal deine Hilfe. Kennst du eine Resa aus G\u00c3\u00b6gglingen?\nWenn ja kannst du mir ihren facebook namen geben?\nDanke :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_t1iaz16gtw",
+  "magic_words": [
+    
+  ]
+}

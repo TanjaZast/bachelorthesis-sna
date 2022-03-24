@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Andreas Tzikas"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363387354052,
+      "content": "Auch und eben tv schauen ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Tzikas",
+      "timestamp_ms": 1363387211111,
+      "content": "Lieg im bett du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363386756008,
+      "content": "Was machst? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Tzikas",
+      "timestamp_ms": 1363386665621,
+      "content": "Jo bei mir auch :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363386622720,
+      "content": "Hmmm ja eigentlich schon bei dir? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Tzikas",
+      "timestamp_ms": 1363386586911,
+      "content": "Na alles klar?;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1363386545217,
+      "content": "Heei du! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andreas Tzikas",
+      "timestamp_ms": 1363386486235,
+      "content": "Heeey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Andreas Tzikas",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/andreastzikas_onhw2-sztg",
+  "magic_words": [
+    
+  ]
+}

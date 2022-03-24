@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Morfo Christina"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1485517346982,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Morfo Christina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/morfochristina_gi92xnqicw",
+  "magic_words": [
+    
+  ]
+}

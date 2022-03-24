@@ -1,0 +1,403 @@
+{
+  "participants": [
+    {
+      "name": "Dagmar Alber"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550762492585,
+      "content": "Dagmar hat dich angerufen.",
+      "call_duration": 49,
+      "type": "Call",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761731251,
+      "content": "Sabrina l\u00c3\u00a4uft und wartet noch auf mich. \u00f0\u009f\u0098\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761319994,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550761312934,
+      "content": "Hole die St\u00c3\u00b6cke ab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761312686,
+      "content": "O.k. 10min \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550761299407,
+      "content": "Bin am Sport Scheck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550761295167,
+      "content": "Und mich umziehen? \u00f0\u009f\u0098\u0082\u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761290856,
+      "content": "Wie lange brauchst du?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761281501,
+      "content": "Klar!!!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550761232897,
+      "content": "Oksy\u00f0\u009f\u0098\u0082 darf ich vielleicht meine Tasche bei euch lassen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761090216,
+      "content": "\u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550761085961,
+      "content": "Kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550761042517,
+      "content": "Okay komisch.... \u00f0\u009f\u0098\u0085 was soll ich denn jetzt machen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550760992044,
+      "content": "Sie hat heute fr\u00c3\u00bch nichts gesagt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550760970947,
+      "content": "Ist Sabrina nicht krank?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550760957454,
+      "content": "Na klar. Wir laufen zu 3. Oder etwa nicht?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550760926852,
+      "content": "Oder ist das doof? :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550760914489,
+      "content": "Laufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550760912591,
+      "content": "Sollen wir beide Lisen gehen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550760318683,
+      "content": "Klar!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550760205110,
+      "content": "Stehen die Pl\u00c3\u00a4ne noch? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550682160253,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 O.k. wir kennen uns nicht \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082. Bring morgen dann gleich das Geld mit.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550682090689,
+      "content": "1. GA1 ist wichtig und vermutlich wegen Dir als Person. Kennen uns zwar nicht aber bist vermutlich sehr nett und da l\u00c3\u00a4uft man direkt gerne mit \u00f0\u009f\u0099\u0082! Wir m\u00c3\u00bcssen morgen nur so tun als h\u00c3\u00a4tten wir noch nie Kontakt gehabt \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550681938221,
+      "content": "Ja! 2. Stock.Da findest mich. Top! Hoffe jetzt nur noch, dass Du auch gem\u00c3\u00bctlich Laufen kannst \u00f0\u009f\u0098\u008e. Ich bin n\u00c3\u00a4mlich eine \u00f0\u009f\u0090\u008c. Frag mich ehrlich gesagt immer, warum Sabrina so gerne mit mir l\u00c3\u00a4uft \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550681514190,
+      "content": "Wir vergessen Sie nicht! \u00e2\u0098\u009d\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0098\u0085 dann versuche ich um 4 dort zu sein, sp\u00c3\u00a4testens 16:15 Uhr? Oh hahaha meine Geschenke sehen auch so aus \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550681438908,
+      "content": "Einpacken w\u00c3\u00a4re super sch\u00c3\u00b6n . Bin gespannt wie die dann aussehen \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082. Notfalls einfach ne rote Schleife drumherum  (ich kann Geschenke einpacken gar nicht. Meine Geschenke sehen immer furchtbar aus)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550681339643,
+      "content": "Ja super! Klar k\u00c3\u00b6nnen wir die St\u00c3\u00b6cke 'verstecken'. Komm einfach bisschen fr\u00c3\u00bcher ins Sekretariat \u00f0\u009f\u0098\u0089.  Wir d\u00c3\u00bcrfen sie dann halt blo\u00c3\u009f sp\u00c3\u00a4ter nicht vergessen \u00f0\u009f\u0099\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550680729009,
+      "content": "Huhu :) ist alles besorgt und Jana k\u00c3\u00bcmmert sich um eine Karte. Soll ich die St\u00c3\u00b6cke morgen noch einpacken? \u00f0\u009f\u00a4\u0094 und gibt es irgendwie die M\u00c3\u00b6glichkeit dass ich die St\u00c3\u00b6cke an das Sekretariat bringe und es da verstauen \u00f0\u009f\u0099\u0084",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550523611766,
+      "content": "O.k. passt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550517100793,
+      "content": "W\u00c3\u00a4ren 30\u00e2\u0082\u00ac auch okay? Weil wenn wir die Schuhe aus dem Internet bestellen und die St\u00c3\u00b6cke kaufen sind wir bei 185\u00e2\u0082\u00ac. Sarah und ich gehen jeweils 60 und Jana 30 dann fehlen uns noch 35 \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550515179175,
+      "content": "Okay, danke \u00e2\u0098\u00ba\u00ef\u00b8\u008f wer kommt eigentlich am Donnerstag alles mit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550514731412,
+      "content": "Ich h\u00c3\u00a4tte so an 25 EUR gedacht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550514306333,
+      "content": "Hier kosten die Schuhe 125\u00e2\u0082\u00ac im Laden w\u00c3\u00a4ren es 160\u00e2\u0082\u00ac. Was w\u00c3\u00a4re denn die Schneegrenze vom Budget her? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550514271933,
+      "photos": [
+        {
+          "uri": "messages/inbox/dagmaralber_x9atf6rn9q/photos/52451579_2161510837205446_6883961693559324672_n_2161510793872117.jpg",
+          "creation_timestamp": 1550514270
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550513961957,
+      "content": "Sehr gut!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550513730439,
+      "content": "St\u00c3\u00b6cke 60\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550513723676,
+      "photos": [
+        {
+          "uri": "messages/inbox/dagmaralber_x9atf6rn9q/photos/52269974_756082818088778_2012936053626765312_n_756082708088789.jpg",
+          "creation_timestamp": 1550513722
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550509458552,
+      "content": "Super! Was gibt es denn in Winterbach?  Gibt es da auch einen Sportladen?  \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550509352765,
+      "content": "Sie meinte Sport Scheck. Da gehe ich direkt mal nach dem fitness hin. Ein anderer Triathlet hat mir etwas in Winterbach. Da w\u00c3\u00bcrde ich im Notfall morgen vorbeischauen. :) schicke dann sp\u00c3\u00a4ter direkt Bilder und Preise",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550509218895,
+      "content": "Ja super! Was schl\u00c3\u00a4gt denn Sarah vor? Wintersportsachen kenne ich mich leider gar nicht aus ....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550504947243,
+      "content": "Ja also Donnerstag komme ich vermutlich mit euch mit zum laufen und anschlie\u00c3\u009fend essen bzw was trinken aber wei\u00c3\u009f noch nicht wo \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550504914759,
+      "content": "Also Sarah, Jana und ich. Also sind wir 4 insgesamt. Mit der Schuhgr\u00c3\u00b6\u00c3\u009fe bin ich mir sicher nur mit den L\u00c3\u00a4den kenne ich mich hier nicht aus \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550503299575,
+      "content": "Wieviele Leute w\u00c3\u00bcrden bei dem Geschenk denn mitmachen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550503285320,
+      "content": "Gute Frage... Ich bin ja jetzt nicht sooooo eng mit Sabrina befreundet. Mit den Langlaufsachen muss ich passen. Evtl Sportscheck? Kommst Du am Donnerstag auch ins Joe Pennas?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550475649488,
+      "content": "Was w\u00c3\u00a4re denn das Budget? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550475642148,
+      "content": "Wo kann man so etwas \u00c3\u00bcberhaupt in Stuttgart kaufen? \u00f0\u009f\u00a4\u0094 ja! Ich wei\u00c3\u009f zwar dass ihr die von Fischer super passen in 41 aber man kann ja nie wissen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550468653609,
+      "content": "Das ist auch ne gute Idee. Die Schuhe sollte sie aber auf alle F\u00c3\u00a4lle umtauschen k\u00c3\u00b6nnen\u00f0\u009f\u0098\u0089.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550465654527,
+      "content": "Oh ja, auf die Idee bin ich noch nicht gekommen. Ich war gerade gedanklich beim Langlauf. Dachte vielleicht dass wir ihr die Schuhe kaufen oder St\u00c3\u00b6cke \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550440424411,
+      "content": "Ihr k\u00c3\u00b6nnt euch jetzt anrufen und Informationen wie den Aktiv-Status des anderen sehen, oder ob der andere Nachrichten gelesen hat.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dagmar Alber",
+      "timestamp_ms": 1550440423222,
+      "content": "Hallo! Na klar. Vielleicht eine Swim Boje? Sowas hat sie bestimmt noch nicht. Viele Gr\u00c3\u00bc\u00c3\u009fe",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550439955705,
+      "content": "Hallo Dagmar, arbeitest du mit Sabrina zusammen? Bzw am K\u00c3\u00b6nigin Katharina Stift Gymnasium? \nWollte dich irgendwie finden weil ich mich mit einer anderen Freundin von ihr zusammentun wollte f\u00c3\u00bcr ein Geburtstagsgeschenk und wollte fragen ob du dich auch beteiligen magst und was so deine Ideen w\u00c3\u00a4ren? \u00e2\u0098\u00ba\u00ef\u00b8\u008f \nSch\u00c3\u00b6nen Abend noch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550439873106,
+      "content": "Du hast Dagmar zugewunken!",
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1550439872058,
+      "content": "Du hast Dagmar zugewunken!",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dagmar Alber",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dagmaralber_x9atf6rn9q",
+  "magic_words": [
+    
+  ]
+}

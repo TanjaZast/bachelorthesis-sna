@@ -1,0 +1,352 @@
+{
+  "participants": [
+    {
+      "name": "Tim Stockenhofen"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Denial Mensur"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Kronm\u00c3\u00bcller Rene Sascha"
+    },
+    {
+      "name": "Ulf Kubik"
+    },
+    {
+      "name": "Adeliina Imeraj"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Eljona Gjoka"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "\u00d0\u009c\u00d0\u00b0\u00d1\u0080\u00d1\u0081\u00d0\u00b5\u00d0\u00bb\u00d1\u008c \u00d0\u00a1\u00d0\u00b5\u00d1\u0080\u00d0\u00b3\u00d0\u00b0\u00d0\u00b7\u00d0\u00b8\u00d0\u00bd"
+    },
+    {
+      "name": "Daniel Udsilauri"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Marco M\u00c3\u00bcller"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tobias Denzel",
+      "timestamp_ms": 1445072534944,
+      "content": "Tobias Denzel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tobias Denzel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rasim G\u00c3\u00bcm\u00c3\u00bcs",
+      "timestamp_ms": 1409692685717,
+      "content": "Rasim G\u00c3\u00bcm\u00c3\u00bcs hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rasim G\u00c3\u00bcm\u00c3\u00bcs"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Friedrich",
+      "timestamp_ms": 1409384646367,
+      "content": "Tom Friedrich hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tom Friedrich"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1409384623088,
+      "content": "Haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1409342383203,
+      "content": "Ehhhh leuteeee gibt es hier vielleicht thema oder nur so, jeder schreibt das was man will \u00f3\u00be\u00b0\u0095\u00f3\u00be\u008c\u00b8\u00f3\u00be\u008c\u00b8\u00f3\u00be\u008c\u00b8\u00f3\u00be\u008d\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "An Dre",
+      "timestamp_ms": 1409055777170,
+      "content": "An Dre hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "An Dre"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1408126860114,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Vanessa Mack",
+      "timestamp_ms": 1408044063030,
+      "content": "Vanessa Mack hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Vanessa Mack"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1408033163786,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Max Richter",
+      "timestamp_ms": 1407917381242,
+      "content": "Max Richter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Diogo GS",
+      "timestamp_ms": 1407854705772,
+      "content": "Diogo GS hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Diogo GS"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407845707548,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407844624321,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407844610016,
+      "content": "Was ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nessa Schupan",
+      "timestamp_ms": 1407839358756,
+      "content": "Nessa Schupan hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nessa Schupan"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838883931,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838787632,
+      "content": "Was soll  der schei\u00c3\u009f an all die leute hier \n(Ich hab die gruppe nicht erstellt)\nSieht vllt so aus aber das ist ein virus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838719250,
+      "content": "Sry",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838718270,
+      "content": "Virus\u00f3\u00be\u008c\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pia Schallner",
+      "timestamp_ms": 1407838712073,
+      "content": "Pia Schallner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Pia Schallner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pia Schallner",
+      "timestamp_ms": 1407838696082,
+      "content": "Leude, was Isn des hier f\u00c3\u00bcr'n shit?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Batu Bomaye",
+      "timestamp_ms": 1407838568645,
+      "content": "Batu Bomaye hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Batu Bomaye"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Batu Bomaye",
+      "timestamp_ms": 1407838556230,
+      "content": "Omg",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838556130,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838548369,
+      "content": "Wurde bestimmt gehackt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dustin Kat",
+      "timestamp_ms": 1407838539173,
+      "content": "Dustin Kat hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Dustin Kat"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Batu Bomaye",
+      "timestamp_ms": 1407838538035,
+      "content": "Tom klick lieber nicht drauf dann werdet ihr nicht gehackt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838526647,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Batu Bomaye",
+      "timestamp_ms": 1407838509472,
+      "content": "Alter verpisst euch hobbylose kinder alter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tom Friedrich",
+      "timestamp_ms": 1407838504602,
+      "content": "Was das",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1407838412889,
+      "content": "Wow, erinnerst du dich? \r\n http://t.co/h45RGnyavF",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tim, Facebook-Nutzer, Facebook-Nutzer und 13 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/timfacebooknutzerfacebooknutzerund13weiterepersonen_t8kcnsqxzw",
+  "magic_words": [
+    
+  ]
+}

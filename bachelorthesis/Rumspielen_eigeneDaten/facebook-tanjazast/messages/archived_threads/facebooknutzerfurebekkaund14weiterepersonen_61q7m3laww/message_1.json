@@ -1,0 +1,223 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Fu Dance"
+    },
+    {
+      "name": "Rebekka Gisin"
+    },
+    {
+      "name": "Duygu Sahin"
+    },
+    {
+      "name": "Elena Mignemi"
+    },
+    {
+      "name": "Sara Mannke"
+    },
+    {
+      "name": "Roob In"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Leo Baman"
+    },
+    {
+      "name": "Lea K\u00c3\u00b6nig"
+    },
+    {
+      "name": "Maga Bek"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Annemarie Muca"
+    },
+    {
+      "name": "Hannah Believeinfashion"
+    },
+    {
+      "name": "Hai Mi Nguyen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1399071640647,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Peter Lawrence",
+      "timestamp_ms": 1399069727373,
+      "content": "Peter Lawrence hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Peter Lawrence"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicole Sann",
+      "timestamp_ms": 1399058903665,
+      "content": "Nicole Sann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Nicole Sann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Angela Christel Heidel",
+      "timestamp_ms": 1399058022342,
+      "content": "Angela Christel Heidel hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Angela Christel Heidel"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399057653536,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidia Muhur",
+      "timestamp_ms": 1399057425409,
+      "content": "Lidia Muhur hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Lehmann",
+      "timestamp_ms": 1399056046154,
+      "content": "Rebekka Lehmann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Rebekka Lehmann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jasmin Preljevic",
+      "timestamp_ms": 1399055878827,
+      "content": "Jasmin Preljevic hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jasmin Preljevic"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Evelyn Branickaja",
+      "timestamp_ms": 1399055676279,
+      "content": "Evelyn Branickaja hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Evelyn Branickaja"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lilli Kuhn",
+      "timestamp_ms": 1399054675490,
+      "content": "Lilli Kuhn hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lilli Kuhn"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Robin Schulz",
+      "timestamp_ms": 1399054085716,
+      "content": "Robin Schulz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Robin Schulz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Aleyna",
+      "timestamp_ms": 1399053388417,
+      "content": "Aleyna hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Aleyna"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Pirmin Meister",
+      "timestamp_ms": 1399053252789,
+      "content": "Pirmin Meister hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Pirmin Meister"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Lehmann",
+      "timestamp_ms": 1399052422704,
+      "content": "Koennen Sie ein neues, kostenloses iPad gebrauchen ... http://t.co/E8w3EfBHej",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Fu, Rebekka und 14 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "archived_threads/facebooknutzerfurebekkaund14weiterepersonen_61q7m3laww",
+  "magic_words": [
+    
+  ]
+}

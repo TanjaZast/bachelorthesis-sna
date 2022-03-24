@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0096zg\u00c3\u00bcr K\u00c3\u00bcrekci"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u0096zg\u00c3\u00bcr K\u00c3\u00bcrekci",
+      "timestamp_ms": 1424631682642,
+      "content": "Wie gehts ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1424629179734,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00c3\u0096zg\u00c3\u00bcr K\u00c3\u00bcrekci",
+      "timestamp_ms": 1424614620472,
+      "content": "Hey \u00f3\u00be\u008c\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00c3\u0096zg\u00c3\u00bcr K\u00c3\u00bcrekci",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ozgurkurekci_pybkp8ycng",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Kilian Limmer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kilian Limmer",
+      "timestamp_ms": 1560585003630,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Kilian Limmer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kilianlimmer_-gozagvytg",
+  "magic_words": [
+    
+  ]
+}

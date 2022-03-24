@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Emilia Sch\u00c3\u00bctz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404728646531,
+      "content": "Sp\u00c3\u00a4ter gleich wei\u00c3\u009f die nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1404721127675,
+      "content": "hey, willst du mir auch noch deine Kontodaten geben, dann \u00c3\u00bcberweis ich dir das Geld heute ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398417423652,
+      "content": "Okay sorry wusste ich nicht :/ ich sag lisa gleich Bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1398417238563,
+      "content": "das hat mir Lisa nicht geschickt, das m\u00c3\u00bcsstest du mir schicken",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398414737695,
+      "content": "Ups Mist meinte das hier",
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1398414675603,
+      "content": "Hey du ehm ich hab keine Fehler bei mir gefunden nur eine Kleinigkeit. Lisa hat mir meine Bilder geschickt und gefragt welches ich gerne h\u00c3\u00a4tte und ich finde das jetzige nicht so sch\u00c3\u00b6n k\u00c3\u00b6nntest du vielleicht lieber das hier rein tu? :* w\u00c3\u00a4re echt nett",
+      "photos": [
+        {
+          "uri": "messages/inbox/emiliaschutz_ycuxm2qmyg/photos/10270109_763602290347290_33189504_n_763602290347290.jpg",
+          "creation_timestamp": 1398414675
+        }
+      ],
+      "type": "Generic",
+      "ip": "37.49.64.182",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Emilia Sch\u00c3\u00bctz",
+      "timestamp_ms": 1360344206652,
+      "content": "Ja ich schreib dir in whatsapp sobald ich zu hause bin hock nur grade noch om ski bus :-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1360315385735,
+      "content": "Kannst du mir mal bitte ne sms schreiben oder so? :) :* wegen Lotus ich hab da ein paar fragen",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Emilia Sch\u00c3\u00bctz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/emiliaschutz_ycuxm2qmyg",
+  "magic_words": [
+    
+  ]
+}

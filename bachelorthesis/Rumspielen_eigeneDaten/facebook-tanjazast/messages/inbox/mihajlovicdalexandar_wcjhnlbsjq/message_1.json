@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Mihajlovic D Alexandar"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1397652680558,
+      "content": "Hey ich bin die Cousine von kaca. Wie sieht es jetzt aus wegen Samstag? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Mihajlovic D Alexandar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mihajlovicdalexandar_wcjhnlbsjq",
+  "magic_words": [
+    
+  ]
+}

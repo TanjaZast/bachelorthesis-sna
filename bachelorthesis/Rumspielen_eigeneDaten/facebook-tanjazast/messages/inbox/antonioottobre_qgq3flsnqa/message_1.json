@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Antonio Ottobre"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1472948908559,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonio Ottobre",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antonioottobre_qgq3flsnqa",
+  "magic_words": [
+    
+  ]
+}

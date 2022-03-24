@@ -1,0 +1,334 @@
+{
+  "participants": [
+    {
+      "name": "Michael Rieger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1319233122166,
+      "content": "Michiii ;D lebst du noch?? :P laaaaange nichts mehr geh\u00c3\u00b6rt!! Und aldi hast auch nemme oder wie??? :* gru\u00c3\u009f tanjalein ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309890615733,
+      "content": "noten??? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309890510938,
+      "content": "ganz gut ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309890096571,
+      "content": ":D gut undwie warn die pr\u00c3\u00bcfungen??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309890078327,
+      "content": "ganz gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309890049477,
+      "content": ";D jap als wie gehts??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309889958471,
+      "content": "aso :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309889915303,
+      "content": "achsooo oh man alles supii :D :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309889877550,
+      "content": "ja :D und weil du nichts geshrieben hast :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309889792417,
+      "content": "achso wegen den smiles oder wie?? :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309889752946,
+      "content": "ja weil du immer lachst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309889435155,
+      "content": "was soll sein?? :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309889417928,
+      "content": "was los? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309889283880,
+      "content": ":D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309889237019,
+      "content": "hey ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309889052392,
+      "content": ":D huhu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309111216976,
+      "content": "Okay egal hat sich erledigt :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1309110617946,
+      "content": "ja mach ich gard wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1309107194163,
+      "content": "hast du schon mal ne powerpoint gemacht??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307908950950,
+      "content": "Ja uebelst ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307904831129,
+      "content": "stimmt auch wieder :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307904437685,
+      "content": "Ja son bisschen da ich halt jetzt auch in urlaub fahr und ein kater echt schlecht ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307903626944,
+      "content": "und gut gefeiert? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307903544074,
+      "content": "Ja okay dankee ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307903131167,
+      "content": "egal :D is noch frisch :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307903084392,
+      "content": "Nee gestern ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307902315342,
+      "content": "das du heute b-day hast alles gute :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307901967817,
+      "content": "Was denn ueberhaupf?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307900635391,
+      "content": "ja hab sry :( aber ich war gestern auf nem anderen geburrtstag :D da vergisst man sowas schonmal :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307900068363,
+      "content": "Jaja hast meine sms bekommen?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307613983333,
+      "content": "ja bestimmt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307613293500,
+      "content": "dir au vllt h\u00c3\u00b6rt man sich??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307613275805,
+      "content": "jo viel spa\u00c3\u009f ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307613257890,
+      "content": "okay tsch\u00c3\u00bcss!! :D ich geh ganz raus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307613199906,
+      "content": "so bin mal weg also noch da aber nehme am pc :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307613062916,
+      "content": "tjaaa :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307613017668,
+      "content": "nein ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307612982431,
+      "content": ":D du l\u00c3\u00bcgst!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307612879324,
+      "content": "ja ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307612812159,
+      "content": "achsoo echt??:P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307612765895,
+      "content": ":D bin doch immer on ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307612757591,
+      "content": "weil du kein Lebenszeichen gibst :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Michael Rieger",
+      "timestamp_ms": 1307612707255,
+      "content": "ja wieso net? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307612684316,
+      "content": "ja michiii :O lebst du noch??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296911354000,
+      "content": "Michiii :) hast du immer noch kein geld aufm handy.?? Ich hab dich angerufen :( ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Michael Rieger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/michaelrieger__gfyetlidg",
+  "magic_words": [
+    
+  ]
+}

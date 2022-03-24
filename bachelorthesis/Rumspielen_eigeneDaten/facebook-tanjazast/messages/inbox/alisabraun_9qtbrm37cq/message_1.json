@@ -1,0 +1,383 @@
+{
+  "participants": [
+    {
+      "name": "Alisa Braun"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336072680848,
+      "content": "Hihi :) okay gut <33 bitte ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1336071347065,
+      "content": "Das ist gut, danke nochmal, du bist echt.meine rettung <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336071012245,
+      "content": "Haha :) okay geht klar <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1336068919370,
+      "content": "Ja haha tu das mal :* <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1336068866677,
+      "content": "Okay :) ja ich sag mal meiner familie auch mal bescheid :P :*ja alles klar ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1336068230254,
+      "content": "Hey tanja, larry bringt mich zu der bushalte da bei deinem haus, ich warte dann da auf dich :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335992434147,
+      "content": "Okay :) gute nacht :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335991648226,
+      "content": "Ja ge :D gute nacht <333",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335991602910,
+      "content": "Glauben ist immer gut :P :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335991083493,
+      "content": "Ja glaub ich auch.  :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335991022581,
+      "content": "Okay :) aber ich glaube das hattet ihr schon ewig :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335990297059,
+      "content": "Nein das nicht mehr :) was auch immer das ist. :D <33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335990110579,
+      "content": "Okay :) dann ist ja gut aber sinus cosinusfunktionen nicht mehr?? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335989667082,
+      "content": "<333",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335989662885,
+      "content": "Jaaa genau . :DD genau der schei\u00c3\u009f. Gottseidank hab ich dich he. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335989526726,
+      "content": "Achso :) okay du meinst so waagerechte (geht gegen die und die zahl) und senkrechte asymptoten (definitionsl\u00c3\u00bccke) und dann f ableiten f' dann maximaler minimaler punkt monoton fallend steigend :) ja das ist okay :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335988992455,
+      "content": "Ja mach ich! :*\nAlso nullstellen, extremwerte, asymptoten, und ob so n punkt auf dem graphen f liegt. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335988832176,
+      "content": ":) okay dann bring aufgaben mit und wir k\u00c3\u00b6nnen auch alle aus meinem ordner machen die sind eig voll gut besser als im buch :P was musst noch mal alles wissen?? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335988675703,
+      "content": "WIE GEHT DAS! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335988667677,
+      "content": "Ich hab nur eine ei\nnzigste frage. ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335988635182,
+      "content": "Okay gut :) macht das dann aber schaus dir schon mal an (also mathe) dann kannst auch fragen stellen :P <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335988387542,
+      "content": "Machen wir :) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335988319087,
+      "content": "Okay :) dann chillt und fahrt langsam ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335987726199,
+      "content": "Nein, ganz normal, aber wir fahren ja schnell fahrrad. :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335987562354,
+      "content": "Okay :) das ist ne gute idee.. Habt ihr iwie fr\u00c3\u00bcher aus??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335985953077,
+      "content": "Verdammt :D hey dann chill ich ne stunde bei franzi und versuch dann den weg zu vellie da zu finden. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335985904059,
+      "content": "Ich bin aber erst um halb 2 da :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335981165371,
+      "content": "Okay ich denk ich bin dann so um kurz nach eins da oder so... :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335980663234,
+      "content": "Ja oder so :D haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335980574041,
+      "content": "Yaay! :D ey dann kann ich bei franzi fahrrad mitfahren :) kein bock auf busfahrn :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335980358578,
+      "content": "Also :) du musst da aussteigen wo vellie wohnt.. :) falls du weisst wo?? Du faehrst mim 22 :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335979964446,
+      "content": "Ja sag mal wo du wohnst und wie ich da hinkomm :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335979780128,
+      "content": ":) ehm ich w\u00c3\u00bcrde sagen dass du zu mir kommst :) weil ich hab dann training und so... Oder mir ist es eig voll egal \r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335979559688,
+      "content": "Eeeeben :).  Also wo lernen wir am freitag? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335979425159,
+      "content": "Haha :) naja und M\u00c3\u00a4dchen erkl\u00c3\u00a4ren M\u00c3\u00a4dchen alles immer bissle anders :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335979307430,
+      "content": "Ja! :D kai erz\u00c3\u00a4hlt mir eh nur seine sorgen und probleme :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335979279932,
+      "content": "Lernst lieber mit mir als mit kai :D haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335978352707,
+      "content": "Woah ich bin dir sooo dankbar daf\u00c3\u00bbr! *-*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335978210302,
+      "content": "Ja okay aber das schaffen wir schon :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335977770950,
+      "content": "Ja schooon :D ne zwei in mathe halloooo ich versuch ne vier zu bekommen! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335977554915,
+      "content": "Naja :) geht so :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335974092576,
+      "content": "Oha :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335971187814,
+      "content": "Ehm echt?? :O ich auf ner 2,1 :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335969173988,
+      "content": "Doch in mathe schon, steh auf 5+ :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335967958381,
+      "content": "Echt jetzt?? :) als ob!!?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335966013070,
+      "content": "du also dann erstmal freitag? aber nicht dass du geschockt bist, ich bin wirklich krankhaft schlecht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335965992840,
+      "content": "ja das ist egal, ich kann auch ab 5 :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335965960042,
+      "content": "Okay :) gut .. Ja dienstag bei mir erst ab 5 :O :** ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335962552400,
+      "content": "hey richtig cool! freitag von 1-4 w\u00c3\u00a4re perfekt! und sonntag auch.. samstag geht bei mir auch nciht wegen fruen dund dienstag geht ab 15.15 :)) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335961196061,
+      "content": "Also am freitag hab ich von 1 bis 4 zeit am samstag eher nicht und sonntag dann schon so von 2 bis nachts oder so :D dienstag aber auch :**",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alisa Braun",
+      "timestamp_ms": 1335959294408,
+      "content": "Oh cool! Du du hast nicht zuf\u00c3\u00a4llig dann freitag nachmittag zeit? Oder samstag oder sonntag oder dienstag? :***",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1335957276596,
+      "content": "Duu :) das f\u00c3\u00bcr mathe kann ich auch ich hab da vor ein paar wochen ne arbeit geschrieben und am montag noch mal eine :) :** und habs auch schon vielen geschafft beizubringen ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Alisa Braun",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alisabraun_9qtbrm37cq",
+  "magic_words": [
+    
+  ]
+}

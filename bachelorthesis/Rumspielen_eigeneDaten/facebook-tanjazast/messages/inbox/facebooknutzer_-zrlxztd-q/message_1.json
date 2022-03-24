@@ -1,0 +1,236 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405606910944,
+      "content": "Okay",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1405592673269,
+      "content": "Tanja ich hab doch gar nichts bestellt^^ da muss jemand was verwechselt haben. Frau schlosser nimmt das, hat sie am Telefon gesagt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1405592609427,
+      "content": "Holst du dein Zeug heute ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1402996749425,
+      "content": "Allright :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1402996095640,
+      "content": "Du s\u00c3\u00bc\u00c3\u009fe ich bin doch nicht im Urlaub aber ich habe heute eine Anprobe wegen meinem abiballkleid. Kann also leider nicht zu dem treffen kommen. Aber es w\u00c3\u00a4re sch\u00c3\u00b6n wenn du mich informieren k\u00c3\u00b6nntest um was es geht (also Thema) dann suche ich ein paar Bibelstellen f\u00c3\u00bcr die F\u00c3\u00bcrbitten raus oder so was :* danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401464059808,
+      "content": "Kein thema :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401464045939,
+      "content": "Danke",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401464041592,
+      "content": "Achso ja das passt schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401452719639,
+      "content": "Und jetzt keiner mehr da war, der die Trrmine koordiniert",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401452683238,
+      "content": "Weil die am Montag nur Vormittags zu erreichen sind :S",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401452662570,
+      "content": "Ja st. Elisabeth",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401452651338,
+      "content": "Warum am Dienstag? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401452502481,
+      "content": "Ich hab da gerade angerufen. Also ich soll am Dienstag nochmal anrufen zwecks des Tages ob der noch frei ist. St. Elisabeth ist doch richtig? Icg war etwas verwirrt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401329407801,
+      "content": "Okay kann ich mir vorstellen :* dann gute Nacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401316395229,
+      "content": "Wir sind gerade nach Hause gegangen :) War ein langer Tag ^^ Ich geh jetzt mal schlafen :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401316343532,
+      "content": "S\u00c3\u00bc\u00c3\u009f :) seid ihr da",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401316207063,
+      "content": "Vanja hatte gerade seine Abschlussfeier :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401316161276,
+      "content": "Hahaha Danke dir auch :* was geht? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401316143676,
+      "content": "Ich bin schon bl\u00c3\u00b6d xD dir nen sch\u00c3\u00b6nen abend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401316106332,
+      "content": "Okay hahaa passt schon ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401316085692,
+      "content": "Haha habe jetzt erst aufs Datum geschaut xD ich ruf da am Freitag an :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401301782705,
+      "content": "Ah okay also dann soll ich anrufen?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401300770607,
+      "content": "16.30",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401300760115,
+      "content": "Also 0731/ 37288 4 juli ab 16 uhr :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401225746514,
+      "content": "De rien :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401224104835,
+      "content": "Hey super :D danke dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401222314654,
+      "content": "Ja dann gebe ich dir morgen die Nummer ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401220453923,
+      "content": "Ah okay. Wie sollen wir das angehen? Also ich kann da schon anrufen, ich will nur nichts alleine entscheiden.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1401220381772,
+      "content": "Wir m\u00c3\u00bcssen uns nicht an die Schwestern wenden sondern anrufen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401220211871,
+      "content": "Und wenn du noch nicht da warst, gehen wir morgen fr\u00c3\u00bch?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1401216867448,
+      "content": "Hallo :) Wir wollten uns doch treffen wegen den Schwestern. Ich hab da leider am Montag nicht dran gedacht. Warst du dann noch da?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_-zrlxztd-q",
+  "magic_words": [
+    
+  ]
+}

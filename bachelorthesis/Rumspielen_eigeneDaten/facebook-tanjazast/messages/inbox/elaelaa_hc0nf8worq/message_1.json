@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Ela Elaa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086831573,
+      "content": ";) so ist es haha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086789717,
+      "content": "hehe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086779100,
+      "content": "Ja und mich f\u00c3\u00bcr dich ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086686668,
+      "content": "das freut mich seeehr ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086637928,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086630499,
+      "content": "ich versuche mein bestes daf\u00c3\u00bcr zu geben ;\u00e2\u0082\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086563443,
+      "content": "hahah ok :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086554452,
+      "content": "Das Wetter?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086527643,
+      "content": "f\u00c3\u00bcr was? :D :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086514541,
+      "content": "Kannst mir ml danken ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086473712,
+      "content": "yeees :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086403382,
+      "content": "Wenigstens ist das Wetter besser geworden ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086274769,
+      "content": "seehr nett und sch\u00c3\u00b6n und entspannend :D :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086256791,
+      "content": "Wie ist es bei dir auf Balkonien?? ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086188686,
+      "content": "oooha <3 :O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346086175329,
+      "content": "In england cool ;) und jetzt bin ich mit meiner Familie noch im Urlaub ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ela Elaa",
+      "timestamp_ms": 1346086097021,
+      "content": "haallo :) \nwir wars im Urlaub? <3 <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ela Elaa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/elaelaa_hc0nf8worq",
+  "magic_words": [
+    
+  ]
+}

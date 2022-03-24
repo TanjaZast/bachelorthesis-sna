@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Burak Arslanoski"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Burak Arslanoski",
+      "timestamp_ms": 1471387687857,
+      "content": "Wie geht's",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Burak Arslanoski",
+      "timestamp_ms": 1418995652449,
+      "content": "Sehr gut woher kommst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418995557858,
+      "content": "Gut dir :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Burak Arslanoski",
+      "timestamp_ms": 1418919670037,
+      "content": "Wie gehts",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Burak Arslanoski",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/burakarslanoski_9cb5gg_0tw",
+  "magic_words": [
+    
+  ]
+}

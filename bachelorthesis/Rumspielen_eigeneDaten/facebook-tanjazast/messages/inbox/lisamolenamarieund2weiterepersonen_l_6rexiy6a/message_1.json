@@ -1,0 +1,164 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Je"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Kirsten M\u00c3\u00bcller"
+    },
+    {
+      "name": "Ang Joe Bra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1372951629597,
+      "content": "Perfekt danke euch :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372951592724,
+      "content": "Also Tanja und ich waren heute bei Herr jucker und er hat es uns generell erlaubt, mit denen essen zu gehn, aber wir sollen uns vorher das einverst\u00c3\u00a4ndnis von unserem Projektleiter holen und fragen, ob man uns f\u00c3\u00bcr diese Zeit entbehren kann ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372865556788,
+      "content": "genau :)\nhoffentlich vergessen wirs nicht ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372865148023,
+      "content": "Okay :) wird gemacht also nach deutsch dann direkt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372864638681,
+      "content": "na klar :)\ngro\u00c3\u009fe pause vorm sekre? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372856769820,
+      "content": "Also als ich gerade mit Frau Ruder Engels telefoniert habe hat Henry gefragt ob wir mitkommen ich hab gesagt er soll mal mit bestellen kirsten gehen wir zwei dann morgen zum jucker? :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1372709221898,
+      "content": "Stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1372705105527,
+      "content": "Ich denke es w\u00c3\u00a4r besser wenn dass mit denen abgesprochen ist und nicht nur mit den projektleitern, sonst gibts wieder \u00c3\u00a4rger..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1372705063801,
+      "content": "Ich liebe Schulleiter :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ang Joe Bra",
+      "timestamp_ms": 1372702012715,
+      "content": "Die sind beide komisch und seit dem Donnerstag, an dem sich alle aufgeregt haben, weil manche hitzefrei bekommen haben und andere nicht, sind die eh nicht mehr so... gespr\u00c3\u00a4chsbereit. :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Mo Ne",
+      "timestamp_ms": 1372699949221,
+      "content": "Mit herr jucker kann man aufjedenfall mehr reden als mit der tuss ! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372699755103,
+      "content": "aber frau vogt ist nicht komisch :D ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372699728704,
+      "content": "Aber wei\u00c3\u009f nicht ob jucker da so gut ist zu fragen. Der Typ ist komisch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372699292117,
+      "content": "wir fragen einfach herrn jucker oder frau vogt, ob das ok ist und sagen dass dann am mittwoch einfach dem projektlehrer, dass das abgesprochen ist :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372694492622,
+      "content": "Au\u00c3\u009fer wir zwei gehen einfach zu Frau Vogt und fragen Sie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372694475042,
+      "content": "Oh stimmt. Dann machen wir es so (ist ziemlich umst\u00c3\u00a4ndlich) wir gehen sofort zu den drei Lehrern bei denen wir uns im Projekt eingetragen haben und sagen im Vorfeld das wir da weg m\u00c3\u00bcssen und dann ist es ja egal wo wir rein kommen",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372694295061,
+      "content": "keine ahnung, so k\u00c3\u00b6nnen wirs auch machen, aber wir sollten das halt bald abkl\u00c3\u00a4ren, weil der henri ja reservieren muss ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1372694102921,
+      "content": "Ich denke das muss jede mit ihrem Projekt Leiter ausmachen wenn wir uns dann diese Woche eintragen, dann k\u00c3\u00b6nnen wir doch gleich nachdem wir wissen in welchem Projekt wir sind jederzeit einzelnd dort hin und fragen. Wenn wir zu Frau Vogt gehen ist das voll umst\u00c3\u00a4ndlich oder was denkst du?:*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1372693316567,
+      "content": "Hey ihr <3\nalso sollen wir mal nachfragen, ob wir an dem mittwoch an den projekttagen, trotzdem mit wirtschaft essen gehen d\u00c3\u00bcrfe, also dann evtl fr\u00c3\u00bcher aus dem projekt gehen? :)\nLG",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa, Mo, Lena-Marie und 2 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisamolenamarieund2weiterepersonen_l_6rexiy6a",
+  "magic_words": [
+    
+  ]
+}

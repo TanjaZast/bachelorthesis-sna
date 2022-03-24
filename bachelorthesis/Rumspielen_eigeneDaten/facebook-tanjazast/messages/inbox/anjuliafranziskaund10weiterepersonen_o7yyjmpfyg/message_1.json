@@ -1,0 +1,126 @@
+{
+  "participants": [
+    {
+      "name": "An Ja"
+    },
+    {
+      "name": "Julia Adelmann"
+    },
+    {
+      "name": "Franziska Gnann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Betti Fly"
+    },
+    {
+      "name": "Ann-Kathrin Kohn"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Ilka Clausen"
+    },
+    {
+      "name": "Lena-Marie Ptz"
+    },
+    {
+      "name": "Sophie Witte"
+    },
+    {
+      "name": "Nadine Zeh"
+    },
+    {
+      "name": "Svenja Wesemann"
+    },
+    {
+      "name": "Eva Ohmberger"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1348769904163,
+      "content": "Du hast die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tanja Za"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Kirsten M\u00c3\u00bcller",
+      "timestamp_ms": 1348769670627,
+      "content": "Kirsten M\u00c3\u00bcller hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Kirsten M\u00c3\u00bcller"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isabel Sch\u00c3\u00b6nthaler",
+      "timestamp_ms": 1348769640232,
+      "content": "Isabel Sch\u00c3\u00b6nthaler hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Isabel Sch\u00c3\u00b6nthaler"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina R\u00c3\u00bcsing",
+      "timestamp_ms": 1348768588633,
+      "content": "Alina R\u00c3\u00bcsing hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alina R\u00c3\u00bcsing"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ann Ika",
+      "timestamp_ms": 1348768171931,
+      "content": "Ann Ika hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ann Ika"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Zimermann",
+      "timestamp_ms": 1348768079196,
+      "content": "Schei\u00c3\u009f kettenbrief",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Betti Fly",
+      "timestamp_ms": 1348765644348,
+      "content": "Hallo Liebes.Bitte poste ein Herz an deiner Pinnwand, ohne Kommentar, nur ein Herz. Sende dann diese Nachricht an alle deine Freundinnen -nurv weibliche Personen. Poste anschliessend ein Herz an die Pinnwand der Person, die dir diese Nachricht gesendet hat.Solltest du gefragt werden, weshalb du so viele Herzen an deiner Pinnwand hast, antworte nicht.Dies ist eine Aktion von Frauen f\u00c3\u00bcr alle Frauen. Es ist die Woche f\u00c3\u00bcr den Kampf gegen Brustkrebs. Es ist nur eine bescheidene Geste der Solidarit\u00c3\u00a4t.Die Herzform gibst du ein, in dem du die Zeichen < und 3 eintippstohne Leerschlag.Vielen Dank",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "An, Julia, Franziska und 10 weitere Personen",
+  "is_still_participant": false,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/anjuliafranziskaund10weiterepersonen_o7yyjmpfyg",
+  "magic_words": [
+    
+  ]
+}

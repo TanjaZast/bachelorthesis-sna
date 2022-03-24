@@ -1,0 +1,439 @@
+{
+  "participants": [
+    {
+      "name": "Jonas Kaifel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1368100287535,
+      "content": "Keine nummer mehr ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1368099631196,
+      "content": "Ha was hat das damit zu tun?  ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1368097790291,
+      "content": "Hey \nSchick mal ne nachricht in whatts app hab ein neues Handy :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1348258764747,
+      "content": "Hey :) kommst du morgen abebben zu andis b das ? ? :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315488438245,
+      "content": "Gib mir mal bidde deine 2 handy nummern musste mein handy da lassen und jetzt gab ich die nemme! Bitte!;-)\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315334135776,
+      "content": "Why ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315334045346,
+      "content": "neee :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315334032490,
+      "content": "Mach was mit der ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333985481,
+      "content": "haha :D h\u00c3\u00a4 warum meie sis??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315333894541,
+      "content": "Was machst deine SIS ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315333879452,
+      "content": "Du bist die coolste :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333639733,
+      "content": "nee :) ich bin doch nur die kleine doofe nervige und uncoole cousiene ;(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315333524202,
+      "content": "Oke :) besuch dejan ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333490701,
+      "content": "kp :D lw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315333481847,
+      "content": "Why ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333146709,
+      "content": "sp\u00c3\u00a4ter!! :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315333134501,
+      "content": "Aber erst morgen oder sp\u00c3\u00a4ter ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333009241,
+      "content": "okay sms :D\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315333001017,
+      "content": "nein!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332997646,
+      "content": "Ich geh schreib vlt nacher sms <3 Machs Gut ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332816552,
+      "content": "Aber fast :p ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332802951,
+      "content": "Doch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332797709,
+      "content": "neee :P!!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332775448,
+      "content": "Du glaubst mir immer ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332748196,
+      "content": "okay ich glaube dir!! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332738444,
+      "content": "Die sind h\u00c3\u00bcbsch :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332689694,
+      "content": "Nein ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332597907,
+      "content": "das sagst du jetzt doch nur so ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332562226,
+      "content": "Sind Sry,:D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332555422,
+      "content": "Und die Bilder vlt h\u00c3\u00bcbsch ist ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332530018,
+      "content": "Weil ich dich nicht auslach :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332481763,
+      "content": "haha voll :( wie kann man das als kompliment sehen?? .O",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332459522,
+      "content": "Ich lach als Kompliment ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332429976,
+      "content": "oha also ich darf lachen!!! du nicht :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332402971,
+      "content": "Schau deine Bilder an und lach auch :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332374813,
+      "content": "war wandern und dann war mir bssle lw und dann mussste ich bielder machen jetzt schau ich se mir an und lach mich tot :D haaha du??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332329060,
+      "content": "Was machst so?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332313283,
+      "content": "hahahaha :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332289380,
+      "content": "Gut bei mir voll ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332266386,
+      "content": "nee :D ja passt und dir??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332246745,
+      "content": "Wie gehts so ? Regnets bei euch ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1315332223016,
+      "content": "hallo :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1315332201408,
+      "content": "Hallo ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314989640684,
+      "content": "jap klar!!!\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314985466869,
+      "content": "Hast du selin auch eine geschrieben :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983869496,
+      "content": "Oke .) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314983623645,
+      "content": "achsoo ne ich meinte vor paar wochem machs einfach morgen an??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983586059,
+      "content": "Habs :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983575278,
+      "content": "Aber Hans dabei ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983569756,
+      "content": "Ich bin Grad in dankern",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314983410216,
+      "content": "naja machstr u noch dein aldi handy an??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983369690,
+      "content": "Oke chillig ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314983241557,
+      "content": "kroatien aber nur ueber nacht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983192444,
+      "content": "Oke wo bist Grad :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314983076430,
+      "content": "morgen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314983046388,
+      "content": "Seit wann bist wieder da ? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314983012980,
+      "content": "achsoo :D bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314982982921,
+      "content": "Dir karte :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1314982921485,
+      "content": "fuer was?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kaifel",
+      "timestamp_ms": 1314982901032,
+      "content": "Hey danke :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jonas Kaifel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jonaskaifel_kpwxbpktkq",
+  "magic_words": [
+    
+  ]
+}

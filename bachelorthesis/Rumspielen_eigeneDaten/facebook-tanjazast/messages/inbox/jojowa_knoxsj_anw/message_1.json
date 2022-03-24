@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Jojo Wa"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1347033881395,
+      "content": "hi ;) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jojo Wa",
+      "timestamp_ms": 1347033872778,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jojo Wa",
+      "timestamp_ms": 1346689000672,
+      "content": "danke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346688963048,
+      "content": "oha wie geil man :) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jojo Wa",
+      "timestamp_ms": 1346688806971,
+      "content": "Bitte",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346688801312,
+      "content": "okay danke dir ) :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jojo Wa",
+      "timestamp_ms": 1346688782362,
+      "content": "Johanna Wallmeier",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346688764324,
+      "content": "heei :* wie hei\u00c3\u009ft du eig mit ganzem namen?? ich will deine fotos sehen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jojo Wa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jojowa_knoxsj_anw",
+  "magic_words": [
+    
+  ]
+}

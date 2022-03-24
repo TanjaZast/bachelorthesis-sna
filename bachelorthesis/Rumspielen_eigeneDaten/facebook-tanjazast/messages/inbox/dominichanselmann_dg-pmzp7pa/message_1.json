@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Dominic Hanselmann"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387580911062,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580758630,
+      "content": "Denke ich auch! :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387580246764,
+      "content": "ja aber ich hab ja den kommentar erst vorher geschrieben und jetzt schon so viele, ich glaub des k\u00c3\u00b6nnte machbar sein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387580199038,
+      "content": "Oh :) also noch 37? :o",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387579879638,
+      "content": "danke :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387579879638,
+      "content": "brauch solange hilfe bis 78 likes hab :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579836353,
+      "content": "Ich w\u00c3\u00bcnsche dir viel Gl\u00c3\u00bcck! :) wenn du Hilfe brauchst sagst Bescheid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387579607468,
+      "content": "danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1387579599323,
+      "content": "Ja klar mach ich warte ;)..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dominic Hanselmann",
+      "timestamp_ms": 1387579567925,
+      "content": "k\u00c3\u00b6nntest du bei dem Bild vllt bitte meinen Kommentar liken? geht um ein Gewinnspiel w\u00c3\u00a4re sehr nice https://www.facebook.com/photo.php?fbid=447511625355347&set=a.321410361298808.64115.320820868024424&type=1&theater",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dominic Hanselmann",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dominichanselmann_dg-pmzp7pa",
+  "magic_words": [
+    
+  ]
+}

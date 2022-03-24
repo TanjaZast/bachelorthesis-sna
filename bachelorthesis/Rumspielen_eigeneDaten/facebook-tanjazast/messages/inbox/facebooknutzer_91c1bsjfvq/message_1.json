@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307874627592,
+      "content": "okay egal trozdem dankee :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1307874610770,
+      "content": "ne,keine ahnung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307874602608,
+      "content": ";) okay wei\u00c3\u009ft du vllt was f\u00c3\u00bcr ein programm man sich runter ladne muss f\u00c3\u00bcr eine powerpoint pr\u00c3\u00a4sentation?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1307874564101,
+      "content": "ich weiss ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307874550998,
+      "content": "ich hab dir auch auf die pini gepostet und meine sis glaub auch ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1307874518434,
+      "content": "jo,danke ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307874510035,
+      "content": "und nachtr\u00c3\u00a4glich :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1307874507459,
+      "content": "danke;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307874502185,
+      "content": "hey :D alles gutee :D noch mal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1282215500000,
+      "content": "muss dir nicht leid tun , sie hat schon lang kein bock mehr auf mich und ja hat dann freundschaft beendet .. am anfang hab ich geweint aber jetzt nicht mehr!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1282203791000,
+      "content": "oh......\n\n\ntut mir leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1282038238000,
+      "content": "streit kann mans nicht nennen. ;D\nWir sind seid meinem Geburstag nicht mehr befreundet ^^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1281900119000,
+      "content": "hasch du mit natasa streit???",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_91c1bsjfvq",
+  "magic_words": [
+    
+  ]
+}

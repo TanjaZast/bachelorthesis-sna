@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Lezan Ba"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lezan Ba",
+      "timestamp_ms": 1443127580239,
+      "content": "H\u00c3\u00bcbsches bild hast du hoch geladen:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lezan Ba",
+      "timestamp_ms": 1443127558594,
+      "content": "Hallo :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lezan Ba",
+      "timestamp_ms": 1442674172714,
+      "content": "kennst mich noch ? :p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lezan Ba",
+      "timestamp_ms": 1442674164539,
+      "content": "hey du :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lezan Ba",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lezanba_2ft19zhtaw",
+  "magic_words": [
+    
+  ]
+}

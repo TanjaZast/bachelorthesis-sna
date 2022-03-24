@@ -1,0 +1,297 @@
+{
+  "participants": [
+    {
+      "name": "Rebekka Huels"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Nina Ansch\u00c3\u00bctz"
+    },
+    {
+      "name": "Maike Liska"
+    },
+    {
+      "name": "Chiara Notaro"
+    },
+    {
+      "name": "Mara Fink"
+    },
+    {
+      "name": "Lea Span"
+    },
+    {
+      "name": "Eva Herrmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Mo Ne"
+    },
+    {
+      "name": "Julia Bartl"
+    },
+    {
+      "name": "Anika von Kuntzsch"
+    },
+    {
+      "name": "Franziskaha Hawaii"
+    },
+    {
+      "name": "Nina Brandt"
+    },
+    {
+      "name": "Charlotte Kast"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324483747523,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324447566798,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324414141567,
+      "content": "Hubldubl:(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324413940327,
+      "content": "Oi :( :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324413802212,
+      "content": "Ich hoff am donnerstag:/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324413722456,
+      "content": "Franny wann kommst du wieder? Was is los? :0",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324413005447,
+      "content": "Gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324412610796,
+      "content": "Ja nee is nich so schlimm wenns erst am do is.. kp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1324412485624,
+      "content": "Glaub schon...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lisa Baumg\u00c3\u00a4rtner",
+      "timestamp_ms": 1324412444000,
+      "content": "Lisa Baumg\u00c3\u00a4rtner hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Baumg\u00c3\u00a4rtner"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324412442480,
+      "content": "Und wenn man morgen nicht da ist?? Ham wir den am donnerstag noch mal klassenlehrer stunde?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1324412307650,
+      "content": "Ich, abber auch erst seit samstag...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1324412239978,
+      "content": "Ehm hallo?? Wer hat denn schon eins?? Die meisten gehen doch eh erst morgen kaufen oder so!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324411882459,
+      "content": ":p ach ja, leute morgen  m\u00c3\u00b6glichst schon das wichtelgeschenk mitringen!! Hat fr lamprecht anscheinend gesagt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324411517830,
+      "content": "Rebe du PENNER;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324411206186,
+      "content": "wollt ihr lea span und bettina noch bescheid geben ich glaub die haben sie nicht gelesen bis jz ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1324411174891,
+      "content": "Hahahahahahaha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324411145986,
+      "content": "Du :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Franziskaha Hawaii",
+      "timestamp_ms": 1324410786351,
+      "content": "Wer is ne lusche??:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1324410725941,
+      "content": "Ihr luschen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hanna Kramer",
+      "timestamp_ms": 1324410503241,
+      "content": "Hanna Kramer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Hanna Kramer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1324410427194,
+      "content": ":) echt so julia!! ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Bartl",
+      "timestamp_ms": 1324410158265,
+      "content": "oh nein ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Chiara Notaro",
+      "timestamp_ms": 1324410024260,
+      "content": "Die eine std haltet ihr wohl noch aus ;;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1324409525457,
+      "content": ":) wir nehmen es einfach alle mit!! Aber wir werden einfach nicht lesen wollen.. Wir k\u00c3\u00b6nnen ja mit der diskutieren und so :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324408941325,
+      "content": "bringts aber bitte echt mit sonst bin ich am hintern!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Brandt",
+      "timestamp_ms": 1324406194277,
+      "content": "echt so..kanns se vor mnir h\u00c3\u00b6rn DEFINITIV NICHT!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Rebekka Huels",
+      "timestamp_ms": 1324405750142,
+      "content": "Danke ;) (dumme schorer :/)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nina Ansch\u00c3\u00bctz",
+      "timestamp_ms": 1324405490264,
+      "content": "du s\u00c3\u00bc\u00c3\u009fe s\u00c3\u00bc\u00c3\u009fe leah!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eva Herrmann",
+      "timestamp_ms": 1324405423606,
+      "content": "okay danke :))\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1324405362303,
+      "content": "heeei(: martha und ich sollten noch von frau schorer sagen, was wir vergessen haben, dass wir morgen definitiv kein weihnachtsgedicht lesen werden, sondern kabale und liebe. also b\u00c3\u00bccher mitbringen. wenn ich jmd vergessen hab und s euch auff\u00c3\u00a4lt nimmt ihn einfach noch in die massen nachricht mit ein, falls ihr wisst dass die person sicherlich heute nicht mehr in fb gehen wird, schreibt der bitte ne sms!(: leah",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Rebekka, Facebook-Nutzer, Nina und 13 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/rebekkafacebooknutzerninaund13weiterepersonen_fdp4dqsqeg",
+  "magic_words": [
+    
+  ]
+}

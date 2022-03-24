@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Nana Liciouz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1459202517607,
+      "content": "Hey Verena, will dir nicht zu nahe treten aber ich habe heute etwas geh\u00c3\u00b6rt und ich bin da eine Person ich spreche dich da lieber pers\u00c3\u00b6nlich drauf an und schenke auch nicht allem glauben. Aber Stimmt es dass du schwanger bist? \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nana Liciouz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nanaliciouz_6thnyporyw",
+  "magic_words": [
+    
+  ]
+}

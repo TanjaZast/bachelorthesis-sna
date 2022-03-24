@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Dario Blazevic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186817178,
+      "content": ":) okay sorry ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Blazevic",
+      "timestamp_ms": 1332186789384,
+      "content": "neee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186756646,
+      "content": ":) ist dir bissle langweilig? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Blazevic",
+      "timestamp_ms": 1332186723639,
+      "content": "einfach soo ??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1332186688850,
+      "content": ":) dario? warum schickst du mir das? :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Blazevic",
+      "timestamp_ms": 1332186653955,
+      "content": "Liebe Facebook-Nutzer, dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert.. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, dass er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen.\n\n..\n\n\n\n.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296152048000,
+      "content": "Warum?? :( ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Blazevic",
+      "timestamp_ms": 1296152008000,
+      "content": "nein spa\u00c3\u009f\u00c3\u009f \nsie macht hausi :):):)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dario Blazevic",
+      "timestamp_ms": 1296151853000,
+      "content": "okeey mach ich \nsie ist oben weint",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1296151801000,
+      "content": "Hey :D wie gehts?? Was macht ili?? :D ist sie auch on?? Sag gr\u00c3\u00bc\u00c3\u009fee hab sie lieb <3 :*",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dario Blazevic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/darioblazevic_iptrwnx3ya",
+  "magic_words": [
+    
+  ]
+}

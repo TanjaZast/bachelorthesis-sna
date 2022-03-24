@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Veli Yilmaz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1404069338810,
+      "content": "Okay ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403697536418,
+      "content": "Ja egal wir k\u00c3\u00b6nnen auch hier schreiben :) p\u00c3\u00a4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403694117619,
+      "content": ":) ja wir kennen uns ja nicht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403642235517,
+      "content": "Mein Facebook spinnt  aber wenn du deine Nr nicht geben willst ist es okay :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403642196109,
+      "content": "Hast du whatsapp?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403642189230,
+      "content": "Ja:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403642153813,
+      "content": "Ja bei dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403636328385,
+      "content": ":)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403636325348,
+      "content": "Alles klar ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1403630093350,
+      "content": "Hey :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Veli Yilmaz",
+      "timestamp_ms": 1403611974193,
+      "content": "Hey:)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Veli Yilmaz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/veliyilmaz_p9_t7fip_g",
+  "magic_words": [
+    
+  ]
+}

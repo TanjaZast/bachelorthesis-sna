@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Clarissa Vera"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493068283013,
+      "content": "schlaf gut und bitte :*! das wird alles. frage dich dann morgen wie es lief",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Clarissa Vera",
+      "timestamp_ms": 1493068083719,
+      "content": "Ja inzwischen schon ein bisschen, ich geh jetzt schlafen und dann wird das schon :) \nDanke nochmal \u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493055718770,
+      "content": "bist schon etwas aufgeregt? Ja sicher wird das gut! :* Ja, heute ist nicht mein Tag",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Clarissa Vera",
+      "timestamp_ms": 1493053900447,
+      "content": "Vielen vielen Dank, das ist nett von dir \u00e2\u009d\u00a4\nIch hoffe \u00f0\u009f\u0098\u00ac\nOh Mist, das ist \u00c3\u00a4rgerlich..",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493053270408,
+      "content": "Muss leider \u00c3\u00bcber Facebook schreiben da mein Handy ins Klo gefallen ist",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1493053250489,
+      "content": "Hey Clarissa :* ich w\u00c3\u00bcnsche dir f\u00c3\u00bcr morgen und deine restlichen Pr\u00c3\u00bcfungen viel viel Erfolg! Du schaffst das alles mit links, da mache ich mir keine Sorgen. Bleib so entspannt wie du letztens warst und dann wird das alles garantiert super werden! <3 Ich dr\u00c3\u00bccke dir die Daumen!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1479940857311,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Clarissa Vera",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/clarissavera_65vcaijjzq",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Jule Hagel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1343647672239,
+      "content": " Ja k\u00c3\u00b6nnte m\u00c3\u00b6glich sein:) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343644844536,
+      "content": "Vllt gibt es da nen speziellen zug oder so was aber eig weiss ich nur das man da fachabi machen kann :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1343643994680,
+      "content": "Keine Ahnung sie meinte schon, aber ich checks auch nicht ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343643944991,
+      "content": "Doch klar ich ja schon :) aber eva nicht :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1343643865642,
+      "content": "Ja du nicht oder was?:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343643814821,
+      "content": "Weil du ein ganz normales abi machst :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1343643473763,
+      "content": ":) wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343642387619,
+      "content": "Du hasts besser!! :) haha ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1343641749063,
+      "content": ":) Eva geht valckenburg und ich hans&sophie scholl, ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1343633483901,
+      "content": "S\u00c3\u00bc\u00c3\u009fe <3 :) auf welche schule wechselst du oder besser gesagt ihr (mit eva halt) ;)??!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1306699726000,
+      "content": "Jule?? Was ist los?? :(( wen musst du vergessen?? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jule Hagel",
+      "timestamp_ms": 1286384571000,
+      "content": "hhey. s\u00c3\u00bczze ich hei\u00c3\u009f in tu  inestimable-",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jule Hagel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/julehagel_jyjptp1oqg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Samanta Ohnewald"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samanta Ohnewald",
+      "timestamp_ms": 1391341940941,
+      "content": "War gut\nAb n\u00c3\u00a4chstem jahr wieder",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391341204983,
+      "content": "Wie war es gestern noch? L\u00c3\u00a4ufst du eigentlich noch mit? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samanta Ohnewald",
+      "timestamp_ms": 1391340960776,
+      "content": "Ja voll krass",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391340874723,
+      "content": "Ja das ist echt extrem wie man sich \u00c3\u00bcber die Jahre hinweg ver\u00c3\u00a4ndert :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samanta Ohnewald",
+      "timestamp_ms": 1391333559780,
+      "content": "Ich h\u00c3\u00a4tte dich auch nicht mehr erkannt unf deine Schwester auch nicht.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391283409686,
+      "content": ":*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391283408194,
+      "content": "Aber ich h\u00c3\u00a4tte dich nicht mehr erkannt! :) du hast dich \u00c3\u00bcber die Jahre richtig ver\u00c3\u00a4ndert :o aber ich kannte noch den Namen :(",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samanta Ohnewald",
+      "timestamp_ms": 1391283179986,
+      "content": "Ja stimmt :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1391282817554,
+      "content": "Ja klar kenne ich dich noch ;) ihr wart doch bei uns und dann haben wir gemeinsam Barbie gespielt :* ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samanta Ohnewald",
+      "timestamp_ms": 1391282440156,
+      "content": "Hey :)\nIch hab grad deine eltern gesehen. Wir kennen uns vob Kroatien.\nBin die Tochter von petra ohnewald\nLiebe G\u00c3\u00bc\u00c3\u009fe SANANTA",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Samanta Ohnewald",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/samantaohnewald_cl_zbdcgaa",
+  "magic_words": [
+    
+  ]
+}

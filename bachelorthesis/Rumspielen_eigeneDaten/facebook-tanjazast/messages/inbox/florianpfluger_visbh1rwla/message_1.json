@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Florian Pfl\u00c3\u00bcger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Florian Pfl\u00c3\u00bcger",
+      "timestamp_ms": 1501675426978,
+      "content": "Uff also ich mach ihr n Armband aber bin unf\u00c3\u00a4hig xX\nWas gepunktetes geht immer : p",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501671322547,
+      "content": "Was kann ich jule zum Geburtstag schenken?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501445936105,
+      "content": "Macht sie wenigstens Ana? \u00f0\u009f\u00a4\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1501445928575,
+      "content": "Sag mal jule die soll mir antworten \u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Florian Pfl\u00c3\u00bcger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/florianpfluger_visbh1rwla",
+  "magic_words": [
+    
+  ]
+}

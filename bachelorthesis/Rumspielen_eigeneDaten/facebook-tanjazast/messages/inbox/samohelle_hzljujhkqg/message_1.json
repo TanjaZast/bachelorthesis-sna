@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Samo Helle"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1324818201664,
+      "content": "Eeeh pa hvala to i mi zelimo vama poz i od nas iz njemacke.. Kiss svima i najvise tebi od mene :* volimo vas sve <33 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samo Helle",
+      "timestamp_ms": 1324817400417,
+      "content": "eeei lutko moja pa sretan i blagoslovljen Bo\u00c5\u00bei\u00c4\u0087 tebi i tvojima ....i puno pozdrava od svih nas iz Hrvatske.... pozdravi svoje punooo kiss :)))) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1291014835000,
+      "content": "Dies ist eine Nachricht von Facebook: In letzter Zeit gab es viele Beschwerden an Facebook, dass es immer langsamer funktioniert. Die Ursachen daf\u00c3\u00bcr sind erstens, dass Facebook immer mehr neue User bekommt und zweitens, dass viele User ihr Konto nicht mehr benutzen. Mit dieser Nachricht wollen wir herausfinden, ob du ein inaktiver User bist oder nicht. Du wirst deswegen gebeten, diese Nachricht an min. 15 deiner Freunde weiterzuschicken. Wer diese Nachricht nicht innerhalb von zwei Wochen weiterschickt, zeigt uns, das er sein Konto nicht mehr benutzt und sein Account wird gel\u00c3\u00b6scht, um mehr Speicherplatz zu bekommen. Schicke diese Nachricht also an deine Freunde und bitte sie, diese ebenfalls weiterzuschicken, damit ihr Account erhalten </DIV> .",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1285848838000,
+      "content": "hocu hocu",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Samo Helle",
+      "timestamp_ms": 1285848663000,
+      "content": "Hocu pozdravit cu ga,pozdravi i ti ameli i johanu i izljubi ih umjesto mene,pozdravi i mamu,tatu,lisu i sve ostale... Kiss",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1285847258000,
+      "content": "cao\n\nbas su ti ljepe slike.....\n\npozdravi Mateja...\n\nAmelie i Johanna samo pricaju o njemu\n\nkiss",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Samo Helle",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/samohelle_hzljujhkqg",
+  "magic_words": [
+    
+  ]
+}

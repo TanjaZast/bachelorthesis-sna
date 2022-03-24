@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Sadat Hamidovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sadat Hamidovic",
+      "timestamp_ms": 1429961644844,
+      "content": "Guten tag:)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sadat Hamidovic",
+      "timestamp_ms": 1429961638970,
+      "content": "Guten tag :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sadat Hamidovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/sadathamidovic_1fr3qt2rzw",
+  "magic_words": [
+    
+  ]
+}

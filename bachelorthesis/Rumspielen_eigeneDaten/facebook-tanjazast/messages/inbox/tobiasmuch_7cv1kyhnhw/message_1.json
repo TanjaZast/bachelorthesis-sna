@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Tobias Much"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tobias Much",
+      "timestamp_ms": 1346014802028,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Much",
+      "timestamp_ms": 1346014411382,
+      "content": "Wie gehts so? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1346014386199,
+      "content": "heei :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias Much",
+      "timestamp_ms": 1346014366267,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Tobias Much",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tobiasmuch_7cv1kyhnhw",
+  "magic_words": [
+    
+  ]
+}

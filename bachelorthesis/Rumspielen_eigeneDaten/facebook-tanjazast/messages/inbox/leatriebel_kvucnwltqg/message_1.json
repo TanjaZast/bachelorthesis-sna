@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Lea Triebel"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798878990,
+      "content": "danke :D dir auch .. beim schal kaufen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312798856051,
+      "content": "Achso \nViel spa\u00c3\u009f dann :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798783356,
+      "content": "15.10 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312798755591,
+      "content": "15.10 oder 5.10?! :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798672423,
+      "content": "heute um !5:10 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312798658101,
+      "content": "Okaay passt jaa danke :) \nUnd wann geht dein Flieger?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798557769,
+      "content": "da sind immer reduzierte so 5 bis 10 euro schon... :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312798504840,
+      "content": "Okaay danke und wie viel kostet daa einer?!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798312538,
+      "content": "im blautalcenter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312798291395,
+      "content": "Wo is der laden :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1312798258784,
+      "content": "im zapata!! ;D da sind die einfach bombe :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lea Triebel",
+      "timestamp_ms": 1312797746654,
+      "content": "Haai ehm wo kaufst du immer deine ganzen schals?!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lea Triebel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/leatriebel_kvucnwltqg",
+  "magic_words": [
+    
+  ]
+}

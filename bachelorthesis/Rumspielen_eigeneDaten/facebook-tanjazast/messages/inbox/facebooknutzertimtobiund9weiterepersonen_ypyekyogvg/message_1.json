@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tim Zimmermann"
+    },
+    {
+      "name": "Tobi Zieger"
+    },
+    {
+      "name": "Ti Mo"
+    },
+    {
+      "name": "Frank Buendgens"
+    },
+    {
+      "name": "Thomas Tresselt"
+    },
+    {
+      "name": "Tim H\u00c3\u00a4fele"
+    },
+    {
+      "name": "Tamara Vntrgl"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Stefanie Sattler"
+    },
+    {
+      "name": "Bailari Mar"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Thomas Steidle"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Siyou Isabelle Ngnoubamdjum",
+      "timestamp_ms": 1497517639423,
+      "content": "Siyou Isabelle Ngnoubamdjum hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Siyou Isabelle Ngnoubamdjum"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Stephanie Schwehr",
+      "timestamp_ms": 1497515327128,
+      "content": "Stephanie Schwehr hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Stephanie Schwehr"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobias H\u00c3\u00a4cker",
+      "timestamp_ms": 1497480249595,
+      "content": "Tobias H\u00c3\u00a4cker hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tobias H\u00c3\u00a4cker"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sanara Ylenia",
+      "timestamp_ms": 1497460082391,
+      "content": "Sanara Ylenia hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sanara Ylenia"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tamara W\u00c3\u00bcrstle",
+      "timestamp_ms": 1497425382817,
+      "content": "Tamara W\u00c3\u00bcrstle hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tamara W\u00c3\u00bcrstle"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sina Braun",
+      "timestamp_ms": 1497301647432,
+      "content": "Sina Braun hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sina Braun"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Frank Buendgens",
+      "timestamp_ms": 1298241096000,
+      "content": "Hallo Freunde und Fans,\n\nam 26. Februar ben\u00c3\u00b6tigen wir Eure Unterst\u00c3\u00bctzung !!!\nWir, die Band CORTEX nehmen an einem Bandcontest teil bei dem die ersten 2 Bands beim diesj\u00c3\u00a4hrigen Donaubeben Open Air in Ulm spielen d\u00c3\u00bcrfen. Dier Bandcontest findet am 26.02.2011 im B\u00c3\u00bcchsenstadel in Ulm ab 18.30 Uhr statt. Jeder zahlende Gast bekommt einen Stimmzettel auf dem er nat\u00c3\u00bcrlich am besten f\u00c3\u00bcr uns abstimmen sollte !!! \nAlso reserviert euch diesen Termin und bringt alle eure Freunde und Bekannte mit !!! \n\nEure Jungs von CORTEX \n\nAndy; Frank; Key und Matze\n\nPS: Die B\u00c3\u00bcchse wird an diesem Abend ziemlich voll sein !!! Ihr k\u00c3\u00b6nnt euch schon vor ab Eintrittskarten f\u00c3\u00bcr 5 Euro bei uns sichern !!! Bei Interesse einfach melden !!! \nUnd bitte rechtzeitig da sein ... \n\nhttp://www.facebook.com/pages/Cortex-Band/115143341854690#!/event.php?eid=194008867283072&index=1",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Tim, Tobi und 9 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzertimtobiund9weiterepersonen_ypyekyogvg",
+  "magic_words": [
+    
+  ]
+}

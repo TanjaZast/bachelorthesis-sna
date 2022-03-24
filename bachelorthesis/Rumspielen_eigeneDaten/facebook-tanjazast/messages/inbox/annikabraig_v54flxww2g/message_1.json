@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Annika Braig"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Annika Braig",
+      "timestamp_ms": 1507133067234,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Annika Braig",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annikabraig_v54flxww2g",
+  "magic_words": [
+    
+  ]
+}

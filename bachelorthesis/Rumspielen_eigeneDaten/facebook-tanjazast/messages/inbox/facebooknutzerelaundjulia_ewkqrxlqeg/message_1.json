@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Ela Elaa"
+    },
+    {
+      "name": "Julia Kosta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344029435678,
+      "content": "Haha jenny :D ich kenn den sogar ich wusste gar nich dass der rappt :)) ich hab mich voll gewundert...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344024387860,
+      "content": "Ja :) der wo nen brief schreibt im video?? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344023937384,
+      "content": "keine ahnung :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344023930782,
+      "content": ":) ja bissle :P meinst den gleichen wie ich und julia?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344021216851,
+      "content": "der tyo im roten hoodie ist schon bissi hei\u00c3\u009f :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021215148,
+      "content": "Minimal :D xD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344021130552,
+      "content": "alter ich bin grad geschockt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344021110435,
+      "content": "Gell!!?? :) ich hab nicht zu viel versprochen ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1344021044785,
+      "content": "wie die auf dem reitet alter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344018459919,
+      "content": "ja genau :) wir meinen dern GLEICHEN ;) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344018360374,
+      "content": "Also ich mein den mit dem dunkelroten pulli und der cap :))\nIch glaub der hei\u00c3\u009ft martin schmidt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344018053751,
+      "content": "echt meinen wir schon den gleichen also der der da wie so nen brief schreibt im video :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344017966465,
+      "content": "Ja...\nSein \u00c3\u00a4lterer bruder ist jetzt der schwiegersohn von \"herr kelsch\" :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344017609844,
+      "content": ":) den cee dump oder so? ja ich kenn den der wohnt bei uns :P aber geile rolle f\u00c3\u00bcr sie? :P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Kosta",
+      "timestamp_ms": 1344017559361,
+      "content": "HahahHah :DD\nOmg ich kenn den zweiten rapper sogar :DD sein bruder ist der mann von meiner cousine xD\nIch wusste gar nicht dass der rappt :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1344016793590,
+      "content": "http://www.youtube.com/watch?v=SOjWuv5VujI&list=FL71l6soC16_4ldHXFu673-Q&index=8&feature=plpp_video (das ist es :))",
+      "share": {
+        "link": "http://www.youtube.com/watch?v=SOjWuv5VujI&list=FL71l6soC16_4ldHXFu673-Q"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer, Ela und Julia",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/facebooknutzerelaundjulia_ewkqrxlqeg",
+  "magic_words": [
+    
+  ]
+}

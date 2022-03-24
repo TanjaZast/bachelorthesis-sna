@@ -1,0 +1,250 @@
+{
+  "participants": [
+    {
+      "name": "Nino Mi"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1434034379667,
+      "content": "Vielen Dank :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1434031408730,
+      "content": "Alles Gute \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1420553822708,
+      "content": "Ganz gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420544527148,
+      "content": "Passt dir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1420414869632,
+      "content": "Wie geht's ?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1420411352872,
+      "content": "Hey",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1420400125235,
+      "content": "Hey\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418569521469,
+      "content": "Hey\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418150958095,
+      "content": "Wieso hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418150897209,
+      "content": "Geht so :) Hahahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418147404549,
+      "content": "Gef\u00c3\u00a4llts dir?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418147398456,
+      "content": "Gut gut\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418146536071,
+      "content": "Also erstes Semester",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418146532887,
+      "content": "3 Monate :) hahah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418120888727,
+      "content": "Wie lang studierst du schon?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418120880976,
+      "content": "Ja\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418086349742,
+      "content": "Ah cool cool :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418076357354,
+      "content": "Ist im Textil Bereich, ich f\u00c3\u00a4rbe Baumwollgarne f\u00c3\u00bcr die Bekleidungsindustrie\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418073521041,
+      "content": ":) was musst du da dann machen \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418072681874,
+      "content": "Wow, nicht schlecht\u00e2\u0098\u00ba\u00ef\u00b8\u008f\nMach 'ne Ausbildung zum Produktveredler\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418071551360,
+      "content": "Bwl Bank was machst du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418064306760,
+      "content": "Was studierst du?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418054411966,
+      "content": ":) nicht schlecht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418052732723,
+      "content": "Spiel bisschen fifa mit Freunden \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418052477124,
+      "content": "Hab Vorlesung und du :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418050093545,
+      "content": "Was machst?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418050088886,
+      "content": "Freut mich\u00e2\u0098\u00ba\u00ef\u00b8\u008f\nAuch gut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418049702547,
+      "content": "Gut dir?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418049665891,
+      "content": "Wie geht's dir?\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418048760094,
+      "content": "Achso Hahaah na dann :)!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418048716368,
+      "content": "Nein haha aber hab dich da gesehen wo einem die Leute vorgeschlagen wird und dachte ich schreib dich mal an \u00f3\u00be\u008d\u0095",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1418048651883,
+      "content": "Kennen wir uns? \u00f3\u00be\u008c\u00b4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nino Mi",
+      "timestamp_ms": 1418048208731,
+      "content": "Hey\u00e2\u0098\u00ba\u00ef\u00b8\u008f wie geht's?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nino Mi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ninomi_y7vcb2apfg",
+  "magic_words": [
+    
+  ]
+}

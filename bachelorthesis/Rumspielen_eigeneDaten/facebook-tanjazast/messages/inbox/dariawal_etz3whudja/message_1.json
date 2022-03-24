@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Daria Wal"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daria Wal",
+      "timestamp_ms": 1470334420665,
+      "content": "Ihr seid jetzt im Messenger miteinander verbunden",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Daria Wal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dariawal_etz3whudja",
+  "magic_words": [
+    
+  ]
+}

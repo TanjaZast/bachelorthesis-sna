@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Viktoria Katharina"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366977007001,
+      "content": "Ja kein Problem das w\u00c3\u00a4re Hammer nett von dir! :) nicht vergessen bitte und vielen dank noch mal :* :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Viktoria Katharina",
+      "timestamp_ms": 1366976952755,
+      "content": "Nochmal hey :D\nIch hab da jetzt angerufen, nur ist die zust\u00c3\u00a4ndige Dame grade in einer Besprechung ^^\nSie ruft mich aber am Montag zur\u00c3\u00bcck ;)\nIch geb dir da dann einfach nochmal Bescheid :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Viktoria Katharina",
+      "timestamp_ms": 1366976737676,
+      "content": "okay super, dann mach ich das *__*\nich geb dir nachher dann wieder Bescheid ;)\nKein Problem ;*\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1366976333584,
+      "content": "Hallo ;) ja das finde ich richtig sch\u00c3\u00b6n das du dich so engagiertst ;) \nEhm ja das k\u00c3\u00b6nnte sein das wir da viele sind aber falls wir nichts anderes finden sollten w\u00c3\u00bcrde das ja trotzdem gehen ;)\nOh ja da kannst du gerne anrufen und auch fragen was zu machen w\u00c3\u00a4re im Sinne von streichen oder Garten umbauen einpflanzen und so :D \nVielen dank :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Viktoria Katharina",
+      "timestamp_ms": 1366975872329,
+      "content": "Hey Tanja,\n\nich bin von der Klasse 9a ;)\n\nHab meine Oma mal gefragt wegen dem Kochen beim Roten Kreuz.\nAlso sie sagte, dass wir daf\u00c3\u00bcr vermutlich zu viele sind, das ist nur eine kleine K\u00c3\u00bcche und allein die Leute aus unserer Klasse w\u00c3\u00a4ren allgemein zu viele auch wenn wir sie aufteilen w\u00c3\u00bcrden..\n\nAllerdings sollen wir doch mal im Clarissenhof anrufen, die brauchen immer Leute wo den alten Menschen was vorlesen oder einfach mit ihnen spazieren gehen und reden :))\nWenn das okay f\u00c3\u00bcr dich/euch w\u00c3\u00a4re, dann w\u00c3\u00bcrde ich dort auch gleich heute noch anrufen!\n\nMega liebe Gr\u00c3\u00bc\u00c3\u009fe Viki :)",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Viktoria Katharina",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/viktoriakatharina_hawdo44fqw",
+  "magic_words": [
+    
+  ]
+}

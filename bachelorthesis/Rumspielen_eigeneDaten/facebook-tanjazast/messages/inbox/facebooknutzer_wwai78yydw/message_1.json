@@ -1,0 +1,334 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389486402514,
+      "content": "Nein als ob? :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389484770241,
+      "content": "Gute Nacht ;*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389484755401,
+      "content": "Haha :D Gehst schlafen oder :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389484697522,
+      "content": "Okay ich bin schon ganz ruhig-.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389484238739,
+      "content": "Wenn du einen Schokokuchen haben m\u00c3\u00b6chtest w\u00c3\u00a4r ich jetzt ganz still",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389484191085,
+      "content": "Hey als ob, also wenn mich hier jemand dissen darf, bin das schon Ich!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389483971961,
+      "content": ":) okay der war bisschen schlecht :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389483074136,
+      "content": "Okay, der war ned gut :D aber es ist schon sp\u00c3\u00a4t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389483049900,
+      "content": "Hab keine Spinne als Haustier, also nein! Wieso?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389482900822,
+      "content": "Haha :D hab ned gesagt, dass es ned gut ist, blo\u00c3\u009f ned so gut wie du :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389482733069,
+      "content": "Spinnst du auch? Okay perfekt will die auch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389482705706,
+      "content": "Zwischen 9 und 12 hahaha gar nicht gut :D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389482113865,
+      "content": "Was ich allgemein bekomm wei\u00c3\u009f ich ned, aber ned so gut wie du :D leider...warscheinlich so zwischen 9 und 12....kp :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389482031397,
+      "content": "Spa\u00c3\u009f :) Bekommst schon deine Schokolade ;-)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389481993297,
+      "content": "Also des mit der Schokolade muss ich mir dann doch nochmal \u00c3\u00bcberlegen :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389481954557,
+      "content": "Echt, warum vergibt die keine 15 ? Super, du hast das gewusst und trotzdem die wette abgeschlossen? Is ja beschiss :D ;D ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481890868,
+      "content": "Ja Schokolade ist perfekt ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481843077,
+      "content": "Was bekommst du",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481839049,
+      "content": "Bin ich nicht hahaha ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481828072,
+      "content": "Die vergibt doch keine 15 hat se ja auch mal gesagt :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389481781059,
+      "content": "Haha :D \"nur 14\" also anspruchsvoll bist du auch gar ned :D Haha :D Aber ich find im m\u00c3\u00bcndlichen h\u00c3\u00a4ttest du echt 15 verdient :* Haha, ich hoffe doch, dass das leben auch mit 13 Punkten weitergeht :D okay, ich schau mal Was ich mach. Auf jedenfall Was mit schokolade! Ich liebe Schoko <3 gute Nacht :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481447031,
+      "content": "Ehm ja back mir einfach was dir leichter f\u00c3\u00a4llt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389481433586,
+      "content": "Hahah ja dsnn ist das v\u00c3\u00b6llig gut. Was bekommst im Zeugnis? Ne hab nur 14 :D ja das hat er auch gesagt. Lieber akzeptieren. Hihi meine G\u00c3\u00bcte das leben geht weiter. Aber mit 14 w\u00c3\u00a4re ich noch gl\u00c3\u00bccklicher. Hahah Danke dir :* :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389481304734,
+      "content": "Dar war mal Arbeit f\u00c3\u00bcr mein armes Handy, ich glaub des will bald ne Gehaltserh\u00c3\u00b6hung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389481243794,
+      "content": "Haha klar :D Was f\u00c3\u00bcr einen Kuchen w\u00c3\u00bcnscht du dir? Kann auch Muffins machen ;) 12 passt doch voll eig.. aber ich find du bist im m\u00c3\u00bcndlichen voll gut! Hast da bestimmt 15 oder? (haha sollen wir wieder wetten ;D)\nIch hab mich schon verbessert, aber nicht nur mit der Gfs sondern auch die letzte Klausur lief bei mir voll gut, komischerweise :D \nIch find dein Vater hat recht. W\u00c3\u00bcrde auch nicht nochmal Was sagen, nicht dass sie dann sauer wird oder so, obwohl ich des bei der Frau auch ned glaube, die ist ja eig. voll nett :)\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389480821423,
+      "content": "Ich bekomme ja nen Kuchen von dir ; D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389480811664,
+      "content": "Nein eigentlich nicht bekomme 12 im Zeugnis. H\u00c3\u00a4tte sonst 11 sicher bekommen vllt sogar so oder so 12. :D du? Ja ich wei\u00c3\u009f. Ich wollte vllt mit der reden aber mein papa meinte ich soll es lassen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389480690117,
+      "content": "Ja, aber sie kann dir doch nicht einfach 2 Punkte abziehen und ned sagen warum -.- haha :D aber 13 sind aber ja auch ned so schlecht :) Fand deine Pr\u00c3\u00a4sentation voll gut :) h\u00c3\u00a4tte dir 15 + gegeben ;) hast du dich viel verbessert durch die gfs?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389480412390,
+      "content": ":D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389480407490,
+      "content": "Alles nur hammer gut nicht ein Kritik Punkt und wie begeistert sie war und perfekt und blabla am ende hat die gesagt das es doof war das sie keine Fragen stellen konnte und dann gibt die mir 13. Sie meinte ob sie mir 13 oder 14 gibt macht eh keinen unterschied. Stimmt ja auch aber 14 sind sch\u00c3\u00b6ner",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389477821000,
+      "content": "Hoffe es war nicht weil ich l\u00c3\u00a4nger gebraucht hab O.o Was hat sie zu dir gesagt? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389358773004,
+      "content": "Hahah schon klar. Ehm 13. Joa h\u00c3\u00a4tte besser sein k\u00c3\u00b6nnen :) ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1389355725784,
+      "content": "Echt :D Schade, h\u00c3\u00a4tte lieber keinen gebacken :/ Was hast? ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1389349369417,
+      "content": "Du musst mir einen Kuchen backen :D!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1366730187886,
+      "content": "Hallo :) \nIch hab ab Morgen eine neue Nummer und bin dann nur noch unter dieser Nummer zu erreichen.\nMeine neue Nummer: 01573-5482738\nLiebe Gr\u00c3\u00bc\u00c3\u009fe Bettina",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1351165191460,
+      "content": "okay :) danke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1351024870328,
+      "content": "Okay ich auch ;) 015164810786",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1350910101494,
+      "content": "Okay ich auch ;) 015164810786 teste mal bitte ob das stimmt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1350909451849,
+      "content": "Hey :) \nHab eine neue Handynummer:\n017699863054",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1339239694831,
+      "content": "Was soll ich mitbringen?? :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337617146261,
+      "content": ":) okay bis morgen <3 ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1337617024801,
+      "content": "Okay :) Dann hoff ich mal, dass die anderen auch in der zweiten Woche alle k\u00c3\u00b6nnen. :) Sag dir dann noch Bescheid :) Freut mich :) bis morgen ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337616749137,
+      "content": "2. woche geht dann klar :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1337616739783,
+      "content": ":) heei s\u00c3\u00bc\u00c3\u009fe :* ehm ich hab die ganze 2. woche zeit:) echt?? ich w\u00c3\u00bcrde voll gerne kommen also in der 2-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1337616231028,
+      "content": "Hey Tanja, :)\nIch mach in den Ferien ne Party und feier meinen Geburtstag nach.\nW\u00c3\u00bcrd dich gern auch dazu einladen :) Kannst du mir schreiben, wann du in den Ferien nicht da bist oder keine Zeit hast, damit ich einen passenden Termin raussuchen kann!? Danke, w\u00c3\u00bcrd mich freuen, wenn du Zeit hast und kommen kannst. :)\nGru\u00c3\u009f Bettina",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/facebooknutzer_wwai78yydw",
+  "magic_words": [
+    
+  ]
+}

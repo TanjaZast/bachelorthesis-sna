@@ -1,0 +1,179 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Zast"
+    },
+    {
+      "name": "Niina Aniin"
+    },
+    {
+      "name": "Juliana Popp"
+    },
+    {
+      "name": "Jessica Nadine Konecki"
+    },
+    {
+      "name": "Alexa Braun"
+    },
+    {
+      "name": "Nikolina Franke"
+    },
+    {
+      "name": "Ivana Crnov"
+    },
+    {
+      "name": "Lucija Foro"
+    },
+    {
+      "name": "Laura K\u00c3\u00b6nig"
+    },
+    {
+      "name": "Lilli Steiger"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Elena Hepp"
+    },
+    {
+      "name": "Sophia Konrad"
+    },
+    {
+      "name": "Klara Brinkmann"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tajana Strazanac"
+    },
+    {
+      "name": "Jasna Vlahek"
+    },
+    {
+      "name": "Franzi Gisa"
+    },
+    {
+      "name": "Anna-Maria Mack"
+    },
+    {
+      "name": "Giulia Befurt"
+    },
+    {
+      "name": "Natalija \u00c5\u00a0utalo"
+    },
+    {
+      "name": "Katharina Thieler"
+    },
+    {
+      "name": "Maren Wagner"
+    },
+    {
+      "name": "Manuela Kurtnacker"
+    },
+    {
+      "name": "Bi Ne"
+    },
+    {
+      "name": "Lisa Kolb"
+    },
+    {
+      "name": "Jule Uns\u00c3\u00b6ld"
+    },
+    {
+      "name": "Manuela Dragic"
+    },
+    {
+      "name": "Salo Laskowski"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Marina Capek"
+    },
+    {
+      "name": "Kira Di Nisio"
+    },
+    {
+      "name": "Charlotte F\u00c3\u00bcnning"
+    },
+    {
+      "name": "Sun Cey"
+    },
+    {
+      "name": "Jana G\u00c3\u00bcnther"
+    },
+    {
+      "name": "Johanna Hauser"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luisa Bitzenbauer",
+      "timestamp_ms": 1510503318223,
+      "content": "Luisa Bitzenbauer hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Luisa Bitzenbauer"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Alina Becker",
+      "timestamp_ms": 1508182469159,
+      "content": "Alina Becker hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Alina Becker"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marina Tirsek",
+      "timestamp_ms": 1319836632330,
+      "content": "Marina Tirsek hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Marina Tirsek"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "JiaYing Cheng",
+      "timestamp_ms": 1319818367646,
+      "content": "JiaYing Cheng hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "JiaYing Cheng"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1319818275706,
+      "content": "Es ist wieder so weit bitte macht ALLE mit! Im vergangenen Jahr mussten wir die Farbe des BHs an unsere Pinnwand eintragen . Die M\u00c3\u00a4nner waren Tage lang verwirrt .... Sie fragten sich, warum die M\u00c3\u00a4dels Farben an deren Pinnwand schrieben. Dieses Jahr ist es Unser Status in Bezug auf Liebe. Antwortet nicht auf diese Nachricht ..... Schreibt nur das Wort, das auf euch zutrifft an eure Pinnwand, und sendet Sie diese Nachricht privat an alle M\u00c3\u00a4dchen, die ihr kennt! BLAUBEERE: Single, ANANAS: es ist kompliziert, HIMBEERE: Kann mich nicht entscheiden, APFEL: Verlobt, KIRSCHE: In einer Beziehung, BANANE: Verheiratet, AVOCADO: Ich bin von anderem Ufer ERDBEERE: finde einfach nicht den richtigen, ZITRONE: will Single bleiben, TRAUBE: m\u00c3\u00b6chte gern meinen Partner heiraten. Letztes Jahr ging das Spiel so lange, bis davon im Fernsehen berichtet wurde und das Selbe versuchen wir auch im diesem Jahr Bitte diese Nachricht privat versenden, nur an weibliche Kontakte ... Vielen Dank f\u00c3\u00bcr Eure Teilnahme...\n..\n..",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lisa, Niina, Juliana und 33 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/lisaniinajulianaund33weiterepersonen_mcrr6au6tw",
+  "magic_words": [
+    
+  ]
+}

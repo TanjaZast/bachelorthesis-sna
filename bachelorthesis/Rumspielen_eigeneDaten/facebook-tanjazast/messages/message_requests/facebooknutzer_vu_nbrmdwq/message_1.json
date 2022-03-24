@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1504365102592,
+      "content": "Hay \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Facebook-Nutzer",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/facebooknutzer_vu_nbrmdwq",
+  "magic_words": [
+    
+  ]
+}

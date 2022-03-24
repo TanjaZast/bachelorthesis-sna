@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Johanna Priglinger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johanna Priglinger",
+      "timestamp_ms": 1528982080280,
+      "content": "Johanna hat Neo verkauft.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johanna Priglinger",
+      "timestamp_ms": 1528370870134,
+      "content": "1,65 und 53",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1528370001782,
+      "content": "Darf ich fragen wie gro\u00c3\u009f du bist und wie viel du wiegst? \u00f0\u009f\u0098\u0085",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Johanna Priglinger",
+      "timestamp_ms": 1528365470423,
+      "content": "Ja",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1528363278621,
+      "content": "Ist dieser Artikel noch verf\u00c3\u00bcgbar?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1528363277835,
+      "content": "Du hast die Gruppe Ta \u00c2\u00b7 Neo genannt.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ta \u00c2\u00b7 Neo",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/taneo_hgbys2axcw",
+  "magic_words": [
+    
+  ]
+}

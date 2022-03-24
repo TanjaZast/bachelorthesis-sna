@@ -1,0 +1,211 @@
+{
+  "participants": [
+    {
+      "name": "Flo Kuball"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585567515249,
+      "content": "Macht echt kaum Sinn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585567507225,
+      "content": "Verstehe auch nicht warum es dann andere so krass rausz\u00c3\u00b6gern....",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585562449579,
+      "content": "vor allem weil roth schon eine info rausgegeben hat",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585562426756,
+      "content": "jo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585561591373,
+      "content": "Wie nervig :( dann halt wieder nen Monat warten und so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585560597460,
+      "content": "28.06\nende april kommt eine info",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585560569341,
+      "content": "Wann w\u00c3\u00a4re die?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585560557824,
+      "content": "Hahaha ja, das macht bestimmt viel aus",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559846450,
+      "content": "bin mir grad nicht sicher, ob es mit der richtigen technik nicht auch einfacher wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559803455,
+      "content": "geh auch davon aus, dass es verschoben/abgesagt wird",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559802534,
+      "content": "md",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559802453,
+      "content": "walchsee",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585559778142,
+      "content": "Was w\u00c3\u00a4re dein 2. Wettkampf!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585559767699,
+      "content": "Das erste mal ist es vielleicht noch doof aber du hast ja ein K\u00c3\u00b6rpergef\u00c3\u00bchl, beim 2. Mal geht es direkt.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559757208,
+      "content": "h\u00c3\u00a4tt mich auch gefreut",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585559737654,
+      "content": "Jaaa \u00e2\u0098\u00b9\u00ef\u00b8\u008f aber hab es mir schon fast gedacht. Aber dennoch schade",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559737201,
+      "content": "ich habs tats\u00c3\u00a4chlich auch nur 2x versucht",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559722525,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559720163,
+      "content": "geht doch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585559698739,
+      "videos": [
+        {
+          "uri": "messages/inbox/flokuball_s15spggopg/videos/video1585559698_3406802602667956.mp4",
+          "creation_timestamp": 1585559689,
+          "thumbnail": {
+            "uri": "https://interncache-atn.fbcdn.net/v/t15.3394-10/83905657_2972631846134600_6586122207354745017_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-atn&oh=3bd6cd27bf92e943f8e31f1fa9928343&oe=61885ACF"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585559693303,
+      "content": "Aber auch nur ein paar Sekunden \u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559437831,
+      "content": "ingolstadt leider abgesaft",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559428289,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559424257,
+      "content": "mach doch nach",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Flo Kuball",
+      "timestamp_ms": 1585559408082,
+      "content": "\u00c3\u00bcbelst doof die \u00c3\u00bcbung",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1585557429025,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 aber s\u00c3\u00bc\u00c3\u009f",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Flo Kuball",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/flokuball_s15spggopg",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "participants": [
+    {
+      "name": "Ivana Crnov"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1367512727047,
+      "content": "Okay passt schon;) danke ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1367508677004,
+      "content": "Hey :*\nLisa probiert den Bus um 18 Uhr zu schaffen aber falls sies nicht schafft ist sie erst um 19 Uhr daheim.. \nIhr Akku ist leer :*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307297311590,
+      "content": "jaa ich weiss aber sie mich auch ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292852012,
+      "content": "ja und du hast die voll nass gespritzt ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292734762,
+      "content": "<3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292725104,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292697764,
+      "content": "<(\")",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292690305,
+      "content": "< (\")",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292675458,
+      "content": "< (*)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292670625,
+      "content": "ich geh dann mal beii <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292662462,
+      "content": "<33",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292656853,
+      "content": ":P ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292651994,
+      "content": ":D :P",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292631521,
+      "content": "<3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292606435,
+      "content": "jaa <3 :D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292573496,
+      "content": "achsoo :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292560308,
+      "content": "ja gleich :D als wir gekommen sind :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292544515,
+      "content": "und lisa ? <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292540762,
+      "content": "hahaa ooh man :D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292505798,
+      "content": ":D <3 mach ich gleich ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292498111,
+      "content": "schon geduscht ? ;D",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292489043,
+      "content": "jaa <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292452116,
+      "content": "cool <3\r\n",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292436814,
+      "content": "auch <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292430797,
+      "content": "chatten <3 duu??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292347416,
+      "content": "was machst ? ;D <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1307292332242,
+      "content": "joo ivi <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1307292322223,
+      "content": "joo tanjaa :DD",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304087949000,
+      "content": "Du rufst diese Nummer an: 1155 und dann h\u00c3\u00b6rst du der Person zu.. Und nimmst dann die flat f\u00c3\u00bcr 3.99 :)) <3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1304087604000,
+      "content": "kannst du mit bitte sagen wie man die flat einschtellt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1304087591000,
+      "content": "ich hab jetzt aldi ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1304087586000,
+      "content": ":))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1304087581000,
+      "content": "okee aber ich hab ihr in fachbok geschrieben waruum sie sauer ist un ddie soo kp ist schon komisch das es keinen grund gibt",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304086405000,
+      "content": "Die ist so.. Aber die regt sich schnell wieder ab... :)) glaub mir",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1303397486000,
+      "content": "jedees mal wenn ich ihr nen zettel schreib ignoriet die des vool und soo jaa und mit mir redeen will sie auch nicht ! was soll ich noch macheen des hilft eh nicht ...",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1303397288000,
+      "content": "mhmm jaa eig. schon & bei dir ?kannst du mir bitte sagen why lisa auf mich sauer ist bitte !",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1303322859000,
+      "content": "Hey <3 alles klar??",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ivana Crnov",
+      "timestamp_ms": 1303306493000,
+      "content": "heey <3",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ivana Crnov",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ivanacrnov_opujjmx9yw",
+  "magic_words": [
+    
+  ]
+}

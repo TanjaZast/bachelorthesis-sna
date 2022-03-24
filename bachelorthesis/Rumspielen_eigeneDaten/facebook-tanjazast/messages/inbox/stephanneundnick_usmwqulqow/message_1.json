@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Steph Anie"
+    },
+    {
+      "name": "Anne Kark"
+    },
+    {
+      "name": "Nick Lambertz"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne Kark",
+      "timestamp_ms": 1418308211713,
+      "content": "Hey Zusammen, ich soll euch von Frau Brzuske ausrichten, dass es im Intranet eine tolle Zusammenfassung einer k\u00c3\u00bcrzlichen Veranstaltung gibt. \"Ein Abend mit Anspruch\" war eine k\u00c3\u00bcrzliche veranstatlung die Deutschlandweit von der Hypo in Kinos ausgetrahlt wurde. Vlllt. interessiert es euch. LG",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Steph, Anne und Nick",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/stephanneundnick_usmwqulqow",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Lidija Slovic"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447347485097,
+      "content": "Jo\u00c5\u00a1 uvek",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447347479731,
+      "content": "Nezna \u00f0\u009f\u0098\u0094",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lidija Slovic",
+      "timestamp_ms": 1447342877590,
+      "content": "Hahah sta je na kraju odlu\u00c4\u008dila u vezi njih? \u00f0\u009f\u0098\u0083",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1447181469519,
+      "content": "Eh cao \u00f3\u00be\u008c\u00ad pls daj broj od kuma. Kaca nikako da organizira date \u00f3\u00be\u008d\u0083 pa da ja to uzmem u svoju ruku",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Lidija Slovic",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lidijaslovic_vxv57ppliw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "participants": [
+    {
+      "name": "Carolin Gunz"
+    },
+    {
+      "name": "Moritz Doms"
+    },
+    {
+      "name": "Vanessa Ghs"
+    },
+    {
+      "name": "Jana Steinseufzer"
+    },
+    {
+      "name": "Tanja Za"
+    },
+    {
+      "name": "Matthias G\u00c3\u00a4rtner"
+    },
+    {
+      "name": "Hannes Keppeler"
+    },
+    {
+      "name": "Rebecca Will"
+    },
+    {
+      "name": "Isabel Martin"
+    },
+    {
+      "name": "Jule Efinger"
+    },
+    {
+      "name": "Laura Mayer"
+    },
+    {
+      "name": "Celine Komic"
+    },
+    {
+      "name": "Benjamin Marquardt"
+    },
+    {
+      "name": "Leon Kunze"
+    },
+    {
+      "name": "Rebecca Te"
+    },
+    {
+      "name": "Jana Finkbeiner"
+    },
+    {
+      "name": "Mimi Ciccolatio"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    },
+    {
+      "name": "Fabian Ulrich"
+    },
+    {
+      "name": "Selina Haag"
+    },
+    {
+      "name": "Facebook-Nutzer"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa Reiter",
+      "timestamp_ms": 1404817524685,
+      "content": "Lisa Reiter hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lisa Reiter"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Maren Schwarz",
+      "timestamp_ms": 1399569365384,
+      "content": "Maren Schwarz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Maren Schwarz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sandra M\u00c3\u00bcller",
+      "timestamp_ms": 1399317560162,
+      "content": "Sandra M\u00c3\u00bcller hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Sandra M\u00c3\u00bcller"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tobi Dolch",
+      "timestamp_ms": 1399317057165,
+      "content": "Tobi Dolch hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Tobi Dolch"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonas Kupferschmid",
+      "timestamp_ms": 1399315414291,
+      "content": "Jonas Kupferschmid hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Jonas Kupferschmid"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ladina Lutz",
+      "timestamp_ms": 1399305989718,
+      "content": "Ladina Lutz hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Ladina Lutz"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Facebook-Nutzer",
+      "timestamp_ms": 1399220441546,
+      "content": "Ein Kontakt hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Lorena Amann",
+      "timestamp_ms": 1399216388750,
+      "content": "Lorena Amann hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Lorena Amann"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Leisle",
+      "timestamp_ms": 1399214369008,
+      "content": "Julia Leisle hat die Gruppe verlassen.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Julia Leisle"
+        }
+      ],
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Julia Leisle",
+      "timestamp_ms": 1399209803510,
+      "content": "Kostenlose iPads ... http://t.co/zMCVi2KlOa",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carolin, Moritz, Vanessa und 17 weitere Personen",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/carolinmoritzvanessaund17weiterepersonen_9urqu9eixg",
+  "magic_words": [
+    
+  ]
+}

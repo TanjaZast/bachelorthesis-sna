@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Carmen Rauschenberger"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carmen Rauschenberger",
+      "timestamp_ms": 1318758120214,
+      "content": "http://www.hcc-net.de/old-m-test/gallery.php?image=IMG4355548.JPG",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Carmen Rauschenberger",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carmenrauschenberger_ppsfdh4req",
+  "magic_words": [
+    
+  ]
+}

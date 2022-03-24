@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Toni Jocher"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1464168790877,
+      "content": "Ok trotzdem danke :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1464167722351,
+      "content": "Selber",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1464167719418,
+      "content": "Ne sorry ich war seltene nicht -.-",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1464107409304,
+      "content": "Hey :) gehst du zuf\u00c3\u00a4llig morgen ins Rechnungswesen tut? Wenn ja kannst du mir des dann schicken? \u00f3\u00be\u008d\u0094 weil ich morgen nicht kann :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461335359696,
+      "content": "Ist eig ganz egal weil wir ja eh immer gleich um 8 anfangen :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461328342900,
+      "content": "Ja perfekt, musst mir dann nur sagen wann du Zeit hast \u00f0\u009f\u0098\u0087",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461218001908,
+      "content": "Ja gern :) freu mich immer wenn ich neue leute kennen lern ;)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461184388177,
+      "content": "Das freut mich zu h\u00c3\u00b6ren aber du kannst auch gerne so was mit mir machen, fr\u00c3\u00bchst\u00c3\u00bccken oder so \u00f0\u009f\u0099\u008a\u00f0\u009f\u0098\u009a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461090678551,
+      "content": "F\u00c3\u00bcr mich geht's bis ketz hab ja alles scho mal geh\u00c3\u00b6rt ^^ und mit den tabletten is bei mir gesundheitlich auch alles gut :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461090413524,
+      "content": "Dann ist ja gut. Und wie ist das Studium f\u00c3\u00bcr dich bis jetzt? Packst du es gesundheitlich. \u00f0\u009f\u0098\u00af",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461081883000,
+      "content": "Ja ist immer schwer in der mensa in so ner gro\u00c3\u009fen gruppe einen platz zu finden :D\nJa da treff ma uns bestimmt bald wieder ;)\nIst doch nicht schlimm, war ja trz nicht allein :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461081807299,
+      "content": "Ja ist in so gro\u00c3\u009fen gruppen imma schwer was in der mensa zu finden :D macht doch nichts ;) ja da treff ma uns bestimmt bald wieder :)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461081589214,
+      "content": "Tut mir voll leid",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1461081573164,
+      "content": "Wir haben auch gerade so erst einen Platz bekommen aber n\u00c3\u00a4chstes mal kommst her dann verscheuche ich eine Person damit du Platz hast \u00f0\u009f\u0099\u008a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Toni Jocher",
+      "timestamp_ms": 1461081458455,
+      "content": "Hey :) hab heut extra geschaut in der mensa, aber da war kein platz mehr :/",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Toni Jocher",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/tonijocher_l4-jjboxpa",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Philip Geiges"
+    },
+    {
+      "name": "Tanja Za"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanja Za",
+      "timestamp_ms": 1304682892000,
+      "content": "Jaja nach der Schule gleich in fb :)) zz ",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Philip Geiges",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/philipgeiges_5t0dgx61ja",
+  "magic_words": [
+    
+  ]
+}
