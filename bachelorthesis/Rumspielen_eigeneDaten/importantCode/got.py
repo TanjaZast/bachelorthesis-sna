@@ -69,14 +69,12 @@ def generate_got_density(G):
     axes[1][1].set_ylabel("amount of nodes (total nodes = " + str(len(eigenvector)) + ")")
     axes[1][1].legend()
     plt.show()
-    plt.savefig("outputFacebookPoliticsDistribution.png")
 
     pos = nx.spring_layout(G, seed=196900)
     plt.figure(figsize=(10, 8))
     nx.draw(G, pos, node_color=range(len(G)), labels={node: node for node in G.nodes()}, font_size=2, cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
     plt.show()
-    plt.savefig("outputFacebookPolitics.png")
 
 def calculate_degree_centrality(G):
 
@@ -126,7 +124,7 @@ def calculate_eigenvector_centrality(G):
     return eigenvector_centrality
 
 
-df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorarbeit/CSV/facebook_combined.csv", sep=r',')
+df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/CSV/facebook_combined.csv", sep=r',')
 df.head()
 df1 = df[['Source', 'Target']]
 
