@@ -1,9 +1,58 @@
 %*****************************************
-\chapter{Die Umsetzung}\label{ch:examples}
+\chapter{Der Vergleich mit Sozialen Netzwerken}\label{ch:vergleich}
 %*****************************************
-\section{Vergleich mit Twitter}
-Da die vorherigen Interpretationen immer ziemlich einseitig waren und die Ergebnisse klar einzuordnen waren gehen wir nun etwas tiefer in die Materie. Es gibt viele Studien und Untersuchungen zu Twitter. Vor allem auf Ebenen der sozialen Netzwerkanalyse sind diese vielversprechend und interessant. Im vorherigen Teil damit beschäftigt haben, wie soziale Netzwerke so gut und realitätsnah wie möglich konstruiert werden könne. Daher möchten wir nun die Werte, welche in dieser Arbeit generiert wurden mit den Werten, die bei der sozialen Netzwerkanalyse von Twitter berechnet wurden, verglichen werden. Leitfragen sind hierbei, was zu erwarten ist, ob die Ergebnisse den Erwartungen entsprechen oder komplett widersprechen und warum dies der Fall ist. Zusätzlich vielleicht auch Möglichkeiten erarbeitet, wie die Graphen bzw. die Generierung angepasst werden könnte um noch bessere Graphen zu erhalten, die sozialen Netzwerken noch mehr ähneln. 
 
-\section{Twitter SNA - Vorarbeit}
-Zunächst stellt sich hier die Frage welche Datensätze benutzt werden sollten. Da zu diesem Zeitpunkt nicht klar war, ob die Datensätze zwar verwendet werden dürfen aber jegliche Berechnungen selbständig durchgeführt werden müssen, bin ich nun nach meiner Vorstellung vorgegangen. Auf meiner Suche bin ich auf mehrere gute wissenschaftliche Arbeiten gestoßen. 
-Zunächst müssen wir eine vergleichbare Basis schaffen. Dies schaffen wir dadurch, dass wir ungefähr die gleiche Anzahl an Knoten haben damit die Werte ansatzweise vergleichen zu können.
+Im vorherigen Teil der Arbeit haben wir uns damit beschäftigt, wie soziale Netzwerke so gut und realitätsnah wie möglich konstruiert werden können. Wir haben Analysen durchgeführt und festgestellt, dass die Werte unserer \textbf{Grad-} und \textbf{Nähe-Zentralität} näherungsweise gleichverteilt sind. Daher liegt es nahe, weitere sozialen Netzwerke und ihre Analysen zum Vergleich heranzuziehen. Leitfragen sind hierbei, was zu erwarten ist, ob die Ergebnisse den Erwartungen entsprechen oder sogar widersprechen und warum dies der Fall ist. Zusätzlich möchten wir optimalerweise eine Möglichkeit erarbeitet, wie wir unsere Graphen bzw. die Generierung angepasst könnten um vielleicht sogar bessere Graphen zu erhalten, die diesen sozialen Netzwerken noch mehr ähneln. 
+
+\section{Der Datensatz und die Analyse}
+Auf der Suche nach vergleichbaren sozialen Netzwerken, beziehungsweise Datensätzen, ist die Suche scheinbar endlos. Auf vielen Webseiten sind große Datensätze für alle Nutzer*innen zugänglich. Meistens als \textbf{CSV} Datei, welche ideal zur Erstellung von Plots, über Sozialen Netzwerken, geeignet sind. In diesem Teil der Arbeit betrachten wir mehrere Datensätze. Natürlich aufgrund der Tatsache, dass sie spannend sind aber auch um mehrere Vergleichswerte zu haben. Starten wir zunächst mit den Daten von unserem \textbf{Game of Thrones} Plot \ref{fig:GameOfThrones}. Da wir bereit die Analyse der \textbf{Zentralitäten} und die generelle visuelle Analyse des Graphen durchgeführt haben, reicht uns nun lediglich die Verteilung der Zentralitäten durchzuführen. Die Tabelle mit den Werten der Zentralitätsberechnungen befinden sich erneut in \ref{ch:anhang}. Nachdem wir den Datensatz als \textbf{CSV} Datei in Python eingelesen und zunächst den Graphen folgendermaßen konstruiert:
+
+\FloatBarrier
+\begin{figure}[h!]%
+  \centering
+  \includegraphics[width=0.5\textwidth]{Graphics/GOTGraph_unweighted.png}
+  \caption{Game of Thrones Graph 2.0}
+  \label{fig:GOT2.0}
+\end{figure}
+\FloatBarrier
+
+Dieser Plot ist beabsichtigt klein, da er nicht relevant ist. Jedoch ist er aber ebenso nicht irrelevant wenn wir uns im Anschluss die Verteilung der Zentralitäten anschauen. Doch davor ist zu vermerken, dass der eigentliche Datensatz gewichtet ist, und unser Graph daher rein visuell nicht dem Graphen aus \ref{fig:GameOfThrones} ähnelt. Jedoch ist es sinnvoll die Gewichte außen vor zu lassen, da wir in dieser Arbeit ungewichtete Graphen nachbilden. Nachdem wir die Daten des Graphen \ref{fig:GOT2.0} eingelesen, die Zentralitäten berechnet haben und anschließend den Balkengraphen erstellt haben, wurde folgender Plot generiert:
+
+\FloatBarrier
+\begin{figure}[h!]%
+  \centering
+   \includegraphics[width=0.8\textwidth]{Graphics/GOTdistribution.png}
+  \caption{Game of Thrones Verteilung der Zentralitäten}
+  \label{fig:distributionGOT}
+\end{figure}
+\FloatBarrier
+ 
+ Auf den ersten Blick können wir bereits feststellen, dass wir andere Ergebnisse erwartet haben. Einzig die Verteilung der \textbf{Nähe-Zentralität} ähnelt der erwarteten Normalverteilung. Die \textbf{Betweenness-} und \textbf{Eigenvektor-Zentralität} hingegen ähneln zwar nicht exakt dem, was wir in \ref{fig:distributionALL} herausgefunden haben aber ziehen auf jeden Fall Parallelen. Denn beide haben den Ausschlag im letzten Balken, was wir schon im vorherigen Kapitel damit begründet haben, dass es die Folge davon ist, wenn viele kürzeste Wege stets über die gleichen
+Knoten verlaufen, wir also keine Alternativen im Graph haben. Die \textbf{Grad-Zentralität} hingegen darf uns verwundern. Sie ähnelt zum einen stark der Verteilung der \textbf{Eigenvektor-Zentralität} aber keinesfalls der annähernden Gleichverteilung aus \ref{fig:distributionALL}. Der Ausschlag des letzten Balken ist hingegen schnell erklärt. Wir haben viele Konten, in dem Fall Charaktere, die alle gleich wichtig für den Graphen sind. Diese Konten sind also mit vielen anderen Knoten verbunden, werden daher von vielen anderen Charakteren gekannt oder kennen viele andere Charaktere. Im Allgemeinen sind die Balkendiagramme der \textbf{Zentralitäten} aus \ref{fig:distributionGOT} leider nicht zufriedenstellend. Der Grund, warum die Ergebnisse stark von unseren Erwartungen abweicht ist, dass es sich bei dem Graphen um fiktive Charaktere handelt. Dadurch kann es schnell zu Unstimmigkeiten kommen. Zudem war der Datensatz davor gewichtet, was zu anderen Werten bei der Berechnung der Zentralitäten geführt hätte. Doch wir haben den Datensatz aber ungewichtet betrachtet, um ihn besser mit unseren generierten Graphen zu vergleichen, welche ungewichtet sind. Dies kann auf jeden Fall ein plausibler Grund für Unstimmigkeiten sein. Zudem haben wir die Anzahl der geplotteten Balken stark erhöht und so fallen Unstimmigkeiten auch deutlich stärker auf. Doch wollen wir unsere Theorie, dass Zentralitäten Gleichverteilt sind, nicht verwerfen und wollen uns ein bis zwei weitere Datensätze anschauen. Als nächstes betrachten wir einen Datensatz, der aus aus "Kreisen" (oder "Freundeslisten") von Facebook besteht. Die Daten wurden anschließend anonymisiert. So können wir mit dem Datensatz also feststellen, ob zwei Nutzer die gleiche politische Zugehörigkeit haben, aber nicht, was ihre individuelle politische Zugehörigkeit bedeutet.
+Nachdem wir die Daten wieder in eine .CSV Datei umgewandelt und anschließend geplottet haben, konnten wir folgenden Graphen generieren: 
+
+
+\FloatBarrier
+\begin{figure}[h!]%
+  \centering
+ \includegraphics[width=0.7\textwidth]{Graphics/FacebookPoliticalPlot.png}
+  \caption{Facebook Graph}
+  \label{fig:FacebookGraph}
+\end{figure}
+\FloatBarrier
+
+
+
+Der Graph ähnelt auf den ersten Blick durchaus dem erstellten Plot \ref{fig:SNA}. Sofort fällt aber auf, dass dieser Graph aus deutlich mehr Knoten besteht, zudem weniger Subgraphen aber dennoch im Grunde eine ähnliche Struktur aufweist. Die Berechnungen der Zentralitäten befinden sich auf Github []. Nun interessiert uns jedoch, wie diese Zentralitäten verteilt sind und ob dieser Graph die erwarteten Verteilungen erfüllen kann. Nachdem wir den Datensatz durch den Code laufen lassen haben, konnten wir folgenden Plot generieren:
+
+\FloatBarrier
+\begin{figure}[h!]%
+  \centering
+\includegraphics[width=0.6\textwidth]{Graphics/FacebookPoliticalDistribution.png}
+  \caption{Facebook Graph}
+  \label{fig:FacebookGraph}
+\end{figure}
+\FloatBarrier
+
+Sofort fällt auf, dass wir bei keiner Zentralität eine Gleichverteilung sehen. Noch am ehesten die \textbf{Nähe-Zentralität} erfüllt unsere Erwartungen, doch fallen uns auch bei dieser zwei Balken auf, die niedriger als erwartet sind. Die anderen Balkendiagramme ähneln kaum ansatzweise den Verteilungen aus \ref{fig:distributionALL}. Doch was wiederum auffällig ist, dass die Diagramm stark den Verteilungen von \ref{fig:distributionGOT} ähneln auch wenn diese aus deutlich mehr Balken bestehen. Auch wenn diese Ergebnisse sehr ernüchtern scheinen, fällt aber visuell auf, dass die Balkendiagramme (b) verglichen mit dem eigentlichen Plot des Graphen (a) durchaus übereinstimmen. Wir sehen deutliche Ansammlungen von Knoten und unzählige Kanten. in den Ansammlungen scheint jeder Knoten mit jedem weiteren Knoten verbunden zu sein, was die \textbf{Grad-Zentralität} enorm erhöht.
+

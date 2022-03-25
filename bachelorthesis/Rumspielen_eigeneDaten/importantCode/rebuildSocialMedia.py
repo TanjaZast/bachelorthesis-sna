@@ -105,7 +105,7 @@ def show_graph_with_labels(adjacency_matrices):
     # generate big graph with all individual matrices combined
     big_graph = unite_graphs(adjacency_matrices)
     #print(big_graph.shape)
-    bars = 10
+    bars = 100
 
     # generate edges for big graph
     rows_big, cols_big = np.where(big_graph == 1)
