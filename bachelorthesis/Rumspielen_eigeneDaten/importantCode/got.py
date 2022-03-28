@@ -1,3 +1,5 @@
+from math import sqrt
+
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy
@@ -6,6 +8,7 @@ from astropy.table import Table
 from numpy import transpose
 import numpy as np
 from tabulate import tabulate
+import seaborn as sns
 
 
 def generate_denisity(bars, centralities):
@@ -30,48 +33,47 @@ def generate_got_density(G):
     # generate big graph with all individual matrices combined
 
     #print(big_graph.shape)
-    bars = 15
+    bars = 100
     fig1, axes = plt.subplots(2, 2)
     fig1.set_size_inches(9, 7)
 
     # degree_centralities
     degree = calculate_degree_centrality(G)
     nodes = calculate_nodes(G)
-    #print("degree looks like", degree)
-    dist_degree, x_degree, bar_degree = generate_denisity(bars, degree)
-    #print(dist_degree,x_degree,bar_degree)
-    axes[0][0].bar(x_degree, np.array(dist_degree), bar_degree, align='edge', label="distribution")
+    print("degree looks like", degree)
+    sns.distplot(degree, ax=axes[0][0], bins=bars, label='distribution')
+    sns.rugplot(degree, clip_on=False, alpha=0.01, height=-0.02, ax=axes[0][0])
+    axes[0][0].set_ylabel("amount of nodes (total nodes = " + str((len(nodes))) + ")")
     axes[0][0].set_title("distribution over degree-centrality")
-    axes[0][0].set_ylabel("amount of nodes (total nodes = " + str(len(degree)) + ")")
     axes[0][0].legend()
 
     # closness_centralities
     closeness = calculate_closness_centrality(G)
-    #print("closeness looks like", closeness)
-    dist_closeness, x_closeness, bar_closeness = generate_denisity(bars, closeness)
-    axes[0][1].bar(x_closeness, np.array(dist_closeness), bar_closeness, align='edge', label="distribution")
+    print("closeness looks like", closeness)
+    sns.distplot(closeness, ax=axes[0][1], bins=bars, label='distribution')
+    sns.rugplot(closeness, clip_on=False, alpha=0.01, height=-0.02, ax=axes[0][1])
+    axes[0][1].set_ylabel("amount of nodes")
     axes[0][1].set_title("distribution over closeness-centrality")
-    axes[0][1].set_ylabel("amount of nodes (total nodes = " + str(len(closeness)) + ")")
     axes[0][1].legend()
 
     # between_centralities
     between = calculate_between_centrality(G)
-    #print("betweenness looks like", between)
-    dist_between, x_between, bar_between = generate_denisity(bars, between)
-    axes[1][0].bar(x_between, np.array(dist_between), bar_between, align='edge', label="distribution")
+    print("betweenness looks like", between)
+    sns.distplot(between, ax=axes[1][0], bins=bars, label='distribution')
+    sns.rugplot(between, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
+    axes[1][0].set_ylabel("amount of nodes")
     axes[1][0].set_title("distribution over betweenness-centrality")
-    axes[1][0].set_ylabel("amount of nodes (total nodes = " + str(len(between)) + ")")
     axes[1][0].legend()
 
     # distribution n times degree_centralities
     eigenvector = calculate_eigenvector_centrality(G)
-    #print("eigenvector looks like", eigenvector)
-    dist_eigenvector, x_eigenvector, bar_eigenvector = generate_denisity(bars, eigenvector)
-    axes[1][1].bar(x_eigenvector, np.array(dist_eigenvector), bar_eigenvector, align='edge', label="distribution")
+    print("eigenvector looks like", eigenvector)
+    sns.distplot(eigenvector, ax=axes[1][1], bins=bars, label='distribution')
+    sns.rugplot(eigenvector, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
+    axes[1][1].set_ylabel("amount of nodes")
     axes[1][1].set_title("distribution over eigenvector-centrality")
-    axes[1][1].set_ylabel("amount of nodes (total nodes = " + str(len(eigenvector)) + ")")
     axes[1][1].legend()
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FacebookPoliticalDistribution.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FBTanjaBADistribution.png')
     plt.show()
 
 
@@ -81,7 +83,7 @@ def generate_got_density(G):
     #font_size = 2
     nx.draw(G, pos, node_color=range(len(G)), cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FacebookPoliticalPlot.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FBTanjaBAPlot.png')
     plt.show()
 
     Gz0 = nodes
@@ -91,7 +93,19 @@ def generate_got_density(G):
     Gz4 = eigenvector
     t = Table([Gz0, Gz1, Gz2, Gz3, Gz4], names=('Nodes', 'Degree', 'closeness', 'between', 'eigenvector'))
     # print(t)
-    print(tabulate(t, tablefmt="csv"))
+    #print(tabulate(t, tablefmt="latex"))
+
+    i = 0
+    lenght = []
+    for clq in nx.clique.find_cliques(G):
+        i = i + 1
+        lenght.append(len(clq))
+    print('amount of cliques', i)
+    print('biggest clique', max(lenght))
+    node = G.number_of_nodes()
+    print('number of nodes', node)
+    edge = G.number_of_edges()
+    print('number of edges', edge)
 
 
 def calculate_degree_centrality(G):

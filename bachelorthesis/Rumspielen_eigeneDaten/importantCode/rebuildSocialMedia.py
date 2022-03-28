@@ -9,6 +9,7 @@ from numpy import transpose
 from astropy.table import Table
 from tabulate import tabulate
 import numpy as np
+import seaborn as sns
 
 
 
@@ -17,7 +18,7 @@ import numpy as np
 def random_adjacency_matrix(n, p):
     # matrix = np.random.uniform(0.0, 0.99, size=(n, n))
     # Vorteil: ca gleich viele Knoten um 0.5
-    matrix = np.random.uniform(0, 1, size=(n, n))
+    matrix = np.random.uniform(0, 0.5, size=(n, n))
 
     # No vertex connects to itself
     for i in range(n):
@@ -79,7 +80,7 @@ def tables(degree, closeness, between):
     Gz4 = Ga3
     t = Table([Gz1, Gz2, Gz3, Gz4], names=('Nodes', 'Degree', 'closeness', 'between'))
     #print(t)
-    #print(tabulate(t, tablefmt="latex"))
+    print(tabulate(t, tablefmt="latex"))
 
 def generate_denisity(bars, centralities):
 
@@ -103,6 +104,7 @@ def generate_denisity(bars, centralities):
 # generating and showing graph
 def show_graph_with_labels(adjacency_matrices):
     # generate big graph with all individual matrices combined
+    global clq, lenght
     big_graph = unite_graphs(adjacency_matrices)
     #print(big_graph.shape)
     bars = 100
@@ -125,37 +127,35 @@ def show_graph_with_labels(adjacency_matrices):
     #axes.plot(x, p, color="darkblue", linewidth=1.5)
     #print("the distribution looks like  ", x_values)
     #degree_centralities
-    degree = calculate_degree_centrality(big_graph)
-    dist_degree, x_degree, bar_degree = generate_denisity(bars, degree)
+    degree = calculate_degree_centrality(gr_big)
     print("degree looks like", degree)
-    axes[0][0].bar(x_degree, np.array(dist_degree), bar_degree , align='edge', label="distribution")
+    sns.distplot(degree, ax = axes[0][0], bins = bars, label= 'distribution')
+    sns.rugplot(degree, clip_on = False,alpha = 0.01, height = -0.02, ax = axes[0][0])
     axes[0][0].set_title("distribution over degree-centrality")
     axes[0][0].set_ylabel("amount of nodes (total nodes = " + str(len(gr_big[0]))+")")
     axes[0][0].legend()
 
     #closness_centralities
     closeness = calculate_closness_centrality(gr_big)
-    dist_closeness, x_closeness, bar_closeness = generate_denisity(bars, closeness)
-    axes[0][1].bar(x_closeness, np.array(dist_closeness), bar_closeness , align='edge', label="distribution")
+    sns.distplot(closeness, ax=axes[0][1], bins=bars, label='distribution')
+    sns.rugplot(closeness, clip_on=False, alpha=0.01, height=-0.02, ax=axes[0][1])
     axes[0][1].set_title("distribution over closeness-centrality")
-    axes[0][1].set_ylabel("amount of nodes (total nodes = " + str(len(gr_big[0]))+")")
     axes[0][1].legend()
 
     #between_centralities
     between = calculate_between_centrality(gr_big)
-    dist_between, x_between, bar_between = generate_denisity(bars, between)
-    axes[1][0].bar(x_between, np.array(dist_between), bar_between, align='edge', label="distribution")
+    sns.distplot(between, ax=axes[1][0], bins=bars, label='distribution')
+    sns.rugplot(between, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
     axes[1][0].set_title("distribution over betweenness-centrality")
-    axes[1][0].set_ylabel("amount of nodes (total nodes = " + str(len(gr_big[0]))+")")
     axes[1][0].legend()
 
     #distribution n times degree_centralities
     eigenvector = calculate_eigenvector_centrality(gr_big)
-    dist_eigenvector, x_eigenvector, bar_eigenvector = generate_denisity(bars, eigenvector)
-    axes[1][1].bar(x_eigenvector, np.array(dist_eigenvector), bar_eigenvector, align='edge', label="distribution")
+    sns.distplot(eigenvector, ax=axes[1][1], bins=bars, label='distribution')
+    sns.rugplot(eigenvector, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
     axes[1][1].set_title("distribution over eigenvector-centrality")
-    axes[1][1].set_ylabel("amount of nodes (total nodes = " + str(len(gr_big[0]))+")")
     axes[1][1].legend()
+    plt.savefig("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/generatedPlotDensity.png")
     plt.show()
 
     d = nx.degree_centrality(gr_big)
@@ -165,10 +165,12 @@ def show_graph_with_labels(adjacency_matrices):
 
 
     i = 0
+    lenght = []
     for clq in nx.clique.find_cliques(gr_big):
         i = i + 1
-        # print(clq)
+        lenght.append(len(clq))
     print('amount of cliques', i)
+    print('biggest clique', max(lenght))
     node = int(sqrt(big_graph.size))
     print('number of nodes', node)
 
@@ -176,8 +178,13 @@ def show_graph_with_labels(adjacency_matrices):
     f = plt.figure()
     f.set_figwidth(12)
     f.set_figheight(7)
+    edge = gr_big.number_of_edges()
+    print('number of edges', edge)
+    gr_big.number_of_nodes()
     nx.draw(gr_big, pos, node_color=range(len(gr_big)), labels={node: node for node in gr_big.nodes()}, font_size=2, cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
+    plt.savefig(
+        "/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/generatedPlot.png")
     plt.show()
 
 
@@ -213,7 +220,7 @@ def unite_graphs(graphs):
                 big_graph[int(l + graph_lengths[i] + b) % dim][int(l + a)] = 1
 
     ###make sure that random connections between points exist.
-    p = 0.00005 #probability, that there is a connection between node i and j
+    p = 0.00000000000000000000001 #probability, that there is a connection between node i and j
     for i in range(len(big_graph)):
         for j in range(len(big_graph[0])):
             r = random.uniform(0,1)
@@ -256,7 +263,7 @@ def graph_appender(n):
     graphs = []
     for i in range(n):
         # groups have the size between n and 2n
-        k = random.randint(n, 2 * n)
+        k = random.randint(800, 1000)
         pr = random.uniform(0, 1)
         graphs.append(random_matrix_generator(k, pr))
 
@@ -302,8 +309,15 @@ def cluster_generator(n, prob, dense):
     return adja
 
 # help method to calculate centrality with adjacent matrix
-def calculate_degree_centrality(adja):
-    return [sum(row) / len(adja) for row in adja]
+def calculate_degree_centrality(G):
+    #return [sum(row) / len(adja) for row in adja]
+    degree = nx.degree_centrality(G)
+    listDegree = list(degree.items())
+    arrayDegree = np.array(listDegree)
+    transposed = transpose(arrayDegree)
+    degree_centrality = transposed[1]
+    #print('closeness centrality looks like', close_centrality)
+    return degree_centrality
 
 def calculate_closness_centrality(G):
 
@@ -336,9 +350,9 @@ def calculate_eigenvector_centrality(G):
     return eigenvector_centrality
 
 
-p = random.uniform(0, 1)
-graphs = graph_appender(25)
-n = random.randint(500, 1000)
-amount = random.randint(50, 100)
+#p = random.uniform(0, 1)
+graphs = graph_appender(5)
+#n = random.randint(2000, 2500)
+#amount = random.randint(2000, 2500)
 show_graph_with_labels(graphs)
 
