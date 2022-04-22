@@ -41,8 +41,8 @@ def generate_got_density(G):
     degree = calculate_degree_centrality(G)
     nodes = calculate_nodes(G)
     print("degree looks like", degree)
-    sns.distplot(degree, ax=axes[0][0], bins=bars, label='distribution')
-    sns.rugplot(degree, clip_on=False, alpha=0.01, height=-0.02, ax=axes[0][0])
+    sns.distplot(np.log(degree), ax=axes[0][0], bins=bars, label='distribution')
+    sns.rugplot(np.log(degree), clip_on=False, alpha=0.01, height=-0.02, ax=axes[0][0])
     axes[0][0].set_ylabel("amount of nodes (total nodes = " + str((len(nodes))) + ")")
     axes[0][0].set_title("distribution over degree-centrality")
     axes[0][0].legend()
@@ -59,8 +59,10 @@ def generate_got_density(G):
     # between_centralities
     between = calculate_between_centrality(G)
     print("betweenness looks like", between)
-    sns.distplot(between, ax=axes[1][0], bins=bars, label='distribution')
-    sns.rugplot(between, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
+    between = np.array(between)
+    between = between + 0.0000000000001
+    sns.distplot(np.log(between), ax=axes[1][0], bins=bars, label='distribution')
+    sns.rugplot(np.log(between), clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
     axes[1][0].set_ylabel("amount of nodes")
     axes[1][0].set_title("distribution over betweenness-centrality")
     axes[1][0].legend()
@@ -68,12 +70,14 @@ def generate_got_density(G):
     # distribution n times degree_centralities
     eigenvector = calculate_eigenvector_centrality(G)
     print("eigenvector looks like", eigenvector)
-    sns.distplot(eigenvector, ax=axes[1][1], bins=bars, label='distribution')
-    sns.rugplot(eigenvector, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
+    eigenvector = np.array(eigenvector)
+    eigenvector = eigenvector + 0.0000000000001
+    sns.distplot(np.log(eigenvector), ax=axes[1][1], bins=bars, label='distribution')
+    sns.rugplot(np.log(eigenvector), clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
     axes[1][1].set_ylabel("amount of nodes")
     axes[1][1].set_title("distribution over eigenvector-centrality")
     axes[1][1].legend()
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FBTanjaBADistribution.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/GOT-Distribution.png')
     plt.show()
 
 
@@ -83,7 +87,7 @@ def generate_got_density(G):
     #font_size = 2
     nx.draw(G, pos, node_color=range(len(G)), cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FBTanjaBAPlot.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/GOT-Plot.png')
     plt.show()
 
     Gz0 = nodes
@@ -165,7 +169,7 @@ def calculate_eigenvector_centrality(G):
     return eigenvector_centrality
 
 
-df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/CSV/facebook_combined.csv", sep=r',')
+df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/CSV/asoiaf-all-edges.csv", sep=r',')
 df.head()
 df1 = df[['Source', 'Target']]
 

@@ -18,7 +18,7 @@ import seaborn as sns
 def random_adjacency_matrix(n, p):
     # matrix = np.random.uniform(0.0, 0.99, size=(n, n))
     # Vorteil: ca gleich viele Knoten um 0.5
-    matrix = np.random.uniform(0, 0.5, size=(n, n))
+    matrix = np.random.uniform(0.5, 0.99, size=(n, n))
 
     # No vertex connects to itself
     for i in range(n):
@@ -29,7 +29,7 @@ def random_adjacency_matrix(n, p):
 
         # print("die Wkeit für die Existenz einer Verbindung lautet:", prob)
         for k in range(0, n):
-            prob = random.uniform(0, 1)
+            prob = random.uniform(0.2, 1)
             if matrix2[i][k] > prob:
                 matrix2[i][k] = 0
             else:
@@ -132,7 +132,6 @@ def show_graph_with_labels(adjacency_matrices):
     sns.distplot(degree, ax = axes[0][0], bins = bars, label= 'distribution')
     sns.rugplot(degree, clip_on = False,alpha = 0.01, height = -0.02, ax = axes[0][0])
     axes[0][0].set_title("distribution over degree-centrality")
-    axes[0][0].set_ylabel("amount of nodes (total nodes = " + str(len(gr_big[0]))+")")
     axes[0][0].legend()
 
     #closness_centralities
@@ -144,15 +143,16 @@ def show_graph_with_labels(adjacency_matrices):
 
     #between_centralities
     between = calculate_between_centrality(gr_big)
-    sns.distplot(between, ax=axes[1][0], bins=bars, label='distribution')
-    sns.rugplot(between, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
+    value = np.log(between)
+    sns.distplot(value, ax=axes[1][0], bins=bars, label='distribution')
+    sns.rugplot(value, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][0])
     axes[1][0].set_title("distribution over betweenness-centrality")
     axes[1][0].legend()
 
     #distribution n times degree_centralities
     eigenvector = calculate_eigenvector_centrality(gr_big)
-    sns.distplot(eigenvector, ax=axes[1][1], bins=bars, label='distribution')
-    sns.rugplot(eigenvector, clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
+    sns.distplot(np.log(eigenvector), ax=axes[1][1], bins=bars, label='distribution')
+    sns.rugplot(np.log(eigenvector), clip_on=False, alpha=0.01, height=-0.02, ax=axes[1][1])
     axes[1][1].set_title("distribution over eigenvector-centrality")
     axes[1][1].legend()
     plt.savefig("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/generatedPlotDensity.png")
@@ -161,6 +161,7 @@ def show_graph_with_labels(adjacency_matrices):
     d = nx.degree_centrality(gr_big)
     c = nx.closeness_centrality(gr_big)
     b = nx.betweenness_centrality(gr_big)
+    #a = nx.eigenvector_centrality(gr_big)
     tables(d, c, b)
 
 
@@ -181,7 +182,7 @@ def show_graph_with_labels(adjacency_matrices):
     edge = gr_big.number_of_edges()
     print('number of edges', edge)
     gr_big.number_of_nodes()
-    nx.draw(gr_big, pos, node_color=range(len(gr_big)), labels={node: node for node in gr_big.nodes()}, font_size=2, cmap=plt.cm.tab10,
+    nx.draw(gr_big, pos, node_color=range(len(gr_big)), font_size=2, cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
     plt.savefig(
         "/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/generatedPlot.png")
@@ -220,7 +221,7 @@ def unite_graphs(graphs):
                 big_graph[int(l + graph_lengths[i] + b) % dim][int(l + a)] = 1
 
     ###make sure that random connections between points exist.
-    p = 0.00000000000000000000001 #probability, that there is a connection between node i and j
+    p = 0.0001 #probability, that there is a connection between node i and j
     for i in range(len(big_graph)):
         for j in range(len(big_graph[0])):
             r = random.uniform(0,1)
@@ -263,8 +264,8 @@ def graph_appender(n):
     graphs = []
     for i in range(n):
         # groups have the size between n and 2n
-        k = random.randint(800, 1000)
-        pr = random.uniform(0, 1)
+        k = random.randint(100, 300)
+        pr = random.uniform(0.5, 1)
         graphs.append(random_matrix_generator(k, pr))
 
     # print('List of Graphs is', graphs)
@@ -351,7 +352,7 @@ def calculate_eigenvector_centrality(G):
 
 
 #p = random.uniform(0, 1)
-graphs = graph_appender(5)
+graphs = graph_appender(7)
 #n = random.randint(2000, 2500)
 #amount = random.randint(2000, 2500)
 show_graph_with_labels(graphs)
