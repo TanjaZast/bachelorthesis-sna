@@ -77,7 +77,7 @@ def generate_got_density(G):
     axes[1][1].set_ylabel("amount of nodes")
     axes[1][1].set_title("distribution over eigenvector-centrality")
     axes[1][1].legend()
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/GOT-Distribution.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FB-Distribution.png')
     plt.show()
 
 
@@ -87,7 +87,7 @@ def generate_got_density(G):
     #font_size = 2
     nx.draw(G, pos, node_color=range(len(G)), cmap=plt.cm.tab10,
             node_size=15, edge_color="#D4D5CE", width=0.4, linewidths=0.4)
-    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/GOT-Plot.png')
+    plt.savefig('/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/Plots/FB-Plot.png')
     plt.show()
 
     Gz0 = nodes
@@ -169,7 +169,7 @@ def calculate_eigenvector_centrality(G):
     return eigenvector_centrality
 
 
-df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/CSV/asoiaf-all-edges.csv", sep=r',')
+df = pd.read_csv("/Users/tanjazast/Desktop/Bachelorthesis/bachelorthesis-sna/bachelorthesis/CSV/facebook_combined.csv", sep=r',')
 df.head()
 df1 = df[['Source', 'Target']]
 
