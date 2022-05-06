@@ -15,7 +15,7 @@ import seaborn as sns
 
 # generate random matrices
 
-def random_adjacency_matrix(n, p):
+def random_adjacency_matrix(n):
     # matrix = np.random.uniform(0.0, 0.99, size=(n, n))
     # Vorteil: ca gleich viele Knoten um 0.5
     matrix = np.random.uniform(0.5, 0.99, size=(n, n))
