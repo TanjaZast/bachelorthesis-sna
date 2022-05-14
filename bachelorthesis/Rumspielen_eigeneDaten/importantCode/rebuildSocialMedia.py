@@ -215,6 +215,8 @@ def unite_graphs(graphs):
                 graph = graphs[i]
 
                 l = sum(graph_lengths[:i])
+                #Teilgraphen werden hier in big_graph eingefügt
+                #die zwei letzten Zeilen stellen die Verbindung untereinander dar
                 big_graph[int(l + j)][int(l + k)] = graph[j][k]
                 big_graph[int(l + k)][int(l + j)] = graph[k][j]
                 big_graph[int(l + a)][int(l + graph_lengths[i] + b) % dim] = 1
