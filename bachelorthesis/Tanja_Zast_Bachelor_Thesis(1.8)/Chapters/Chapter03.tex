@@ -33,6 +33,7 @@ Netzwerken beträgt dieses Verhältnis etwa 6 oder weniger. Es kann also mehrere
 Zentralität geben, obwohl sie bei der Informationsverbreitung unterschiedliche Rollen spielen können. Daher ist die \textit{Nähe-Zentralität} besser geeignet für räumliche Netze, bei denen die Abstände zwischen den Knoten größer sind als in zufälligen Netzen mit der gleichen Anzahl von
 Knoten und Verbindungen \cite{SpringerElbert}.\\
 
+\newpage
 Die \textit{Betweenness-} oder \textit{Zwischen-Zentralität} hingegen misst, wie wichtig ein Knoten für die kürzesten Pfade durch das Netz ist. Um diese Zentralität für einen Knoten $N$ zu berechnen, wird in dieser Methode eine Gruppe von Knoten ausgewählt und alle kürzesten Wege zwischen diesen Knoten gesucht. Dann wird der Anteil dieser kürzesten Wege berechnet, die den Knoten $N$ einschließen. Wenn es beispielsweise 7 kürzeste Wege zwischen einem Knotenpaar gibt und 5 davon durch den Knoten N führen, dann wäre der Anteil $5/7=0.714$. Dieser Vorgang wird für jedes Knotenpaar im Netz wiederholt. Anschließend werden die berechneten Brüche addiert, wodurch die \textit{Zwischen-Zentralität} des Knotens $N$ generiert wird. Mathematisch formuliert sieht die Formel dann wie folgt aus: 
 \begin{equation}
      B_i &= \sum_{(a-b)}\frac{\eta(a,i,b)}{\eta(a,b)}
