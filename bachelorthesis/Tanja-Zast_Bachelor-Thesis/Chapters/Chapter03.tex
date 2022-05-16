@@ -4,7 +4,7 @@
 In komplexen Netzwerken können einige Knoten als wichtiger angesehen werden als andere. In einem sozialen Netzwerken zeichnen sich wichtige Knoten durch vergleichsweise mehr Verbindungen als andere Knoten aus. Auf das Beispiel \textit{Instagram} bezogen, können solche Knoten Informationen gut verbreiten, sogenannte Influencer. Daher werden diese Knotenpunkte als zentral oder sozial wichtig interpretiert. Die Interpretation der Zentralität ist jedoch nicht eindeutig \cite{GOLBECK201325}. Zum Beispiel im Linienverkehr,
 gilt eine Linie als zentral, wenn sie von großen Menschenmengen genutzt und stärker frequentiert wird,
 als andere Linien. Die Definition der Zentralität ist also nicht allgemein und hängt von der Anwendung ab. Da es keine allgemeine Definition von Zentralität gibt, wurden mehrere Maße entwickelt, die jeweils spezifische Konzepte berücksichtigen.
-Die Zentralität ist deshalb eine Schlüsseleigenschaft komplexer Netzwerke. Sie kann unter anderem das Verhalten dynamischer Prozesse wie beispielsweise eine epidemische Ausbreitung erklären, modellieren und abschätzen, jedoch nicht beschreiben, da es oftmals schwierig ist exakte Aussagen zu tätigen, wenn unbekannte Faktoren in den Datensätzen enthalten sind. \cite{SpringerElbert}. Zudem kann die Zentralität Informationen über die Organisation komplexer Systeme und unsere Gesellschaft liefern. Es gibt viele Metriken zur Quantifizierung der Knotenzentralität in Netzwerken \cite{francisco}.
+Die Zentralität ist deshalb eine Schlüsselkriterium komplexer Netzwerke. Sie kann unter anderem das Verhalten dynamischer Prozesse wie beispielsweise eine epidemische Ausbreitung erklären, modellieren und abschätzen, jedoch nicht beschreiben, da es oftmals schwierig ist exakte Aussagen zu tätigen, wenn unbekannte Faktoren in den Datensätzen enthalten sind. \cite{SpringerElbert}. Zudem kann die Zentralität Informationen über die Organisation komplexer Systeme und unsere Gesellschaft liefern. Es gibt viele Metriken zur Quantifizierung der Knotenzentralität in Netzwerken \cite{francisco}.
 
 \section{Zentralitäten}
 \label{ch:Zentralitaeten}
@@ -65,7 +65,7 @@ Dieser Eigenvektor kann dann direkt als Zentralitätsmaß dienen. Da $A$ die Adj
 
 \section{Cliquen und Brücken}
 \label{ch:CliquenBrücken}
-Eine Clique ist laut Definition ein Teilgraph, aus mindestens drei Knoten bestehend, die zudem alle benachbart zueinander sind. Streng bezeichnet handelt es sich bei einer Clique um eine zusammenhängende Untergruppe. Eine Clique kann ebenso als Ansammlung von Akteuren gesehen werden, die sich gegenseitig wählen, jedoch wählt kein anderer Akteur dieser Gruppe weitere Akteure aus weiteren Gruppen und wird auch nicht von anderen Akteuren gewählt. Es ist zu beachten, dass sich Cliquen in einem Graphen auch überlappen können, also derselbe Satz von Knoten zu mehr als nur einer Clique gehören kann. Zu beachten ist, dass eine vollständige Clique nicht in einer anderen Clique enthalten sein kann, denn sonst wäre die kleinere Clique nicht mehr maximal. Die Cliquendefinition ist vor allem nützlich, für die Untersuchung der Eigenschaften einer Untergruppe beziehungsweise eines Subgraphen \cite{wasserman1994social}. Was genau damit gemeint ist, ist in folgendem Plot zu sehen: 
+Eine Clique ist laut Definition ein Teilgraph, aus mindestens drei Knoten bestehend, die zudem alle benachbart zueinander sind. Streng bezeichnet handelt es sich bei einer Clique um eine zusammenhängende Untergruppe. Eine Clique kann ebenso als Ansammlung von Akteuren gesehen werden, die sich gegenseitig wählen, jedoch wählt kein anderer Akteur dieser Gruppe weitere Akteure aus weiteren Gruppen und wird auch nicht von anderen Akteuren gewählt. Es ist zu beachten, dass sich Cliquen in einem Graphen auch überlappen können, also derselbe Satz von Knoten zu mehr als nur einer Clique gehören kann. Zu beachten ist, dass eine vollständige Clique nicht in einer anderen Clique enthalten sein kann, denn sonst wäre die kleinere Clique nicht mehr maximal. Die Cliquendefinition ist vor allem nützlich, für die Untersuchung der Kriterien einer Untergruppe beziehungsweise eines Subgraphen \cite{wasserman1994social}. Was genau damit gemeint ist, ist in folgendem Plot zu sehen: 
 \FloatBarrier
 \begin{figure}[htb!]
     \centering
@@ -115,51 +115,54 @@ Hierbei ist gut zu erkennen, dass die drei Subgraphen durch \textit{Brücken} mi
 Direkt fällt auf, dass die Werte spaltenweise sehr ähnlich zueinander sind. Bei der \textit{Gradzentralität} sind die Knoten \textbf{3} und \textbf{1} mit einem Wert von \textbf{0.5} und \textbf{0.4} am höchsten. Interessant, denn dabei handelt es sich um die Knoten, die unsere \textit{Brücke} bilden. Bei den Knoten \textbf{3} und \textbf{1} fällt des weiteren auf, dass diese Knoten bei der \textit{Nähe-}, \textit{Zwischen-} und \textit{Eigenvektor-Zentralität} ebenfalls am höchsten sind. Das heißt, die Vermutung liegt nahe, dass die Knoten eines Graphen, die Cliquen bilden, relativ ähnliche \textit{Zentralitätswerte} aufweisen beziehungsweise die Varianzen geringer sind. Aber vor allem erwähnenswert ist, dass in der Tabelle \ref{table:TableCliqueBridg} lediglich bei den Knoten, welche die \textit{Brücke} bilden, Werte ungleich \textit{Null} in der Spalte \textit{Betweeness-Zentr.} auffindbar sind. Dies sollte für den weiteren Teil der Arbeit in Erinnerung bleiben. 
 
 
-\section{Soziale Netzwerk-Eigenschaften}
+\section{Soziale Netzwerk-Kriterien}
 \label{ch:eigenschaftenTabelle}
-Die wichtigsten Eigenschaften eines sozialen Netzwerks sind die folgenden: 
+Die wichtigsten Kriterien eines sozialen Netzwerks sind die folgenden: 
 \begin{table}[h!]
 \footnotesize
-\caption{Eigenschaften eines sozialen Netzwerks}
+\caption{Kriterien eines sozialen Netzwerks}
 \label{TableEigenschaften}
 %\centering
 \begin{tabular}{lcc}\toprule 
-\textbf{Eigenschaft} &\textbf{Beschreibung} \\
+\textbf{Kriterium} &\textbf{Beschreibung} \\
  &\\\midrule
- \\
-  \textbf{Cluster} & Ein soziales Netzwerk sollte aus mehreren Cluster oder Subgraphen \\ &bestehen. Diese können in ihrer Größe und Anzahl stark variieren   \\
-  \\
-  \textbf{Brücke} & Die einzelnen Cluster sind über Brücken miteinander verbunden \\
-  \\
-  \textbf{Clique} & In den Cluster sollten Cliquen vorzufinden sein, d.h mindestens \\
-  & drei Knoten existieren die untereinander alle miteinander verbunden sind \\
-  \\
-  \textbf{Grad-Zentralität} &  Die einzelnen Knoten der Cluster sollten unterschiedliche Grad-\\
+  \textbf{Kriterium 1} & Ein soziales Netzwerk sollte aus mehreren Cluster bestehen. \\
+  &Diese können in ihrer Größe und Anzahl stark variieren.   \\
+  & In den Cluster sollen die Personen zudem stark miteinander vernetzt sein. 
+  \\\midrule
+  \textbf{Kriterium 2} & Die einzelnen Cluster sind über Brücken miteinander verbunden. Dabei \\
+  & sind die Brücken deutlich weniger dicht als die Verbindungen in den Cluster. 
+  \\\midrule
+  \textbf{Kriterium 3} & In den Cluster sollten Cliquen vorzufinden sein, d.h es sollen mindestens \\
+  & drei Knoten existieren die jeweils alle miteinander verbunden sind 
+  \\\midrule
+  \textbf{Kriterium 4} &  Die einzelnen Knoten der Cluster sollten unterschiedliche Grad-\\
   & Zentralitäten haben. Hohe Zentralitäten bedeuten, dass es sich \\
-  & um wichtige Knoten handelt, niedrige Werte, dass es weniger \\ 
+  & um wichtige Knoten handelt und niedrige Werte, dass es weniger \\ 
   & wichtige Knoten sind. Wichtig ist jedoch, dass es nicht aus-\\
-  & schließlich wichtige oder ausschließlich unwichtige Knoten gibt.  \\
-  \\
-  \textbf{Nähe-Zentralität} & Auch hier sollen die Knoten im Cluster unterschiedliche Wert \\
-  & aufweisen. Hohe Werte bedeuten, die Knoten sind nah bei- \\
-  & einander, haben kurze Wege zueinander. Niedrige Werte \\
-  & bedeuten, dass die Knoten weite Entfernungen zueinander haben.\\
-  \\
-  \textbf{Zwichen-Zentralität} & Hier wird die Wichtigkeit der Nachbar-Knoten in Relation \\
-  & bewertet. Hohe Werte bedeuten, dass diese Knoten oft \\
-  &für den kürzesten Weg verwendet werden. Niedrige Werte, \\
-  & dass diese Knoten nicht für die kürzesten Wege relevant sind.\\
+  & schließlich wichtige oder ausschließlich unwichtige Knoten gibt.  
+  \\\midrule
+  \textbf{Kriterium 5} & Auch bei der Nähe-Zentralität sollen die Knoten im Cluster unterschiedliche \\ 
+  & Werte aufweisen. Hohe Werte bedeuten, dass die Knoten nah beieinander sind, \\
+  & also kurze Wege zueinander haben. Niedrige Werte hingegen \\
+  & bedeuten, dass die Knoten weite Entfernungen zueinander haben.
+  \\\midrule
+  \textbf{Kriterium 6} & Bei der Zwischen-Zentralität wird die Wichtigkeit der Nachbar-Knoten in \\ 
+  & Relation bewertet. Hohe Werte bedeuten, dass diese Knoten oft für den \\
+  & kürzesten Weg verwendet werden. Niedrige Werte, dass diese Knoten \\ 
+  & nicht für die kürzesten Wege relevant sind. Wichtig ist erneut, \\
+  & dass die Knoten der Cluster unterschiedliche Werte aufweisen.
   
   \\\bottomrule
  \end{tabular}
  \end{table}
-Natürlich gibt es deutlich mehr Faktoren als die in Tabelle \ref{TableEigenschaften} dargestellten. Jedoch sind diese die primären Eigenschaften, welche in dieser Arbeit berücksichtigt werden.
-Nun sind die wichtigsten Eigenschaften der, in dieser Arbeit betrachteten und verwendeten, Metriken wie Clique, Größe oder Brücken bekannt und eingeführt. Manche Zentralitäten wurden oberflächlicher erklärt als andere, weil sie weniger relevant für die Untersuchung der sozialen Netzwerke sind. In Zukunft wird in dieser Arbeit bei \textit{typischen Eigenschaften} von Netzwerken stets auf Tabelle \ref{ch:eigenschaftenTabelle} verwiesen.
+Natürlich gibt es deutlich mehr Faktoren als die in Tabelle \ref{TableEigenschaften} dargestellten. Jedoch sind diese die primären Kriterien, welche in dieser Arbeit berücksichtigt werden.
+Nun sind die wichtigsten Kriterien der, in dieser Arbeit betrachteten und verwendeten, Metriken wie Clique, Größe oder Brücken bekannt und eingeführt. Manche Zentralitäten wurden oberflächlicher erklärt als andere, weil sie weniger relevant für die Untersuchung der sozialen Netzwerke sind. In Zukunft wird in dieser Arbeit bei \textit{typischen Kriterien} von Netzwerken stets auf Tabelle \ref{ch:eigenschaftenTabelle} verwiesen.
 
 \newpage
 \section{Ein typisches soziales Netzwerk}
-Nachdem nun alle Zentralitäten, deren Berechnungen und weitere wichtige Eigenschaften von sozialen Netzwerken bekannt sind, ist es an der Zeit ein Musterbeispiel für ein soziales Netzwerk zu betrachten. Das bekannteste Netzwerk ist natürlich Facebook. Bei dieser sozialen Plattform ist die geeignetste Darstellung ein \textit{ungerichteter} Graph. Bei Instagram hingegen, ein \textit{gerichtet} Graph. Denn hier gibt es neben Leuten, denen wir folgen, die eigenen Follower \cite{fbInsta}. Die Knoten sind sogenannte \textit{Nutzer} und die \textit{Kanten} sind Verbindungen zwischen ihnen. Zu beachten ist, dass sowohl \textit{Knoten} als auch \textit{Kanten} Attribute zugewiesen werden können. Knotenattribute in Facebook können zum Beispiel \textit{Geschlecht}, \textit{Ort}, \textit{Alter} usw. sein, und Kantenattribute können \textit{Datum der letzten Unterhaltung zwischen zwei Knoten}, \textit{Anzahl der Likes}, \textit{Datum der Verbindung} usw. sein \cite{GOT}.
-Im folgenden wird ein, auf den ersten Blick und nach den Eigenschaften von \\ 
+Nachdem nun alle Zentralitäten, deren Berechnungen und weitere wichtige Kriterien von sozialen Netzwerken bekannt sind, ist es an der Zeit ein Musterbeispiel für ein soziales Netzwerk zu betrachten. Das bekannteste Netzwerk ist natürlich Facebook. Bei dieser sozialen Plattform ist die geeignetste Darstellung ein \textit{ungerichteter} Graph. Bei Instagram hingegen, ein \textit{gerichtet} Graph. Denn hier gibt es neben Leuten, denen wir folgen, die eigenen Follower \cite{fbInsta}. Die Knoten sind sogenannte \textit{Nutzer} und die \textit{Kanten} sind Verbindungen zwischen ihnen. Zu beachten ist, dass sowohl \textit{Knoten} als auch \textit{Kanten} Attribute zugewiesen werden können. Knotenattribute in Facebook können zum Beispiel \textit{Geschlecht}, \textit{Ort}, \textit{Alter} usw. sein, und Kantenattribute können \textit{Datum der letzten Unterhaltung zwischen zwei Knoten}, \textit{Anzahl der Likes}, \textit{Datum der Verbindung} usw. sein \cite{GOT}.
+Im folgenden wird ein, auf den ersten Blick und nach den Kriterien von \\ 
 Tabelle \ref{ch:eigenschaftenTabelle} typisch erscheinendes, soziales Netzwerk betrachtet. Es muss jedoch stets klar sein, dass es sich hierbei um den Datensatz eines fiktiven Fantasy Drama handelt \cite{GOT} und es daher zu Unstimmigkeiten bei den Ergebnissen und der Analyse kommen kann.
 
 \FloatBarrier
@@ -181,11 +184,11 @@ In dieser \textit{sozialen Netzwerk Analyse} tauchen auch bisher unbekannte Mess
 \begin{tabular}{lccccc}\toprule 
 \textbf{Charakter} &\textbf{Grad-Zentr.} & \textbf{Charakter} &\textbf{Nähe-Zentr.}  & \textbf{Charakter} &\textbf{Betweeness-Zentr.} \\
  &\\\midrule
-  Tyrion Lannister & 0.1535  & Tyrion Lannister & 0.4763 & Jon Snow& 0.1921   \\
-  Jon Snow & 0.1434 & Robert Baratheon & 0.4593 & Tyrion Lannister & 0.1622   \\
-  Jaime Lannister & 0.1270  & Eddard Stark& 0.4558& Daenerys Targaryen & 0.1184   \\
-  Cersei Lannister & 0.1220 & Cersei Lannister & 0.4545 & Theon Greyjoy & 0.1113   \\
-  Stannis Baratheon & 0.1119 & Jaime Lannister & 0.4520 & Stannis Baratheon & 0.1101   \\
+  Tyrion Lannister & 0.1535  & Tyrion Lannister & 0.4763 & Jon Snow& 0.1921   \\\midrule
+  Jon Snow & 0.1434 & Robert Baratheon & 0.4593 & Tyrion Lannister & 0.1622   \\\midrule
+  Jaime Lannister & 0.1270  & Eddard Stark& 0.4558& Daenerys Targaryen & 0.1184   \\\midrule
+  Cersei Lannister & 0.1220 & Cersei Lannister & 0.4545 & Theon Greyjoy & 0.1113   \\\midrule
+  Stannis Baratheon & 0.1119 & Jaime Lannister & 0.4520 & Stannis Baratheon & 0.1101 
        
   \\\bottomrule
  \end{tabular}
