@@ -54,14 +54,20 @@
 \end{frame}
 
 % 1. Folie
-\section{Fragestellung und Hintergrund}
+\section{Fragestellung und Zielsetzung}
 \begin{frame}
-  \frametitle{Fragestellung}
+  \frametitle{Fragestellung und Zielsetzung}
 \vspace{-2.6cm}
 \vspace{1.0cm}
-Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen?
+\begin{itemize}
+    \item Wie ist ein soziales Netzwerk definiert und wie kann eine Analyse des Netzwerks aussehen?
+    \item Generator für soziale Netzwerke erstellen, welcher selbst
+    generierte oder vorgegebene Testdaten visuell darstellt 
+    \item automatisch einige Methoden zur Analyse durchführen
+\end{itemize}
 
-\vspace{0.5cm}
+
+\vspace{0.2cm}
 
 \end{frame}
 
@@ -115,9 +121,6 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \vspace{-2.6cm}
 \vspace{2.0cm}
 \begin{itemize}
-    \item Cluster
-    \item Brücken
-    \item Cliquen
     \item Grad-Zentralität:
     $k_i &= \sum_{j=1}^{N} A_i_j$
     \item Nähe-Zentralität:
@@ -126,6 +129,9 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
     $B_i &= \sum_{(a-b)}\frac{\eta(a,i,b)}{\eta(a,b)}$
     \item Eigenvektor-Zentralität:
     $ c(v_i) = \sum_{j=1}^{N}a_{ij}c(v_j)$
+    \item Cluster
+    \item Brücken
+    \item Cliquen
 
 \end{itemize}
 
@@ -157,7 +163,24 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \vspace{2.0cm}
   \begin{figure}
   \centering
-    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/Algo1.PNG}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster1.jpg}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster2.jpg}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster3.jpg}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster4.jpg}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster5.jpg}
+    \includegraphics[width=0.32\textwidth]{praes_inginform_rot/Cluster6.jpg}
+    \caption{\tiny{Quelle: selbst erstellte Plots}}
+    \label{fig:my_label}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+ %\frametitle{Implementierung}
+\vspace{-2.6cm}
+\vspace{2.0cm}
+  \begin{figure}
+  \centering
+    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/NearSocialNetwork.jpg}
     \caption{\tiny{Quelle: Bachelor-Arbeit (Stand 08.06.2022)}}
     \label{fig:my_label}
 \end{figure}
@@ -169,7 +192,7 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \vspace{2.0cm}
   \begin{figure}
   \centering
-    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/Algo2.PNG}
+    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/Random_moreConnections.jpg}
     \caption{\tiny{Quelle: Bachelor-Arbeit (Stand 08.06.2022)}}
     \label{fig:my_label}
 \end{figure}
@@ -181,19 +204,7 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \vspace{2.0cm}
   \begin{figure}
   \centering
-    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/Algo3.PNG}
-    \caption{\tiny{Quelle: Bachelor-Arbeit (Stand 08.06.2022)}}
-    \label{fig:my_label}
-\end{figure}
-\end{frame}
-
-\begin{frame}
- %\frametitle{Implementierung}
-\vspace{-2.6cm}
-\vspace{2.0cm}
-  \begin{figure}
-  \centering
-    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/Algo4.PNG}
+    \includegraphics[width=1.0\textwidth]{praes_inginform_rot/newourSN.png}
     \caption{\tiny{Quelle: Bachelor-Arbeit (Stand 08.06.2022)}}
     \label{fig:my_label}
 \end{figure}
@@ -211,38 +222,6 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
   \caption{Zufälliges soziales Netzwerk und Verteilungen(Quelle: Bachelor-Arbeit)}
   \label{fig:distributionALL}
 \end{figure}
-  
-
-\end{frame}
-
-% 5. Folie
-\section{Ausblick / Optimierung}
-\begin{frame}
-  \frametitle{Ausblick / Optimierung}
-\begin{itemize}
-    \item Vergleich zu weiteren sozialen Netzwerken
-    \item Optimierungen im Code
-    \item Verteilungen genauer analysieren
-    \item weitere Eigenschaften untersuchen
-
-\end{itemize}
-\vspace{-2.6cm}
-\vspace{2.0cm}
-\end{frame}
-
-
-\section{Fazit und Fragen}
-\begin{frame}
-  \frametitle{Fazit und Fragen}
-\vspace{-2.6cm}
-\vspace{2.5cm}
-  \begin{figure}
-  \hspace{4cm}
-  \includegraphics[width=1.0\textwidth]{praes_inginform_rot/End.jpg}
- % \caption{Quelle: Bachelor-Arbeit}
-  \label{fig:distributionALL}
-\end{figure}
-
 \end{frame}
 
 \begin{frame}
@@ -282,6 +261,51 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \end{frame}
 
 \begin{frame}
+  \frametitle{Optimierung des Generators}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=0.6\textwidth]{praes_inginform_rot/generatedPlotFinal.png}
+  \includegraphics[width=0.45\textwidth]{praes_inginform_rot/generatedPlotDensity.png}
+  \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+\end{frame}
+
+
+
+% 5. Folie
+\section{Auswertung}
+\begin{frame}
+  \frametitle{Auswertung}
+\begin{itemize}
+    \item Optimierungen im Code
+    \item Vergleich zu weiteren sozialen Netzwerken
+    \item Verteilungen genauer analysieren
+    \item weitere Eigenschaften untersuchen
+
+\end{itemize}
+\vspace{-1.6cm}
+\vspace{2.0cm}
+\end{frame}
+
+
+\section{Fazit und Fragen}
+\begin{frame}
+  \frametitle{Fazit und Fragen}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=1.0\textwidth]{praes_inginform_rot/End.jpg}
+ % \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}
   \frametitle{Game Of Thrones Netzwerk}
 \vspace{-2.6cm}
 \vspace{2.5cm}
@@ -294,7 +318,7 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \end{frame}
 
 \begin{frame}
-  %\frametitle{Bestehende soziale Netzwerke}
+  \frametitle{Verteilung GOT Netzwerk}
 \vspace{-2.6cm}
 \vspace{2.5cm}
   \begin{figure}
@@ -318,12 +342,60 @@ Was ist ein soziales Netzwerk und welche Kernfaktoren können dieses Auszeichnen
 \end{frame}
 
 \begin{frame}
-  %\frametitle{Bestehende soziale Netzwerke}
+  \frametitle{Verteilung selbst generierte Netzwerk}
 \vspace{-2.6cm}
 \vspace{2.5cm}
   \begin{figure}
   \hspace{4cm}
   \includegraphics[width=0.75\textwidth]{praes_inginform_rot/newOurDist.png}
+  \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Pseudo Code}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=0.75\textwidth]{praes_inginform_rot/Algo1.PNG}
+  \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Pseudo Code}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=0.75\textwidth]{praes_inginform_rot/Algo2.PNG}
+  \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Pseudo Code}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=0.75\textwidth]{praes_inginform_rot/Algo3.PNG}
+  \caption{Quelle: Bachelor-Arbeit}
+  \label{fig:distributionALL}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Pseudo Code}
+\vspace{-2.6cm}
+\vspace{2.5cm}
+  \begin{figure}
+  \hspace{4cm}
+  \includegraphics[width=0.75\textwidth]{praes_inginform_rot/Algo4.PNG}
   \caption{Quelle: Bachelor-Arbeit}
   \label{fig:distributionALL}
 \end{figure}
